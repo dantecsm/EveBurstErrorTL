@@ -46,7 +46,7 @@ export async function decompressCC(inputPath: string, outputPath: string): Promi
 
     // 调用 lzss-tool 解压
     const decompressProcess = Bun.spawn({
-      cmd: [LZSS_TOOL, "-d", "-a", "o4", tempCompressed, tempDecompressed],
+      cmd: [LZSS_TOOL, "-d", "-a", "o4", "-n", "0x00", "-R", "0x01", tempCompressed, tempDecompressed],
       stdout: "inherit",
       stderr: "inherit",
     });

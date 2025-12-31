@@ -9,8 +9,5 @@
 压缩：对于解压脚本，跳过前 0x14 个字节，然后把剩余字节用下面的 lsss-tool 方式压缩，再把前 0x14 字节和压缩后的数据拼接起来。
 
 解压命令
-./src/utils/lzss-tool -d -a o4 "test.CC" "test_de.CC"
-./src/utils/lzss-tool -e -a o4 "test_de.CC" "test_co.CC"
-
 ./src/utils/lzss-tool.exe -d -a o4 -n 0x00 -R 0x01 "0test.CC" "1test_de.CC"
 ./src/utils/lzss-tool.exe -e -n 0x00 -R 0x01 "1test_de.CC" "1test.CC"

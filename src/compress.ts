@@ -46,7 +46,7 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
 
     // 调用 lzss-tool 压缩
     const compressProcess = Bun.spawn({
-      cmd: [LZSS_TOOL, "-e", tempUncompressed, tempCompressed],
+      cmd: [LZSS_TOOL, "-e", "-n", "0x00", "-R", "0x01", tempUncompressed, tempCompressed],
       stdout: "inherit",
       stderr: "inherit",
     });

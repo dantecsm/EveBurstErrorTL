@@ -186,10 +186,10 @@ b06
 [Man] I'm sorry.
 [Kojiroh] Hey Nerdo, you're such an idiot.
 [Nikaido] It is Nikaido. What the hell do you want?\You have no business here anymore.
-@Look/Investigate
-@Move
-@Speak
-@Talk to myself
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Talk to myself
 [Kojiroh] No one will listen to me if I talk to\myself, you know...
 [Kojiroh] Where did everyone go...?
 [Kojiroh] Yayooiii!
@@ -199,10 +199,10 @@ b06
 [Kojiroh] Hellooooo!!
 [Kojiroh] ...
 [Kojiroh] Looks like no one's here...
-@Surroundings
-@Desk
-@Heater
-@Copier
+ã€€Surroundings
+ã€€Desk
+ã€€Heater
+ã€€Copier
 [Kojiroh] No one's here...
 [Kojiroh] I wonder what's going on.
 [Kojiroh] Could she be in the bathroom?
@@ -226,16 +226,16 @@ I open the door.
 [Kojiroh] It's even clean around the copy machine\area.
 [Kojiroh] The copier is turned off...
 [Kojiroh] What happened to that guy who is always\making copies...?
-@Go outside
+ã€€Go outside
 [Kojiroh] Yeah, Yayoi's not here anyway...
 [Kojiroh] Besides, this office bugs me...
 a003
-@Look/Investigate
-@Move
-@Speak
-@Man at desk
-@Man at copier
-@Keiko
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Man at desk
+ã€€Man at copier
+ã€€Keiko
 [Man at desk] See how I'm organizing these vouchers\here...?
 [Man at desk] ...Please, keep this a secret from\the Chief.
 [Man at desk] ...
@@ -256,10 +256,10 @@ a003
 [Keiko] We're not discussing anything strange, you\know... God...
 [Keiko] ...
 [Keiko] ...Please, don't tell the Chief about any\of this.
-@Surroundings
-@Employees
-@Heater
-@Round table
+ã€€Surroundings
+ã€€Employees
+ã€€Heater
+ã€€Round table
 [Kojiroh] Yayoi went out somewhere... She's not\here.
 [Kojiroh] That Nikaido guy isn't here either. I\wonder how long can he runs...
 [Kojiroh] Night or day, the Katsuragi Private\Detective Offices never change.
@@ -273,15 +273,15 @@ a003
 [Kojiroh] What a boring table... They should get\rid of this thing.
 [Kojiroh] It must be where the employees hang out\during breaks.
 [Kojiroh] But no one looks ready to take a break\yet.
-@Go outside
+ã€€Go outside
 [Kojiroh] Let's go outside... This place is too\twisted right now.
 [Man at copier] Have a nice day, Mr. Amagi.
 [Kojiroh] ...
 a003
-@Look/Investigate
-@Move
-@Speak
-@Yayoi
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Yayoi
 [Yayoi] Sorry, Kojiroh... I don't have time to talk\anymore.
 [Kojiroh] Yeah, you look pretty busy.
 [Yayoi] Feel free to ask if you need anything...
@@ -356,10 +356,10 @@ I take the paper.
 [Kojiroh] But you haven't been getting any sleep\lately, have you?
 [Yayoi] I run this place... If it means I don't\sleep, I don't sleep.
 [Kojiroh] ...
-@Surroundings
-@Yayoi
-@Cigarette
-@Tits
+ã€€Surroundings
+ã€€Yayoi
+ã€€Cigarette
+ã€€Tits
 [Yayoi] Can't you see how busy I am?
 [Kojiroh] I think I can imagine what it's like...
 [Yayoi] Do you know why I'm so busy? I've been\dealing with the media since this morning, then all\the clients' complaints...
@@ -377,8 +377,8 @@ I take the paper.
 [Kojiroh] (Let's stop this now.)
 [Kojiroh] (Her tits are flawless... Flawless.)
 [Kojiroh] (But now is not the time to look at\them...)
-@Go outside
-@On the desk
+ã€€Go outside
+ã€€On the desk
 [Kojiroh] Well, I'll get going.
 [Yayoi] Kojiroh...
 [Kojiroh] If I speak to Nikaido, I'll tell him to\turn himself in.
@@ -396,19 +396,19 @@ a003
 [Kojiroh] Okay, let's do the Lambada on top of the\desk.
 [Yayoi] Yeah, whatever.
 [Kojiroh] (Holy shit... This is serious. She's not\getting mad.)
-@Look/Investigate
-@Move
-@Speak
-@Attack
-@Yayoi
-@Chair
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Attack
+ã€€Yayoi
+ã€€Chair
 [Kojiroh] (No, let's not do this.)
 [Kojiroh] (Come on! Enough of this!)
 [Kojiroh] (Are you aware of what Yayoi was just\doing?)
 [Kojiroh] (What good will it do to attack the\chair?)
 [Kojiroh] (I'm so sexually frustrated, I even went\for the chair...)
 [Kojiroh] (Dammit... My emotional state isn't very\stable right now.)
-@Yayoi
+ã€€Yayoi
 [Yayoi] No, you can't help us out.
 [Kojiroh] I know... I don't know what I was\thinking.
 [Yayoi] What are you up to these days?
@@ -476,10 +476,10 @@ a003
 [Kojiroh] Oh...
 [Kojiroh] (If that's the decision she made, then\there's nothing I can do.)
 [Kojiroh] (This is ridiculous... Let's stop.)
-@Surroundings
-@Yayoi
-@Tits
-@Thighs
+ã€€Surroundings
+ã€€Yayoi
+ã€€Tits
+ã€€Thighs
 [Kojiroh] (I think we're the only ones here...)
 [Kojiroh] Hey, the picture's on the ground...
 [Yayoi] What...?
@@ -505,7 +505,7 @@ a003
 [Kojiroh] (Yayoi's thighs... I can't tell you how\many times I had those wrapped around my head.)
 [Kojiroh] (And just until now, they were around\that Nikaido...)
 [Kojiroh] (Shit... What the hell's happening to\me!?!)
-@Go outside
+ã€€Go outside
 [Yayoi] Are you leaving already?
 [Kojiroh] yeah.
 [Yayoi] Kojiroh...
@@ -522,93 +522,93 @@ Then I hear a voice...
 [Kojiroh] (Is it...Yayoi?)
 0135
 eve_52
-y¬Ÿ˜YzIIIIHHHH3
+ã€å°æ¬¡éƒã€‘ï¼ï¼ï¼ï¼ï¼Ÿï¼Ÿï¼Ÿï¼Ÿ3
 \ 
-y¬Ÿ˜Yzi‚ÉA“ñŠK“°‚Ædd–í¶IHj
+ã€å°æ¬¡éƒã€‘ï¼ˆã«ã€äºŒéšå ‚ã¨â€¥â€¥å¼¥ç”Ÿï¼ï¼Ÿï¼‰
 eve_40
-y“ñŠK“°zŠ’·ddB
-y–í¶z‚âA‚â‚ß‚é‚ñ‚¾A“ñŠK“°ƒNƒ“ddB
-y“ñŠK“°z‚¢‚¢‚¦A‚â‚ß‚Ü‚¹‚ñB–l‚Ì‹C‚¿‚Í’m‚Á‚Ä‚é‚Í‚¸‚Å‚·B
-y–í¶z‚»A‚»‚ê‚ÍddB
-y“ñŠK“°zˆá‚¤‚ñ‚Å‚·‚©H
-y–í¶zŒN‚Ì‹C‚¿‚ÍA‚»‚ÌA•ª‚©‚Á‚Ä‚¢‚édd‚Â‚à‚è‚¾B
-y“ñŠK“°z‚¾‚Á‚½‚çB
-y–í¶z‚Å‚àddB
-y“ñŠK“°zddddB
-y–í¶zddddB
-y“ñŠK“°zŠ’·A‚Ü‚¾‚ ‚ñ‚Èƒ„ƒc‚Ì‚±‚Æ‚ğH
-y–í¶zddddB
-y“ñŠK“°z‚ ‚¢‚Â‚ÍA‚ ‚È‚½‚Ì‚¨•ƒ‚³‚ñ‚ğ‘ß•ß‚³‚¹AŸè‚É‘ŞĞ‚µA‚±‚Ì––±Š‚ğ•ö‰ó‚³‚¹‚©‚¯‚½’£–{l‚Å‚·‚æI
-y–í¶z‚»‚¤dd‚¾‚Á‚½‚ÈB
-y“ñŠK“°z‚¨‚Ü‚¯‚É¡‰ñ‚ÍA–l‚Ì“dqè’ ‚ğ”²‚«æ‚èA’†‚Ìƒf[ƒ^‚ğ“‚İŒ©‚ÄAŠG‰æ‚ğ‘{‚µo‚µ‚½”Ú—ò‚Èƒ„ƒc‚Å‚·‚ÁB
-y–í¶zddddB
-y“ñŠK“°z‚ ‚¢‚Â‚ÍA‚±‚Ì––±Š‚ğƒcƒu‚µ‚½‚ª‚Á‚Ä‚é‚ñ‚Å‚·‚æ‚ÁB
-y–í¶z‚à‚¤A‚â‚ß‚Ä‚­‚êddB
-y“ñŠK“°z‚¾‚ª–l‚Í‚ª‚ñ‚Î‚è‚Ü‚·B‚ ‚ñ‚Èƒ„ƒc‚É•‰‚¯‚â‚µ‚Ü‚¹‚ñB
-y–í¶z‚ÉA“ñŠK“°ƒNƒ“ddB
-y“ñŠK“°z‚µ‚Á‚©‚è‚µ‚Ä‰º‚³‚¢AŠ’·B‚Ql‚Å‚±‚Ì––±Š‚ğA—§‚Ä’¼‚µ‚Ä‚¢‚«‚Ü‚µ‚å‚¤‚æddB
-y–í¶z‚»A‚»‚¤‚¾‚ÈA„‚ª‚µ‚Á‚©‚è‚µ‚È‚­‚¿‚áddB
-y“ñŠK“°z–l‚ÌƒRƒlƒNƒVƒ‡ƒ“‚Ì•û‚ÅAK‚¢‚É‚à‘–{‚É—]—T‚ª‚Å‚Ä‚«‚Ü‚µ‚½ddB
-y–í¶z‚ A‚ ‚ dd“ñŠK“°ƒNƒ“‚É‚ÍŠ´Ó‚µ‚Ädd‚ ‚ÁI
-y“ñŠK“°z–í¶‚³‚ñddB
-y–í¶z‚¨Šè‚¢dd‚â‚ß‚ÄddB
-y“ñŠK“°z‚±‚ÌŠÔ‚ÍAƒLƒX‚ğ‹–‚µ‚Ä‚­‚ê‚½‚¶‚á‚È‚¢‚Å‚·‚©B
-y–í¶z‚ A‚ ‚ê‚ÍddÔ‚Ì’†‚ÅŒN‚ª‚¢‚«‚È‚èddB
-y“ñŠK“°z‚Å‚àA‹‘‚İ‚Ü‚¹‚ñ‚Å‚µ‚½B
-y–í¶zddddB
-y“ñŠK“°z–í¶‚³‚ñA—Í‚ğ”²‚¢‚ÄddB
-ƒOƒbddB
-y–í¶z‚ñ‚ÁddB
-y“ñŠK“°z_‚ç‚©‚¢O‚¾ddB
-y–í¶z‚ÉA“ñŠK“°dd‚ñ‚Ádd‚ñ‚ñddB
-y“ñŠK“°z‚±‚±‚àddB
-y–í¶z‚ ‚Ádd¨‚Íddƒ_ƒddB
-y“ñŠK“°z–í¶‚³‚ñA¨‚ª•qŠ´‚È‚ñ‚Å‚·‚ËddB
-y–í¶z‚ ‚£ddI
-y“ñŠK“°z–²‚Ì‚æ‚¤‚¾B–í¶‚³‚ñ‚ªA–l‚Ìè‚Ì’†‚É‚¢‚ÄA–l‚ğó‚¯“ü‚ê‚Ä‚­‚ê‚Ä‚¢‚éddB
-y–í¶z‚ ‚ŸAƒ_ƒ‚æddB
-y“ñŠK“°z‚±‚ñ‚È×–‚‚È•‚ÍddB
-‚µ‚ã‚é‚ÁddB
-y–í¶z‚ ‚ÁIH
-y“ñŠK“°zŠ’·ddD‚«‚Å‚·B–l‚Ì‚±‚Æ‚ğŒ©‚Ä‚­‚¾‚³‚¢B
-y–í¶z‚ÉA“ñŠK“°ƒNƒ“ddB
-y“ñŠK“°zD‚«‚È‚ñ‚Å‚·‚æddB
-y–í¶z‚ñ‚Ádd‚ñ‚ñdd‚ñ‚ ‚ŸddB
-y“ñŠK“°z‰º‚Ì•û‚àddB
-y–í¶z‚ñdd‚ ‚Ÿdd‚»‚ñ‚Èdd‚âddB
-y“ñŠK“°z‚±‚ñ‚È‚ÉA‚È‚Á‚Ä‚éddB
-y–í¶z‚ ‚Ÿ‚ŸA‚»‚ñ‚ÈddŒ¾‚í‚È‚¢‚ÅddB
-y“ñŠK“°z‚È‚ºdd‘f“G‚Å‚·‚ædd‚Ù‚çB
-y–í¶z‚ ‚£‚£ddI
-‚­‚¿‚á‚ÁddB
-y–í¶z‚ ‚Í‚Ÿdd‚ñdd‚ñ‚ñddƒ_ƒddB
-y“ñŠK“°z‚à‚¤‰º’…‚ª‚±‚ñ‚È‚ÉddB
-y–í¶z‚¢AŒ¾‚í‚È‚¢‚ÅddB
-y“ñŠK“°z‚à‚Á‚Æ‘«‚ğŠJ‚¢‚ÄddB
-y–í¶zdd‚±‚¤ddH
-y“ñŠK“°z‚»‚¤‚Å‚·B‚·‚²‚¢dd‚±‚ñ‚È‚ÉddB
-y–í¶z‚ ‚Ÿ‚ŸA‚»‚ñ‚È‚É‚µ‚½‚çdd‚ñddB
-y“ñŠK“°z‚±‚±‚ÉAƒLƒX‚µ‚Ä‚¢‚¢H
-y–í¶z‚¨Šè‚¢A¬Ÿ˜YB‚Ü‚¾„AƒVƒƒƒ[‚àdd‚Í‚ÁIH
-y“ñŠK“°zddddB
-y–í¶zddddB
-y“ñŠK“°zdd‚âA–í¶‚³‚ñB‚ÚA–l‚Í“ñŠK“°‚Å‚·‚æA‚â‚¾‚È‚ŸB
-y–í¶zddddB
-y“ñŠK“°z‚³‚ÁA‚à‚¤ˆê“xddB
-y–í¶z‚¾Aƒ_ƒI
-ƒoƒVƒbI
-y“ñŠK“°z‚âA–í¶‚³‚ñdd‚È‚ºddB
-y–í¶z‚²AƒSƒƒ“A“ñŠK“°ƒNƒ“ddƒ_ƒ‚È‚ñ‚¾B„ddB
-y“ñŠK“°zddddB
-y–í¶zddƒSƒƒ“A–{“–‚Édd„ddB
-y“ñŠK“°zddddB
-y–í¶zddddB
-y“ñŠK“°z‚í‚©‚è‚Ü‚µ‚½ddB
-y–í¶zddddB
-y“ñŠK“°zŠ’·‚ÌS‚Ì®—‚ª•t‚¢‚½‚ç‚Ådd\‚¢‚Ü‚¹‚ñ‚æB
-y–í¶z‚·‚Ü‚È‚¢dd„‚Ídd„‚ÍddB
-y“ñŠK“°z‹C‚É‚È‚³‚ç‚¸‚ÉB‚¶‚áddB
-y¬Ÿ˜Yzi‚¤‚í‚ÁA‚±A‚±‚Á‚¿‚É—ˆ‚é‚¼Bj
+ã€äºŒéšå ‚ã€‘æ‰€é•·â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚„ã€ã‚„ã‚ã‚‹ã‚“ã ã€äºŒéšå ‚ã‚¯ãƒ³â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã„ã„ãˆã€ã‚„ã‚ã¾ã›ã‚“ã€‚åƒ•ã®æ°—æŒã¡ã¯çŸ¥ã£ã¦ã‚‹ã¯ãšã§ã™ã€‚
+ã€å¼¥ç”Ÿã€‘ãã€ãã‚Œã¯â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘é•ã†ã‚“ã§ã™ã‹ï¼Ÿ
+ã€å¼¥ç”Ÿã€‘å›ã®æ°—æŒã¡ã¯ã€ãã®ã€åˆ†ã‹ã£ã¦ã„ã‚‹â€¥â€¥ã¤ã‚‚ã‚Šã ã€‚
+ã€äºŒéšå ‚ã€‘ã ã£ãŸã‚‰ã€‚
+ã€å¼¥ç”Ÿã€‘ã§ã‚‚â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘æ‰€é•·ã€ã¾ã ã‚ã‚“ãªãƒ¤ãƒ„ã®ã“ã¨ã‚’ï¼Ÿ
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã‚ã„ã¤ã¯ã€ã‚ãªãŸã®ãŠçˆ¶ã•ã‚“ã‚’é€®æ•ã•ã›ã€å‹æ‰‹ã«é€€ç¤¾ã—ã€ã“ã®äº‹å‹™æ‰€ã‚’å´©å£Šã•ã›ã‹ã‘ãŸå¼µæœ¬äººã§ã™ã‚ˆï¼
+ã€å¼¥ç”Ÿã€‘ãã†â€¥â€¥ã ã£ãŸãªã€‚
+ã€äºŒéšå ‚ã€‘ãŠã¾ã‘ã«ä»Šå›ã¯ã€åƒ•ã®é›»å­æ‰‹å¸³ã‚’æŠœãå–ã‚Šã€ä¸­ã®ãƒ‡ãƒ¼ã‚¿ã‚’ç›—ã¿è¦‹ã¦ã€çµµç”»ã‚’æœã—å‡ºã—ãŸå‘åŠ£ãªãƒ¤ãƒ„ã§ã™ã£ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã‚ã„ã¤ã¯ã€ã“ã®äº‹å‹™æ‰€ã‚’ãƒ„ãƒ–ã—ãŸãŒã£ã¦ã‚‹ã‚“ã§ã™ã‚ˆã£ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚‚ã†ã€ã‚„ã‚ã¦ãã‚Œâ€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã ãŒåƒ•ã¯ãŒã‚“ã°ã‚Šã¾ã™ã€‚ã‚ã‚“ãªãƒ¤ãƒ„ã«è² ã‘ã‚„ã—ã¾ã›ã‚“ã€‚
+ã€å¼¥ç”Ÿã€‘ã«ã€äºŒéšå ‚ã‚¯ãƒ³â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã—ã£ã‹ã‚Šã—ã¦ä¸‹ã•ã„ã€æ‰€é•·ã€‚ï¼’äººã§ã“ã®äº‹å‹™æ‰€ã‚’ã€ç«‹ã¦ç›´ã—ã¦ã„ãã¾ã—ã‚‡ã†ã‚ˆâ€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ãã€ãã†ã ãªã€ç§ãŒã—ã£ã‹ã‚Šã—ãªãã¡ã‚ƒâ€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘åƒ•ã®ã‚³ãƒã‚¯ã‚·ãƒ§ãƒ³ã®æ–¹ã§ã€å¹¸ã„ã«ã‚‚è³‡æœ¬ã«ä½™è£•ãŒã§ã¦ãã¾ã—ãŸâ€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã€ã‚ã‚â€¥â€¥äºŒéšå ‚ã‚¯ãƒ³ã«ã¯æ„Ÿè¬ã—ã¦â€¥â€¥ã‚ã£ï¼
+ã€äºŒéšå ‚ã€‘å¼¥ç”Ÿã•ã‚“â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ãŠé¡˜ã„â€¥â€¥ã‚„ã‚ã¦â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã“ã®é–“ã¯ã€ã‚­ã‚¹ã‚’è¨±ã—ã¦ãã‚ŒãŸã˜ã‚ƒãªã„ã§ã™ã‹ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã€ã‚ã‚Œã¯â€¥â€¥è»Šã®ä¸­ã§å›ãŒã„ããªã‚Šâ€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã§ã‚‚ã€æ‹’ã¿ã¾ã›ã‚“ã§ã—ãŸã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘å¼¥ç”Ÿã•ã‚“ã€åŠ›ã‚’æŠœã„ã¦â€¥â€¥ã€‚
+ã‚°ãƒƒâ€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚“ã£â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘æŸ”ã‚‰ã‹ã„å”‡ã â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã«ã€äºŒéšå ‚â€¥â€¥ã‚“ã£â€¥â€¥ã‚“ã‚“â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã“ã“ã‚‚â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã£â€¥â€¥è€³ã¯â€¥â€¥ãƒ€ãƒ¡â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘å¼¥ç”Ÿã•ã‚“ã€è€³ãŒæ•æ„Ÿãªã‚“ã§ã™ã­â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã…â€¥â€¥ï¼
+ã€äºŒéšå ‚ã€‘å¤¢ã®ã‚ˆã†ã ã€‚å¼¥ç”Ÿã•ã‚“ãŒã€åƒ•ã®æ‰‹ã®ä¸­ã«ã„ã¦ã€åƒ•ã‚’å—ã‘å…¥ã‚Œã¦ãã‚Œã¦ã„ã‚‹â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ãã€ãƒ€ãƒ¡ã‚ˆâ€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã“ã‚“ãªé‚ªé­”ãªæœã¯â€¥â€¥ã€‚
+ã—ã‚…ã‚‹ã£â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã£ï¼ï¼Ÿ
+ã€äºŒéšå ‚ã€‘æ‰€é•·â€¥â€¥å¥½ãã§ã™ã€‚åƒ•ã®ã“ã¨ã‚’è¦‹ã¦ãã ã•ã„ã€‚
+ã€å¼¥ç”Ÿã€‘ã«ã€äºŒéšå ‚ã‚¯ãƒ³â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘å¥½ããªã‚“ã§ã™ã‚ˆâ€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚“ã£â€¥â€¥ã‚“ã‚“â€¥â€¥ã‚“ã‚ãâ€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ä¸‹ã®æ–¹ã‚‚â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚“â€¥â€¥ã‚ãâ€¥â€¥ãã‚“ãªâ€¥â€¥ã‚„â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã“ã‚“ãªã«ã€ãªã£ã¦ã‚‹â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ããã€ãã‚“ãªâ€¥â€¥è¨€ã‚ãªã„ã§â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ãªãœâ€¥â€¥ç´ æ•µã§ã™ã‚ˆâ€¥â€¥ã»ã‚‰ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã…ã…â€¥â€¥ï¼
+ãã¡ã‚ƒã£â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ã¯ãâ€¥â€¥ã‚“â€¥â€¥ã‚“ã‚“â€¥â€¥ãƒ€ãƒ¡â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã‚‚ã†ä¸‹ç€ãŒã“ã‚“ãªã«â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã„ã€è¨€ã‚ãªã„ã§â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã‚‚ã£ã¨è¶³ã‚’é–‹ã„ã¦â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥ã“ã†â€¥â€¥ï¼Ÿ
+ã€äºŒéšå ‚ã€‘ãã†ã§ã™ã€‚ã™ã”ã„â€¥â€¥ã“ã‚“ãªã«â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã‚ããã€ãã‚“ãªã«ã—ãŸã‚‰â€¥â€¥ã‚“â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã“ã“ã«ã€ã‚­ã‚¹ã—ã¦ã„ã„ï¼Ÿ
+ã€å¼¥ç”Ÿã€‘ãŠé¡˜ã„ã€å°æ¬¡éƒã€‚ã¾ã ç§ã€ã‚·ãƒ£ãƒ¯ãƒ¼ã‚‚â€¥â€¥ã¯ã£ï¼ï¼Ÿ
+ã€äºŒéšå ‚ã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘â€¥â€¥ã‚„ã€å¼¥ç”Ÿã•ã‚“ã€‚ã¼ã€åƒ•ã¯äºŒéšå ‚ã§ã™ã‚ˆã€ã‚„ã ãªãã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã•ã£ã€ã‚‚ã†ä¸€åº¦â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã ã€ãƒ€ãƒ¡ï¼
+ãƒã‚·ãƒƒï¼
+ã€äºŒéšå ‚ã€‘ã‚„ã€å¼¥ç”Ÿã•ã‚“â€¥â€¥ãªãœâ€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘ã”ã€ã‚´ãƒ¡ãƒ³ã€äºŒéšå ‚ã‚¯ãƒ³â€¥â€¥ãƒ€ãƒ¡ãªã‚“ã ã€‚ç§â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥ã‚´ãƒ¡ãƒ³ã€æœ¬å½“ã«â€¥â€¥ç§â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘ã‚ã‹ã‚Šã¾ã—ãŸâ€¥â€¥ã€‚
+ã€å¼¥ç”Ÿã€‘â€¥â€¥â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘æ‰€é•·ã®å¿ƒã®æ•´ç†ãŒä»˜ã„ãŸã‚‰ã§â€¥â€¥æ§‹ã„ã¾ã›ã‚“ã‚ˆã€‚
+ã€å¼¥ç”Ÿã€‘ã™ã¾ãªã„â€¥â€¥ç§ã¯â€¥â€¥ç§ã¯â€¥â€¥ã€‚
+ã€äºŒéšå ‚ã€‘æ°—ã«ãªã•ã‚‰ãšã«ã€‚ã˜ã‚ƒâ€¥â€¥ã€‚
+ã€å°æ¬¡éƒã€‘ï¼ˆã†ã‚ã£ã€ã“ã€ã“ã£ã¡ã«æ¥ã‚‹ãã€‚ï¼‰
 004
 004b
 b06
@@ -665,12 +665,12 @@ eve_41
 [Yayoi] No!
 [Kojiroh] Just kidding.
 [Yayoi] ...
-@Look/Investigate
-@Move
-@Surroundings
-@Heater
-@Round table
-@Shrubbery
+ã€€Look/Investigate
+ã€€Move
+ã€€Surroundings
+ã€€Heater
+ã€€Round table
+ã€€Shrubbery
 [Kojiroh] I can hear sounds coming from way over\there...
 [Kojiroh] Nothing changes, no matter how many times\I see them.
 There's a noise in the back.
@@ -689,17 +689,17 @@ There're more noises from the back.
 [Kojiroh] This must be where the employees hang out\during breaks.
 [Kojiroh] Of course, no one would be hiding down\there.
 [Kojiroh] There couldn't be anyone under there!\Thought so.
-@Go outside
-@Go to the back
+ã€€Go outside
+ã€€Go to the back
 [Kojiroh] What the hell...?
 [Kojiroh] A burglar?
 [Kojiroh] No wait... There is something wrong with\this place...
-@Look/Investigate
-@Move
-@Speak
-@Man at desk
-@Man at copier
-@Keiko
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Man at desk
+ã€€Man at copier
+ã€€Keiko
 [Man at desk] The Chief was here a moment ago...
 [Man at desk] But she left again to go see a\client.
 [Man at desk] The Chief isn't in right now...
@@ -722,10 +722,10 @@ There're more noises from the back.
 [Keiko] This office used to be rolling in the\dough...
 [Keiko] We were the best in the business.
 [Keiko] But now... Oh, it's no use talking about\this with you, Mr. Amagi.
-@Surroundings
-@Employees
-@Heater
-@Round table
+ã€€Surroundings
+ã€€Employees
+ã€€Heater
+ã€€Round table
 [Kojiroh] Yayoi doesn't seem to be here.
 [Kojiroh] Nikaido's not here, either. I'm not\complaining.
 [Kojiroh] Night or day, the Katsuragi Private\Detective Offices never change.
@@ -740,16 +740,16 @@ There're more noises from the back.
 [Kojiroh] Wobbly old chairs surround the ugly\table.
 [Kojiroh] You make the clients sit on these so that\they'll feel insecure.
 [Kojiroh] That's what I told Yayoi, and she flat\out denied it.
-@Go outside
+ã€€Go outside
 [Kojiroh] I'll get some fresh air...
 [Man at copier] Drop by again sometime.
 [Kojiroh] Look at me when you speak to me, you\nincompoop.
 a003
-@Look/Investigate
-@Move
-@Speak
-@Attack
-@Yayoi
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Attack
+ã€€Yayoi
 [Yayoi] Excuse me, I have work to do.
 [Kojiroh] Yeah, I figured.
 [Yayoi] My father also gave me that look sometimes.
@@ -910,8 +910,8 @@ a003
 [Kojiroh] Is she a fox?
 [Yayoi] ...
 [Kojiroh] (She looks pretty pissed...)
-@Yayoi
-@Chair
+ã€€Yayoi
+ã€€Chair
 [Kojiroh] (Hey, no way... She'll NEVER forgive me.)
 I howl like a wolf.
 [Yayoi] ...
@@ -933,10 +933,10 @@ I howl like a wild wolf.
 [Yayoi] What the hell are you doing with a chair?
 [Kojiroh] I don't know... It just looked sexy...
 [Yayoi] I'll never be able to understand you.
-@Surroundings
-@Yayoi
-@Tits
-@Thighs
+ã€€Surroundings
+ã€€Yayoi
+ã€€Tits
+ã€€Thighs
 [Kojiroh] Yayoi's the only one left in the\office...
 [Kojiroh] I didn't know it was this fancy...
 0140b
@@ -979,7 +979,7 @@ Smack!0
 [Kojiroh] Those legs are as healthy as ever...
 [Kojiroh] Such long, foxy legs... I'd like those\legs to get me in a headlock.
 [Yayoi] Take your perverse eyes off of my legs, you\horny ass.
-@Go outside
+ã€€Go outside
 [Kojiroh] Well, good bye.
 [Yayoi] Sorry I wasn't the friendliest person\today.
 [Kojiroh] I'm used to it...
@@ -995,12 +995,12 @@ I go out the door.
 [Kojiroh] Yeah...
 [Yayoi] What are you doing, standing on the window\sill...?
 [Kojiroh] Ha ha ha... This is the third floor. Only\way to go outside is to fall to my death!
-@Look/Investigate
-@Move
-@Speak
-@Man at desk
-@Man at copier
-@Keiko
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Man at desk
+ã€€Man at copier
+ã€€Keiko
 [Man at desk] The Chief isn't in right now...
 [Man at desk] The Chief...?
 [Man at desk] She's out with Nikaido, investigating\a case.
@@ -1014,10 +1014,10 @@ I go out the door.
 [Keiko] I want a good man, a good single man to go\home with...
 [Keiko] Isn't there a man who wants to take me to\the Princess Hotel, and make hot love to me all\night long...?
 [Keiko] Why are you pointing at yourself, Mr.\Amagi?
-@Surroundings
-@Employees
-@Heater
-@Round table
+ã€€Surroundings
+ã€€Employees
+ã€€Heater
+ã€€Round table
 [Kojiroh] Maybe it could be a nudie bar...
 [Kojiroh] Night or day, the Katsuragi Private\Detective Offices never change.
 [Kojiroh] But wouldn't it be great if it turns into\a nudie bar at night?
@@ -1032,18 +1032,18 @@ I go out the door.
 [Kojiroh] Wobbly old chairs surround the ugly\table.
 [Kojiroh] You make the clients sit on these so that\they'll feel insecure.
 [Kojiroh] That's what I told Yayoi, and she flat\out denied it.
-@Go outside
+ã€€Go outside
 [Kojiroh] Yeah, let's get outta here...
 [Man at copier] Stop by again sometime.
 [Kojiroh] Look over here...
 a003
-@Look/Investigate
-@Move
-@Speak
-@Man at desk
-@Man at copier
-@Woman I can see
-@Keiko
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Man at desk
+ã€€Man at copier
+ã€€Woman I can see
+ã€€Keiko
 [Man at desk] The Chief isn't in right now...
 [Man at desk] The Chief...?
 [Man at desk] She's out with Nikaido, investigating\a case.
@@ -1064,10 +1064,10 @@ a003
 [Keiko] Nikaido said some pretty rude things to\you, didn't he...
 [Keiko] But I think you did the right thing.
 [Keiko] Most of the employees here respect you, Mr.\Amagi.
-@Surroundings
-@Employees
-@Heater
-@Round table
+ã€€Surroundings
+ã€€Employees
+ã€€Heater
+ã€€Round table
 [Kojiroh] This office is too damn bright for me,\dammit.
 [Kojiroh] As always, everything here is so clean\and organized.
 [Kojiroh] Yayoi used to come here so early, to\clean up... Could she still be doing that these\days?
@@ -1084,16 +1084,16 @@ a003
 [Kojiroh] Wobbly old chairs surround the ugly\table.
 [Kojiroh] You make the clients sit on these so that\they'll feel insecure.
 [Kojiroh] That's what I told Yayoi, and she flat\out denied it.
-@Go outside
+ã€€Go outside
 [Kojiroh] Let's go outside...
 [Man at desk] Please come again... When Nikaido\isn't here.
 [Kojiroh] God... He never looks this way.
 a003
-@Look/Investigate
-@Move
-@Speak
-@Give back
-@Electronic organizer
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Give back
+ã€€Electronic organizer
 [Kojiroh] Urghh!
 [Nikaido] What the hell's the matter with you?
 [Kojiroh] I think I'm gonna puke!!
@@ -1116,7 +1116,7 @@ cI slip it right into his pocket.
 [Nikaido] You shitheeaaaddd!!
 [Nikaido] That's it... Out! Out! Out!
 [Kojiroh] Hey, hey. Calm down... Take a deep\breath... That's it.
-@Nikaido
+ã€€Nikaido
 [Nikaido] I've had enough of your crap!
 [Kojiroh] (Uh-oh... Things are getting out of hand\here. I'd better leave.)
 [Nikaido] What the hell do you want?
@@ -1171,9 +1171,9 @@ cI slip it right into his pocket.
 [Nikaido] I told you to call me Mr. Nikaido!
 [Kojiroh] I'll call you whatever I damn well\please, Libido, now drop it!
 [Nikaido] Wait'll I get my hands on you!
-@Surroundings
-@Nikaido
-@Shrubbery
+ã€€Surroundings
+ã€€Nikaido
+ã€€Shrubbery
 [Nikaido] I've had enough of your crap!
 [Kojiroh] (Uh-oh... Things are getting out of hand\here. I'd better leave.)
 [Kojiroh] God damn it... There's this big ass in\front of me and I can't see anything.
@@ -1195,7 +1195,7 @@ cI slip it right into his pocket.
 [Kojiroh] I incorporated these plants into the\office.
 [Kojiroh] I thought it would bring peoples spirits\up.
 [Nikaido] I don't like them. I'm gonna throw them\away as soon as I get permission from the Chief.
-@Go outside
+ã€€Go outside
 [Kojiroh] (Yeah... Let's go home.)
 [Kojiroh] See ya later, Nikaido.
 [Nikaido] Wait, fool! I have something to tell you.

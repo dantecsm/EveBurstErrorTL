@@ -48,11 +48,11 @@ She nudges me with the knife...
 [Kojiroh] If you're looking for Purin, she's right\there. Hey, you can come out now!
 [Woman] Where!?
 [Kojiroh] Oops, sorry. I lied.
-�h�V�b�I0
+ドシッ！0
 0300
-\�@
+\　
 eve_42
-�J�`���b�d�d�B
+カチャッ‥‥。
 [Kojiroh] Now... The tables are turned. How do you\like it?
 [Woman] Shit...
 [Kojiroh] Yeah, I had a tough teacher who taught me\how to deal with situations like this.
@@ -322,11 +322,11 @@ b03
 Purin leaves.
 [Kojiroh] No, no... I'm not gonna get used to\having her around... No, no...
 [Kojiroh] ...
-�@Ask for the favor
-�@Speak
-�@Save/Load
-�@Save
-�@Load
+　Ask for the favor
+　Speak
+　Save/Load
+　Save
+　Load
 [Siria] What?
 [Kojiroh] You said that you're going to return my\favor, right?
 [Siria] Yeah...
@@ -337,157 +337,157 @@ I force myself on Siria.
 Siria struggles a little.
 0345
 eve_42
-�y�V���A�z�ȁA�Ȃɂ��I
-�y�����Y�z�q�����낤�H
-���͐O������ƁA��𖳗���V���A�̐O�̒��ւƂ˂����񂾁B
-�y�V���A�z����d�d����d�d�B
-�ӂɔ����ď_�炩���O�������B�Î_���ς�����������B�n�ꂽ���̍���Ƃ�������낤���B
-�y�V���A�z��߁d�d����d�d��߂āB
-�y�����Y�z�{�C�Ō�����B
-�y�V���A�z�فA�{�C��d�d����B
-�V���A�͂������ȂɎ������낦�āA���̐�̐N�������΂�ł���B
-�Ӗ��̂Ȃ���R���B�ȁ[�ɁA�����ɗ����邳�B�����{�C�ɂȂ�΂ȁd�d�B
-�s�@�N���A�����A�E�l�����A�e�󓁕s�@�����ŁA�S�g����݂����ȂƂ�ł��Ȃ����̏����A�C�C�ƌ��킹��̂����̖ړI���B
-�����Ƃ�A����ŁA���ڂ��āA�ȂԂ��āA�Ƃ��Ăƌ��킹��΁A�q���͉��̏������B
-�����A���킹���Ȃ���΁A���̕����B
-�v�����̃��c���A�q��Ȃ炴�邱�ƂɊ������܂�Ă�͖̂����������B���͂�����m���߂�K�v������B
-�������Ɛ�ŁA�ޏ��̂������Ȃɕ���ꂽ���s���Ȃ����Ă݂��B
-�y�V���A�z��d�d����d�d�B
-�����Ղ�Ɨʊ�����o�X�g��Ў�ŝ��݂Ȃ���A���͂Ȃ����ޏ��̎��s���łȂ���B
-�y�V���A�z���d�d�񂠁B
-�������ꂽ�Ǝv������A�˂��Ƃ�Ƃ����オ�o�Ă����B���̂ɗ��ݕt���ƁA�����Ŏ����̌��o�ւƈ�������ł����B
-���͐O���V���A�ɂ������Ȃ���A���̃{�^���𗐖\�ɊO�����B������̓q���̂悤�ɍׂ��u��������o���B
-�j�Ɍ����邽�߂̃u�����B�킴�ƕt���Ă₪��B
-�y�����Y�z�����������ȁd�d�V�R���H
-�y�V���A�z�ށA���̂��Ƃ́d�d����Ȃ��ŁI
-�ނ�����I
-�y�V���A�z�ɂ��d�d�ȁA�����I
-�y�����Y�z�q�����A�����D�������邺�B
-���x�͈�]���āA�D�����������Ɠ��[�𝆂݂͂��߂��B�����Ղ�Ɨʊ�����o�X�g���A�v���悤�ɕό`����������͂��������Ȃ��B
-�V���A�̕@���͎���ɍr���Ȃ��Ă����B����ȏ󋵂Łd�d����A����ȏ󋵂����炱���A�������Âł͂����Ȃ��B
-�����Ղ�ƃV���A�̌��������\�������̐�́A��؂��狹�ւƍ~��Ă������B
-�y�����Y�z�������ȓ��񂾂ȁd�d��������B
-�y�V���A�z���A����Ȃ��Ɓd�d�B
-����̂܂��ɐ���������Ƃ͂킹��B����ɗ��N���Ă��钆�S���ɁA�����f���𐁂��������B
-�y�V���A�z�����d�d���d�d�B
-�݂�݂����͂������Ă����B�����A����ȏ󋵂Ŋ����Ă₪��B
-�d���c���Ə������������ɁA���͏������߂Ɏ������ĂĂ݂��B
-�J���b�B
-�y�V���A�z�񂠂��I
-�y�����Y�z�ɂ��������H
-�y�V���A�z�ɂ���d�d�������d�d�B
-�܂�ڂɂ����ׂȂ���A��������R���悤�Ƃ��Ȃ��V���A�������ƕ������߂��B
-�������Ȃɕ����Ă����G�����A�K�N�K�N�Ɛk���Ă���悤���B��������ƁA�Ԃɓ���Ă݂��B
+【シリア】な、なにを！
+【小次郎】賭けたろう？
+俺は唇をつけると、舌を無理矢理シリアの唇の中へとねじ込んだ。
+【シリア】んっ‥‥んんん‥‥。
+意に反して柔らかい唇だった。甘酸っぱい匂いがする。熟れた女の香りというやつだろうか。
+【シリア】やめ‥‥んっ‥‥やめて。
+【小次郎】本気で言えよ。
+【シリア】ほ、本気よ‥‥んっ。
+シリアはかたくなに歯をそろえて、俺の舌の侵入をこばんでいる。
+意味のない抵抗だ。なーに、すぐに落ちるさ。俺が本気になればな‥‥。
+不法侵入、恐喝、殺人未遂、銃宝刀不法所持で、全身武器みたいなとんでもないこの女を、イイと言わせるのが俺の目的だ。
+もっとよ、噛んで、しぼって、なぶって、犯してと言わせれば、賭けは俺の勝ちだ。
+だが、言わせられなければ、俺の負け。
+プリンのヤツが、尋常ならざることに巻き込まれてるのは明白だった。俺はそれを確かめる必要がある。
+ゆっくりと舌で、彼女のかたくなに閉じられた歯茎をなぞってみた。
+【シリア】ん‥‥んんん‥‥。
+たっぷりと量感あるバストを片手で揉みながら、俺はなおも彼女の歯茎を舌でなぞる。
+【シリア】んん‥‥んあ。
+口が割れたと思ったら、ねっとりとした舌が出てきた。俺のに絡み付くと、夢中で自分の口腔へと引き込んでいく。
+俺は唇をシリアにあずけながら、服のボタンを乱暴に外した。中からはヒモのように細いブラが顔を出す。
+男に見せるためのブラだ。わざと付けてやがる。
+【小次郎】すごい胸だな‥‥天然か？
+【シリア】む、胸のことは‥‥言わないで！
+むぎゅっ！
+【シリア】痛っ‥‥な、何を！
+【小次郎】賭けさ、だが優しくするぜ。
+今度は一転して、優しくゆっくりと乳房を揉みはじめた。たっぷりと量感あるバストを、思うように変形させる快感はこたえられない。
+シリアの鼻息は次第に荒くなっていく。こんな状況で‥‥いや、こんな状況だからこそ、俺も平静ではいられない。
+たっぷりとシリアの口内を堪能した俺の舌は、首筋から胸へと降りていった。
+【小次郎】おっきな乳首だな‥‥そそられる。
+【シリア】そ、そんなこと‥‥。
+乳首のまわりに舌をゆっくりとはわせる。次第に隆起してくる中心部に、あつい吐息を吹きかけた。
+【シリア】あぅ‥‥んん‥‥。
+みるみる乳首はしこってきた。こいつ、こんな状況で感じてやがる。
+硬くツンと上を向いたそれに、俺は少し強めに歯をたててみた。
+カリッ。
+【シリア】んあっ！
+【小次郎】痛かったか？
+【シリア】痛いわ‥‥すごく‥‥。
+涙を目にうかべながら、しかし抵抗しようとしないシリアをそっと抱きしめた。
+かたくなに閉じられていた膝頭が、ガクガクと震えているようだ。手をそっと、間に入れてみた。
 0345b
-�y�V���A�z���A����ȂɁd�d�݁A���Ȃ��Łd�d�B
-���͂킴�ƌҊԂ��Î����Ă�����B�ޏ��̕@�����r���Ȃ��Ă����̂��킩��B
-�ׂ��V���[�c�������B�ҊԂɐH������ł₪��B�����͂ނ��Ƃ���悤�ȓ��̈��͂��L�����Ă����B
-���̓V���A�̗��r�������グ���B�ޏ��͂���邪�܂܂��B
-�ӂƁA�������̕�тɖڂ������B
-�y�V���A�z��d�d�B
-�����ꂵ�����ȃV���A�����Ȃ���A���͑������̏��ɁA�����ƌ��Â��������B�r�N���ƃV���A�̐g�̂��z������B
-�y�����Y�z�܂��A�ɂނ��H
-�����p�����������ɃV���A�������B
-���͂����������D�����������悤�A����������ҊԂɐ�𔇂킹�Ă����B�V���A�͐k���Ȃ���A�����A�ƙ�����������B
-�y�V���A�z���A�����́d�d�_����d�d�B
-�����������̏ォ��A��������r�߂Ă݂�B�d�����G�����ʂ�߂��Ă����B�������d�_�I�ɁA���ł˂Ԃ�B�q�b�Ƃ����s���ߖ��������Ă����B
-�y�V���A�z�����d�d���A����Ȃ��Ƃ��ād�d�B
-�V���A�͂��ȋC�ɁA�b�������k�炵���B�z�n�̏��Ȃ������͔G�ꂻ�ڂ��āA�����ϐF���Ă���B���̑��t�������Ⴀ�Ȃ����B
-���͂��ɌҊԂׂ̍��z�n�����炵�Ă݂��B�ނ��Ƃ������̓��������̕@���������B
-�܂��ɑ�l�̏����킾�����B�����Ƃ�ƔG�ꂻ�ڂ�������́A�������̂悤�ɑ��Â��A���������������Ƃ��Ă����B
-�y�V���A�z�_����d�d�����́d�d���Ȃ��Łd�d�B
-�����Ղ�Ƃ���K�̓��𗼎�ŊJ���B�����Ƃ�ƔG�ꂽ�����́A���̖ڂ̑O�ŁA�݂�݂���k���Ă����B
-���͖����Ő����������ł����B�������Ƃ����j�􂪃V���A�̌�����k���B���̐��́A�V���A�̔���ɂ���ċ���ɒ��ߕt����ꂽ�A
-�y�V���A�z�����A�������������I�@���A�����d�d�I�I
-�V���A�͑���˂����点��ƁA�r�N�b�r�N�b�Ɛg�̂��z���������B
-�G�ꂻ�ڂ����A�\�R����́A�ނ��Ƃ��������Ƌ��ɔ����ɂ������t�̂�����o�Ă���B
-�A�k�X�̕��ɂ����ꂽ������A���͐�ŒO�O���r�ߎ���Ă������B
-�y�V���A�z��d�d�����d�d�����d�d�B
-�y�����Y�z�C�����ȁB
-�y�V���A�z�܁A�܂��܂��d�d��d�d�B
-�y�����Y�z�ӊO�ɂ���΂�B�����A���ꂩ��͂ǂ����ȁB
-���͎葁������E�����B�ҊԂ̓{���������̃��m�����āA�V���A�͑���ۂށB�������B�t�����B
-�y�V���A�z�ǁA�ǂ�����́d�d�B
-�s���Ɗ��҂̔��X�Ƃ�������ŃV���A�͎�������Ă����B
-���ł͓������A���͍s���Ŏ������B�\�t�g�ɁA�����L�������킹���A�V���A�̕����S���E������B
-�S�N���Ɣޏ��̍A���ŉ����������Ă����B�����A�҂��Ă₪��ȁd�d�B
-�y�����Y�z�K���������Ɍ����ȁd�d�B
-�y�V���A�z�d�d��A���\�͂��Ȃ��ŁB
-�S�g����݂����Ȃ��̏��̌�����A���\���Ȃ��łƂ͋������B
-���̓{���������m���A�V���A���S���ɂ���������B�����A�ƙ�����������Ă���B
-�V���A�͂��܂�Ȃ��Ȃ��Ă���͂����B���Ƃ����̃��m��[�߂悤�ƁA����ɐK���ӂ��Ă���B
-�y�V���A�z���A���肢�d�d���炳�Ȃ��ŁB
-�y�����Y�z�ǂ����A�~�������H
-�͂��Ƃ����悤�ɃV���A������ۂށB
-�y�V���A�z���A�C�ɓ����ĂȂ񂩁I
-�y�����Y�z���O�̂����́A�~�����Ă��傤���Ȃ��݂��������d�d�B
-�p�V�b�I
-�y�V���A�z����I
-�K����񕽎�ł�������ƁA���������苿�����B�u���u���̐K���Ⴑ���͂����Ȃ��B
-�y�����Y�z�~�������āA�����Ă݂��B
-�y�V���A�z���A�N���d�d�񂠂��I
-�����V���A�̑傫�ȓ������w�Œe���ƁA�d�����󂯂��悤�ɃV���A�̐g�̂��z�������B
-�y�V���A�z���ӂ��d�d�͂��d�d�͂��d�d�B
-�p���p���ɂ͂�オ�����ҊԂ̉���A���͂������Ƃ����肾�����B����ɂ��킹�āA���̃��m���S���ɎC��t����B
-�y�V���A�z����d�d���A���炳�Ȃ��Łd�d�B
-�y�����Y�z�~�������āA�����I
-�y�V���A�z��d�d�����d�d���͂��A�͂��A�͂��d�d�B
-�y�����Y�z�����I
-�y�V���A�z�فA�ق��d�d���d�d�B
-�y�����Y�z�������ˁ[�ȁB
-�p�V�b�I
-�y�V���A�z����I
-�y�����Y�z����ȂɃC���炵���K�����₪���ād�d���������I
-�y�V���A�z�فd�d�~�����I
-�y�����Y�z�������ȁI
+【シリア】そ、そんなに‥‥み、見ないで‥‥。
+俺はわざと股間を凝視してやった。彼女の鼻息が荒くなっていくのがわかる。
+細いショーツだった。股間に食い込んでやがる。そこはむっとするような肉の圧力が広がっていた。
+俺はシリアの両脚を持ち上げた。彼女はされるがままだ。
+ふと、太ももの包帯に目がいく。
+【シリア】ん‥‥。
+少し苦しそうなシリアを見ながら、俺は太ももの傷に、そっと口づけをした。ビクンとシリアの身体が痙攣する。
+【小次郎】まだ、痛むか？
+少し恥ずかしそうにシリアは頷く。
+俺はさっきよりも優しくいたわるよう、太ももから股間に舌を這わせていく。シリアは震えながら、ああ、と呻き声をあげた。
+【シリア】そ、そこは‥‥ダメよ‥‥。
+湿った下着の上から、ざらっと舐めてみる。硬い感触が舌を通り過ぎていく。そこを重点的に、舌先でねぶる。ヒッという鋭い悲鳴が聞こえてきた。
+【シリア】ああ‥‥こ、こんなことって‥‥。
+シリアはせつな気に、喘ぎ声を洩らした。布地の少ない下着は濡れそぼって、もう変色している。俺の唾液だけじゃあないぜ。
+俺はついに股間の細い布地をずらしてみた。むっとした女の匂いが俺の鼻こうをつく。
+まさに大人の女性器だった。しっとりと濡れそぼったそれは、生き物のように息づき、俺を引き込もうとしていた。
+【シリア】ダメよ‥‥そこは‥‥見ないで‥‥。
+たっぷりとある尻の肉を両手で開く。しっとりと濡れたそこは、俺の目の前で、みるみる収縮していく。
+俺は夢中で舌を差し込んでいた。あぅっという嗚咽がシリアの口から洩れる。俺の舌先は、シリアの秘肉によって強烈に締め付けられた、
+【シリア】あっ、あああぁぁっ！　も、もう‥‥！！
+シリアは足を突っ張らせると、ビクッビクッと身体を痙攣させた。
+濡れそぼったアソコからは、むっとした匂いと共に白くにごった液体が流れ出てくる。
+アヌスの方にも流れたそれを、俺は舌で丹念に舐め取っていった。
+【シリア】ん‥‥くっ‥‥あっ‥‥。
+【小次郎】イったな。
+【シリア】ま、まだまだ‥‥よ‥‥。
+【小次郎】意外にがんばる。だが、これからはどうかな。
+俺は手早く服を脱いだ。股間の怒張した俺のモノを見て、シリアは息を呑む。視線が釘付けだ。
+【シリア】ど、どうするの‥‥。
+不安と期待の半々という感情でシリアは質問をしてきた。
+口では答えず、俺は行動で示した。ソフトに、だが有無を言わせず、シリアの服も全部脱がせる。
+ゴクっと彼女の喉元で音が聞こえてきた。こいつ、待ってやがるな‥‥。
+【小次郎】尻をこっちに向けな‥‥。
+【シリア】‥‥ら、乱暴はしないで。
+全身武器みたいなこの女の口から、乱暴しないでとは恐れ入る。
+俺の怒張したモノを、シリアの膣口にこすりつけた。ああ、と呻き声が聞こえてくる。
+シリアはたまらなくなっているはずだ。何とか俺のモノを納めようと、盛んに尻をふっている。
+【シリア】お、お願い‥‥じらさないで。
+【小次郎】どうだ、欲しいか？
+はっとしたようにシリアが息を呑む。
+【シリア】き、気に入ってなんか！
+【小次郎】お前のこいつは、欲しくてしょうがないみたいだぜ‥‥。
+パシッ！
+【シリア】んっ！
+尻を一回平手打ちをすると、いい音が鳴り響いた。ブヨブヨの尻じゃこうはいかない。
+【小次郎】欲しいって、言ってみろよ。
+【シリア】だ、誰が‥‥んあっ！
+俺がシリアの大きな豆粒を指で弾くと、電撃を受けたようにシリアの身体が痙攣した。
+【シリア】あふぅ‥‥はぁ‥‥はぁ‥‥。
+パンパンにはれ上がった股間の芽を、俺はゆっくりとさすりだした。それにあわせて、俺のモノを膣口に擦り付ける。
+【シリア】んっ‥‥じ、じらさないで‥‥。
+【小次郎】欲しいって、言え！
+【シリア】ん‥‥くぅ‥‥あはぁ、はぁ、はぁ‥‥。
+【小次郎】言え！
+【シリア】ほ、ほし‥‥ぃ‥‥。
+【小次郎】聞こえねーな。
+パシッ！
+【シリア】んっ！
+【小次郎】こんなにイヤらしい尻をしやがって‥‥早く言え！
+【シリア】ほ‥‥欲しい！
+【小次郎】言ったな！
 0350
-����ィ�I�I
-�y�V���A�z�񂠂������������I�I
-�ꋓ�ɉ��܂œ˂����ꂽ�B�����Ղ�ƔG��Ă��邻���́A���̃��m���Ȃ����܂œۂݍ��ށB
-�n�ꂽ���q�_�����̃��m���ݍ��݁A�����Ȉ��͂�������B�r�N�r�N���z���������̉����͐�������B
-�y�V���A�z�������d�d��d�d�����d�d�_���I�@���A����������d�d�B
-�y�����Y�z�����ˁ[�ȁB
-���͂������ƍ���O��ɓ������o�����B�����S���ŁA���イ���イ���ߕt���Ă���B
-�y�V���A�z�����A���������d�d���A�����d�d�������I
-�������w�ŕ��łĂ݂�B�����ɐオ�o�Ă��ĉ��̎w�𑨂���B���͂Q�{�̎w�Ő���͂��݂��݁A�������Ă�����B
-�y�V���A�z�͂����d�d�Ђ����́A�Ђ�߂͂��ցd�d�B
-���͍��𓮂����Ȃ���A���t�ł����Ղ莼�炳�ꂽ�����ȃA�k�X�ɁA�ޏ��̑��t�ŔG�ꂽ�l�����w��󂭓���Ă݂��B
-�y�V���A�z����d�d���A�����́d�d�����B
-�w���L�c�����߂������B����ɓ������ăA�\�R�����̃��m�ɗ��݂��A�M���b�ƒ��ߏグ��B���͉Ώ����������ȂقǔM���B
-���͂����Е��̎�ŁA�����Ղ�Əd���o�X�g����납�玝���グ���B�������Ɨ͋�������ł����B
-�y�V���A�z����A�����d�d�����d�d�����d�d�����d�d����B
-���Y�~�J���ȍ��̃O���C���h�Ɍĉ����āA�V���A�͉s�������グ������B
-���͂����Е��̎�ō��X�Ƃ����΂݂�T���Ă݂�B�������B���͎w�ŁA�����[�����Ă��邻�̓ˋN����e���Ă݂��B
-�y�V���A�z�Ђ����I
-�V���A�̐����A���܂ł�����i�ƒ��ˏオ�����B�������S�����ꋓ�ɒ��ˏオ��A�ɂ����炢�ɒ��ߕt���Ă���B
-�y�V���A�z�����d�d�����d�d�����d�d�B
-���x�͉��������߂Â��������ŁA�V���A�͐i��Ō����������B�オ���̌��o�ɓ����Ă��āA�������Ȃ���܂���B
-�����Ղ�Ƒ��t�𗬂����ނƁA�V���A���S�O�Ȃ���������ݍ��񂾁B�������Ƃ����A�̉��������ɋ����킽��B
-�y�V���A�z�����d�d�������I�@���A���߁d�d�����I
-�y�����Y�z�����d�d���A�����������B
-�y�V���A�z������d�d�C���āI�@�C���āI
-�y�����Y�z�ǂ��Ɂd�d�o���ė~�����H
-�y�V���A�z�������d�d����Ȃ��Ɓd�d�B
-�y�����Y�z�����I
-�y�V���A�z���I�@��ɂ����āI�@�����ăh���h�������̂��A��ɁI�I
+ずりゅぅ！！
+【シリア】んあぁぁぁぁぁっ！！
+一挙に奥まで突き入れた。たっぷりと濡れているそこは、俺のモノを難なく奥まで呑み込む。
+熟れた肉ヒダが俺のモノを包み込み、微妙な圧力をかける。ビクビクと痙攣する秘肉の快感は凄すぎる。
+【シリア】あくっ‥‥ん‥‥あぁ‥‥ダメ！　う、動かしちゃ‥‥。
+【小次郎】聞けねーな。
+俺はゆっくりと腰を前後に動かし出した。凄い膣圧で、ぎゅうぎゅう締め付けてくる。
+【シリア】おぉ、おぉぉっ‥‥す、凄っ‥‥あぅっ！
+口元を指で撫でてみる。すぐに舌が出てきて俺の指を捉える。俺は２本の指で舌をはさみこみ、しごいてやった。
+【シリア】はぁぁ‥‥ひぃいの、ひゃめはいへ‥‥。
+俺は腰を動かしながら、愛液でたっぷり湿らされた小さなアヌスに、彼女の唾液で濡れた人差し指を浅く入れてみた。
+【シリア】んっ‥‥そ、そこは‥‥うっ。
+指がキツく締めつけれられる。それに同調してアソコも俺のモノに絡みつき、ギュッと締め上げる。中は火傷をしそうなほど熱い。
+俺はもう片方の手で、たっぷりと重いバストを後ろから持ち上げた。ゆっくりと力強く揉んでいく。
+【シリア】んっ、あっ‥‥そこ‥‥あっ‥‥いっ‥‥んっ。
+リズミカルな腰のグラインドに呼応して、シリアは鋭い声を上げ続ける。
+俺はもう片方の手で黒々とした茂みを探ってみる。あった。俺は指で、堅く充血しているその突起物を弾いてみた。
+【シリア】ひぃっ！
+シリアの声が、今までよりも一段と跳ね上がった。同時に膣圧も一挙に跳ね上がり、痛いくらいに締め付けてくる。
+【シリア】もう‥‥うっ‥‥凄い‥‥。
+今度は俺が口を近づけただけで、シリアは進んで口をあけた。舌が俺の口腔に入ってきて、内部をなぞりまくる。
+たっぷりと唾液を流し込むと、シリアは躊躇なくそれを飲み込んだ。ごくっという喉の音が部屋に響きわたる。
+【シリア】もう‥‥あぅっ！　だ、だめ‥‥うっ！
+【小次郎】くっ‥‥い、いきそうだ。
+【シリア】いいわ‥‥イって！　イって！
+【小次郎】どこに‥‥出して欲しい？
+【シリア】あぁぁ‥‥そんなこと‥‥。
+【小次郎】言え！
+【シリア】顔よ！　顔にかけて！　白くてドロドロしたのを、顔に！！
 0355
-���E�ɂ܂Ŗc��オ�������_���A�V���A���S������Y�����ƈ����ɔ������B
-�ޏ��͂����Ɖ��̌ҊԂ̑O�ɂЂ��܂����A�����Ƃ����\��œ��_�������������B
+限界にまで膨れ上がった肉棒を、シリアの膣内からズルリと引きに抜いた。
+彼女はさっと俺の股間の前にひざまずき、恍惚とした表情で肉棒をしごきだす。
 0355b
-�y�V���A�z�������d�d���A����ȂɃp���p���Ɂd�d�B
-�y�V���A�z������A�o���ād�d���̊�ɐ��݂������炢�A�M���ăh���h�������̂��A�����Ղ�I
-�h�N���I
-�y�V���A�z�񂠂��d�d�B
+【シリア】あぁぁ‥‥こ、こんなにパンパンに‥‥。
+【シリア】いいわ、出して‥‥私の顔に染みがつくくらい、熱くてドロドロしたのを、たっぷり！
+ドクン！
+【シリア】んあっ‥‥。
 0355c
-�h�N�A�h�N�A�h�N�d�d�B
-�M�����t����Ɏ󂯂Ȃ���A�V���A�͂Ȃ����g�̂��z�������Ă���B���������t�̂͂����Ղ�ƁA�ޏ��̊�ɂ��������B
-�y�V���A�z���ӂ��d�d��d�d�����d�d���Ɋ܂�ł����H
-�܂��{�����z�����Ă��郂�m���A�V���A�͈��������Ɉ���A�����ƌ��o�Ɋ܂ށB
-�ޏ��̗ʊ�������[�𝆂݂Ȃ���A���͂�����x�A�c�������t��ޏ��̌����ɓf���o�����B
-�h�N���I
-�Ō�̈�H�܂ł��ڂ�Ƃ낤�ƁA�V���A�͖j�����ڂ߁A����˂��Ƃ�Ɣ��킵�Ă���B
-�����Ƃ����\��Ő��t��ۂݍ��ރV���A���݂āA���͂��̓q���ɏ������Ɗm�M�����d�d�B
-�s���|�[���d�d�B2
+ドク、ドク、ドク‥‥。
+熱い精液を顔に受けながら、シリアはなおも身体を痙攣させている。白濁した液体はたっぷりと、彼女の顔にかかった。
+【シリア】あふぅ‥‥ん‥‥すご‥‥口に含んでいい？
+まだ怒張し痙攣しているモノを、シリアは愛しそうに握り、そっと口腔に含む。
+彼女の量感ある乳房を揉みながら、俺はもう一度、残った精液を彼女の口内に吐き出した。
+ドクン！
+最後の一滴までしぼりとろうと、シリアは頬をすぼめ、舌をねっとりと這わしてくる。
+恍惚とした表情で精液を呑み込むシリアをみて、俺はこの賭けに勝ったと確信した‥‥。
+ピンポーン‥‥。2
 \ 
 [Kojiroh] Who is that?
 [Siria] ...?
@@ -503,11 +503,11 @@ Yayoi opens the door.
 waku
 0357
 eve_52
-�I�I�I�I�I�I�I�I�I�I2
+！！！！！！！！！！2
 \ 
 0357b
 eve_52
-�H�H�H�H�H�I�I�I�I�I2
+？？？？？！！！！！2
 \ 
 0357
 0357
@@ -532,7 +532,7 @@ eve_16
 The door slams shut.0
 001
 b05
-�y�퐶�z�����g�ނ��o���ŁA�������t���I
+【弥生】下半身むき出しで、言う言葉か！
 [Kojiroh] You didn't have to punch me, did you!?
 [Yayoi] Don't touch me, and don't come any closer!
 [Kojiroh] Why not?
@@ -593,11 +593,11 @@ a001_5
 [Kojiroh] That survival knife, is that yours?
 [Siria] ...
 [Kojiroh] That's fine, if you don't wanna say\anything. It just means more fun for me later.
-�@Look/Investigate
-�@Move
-�@Speak
-�@Disarm
-�@Siria
+　Look/Investigate
+　Move
+　Speak
+　Disarm
+　Siria
 [Kojiroh] Now... Ms. Big Tits... May I call you\that?
 [Siria] NO!
 [Kojiroh] Fine, geez... Anyway, tell me more about\what you were talking about.
@@ -702,7 +702,7 @@ Slap... Slap...
 [Siria] Are you awake?
 Slap!
 eve_29
-�c���������������@�U\  - 9* / 12 / 06 -0
+Ｄｅｃｅｍｂｅｒ　６\  - 9* / 12 / 06 -0
 waku
 0340
 eve_39
@@ -810,7 +810,7 @@ Siria gives me a stare.
 [Siria] It's the truth.
 [Kojiroh] You know, I like you.
 [Siria] ...
-�@Disarm Siria
+　Disarm Siria
 [Kojiroh] (Okay, I disarmed her.)
 [Kojiroh] (I can't be too careful, you know.)
 [Kojiroh] Let's do this again.
@@ -851,10 +851,10 @@ Siria gives me a stare.
 [Kojiroh] Your leg... Is it injured?
 [Siria] It's no big deal. And plus, it's none of\your business.
 [Kojiroh] (Talk about an attitude problem...)
-�@Surroundings
-�@Siria
-�@Clothes
-�@Breasts
+　Surroundings
+　Siria
+　Clothes
+　Breasts
 [Kojiroh] (What the hell is wrong with her?)
 [Kojiroh] (There's something wrong here...)
 [Kojiroh] (Why is she sweating so much...? It's\like she's about to fall or something...)
@@ -891,21 +891,21 @@ Siria gives me a stare.
 [Kojiroh] Are they natural?
 [Siria] What are?
 [Kojiroh] Oh, nothing...
-�@Go outside
+　Go outside
 [Kojiroh] (No, this has to be dealt with first.)
 [Kojiroh] (I can't go outside now.)
 [Kojiroh] (I have to retrieve some information from\her.)
 [Kojiroh] Now what?
-�@Look/Investigate
-�@Move
-�@Equipment
-�@Save/Load
-�@Save
-�@Load
-�@Photograph
-�@Glock
-�@Cash
-�@Viagra
+　Look/Investigate
+　Move
+　Equipment
+　Save/Load
+　Save
+　Load
+　Photograph
+　Glock
+　Cash
+　Viagra
 s10
 [Kojiroh] A weird art.
 001
@@ -928,10 +928,10 @@ s07
 [Kojiroh] I don't feel like doing it right now.
 [Kojiroh] I nipped it with my zipper, remember? It\still hurts a little.
 [Kojiroh] Gimme a break...
-�@Surroundings
-�@Lights
-�@Table
-�@Work desk
+　Surroundings
+　Lights
+　Table
+　Work desk
 [Kojiroh] The office is getting cleaner.
 [Kojiroh] It kinda feels weird to be in a room\that's all clean.
 [Kojiroh] It's all thanks to Purin. I can almost\say that this place is my sweet home.
@@ -946,7 +946,7 @@ s07
 [Kojiroh] All my data are in the terminal.
 [Kojiroh] If someone tries to use it without\authorizations, the light on the side turn on.
 [Kojiroh] And it was on last night...
-�@Go outside
+　Go outside
 [Kojiroh] Hey Purin! I'm going out.
 [Kojiroh] Oh wait, she's not here right now.
 [Kojiroh] Alright, let's go.
@@ -959,12 +959,12 @@ a002
 [Kojiroh] Maybe she just went shopping or\something.
 [Kojiroh] Anyway, let's go.
 a002
-�@Look/Investigate
-�@Move
-�@Speak
-�@Invite
-�@Think
-�@Agree or reject
+　Look/Investigate
+　Move
+　Speak
+　Invite
+　Think
+　Agree or reject
 [Kojiroh] (My mind is already made up.)
 [Kojiroh] (I was fooled by that fake.)
 [Kojiroh] (I want any information that has to do\with it.)
@@ -982,8 +982,8 @@ a002
 [Kyoko] So?
 [Kojiroh] ...
 [Kojiroh] (I should just tell her what I'm\thinking.)
-�@Ask on a date
-�@Hades
+　Ask on a date
+　Hades
 [Kojiroh] I guess you just don't understand...
 [Kyoko] Who can...?
 [Kojiroh] She just don't get my point...
@@ -1004,7 +1004,7 @@ a002
 [Kojiroh] Come on, lets sit down and have a chat.
 [Kyoko] We are...
 [Kojiroh] Oh, that's right...
-�@Kyoko
+　Kyoko
 [Kyoko] I'm gonna do this, with or without your\help.
 [Kojiroh] Can I give you a word of advice?
 [Kyoko] Sure.
@@ -1191,10 +1191,10 @@ Something breaks in the kitchen.
 [Kojiroh] But understand the circumstances, you can\bend a little... Is that what you're saying?
 [Kyoko] Uh-huh.
 [Kojiroh] (I wonder what she's got to say...?)
-�@Surroundings
-�@Hair
-�@Breasts
-�@Uniform
+　Surroundings
+　Hair
+　Breasts
+　Uniform
 [Kyoko] You need to clean this place up.
 [Kojiroh] (Yeah, yeah...)
 [Kyoko] That girl was cleaning this place up until\you came back.
@@ -1230,7 +1230,7 @@ Something breaks in the kitchen.
 [Kyoko] ...
 [Kojiroh] Come on. How much? I'll take them.
 [Kyoko] ...
-�@Bath
+　Bath
 [Kojiroh] Please?
 [Kyoko] I don't get you...
 [Kyoko] No.
@@ -1245,13 +1245,13 @@ Something breaks in the kitchen.
 [Kojiroh] (Damn, it's only a joke...)
 [Kojiroh] Nikaido on the wanted list...?
 [Kojiroh] What the hell's going on?
-�@Look/Investigate
-�@Move
-�@Speak
-�@Equipment
-�@Think
-�@Save/Load
-�@Kou
+　Look/Investigate
+　Move
+　Speak
+　Equipment
+　Think
+　Save/Load
+　Kou
 [Kojiroh] Maybe if I find that fake, I'll know\what's going on.
 [Kojiroh] Man, this is all Akane's fault.
 [Kojiroh] And she wants a share of the profit for\getting me the job?
@@ -1309,9 +1309,9 @@ eve_10
 [Kojiroh] Didn't Purin mention something about a\phone call?
 [Kojiroh] Leave a message if you're going to\call...
 [Kojiroh] ...
-�@Save
-�@Load
-�@Purin
+　Save
+　Load
+　Purin
 [Kojiroh] Don't be a meanie...
 [Purin] Yes?
 [Kojiroh] You don't have to come.
@@ -1348,10 +1348,10 @@ b03
 001
 Purin leaves.
 [Kojiroh] Great... Good going Kojiroh...
-�@Photograph
-�@Glock
-�@Cash
-�@Viagra
+　Photograph
+　Glock
+　Cash
+　Viagra
 s10
 [Kojiroh] It's a weird art.
 001
@@ -1384,10 +1384,10 @@ b03
 001
 [Kojiroh] ...
 [Kojiroh] Damn, that was close. I almost lost my\manhood there...
-�@Surroundings
-�@Lights
-�@Table
-�@Work desk
+　Surroundings
+　Lights
+　Table
+　Work desk
 [Kojiroh] Purins been cleaning this place up.
 [Kojiroh] What did I get myself into...
 [Kojiroh] She's still cleaning up in the other\room...
@@ -1402,7 +1402,7 @@ b03
 [Kojiroh] All of my data is in that terminal.
 [Kojiroh] If someone logs on without authorization,\the light on the side turns on.
 [Kojiroh] And it was on last night.
-�@Go outside
+　Go outside
 [Kojiroh] Let's go outside.
 a002
 [Kojiroh] Yeah, thinking won't help much. I have to\go find clues.

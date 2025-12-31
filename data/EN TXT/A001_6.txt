@@ -17,10 +17,10 @@ eve_39
 [Kyoko] I think so...
 [Kojiroh] Now you're a first class spy.
 [Kyoko] I'm warming up to the work.
-Å@Input
-Å@Quit this search
-Å@Regarding Eldia
-Å@Regarding political systems
+„ÄÄInput
+„ÄÄQuit this search
+„ÄÄRegarding Eldia
+„ÄÄRegarding political systems
 [Kyoko] Huh? Didn't you already do that?
 [Kojiroh] Yeah, but just one more time.
 [Kyoko] Jesus! Even after I said time is of the\essence...
@@ -167,12 +167,12 @@ Input subject words. (end: enter_key)\-->0
 [Kyoko] Alright, so what keyword do we search with\next?
 [Kyoko] Quit the "politics" category, right?
 [Kyoko] I'm returning to the top menu.
-Å@Input
-Å@Quit this search
+„ÄÄInput
+„ÄÄQuit this search
 [Kyoko] Okay, so I'm quitting the Arts category.
 [Kyoko] I'm returning to the top menu.
-Å@Painters
-Å@About the curse
+„ÄÄPainters
+„ÄÄAbout the curse
 [Kyoko] NO WAY!
 [Kojiroh] All right, all right...
 [Kyoko] Why do you want to know about a curse\anyway?
@@ -208,8 +208,8 @@ Search a database\Press number to select0
 Press number to select\--> 10
 Input subject words. (end: enter_key)\-->0
 [Kyoko] Alright, so what keyword do we search with\next?
-Å@Input
-Å@Quit this search
+„ÄÄInput
+„ÄÄQuit this search
 [Kojiroh] I'm sure you can do it.
 [Kyoko] Don't look at me like that!
 [Kojiroh] Like what?
@@ -218,12 +218,12 @@ Input subject words. (end: enter_key)\-->0
 [Kyoko] Oh yeah?... Well, for now time is precious.
 [Kyoko] Quit the "people" category, right?
 [Kyoko] I'm returning to the top menu.
-Å@People 1
-Å@People 2
-Å@Mido
-Å@Kou
-Å@"Terror"
-Å@Mayako
+„ÄÄPeople 1
+„ÄÄPeople 2
+„ÄÄMido
+„ÄÄKou
+„ÄÄ"Terror"
+„ÄÄMayako
 [Kyoko] You want to look at that out again?
 [Kojiroh] Quit your griping and just do it.
 [Kyoko] Whatever you say, boss.
@@ -600,10 +600,10 @@ Search a database\Press number to select0
 Press number to select\--> 50
 Input subject words. (end: enter_key)\-->0
 [Kyoko] Alright, so what keyword do we search with\next?
-Å@Purin
-Å@Siria
-Å@Marina
-Å@Me
+„ÄÄPurin
+„ÄÄSiria
+„ÄÄMarina
+„ÄÄMe
 [Kojiroh] I already checked out Purin...
 [Kojiroh] That candy-ass told me everything she\knows.
 [Kyoko] Purin... That kid?
@@ -767,12 +767,12 @@ Search a database\Press number to select0
 4: Arts, Literature, Religion\5: People0
 Press number to select\--> _0
 [Kyoko] What number do you want to try?
-Å@Go back
-Å@Select 3
-Å@Select 1
-Å@Select 4
-Å@Select 2
-Å@Select 5
+„ÄÄGo back
+„ÄÄSelect 3
+„ÄÄSelect 1
+„ÄÄSelect 4
+„ÄÄSelect 2
+„ÄÄSelect 5
 0380
 [Kyoko] There's no time for that.
 [Kyoko] Politics again?
@@ -837,14 +837,14 @@ Input subject words. (end: enter_key)\-->0
 [Kyoko] Input the search word. The category is\"People."
 [Kojiroh] Yeah...
 [Kojiroh] Well then...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Hack
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Mido's personal information
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄHack
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄMido's personal information
 [Kyoko] No matter how many times we do it...
 [Kojiroh] It's our only choice.
 [Kyoko] I guess you're right.
@@ -861,16 +861,16 @@ Beginning this year he has taken a position in the Eldian Embassy in Japan to co
 ** Warning level.7 **0
 Japanese Government, "Neo Cerebral Project," of the former Eldian0
 [Kyoko] Hey! Here we go!0
-Japanese Government, "Neo Cerebral Project," of the former EldianÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian InÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian InteÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian IntellÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian IntelligÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian IntelligenÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian IntelligenceÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence SeÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence SectÅ°0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence SectorÅ°0
+Japanese Government, "Neo Cerebral Project," of the former Eldian‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian In‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Inte‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intell‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intellig‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligen‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Se‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Sect‚ñ†0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Sector‚ñ†0
 Cannot access... Need higher clearance.0
 [Kyoko] No!... Why?
 0380
@@ -906,19 +906,19 @@ Password analysis complete. 242BA30
 [Kyoko] I think we can if two people do it\together, but I can't be sure...
 [Kojiroh] We can't let this chance get away from\us.
 [Kyoko] All right then... I'll answer the message.
-Å°0
-RogÅ°0
-Roger.Å°0
-Roger. WeÅ°0
-Roger. We'll Å°0
-Roger. We'll inÅ°0
-Roger. We'll inpuÅ°0
-Roger. We'll input Å°0
-Roger. We'll input it Å°0
-Roger. We'll input it frÅ°0
-Roger. We'll input it from Å°0
-Roger. We'll input it from heÅ°0
-Roger. We'll input it from here.Å@0
+‚ñ†0
+Rog‚ñ†0
+Roger.‚ñ†0
+Roger. We‚ñ†0
+Roger. We'll ‚ñ†0
+Roger. We'll in‚ñ†0
+Roger. We'll inpu‚ñ†0
+Roger. We'll input ‚ñ†0
+Roger. We'll input it ‚ñ†0
+Roger. We'll input it fr‚ñ†0
+Roger. We'll input it from ‚ñ†0
+Roger. We'll input it from he‚ñ†0
+Roger. We'll input it from here.„ÄÄ0
 [Kyoko] I think they'll get what we mean.
 [Kojiroh] What do you plan to do?
 [Kyoko] While this other person goes into escape\mode, I'll remove the data lock.
@@ -998,7 +998,7 @@ Cannot access... Need higher clearance0
 [Kojiroh] Even if I tried to help, we've only got\one keyboard.
 [Kyoko] It's physically impossible. Shit!
 [Kojiroh] ...
-Å@Kyoko
+„ÄÄKyoko
 [Kyoko] I'll give it a shot...
 [Kyoko] I don't know what to do... It's not gonna\work.
 [Kyoko] It's physically impossible with just one\person!
@@ -1008,10 +1008,10 @@ Cannot access... Need higher clearance0
 [Kyoko] Let's hurry up and use DBMS to search.
 [Kojiroh] Yeah...
 [Kyoko] While we're wasting time, our chances of\being traced get greater and greater.
-Å@Kyoko
-Å@Monitor
-Å@Fingers
-Å@Shoulders
+„ÄÄKyoko
+„ÄÄMonitor
+„ÄÄFingers
+„ÄÄShoulders
 Search a database\Press number to select0
 1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
 4: Arts, Literature, Religion\5: People0
@@ -1051,7 +1051,7 @@ I massage her shoulders.0
 [Kojiroh] I'll bet if I really did lick you, you'd\like it.
 [Kojiroh] Slurp!
 [Kyoko] Quit mumbling, I can't understand a word\you're saying.
-Å@Between Kyoko's legs
+„ÄÄBetween Kyoko's legs
 [Kyoko] I'm begging you, please take this\seriously.
 [Kojiroh] (My piston is about ready to fire... I'd\better quit while I'm ahead.)
 [Kyoko] Hey, cut that out.
@@ -1060,53 +1060,53 @@ eve_44
 *****   P.S.I.A Data Base Management System   *****\== Last Login 99-99-99 99:99:99 ==\== Login Time 95-12-06 15:43:18 ==0
 Ch20-50 64k/31.2k/28.8kbps\Ch2,3 President 28800k Degital Opt.0
 News infomation (95/12/06)\    ttm: soc.politics.jiji\    mtm: soc.economic.jiji0
-Input Your Password : Å°0
+Input Your Password : ‚ñ†0
 [Kyoko] I thought we'd finally reached the internal\network, but now this password screen comes up and\leaves us with nothing!
 [Kojiroh] What's the problem?
 [Kyoko] I don't know... If this continues then the\other user will also be found out.
 [Kojiroh] Forget about the other user. We're the\ones who'll get busted.
 [Kyoko] What... Look! 
-Input Your Password : tÅ°0
-Input Your Password : tiÅ°0
-Input Your Password : tieÅ°0
-Input Your Password : tie5Å°0
-Input Your Password : tie55Å°0
-Input Your Password : tie55/Å°0
-Input Your Password : tie55/0Å°0
+Input Your Password : t‚ñ†0
+Input Your Password : ti‚ñ†0
+Input Your Password : tie‚ñ†0
+Input Your Password : tie5‚ñ†0
+Input Your Password : tie55‚ñ†0
+Input Your Password : tie55/‚ñ†0
+Input Your Password : tie55/0‚ñ†0
 [Kyoko] They've started inputting...
 [Kojiroh] Yeah, but it's so slow...
 [Kyoko] It's like they're thinking their way\through it.
-Input Your Password : tie55/09Å°0
-Input Your Password : tie55/09/Å°0
-Input Your Password : tie55/09/2Å°0
-Input Your Password : tie55/09/22Å°0
+Input Your Password : tie55/09‚ñ†0
+Input Your Password : tie55/09/‚ñ†0
+Input Your Password : tie55/09/2‚ñ†0
+Input Your Password : tie55/09/22‚ñ†0
 [Kyoko] It's stopped again...
 [Kojiroh] What does that mean.
-Input Your Password : tie55/09/2Å° 0
-Input Your Password : tie55/09/Å° 0
-Input Your Password : tie55/09Å°  0
-Input Your Password : tie55/0Å°   0
-Input Your Password : tie55/Å°    0
-Input Your Password : tie55Å°     0
-Input Your Password : tie5Å°      0
-Input Your Password : tieÅ°       0
-Input Your Password : tiÅ°        0
-Input Your Password : tÅ°         0
-Input Your Password : Å°          0
+Input Your Password : tie55/09/2‚ñ† 0
+Input Your Password : tie55/09/‚ñ† 0
+Input Your Password : tie55/09‚ñ†  0
+Input Your Password : tie55/0‚ñ†   0
+Input Your Password : tie55/‚ñ†    0
+Input Your Password : tie55‚ñ†     0
+Input Your Password : tie5‚ñ†      0
+Input Your Password : tie‚ñ†       0
+Input Your Password : ti‚ñ†        0
+Input Your Password : t‚ñ†         0
+Input Your Password : ‚ñ†          0
 [Kyoko] It's, It's starting over.
 [Kojiroh] ...They're inputting it again.
 [Kyoko] What?...
-Input Your Password : TÅ°0
-Input Your Password : TIÅ°0
-Input Your Password : TIEÅ°0
-Input Your Password : TIE5Å°0
-Input Your Password : TIE55Å°0
-Input Your Password : TIE55/Å°0
-Input Your Password : TIE55/0Å°0
-Input Your Password : TIE55/09Å°0
-Input Your Password : TIE55/09/Å°0
-Input Your Password : TIE55/09/2Å°0
-Input Your Password : TIE55/09/23Å°0
+Input Your Password : T‚ñ†0
+Input Your Password : TI‚ñ†0
+Input Your Password : TIE‚ñ†0
+Input Your Password : TIE5‚ñ†0
+Input Your Password : TIE55‚ñ†0
+Input Your Password : TIE55/‚ñ†0
+Input Your Password : TIE55/0‚ñ†0
+Input Your Password : TIE55/09‚ñ†0
+Input Your Password : TIE55/09/‚ñ†0
+Input Your Password : TIE55/09/2‚ñ†0
+Input Your Password : TIE55/09/23‚ñ†0
 [Kyoko] You're right...
 [Kojiroh] They realized that the first part needs\to be in capital letters.
 [Kyoko] But why would they even try to access the\system manually? Why not use auto-login?
@@ -1114,13 +1114,13 @@ Input Your Password : TIE55/09/23Å°0
 [Kyoko] What do you think it is?
 [Kojiroh] I wonder...
 [Kyoko] ...
-Input Your Password : TIE55/09/23Å@0
-Input Your Password : TIE55/09/23Å°0
-Input Your Password : TIE55/09/23Å@0
-Input Your Password : TIE55/09/23Å°0
-Input Your Password : TIE55/09/23Å@0
-Input Your Password : TIE55/09/23Å°0
-Input Your Password : TIE55/09/23Å@0
+Input Your Password : TIE55/09/23„ÄÄ0
+Input Your Password : TIE55/09/23‚ñ†0
+Input Your Password : TIE55/09/23„ÄÄ0
+Input Your Password : TIE55/09/23‚ñ†0
+Input Your Password : TIE55/09/23„ÄÄ0
+Input Your Password : TIE55/09/23‚ñ†0
+Input Your Password : TIE55/09/23„ÄÄ0
 Connect channel 25  64.4k/ISDN/ARQ\Last Logout=95/12/04 18:43:06\Today's Access #2232+a80b20
 main>> _0
 [Kyoko] Soon we'll access DBMS itself...
@@ -1180,21 +1180,21 @@ Press number to select\--> _0
 [Kyoko] Think about it, dumbass! This is the\government's central database! If we get caught\we'll get the death penalty a hundred times over!
 [Kojiroh] No problem. It only hurts the first time.
 [Kyoko] How can I even take you seriously...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Kyoko
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄKyoko
 [Kyoko] Hey, Romeo, pay attention to the monitor.
 [Kyoko] I'm gonna try and trace it... I can't mess\this up.
 [Kojiroh] Go easy on yourself. When you make it\such a big deal you mess up things you normally\wouldn't.
 [Kyoko] Thanks for the free advice. I'll do my\best...
-Å@Kyoko
-Å@Monitor
-Å@Fingers
-Å@Shoulders
+„ÄÄKyoko
+„ÄÄMonitor
+„ÄÄFingers
+„ÄÄShoulders
 [Kojiroh] (Kyoko seems a little tense.)
 [Kojiroh] (She's looking a little tense...)
 [Kojiroh] (I should shut up. She can't relax when I\talk so much...)
@@ -1224,8 +1224,8 @@ Press number to select\--> _0
 [Kojiroh] Heh, heh... It's a sign of affection.
 [Kyoko] Quit bothering me, okay?
 [Kojiroh] Alas, my affection is tragically dumped\upon.
-Å@Leave the terminal
-Å@Sit on Kyoko's lap
+„ÄÄLeave the terminal
+„ÄÄSit on Kyoko's lap
 [Kyoko] Goddamit!
 [Kojiroh] Sorry...
 [Kojiroh] I guess this isn't the right time to fool\around...

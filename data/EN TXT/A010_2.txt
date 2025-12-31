@@ -98,11 +98,11 @@ b08
 [Kyoko] I told you... I don't trust you yet.
 [Kojiroh] I can tell. But I can also tell you're\not the murderer.
 [Kyoko] ...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Push
-Å@Police
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄPush
+„ÄÄPolice
 [Policeman] The girl who was here yesterday isn't\here today.
 [Policeman] You mean, the girl who was here\yesterday?
 [Policeman] Hmm... I don't see her. Isn't she your\sister?
@@ -110,9 +110,9 @@ b08
 [Policeman] You wanna know why we're still standing\here?
 [Policeman] The crime scene has been inspected... I\can't figure out why the area is still sealed\off...
 [Policeman] Ha ha ha... What use would it be to ask\such a thing?
-Å@Doorbell
-Å@Shrubbery
-Å@Telephone pole
+„ÄÄDoorbell
+„ÄÄShrubbery
+„ÄÄTelephone pole
 [Policeman] You'd better stop before I MAKE you\stop.
 [Policeman] There's no one inside...
 [Policeman] It seems someone in this house was\murdered the night before last...
@@ -133,10 +133,10 @@ I use all my might...
 I try pushing even harder.
 [Policeman] What are you trying to accomplish by\pushing the telephone pole?
 [Kojiroh] This is too embarrassing... Enough of\this.
-Å@Surroundings
-Å@Kou's mansion
-Å@Shrubbery
-Å@Policeman
+„ÄÄSurroundings
+„ÄÄKou's mansion
+„ÄÄShrubbery
+„ÄÄPoliceman
 [Kojiroh] Two people are standing guard in front of\the house.
 [Kojiroh] It's the same ones who were here\yesterday.
 [Kojiroh] How long are they gonna keep this up?
@@ -155,17 +155,17 @@ I try pushing even harder.
 [Kojiroh] They're just your average bushes and\shrubs...
 [Kojiroh] Maybe I'll try pulling it out...
 [Policeman] Please don't pull out the bushes, sir.
-Å@Enter the house
-Å@Warehouse district
+„ÄÄEnter the house
+„ÄÄWarehouse district
 [Kojiroh] I can't go inside... Too bad.
 [Kojiroh] Thanks to the cops and their tape, I\can't go inside the house.
 [Kojiroh] Hmm...
 a002_2
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Push
-Å@Policeman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄPush
+„ÄÄPoliceman
 [Policeman] Unfortunately, our department hasn't\yet been informed of any details concerning this\case.
 [Policeman] Therefore, we're not answering any\questions at the moment, sir.
 [Policeman] It's a pretty frightening matter...
@@ -177,9 +177,9 @@ a002_2
 [Policeman] We've been standing here ever since\early this afternoon.
 [Policeman] It'd be nice if the next shift showed\up.
 [Policeman] By the way... Don't write that in your\article.
-Å@Doorbell
-Å@Shrubbery
-Å@Telephone pole
+„ÄÄDoorbell
+„ÄÄShrubbery
+„ÄÄTelephone pole
 [Policeman] Stop...
 [Policeman] You were here this afternoon, weren't\you...
 [Policeman] Please make sure not to damage the\crime scene.
@@ -200,10 +200,10 @@ I push with all my might.
 I push with all my might...
 [Policeman] Why, may I ask, are you pushing the\telephone pole?
 [Kojiroh] This is too embarrassing... Enough for\now.
-Å@Surroundings
-Å@Kou's mansion
-Å@Shrubbery
-Å@Policeman
+„ÄÄSurroundings
+„ÄÄKou's mansion
+„ÄÄShrubbery
+„ÄÄPoliceman
 [Kojiroh] There are two people standing guard in\front of the house...
 [Kojiroh] These guy's have been working their asses\off...
 [Policeman] Come on... Won't the next shift ever\show up?
@@ -219,17 +219,17 @@ I push with all my might...
 [Kojiroh] There's no need to push them, though.
 [Kojiroh] It's not like these roots change at\nighttime. Jeez...
 [Kojiroh] They're just your average bushes and\shrubbery.
-Å@Enter the house
-Å@Warehouse district
+„ÄÄEnter the house
+„ÄÄWarehouse district
 [Kojiroh] I can't get inside... Too bad.
 [Kojiroh] Thanks to the cops and their tape, I\can't get inside.
 [Kojiroh] Hmm...
 a002
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Search
-Å@Policeman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄSearch
+„ÄÄPoliceman
 [Policeman] Unfortunately, our department hasn't\yet been informed of any details concerning this\case.
 [Policeman] Therefore, we're not answering any\questions at the moment, sir.
 [Policeman] Are you her guardian?
@@ -254,9 +254,9 @@ a002
 [Policeman] Well... I only know what I read in the\newspapers so...
 [Kojiroh] I see...
 [Kojiroh] (I shouldn't expect much from an officer\guarding the crime scene anyway.)
-Å@Doorbell
-Å@Shrubbery
-Å@Telephone pole
+„ÄÄDoorbell
+„ÄÄShrubbery
+„ÄÄTelephone pole
 [Policeman] Stop...
 [Policeman] Hey! You can't just push their\doorbell!
 [Policeman] The electricity is cut off now, so the\doorbell doesn't work.
@@ -277,10 +277,10 @@ I push with all my might...
 I push with all my might...
 [Policeman] Why, may I ask, are you pushing the\telephone pole?
 [Kojiroh] This is embarrassing... Enough of this.
-Å@Surroundings
-Å@Kou's mansion
-Å@Shrubbery
-Å@Police
+„ÄÄSurroundings
+„ÄÄKou's mansion
+„ÄÄShrubbery
+„ÄÄPolice
 [Kojiroh] Two of them are in front of the house.
 [Kojiroh] I suppose they're standing guard...
 [Kojiroh] I think the crime scene inspection is\over...
@@ -298,8 +298,8 @@ I push with all my might...
 [Kojiroh] The tape is blocking the bushes, so I\can't push them. Darn.
 [Kojiroh] There's no need to push them, though.
 [Kojiroh] There's nothing strange here... They're\plain old bushes.
-Å@Enter the house
-Å@Warehouse district
+„ÄÄEnter the house
+„ÄÄWarehouse district
 [Kojiroh] I can't go inside... It's no use.
 [Kojiroh] Thanks to the cops and their tape, I\can't get inside.
 [Kojiroh] Hmm...
@@ -317,10 +317,10 @@ a002
 [Kojiroh] (I wonder what Purin was talking to the\cops about...)
 [Kojiroh] Hmm...
 a002
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Kyoko
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄKyoko
 [Kyoko] SO, I guess I'll see you around.
 [Kojiroh] Guess so...
 [Kyoko] What are you going to do now?
@@ -444,10 +444,10 @@ a002
 [Kojiroh] At least you find my conversation\interesting.
 [Kyoko] This isn't exactly the stuff I'm used to\hearing during a murder case.
 [Kojiroh] Hence, my lack of clientele.
-Å@Surroundings
-Å@Kyoko
-Å@Hair
-Å@Clothes
+„ÄÄSurroundings
+„ÄÄKyoko
+„ÄÄHair
+„ÄÄClothes
 [Kojiroh] (It sure is a quiet neighborhood. I\hardly see anyone.)
 [Kojiroh] (It's a pretty quiet neighborhood...)
 [Kojiroh] (No one's walking the streets... Standing\around and talking might cause trouble.)
@@ -465,8 +465,8 @@ a002
 [Kojiroh] (What'll I do when it's time to have\fun?)
 [Kojiroh] (Uh-oh... I think she sees me staring at\her body...)
 [Kojiroh] (It's the clothes she was wearing when I\made her take off her pants.)
-Å@íÜÇ…ÇÕÇ¢ÇÈ
-Å@ëqå…äX
+„ÄÄ‰∏≠„Å´„ÅØ„ÅÑ„Çã
+„ÄÄÂÄâÂ∫´Ë°ó
 [Kyoko] Where do you think you're going? I'll call\for the police...
 [Kojiroh] (I'd like to speak with Kyoko just a bit\longer.)
 [Kojiroh] (I just came out of there... Why should I\go back already?)

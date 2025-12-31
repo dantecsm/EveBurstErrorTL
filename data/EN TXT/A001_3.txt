@@ -102,7 +102,7 @@ The shower door opens.
 [Kojiroh] What, are you crazy?!? Have you lost your\damned mind?!?
 Squish.
 Ohhh!...
-\Å@
+\„ÄÄ
 [Purin] Are you alright? I heard a terrible\sound...
 [Kojiroh] I slammed my head against the wall... I'm\a bit dizzy.
 [Purin] Sit down, and do it slowly.
@@ -407,7 +407,7 @@ She balls her eyes out.
 001
 She dashes off to do another chore.
 eve_29
-ÇcÇÖÇÉÇÖÇçÇÇÇÖÇíÅ@ÇT\  - 9* / 12 / 05 -0
+Ôº§ÔΩÖÔΩÉÔΩÖÔΩçÔΩÇÔΩÖÔΩí„ÄÄÔºï\  - 9* / 12 / 05 -0
 waku
 Wham!
 [Kojiroh] Hey, don't break the table.
@@ -439,12 +439,12 @@ eve_03
 [Kojiroh] (I ain't that excited.)
 [Kojiroh] (They were in a bad fix and they just\received a knock out punch.)
 [Kojiroh] (Nikaido's a fool...)
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Touch
-Å@Tits
-Å@Camera
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄTouch
+„ÄÄTits
+„ÄÄCamera
 [Kojiroh] (You never know what's written...)
 [Kojiroh] (I'd better not...)
 [Akane] Jesus... Do I have to prove to you that the\pen is stronger than any sword?
@@ -465,7 +465,7 @@ I touch her.
 [Kojiroh] Come on, now...
 [Akane] It will stink!
 [Kojiroh] Hey...
-Å@Akane
+„ÄÄAkane
 [Kojiroh] Go read the paper. Maybe you'll find your\name in the credits.
 [Akane] I'm too busy writing the news to read it!
 [Kojiroh] You're talking like a pro...
@@ -597,10 +597,10 @@ b16c
 [Akane] Maybe you're right...
 [Kojiroh] ...
 [Akane] Maybe I am acting a little strange.
-Å@Surroundings
-Å@Akane
-Å@Camera
-Å@Ribbon
+„ÄÄSurroundings
+„ÄÄAkane
+„ÄÄCamera
+„ÄÄRibbon
 [Akane] Look at me!
 [Kojiroh] Purins hiding out in the kitchen...
 [Kojiroh] She is looking this way in fear.
@@ -624,21 +624,21 @@ b16c
 [Akane] You can't have it.
 [Akane] You can't have it!
 [Kojiroh] I don't need it.
-Å@Hide
+„ÄÄHide
 [Akane] There's no way you can hide from me.
 [Akane] There's no use in hiding! Tell me what's\going on!
 [Kojiroh] Damn, woman... Don't you tell me what to\do!
 [Kojiroh] Forget about Purin. There are more\important issues at hand. You know, like who's\blowing the president.
 [Kojiroh] There must be something I have to think\seriously about.
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Think
-Å@Listen
-Å@Lie down
-Å@Save/Load
-Å@Bed
-Å@Sofa
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄThink
+„ÄÄListen
+„ÄÄLie down
+„ÄÄSave/Load
+„ÄÄBed
+„ÄÄSofa
 [Kojiroh] Not the bed... I'll never relax there.
 [Kojiroh] I'm still young, you know.
 [Kojiroh] Today I'll take the sofa.
@@ -718,12 +718,12 @@ But she's so soft...
 [Kojiroh] ...And Purin...How pink it was...
 [Kojiroh] ...
 [Kojiroh] ...Guess it better wait until tomorrow...
-Å@Save
-Å@Load
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a painting of a bizarre pattern.
 [Kojiroh] I already found it.
@@ -748,7 +748,7 @@ s07
 [Kojiroh] I'm not a boy anymore! I'm a man... She's\so evil...
 [Kojiroh] ...
 [Kojiroh] Oh no...
-Å@Telephone tape
+„ÄÄTelephone tape
 [Kojiroh] You want me to hear it again?
 Beeeep...
 [Voice] Hello there, Mr. Amagi.
@@ -769,12 +769,12 @@ Beeeep...
 The tape ends.
 [Kojiroh] That's it, eh...
 [Kojiroh] Hmmm...
-Å@About the killer
-Å@About Kou
-Å@About the curse
-Å@About Kyoko
-Å@About Nikaido
-Å@About what to do next
+„ÄÄAbout the killer
+„ÄÄAbout Kou
+„ÄÄAbout the curse
+„ÄÄAbout Kyoko
+„ÄÄAbout Nikaido
+„ÄÄAbout what to do next
 [Kojiroh] Why would a killer be at Kou's place...?
 [Kojiroh] I definitely didn't expect it...
 [Kojiroh] I'd like to forget about it, but I have\to jog my memory a bit.
@@ -884,11 +884,11 @@ s03
 [Kojiroh] Besides, I'd be lying if I said I wasn't\interested in the incident at Kou's place.
 [Kojiroh] But what the hell can I do?
 [Kojiroh] The cops are probably onto the case like\grease on a potsticker... There's no need for\anyone else.
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
-Å@Purin
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
+„ÄÄPurin
 0040
 [Kojiroh] She's the woman staying in my place...
 [Kojiroh] Her face is so precious when she sleeps.
@@ -920,22 +920,22 @@ s03
 [Kojiroh] The little lamp on the side was on,\meaning someone used it without authorization.
 [Kojiroh] It could've been anyone.
 [Kojiroh] Who the hell could it be?
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Enough for today...
 [Kojiroh] It's already late at night.
 [Kojiroh] There must be something more important to\think about. Right?
 [Kojiroh] Purin doesn't seem to be here.
 [Kojiroh] Maybe she's out shopping... I wonder...
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a painting of a bizarre pattern.
 [Kojiroh] And it bugs me.
@@ -958,11 +958,11 @@ s07
 [Kojiroh] I told you...
 [Kojiroh] I have none.
 [Kojiroh] What good will it do to whip it out right\now?
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
-Å@About the embassy
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
+„ÄÄAbout the embassy
 [Kojiroh] I looked it up. There's someone named\Mido at the embassy of Eldia.
 [Kojiroh] Now I'll look up some info on the\embassy.
 [Kojiroh] Her name is Mayako Mido, and her father\works for the embassy...
@@ -1016,18 +1016,18 @@ I hang up on her.
 [Kojiroh] There's signs that someone else used this\thing. Who in God's name...
 [Kojiroh] It's the desk with my terminal on top.\Who the hell used it?
 [Kojiroh] It couldn't have been Purin.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] I'll step out of the office for a bit...
 a002
 [Kojiroh] New info, eh? Well, I always trust Glen's\information.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Equipment
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Purin
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄEquipment
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPurin
 [Kojiroh] Hey, Purin!
 b03
 [Purin] Yes, Kojiroh?
@@ -1048,10 +1048,10 @@ b03
 She rushes off.
 [Kojiroh] Hmm...
 [Kojiroh] She's slightly different than usual.
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a painting of a bizarre pattern.
 [Kojiroh] I already found it.
@@ -1073,10 +1073,10 @@ s07
 [Kojiroh] I can't keep this up...
 [Kojiroh] Hey, there's a young girl in here!
 [Kojiroh] What good will it do to whip it out right\now?
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] Purin and I are the only ones in the\office.
 [Kojiroh] She's doing something in the kitchen.
 [Kojiroh] Maybe she's preparing dinner...
@@ -1091,7 +1091,7 @@ s07
 [Kojiroh] It's the desk with my terminal on top.
 [Kojiroh] It's the desk with my terminal on top.
 [Kojiroh] There's no need to use it now.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Guess I'll take a stroll.
 b03
 [Purin] Have fun!
@@ -1111,14 +1111,14 @@ a002
 [Kojiroh] I had $35,000... Now I don't even have\have $5000?...
 [Kojiroh] This is just great.
 [Kojiroh] What should I do...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Equipment
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Purin
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄEquipment
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPurin
 [Kojiroh] I have to go shopping first.
 [Purin] Okay.
 [Kojiroh] Listen up, Purin...
@@ -1170,11 +1170,11 @@ b03b
 001
 [Kojiroh] ...
 [Kojiroh] Don't lie...
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
-Å@Ticket
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
+„ÄÄTicket
 [Kojiroh] If I take this with me, I can swim in the\pool...
 [Purin] Let's go... Come on.
 [Kojiroh] Yeah, it's time for some recreation.
@@ -1204,10 +1204,10 @@ s07
 [Kojiroh] I can't keep this up...
 [Kojiroh] Hey, there's a young girl in here!
 [Kojiroh] What good will it do to whip it out right\now?
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] Purin and I are the only ones in the\office.
 [Kojiroh] Purins over there struggling with the\laundry.
 [Kojiroh] I yelled at her too much.
@@ -1222,7 +1222,7 @@ s07
 [Kojiroh] It's the desk with my terminal on top.
 [Kojiroh] It's the desk with my terminal on top.
 [Kojiroh] There's no need to use it now.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Okay, I'd better buy a swimsuit first.
 b03
 [Purin] I'm getting so excited!

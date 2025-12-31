@@ -10,17 +10,17 @@ Purin goes to the closet.
 eve_03
 [Kojiroh] Hey, why am I back?
 b03
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Make a phone call
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Yayoi's place
-Å@Glen's place
-Å@Kyoko's place
-Å@Nikaido's place
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄMake a phone call
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄYayoi's place
+„ÄÄGlen's place
+„ÄÄKyoko's place
+„ÄÄNikaido's place
 [Kojiroh] I already called...
 [Kojiroh] It was a little pathetic...
 [Kojiroh] I already called Glen...
@@ -39,12 +39,12 @@ I hang up the phone.
 [Kojiroh] ...
 [Kojiroh] Wait a sec, he isn't even part of this\world anymore.
 [Kojiroh] I'm not sure I'm gonna like it if someone\actually picks up.
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
-Å@Note
-Å@Printout log
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
+„ÄÄNote
+„ÄÄPrintout log
 [Kojiroh] That's not important now... I have other\shit to take care of first.
 [Kojiroh] The report from the government\database...
 [Kojiroh] Christ, I've already read this thing\enough to make my eyes bleed...
@@ -78,10 +78,10 @@ I hang up the phone.
 [Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
 [Kojiroh] But Purin says she doesn't know what it\means.
 [Kojiroh] I wonder what it could be...
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
 [Purin] Let's go to the Princess Hotel.
 [Kojiroh] Good idea... let's go.
 [Purin] Thank you for waiting.
@@ -102,7 +102,7 @@ b03
 [Kojiroh] The desk where my computer is...
 [Kojiroh] The place where I skated on thin ice with\Kyoko...
 [Kojiroh] I don't think the system has figured out\what we've done, but who knows...
-Å@Princess Hotel
+„ÄÄPrincess Hotel
 [Kojiroh] Okay, I'm going to the Princess Hotel!
 [Kojiroh] Some rich, stuck up ass should be there\waiting.
 [Purin] Okay, let's go.
@@ -113,17 +113,17 @@ a008
 [Kojiroh] First I should make a phone call.
 [Kojiroh] This is no time to be doing this.
 [Kojiroh] I have to make that call...
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Make a phone call
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Yayoi's place
-Å@Glen's place
-Å@Kyoko's place
-Å@Nikaido's place
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄMake a phone call
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄYayoi's place
+„ÄÄGlen's place
+„ÄÄKyoko's place
+„ÄÄNikaido's place
 [Kojiroh] I already called...
 [Kojiroh] It was a little pathetic...
 [Kojiroh] Yayoi's place?
@@ -220,12 +220,12 @@ Click.
 [Kojiroh] ...
 [Kojiroh] Wait a sec, he isn't even part of this\world anymore.
 [Kojiroh] I'm not sure I'm gonna like it if someone\actually picks up.
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
-Å@Note
-Å@Printout log
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
+„ÄÄNote
+„ÄÄPrintout log
 [Kojiroh] That's not important right now... I have\other shit to take care of first.
 [Kojiroh] The report from the government\database...
 [Kojiroh] Christ, I've already read this thing\enough to make my eyes bleed...
@@ -259,10 +259,10 @@ Click.
 [Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
 [Kojiroh] But Purin says she doesn't know what it\means.
 [Kojiroh] I wonder what it could be...
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
 [Purin] Let's go to the Princess Hotel.
 [Kojiroh] Good idea... let's go.
 [Purin] Thank you for waiting.
@@ -283,7 +283,7 @@ b03
 [Kojiroh] The desk where my computer is...
 [Kojiroh] The place where I skated on thin ice with\Kyoko...
 [Kojiroh] I don't think the system has figured out\what we've done, but who knows...
-Å@Princess Hotel
+„ÄÄPrincess Hotel
 [Kojiroh] Okay, I'm going to the Princess Hotel!
 [Kojiroh] Some rich, stuck up ass should be there\waiting.
 [Purin] Okay, let's go.
@@ -293,18 +293,18 @@ a008
 [Kojiroh] Hold on! Not so fast...
 [Kojiroh] First I should make the phone call.
 [Kojiroh] Kyoko's not there anymore... What should\I do?
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
-Å@Note
-Å@Printout Log
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
+„ÄÄNote
+„ÄÄPrintout Log
 [Kojiroh] The log-file I got from the database.
 [Kojiroh] There's some pretty surprising shit\here...
 [Kojiroh] The report from the government\database...
@@ -338,10 +338,10 @@ Click.
 [Kojiroh] It's the memo that Siria gave me...
 [Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
 [Kojiroh] Purin should know what this means...
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] An empty room... I guess I should be used\to it.
 [Kojiroh] ...
 [Kojiroh] Up until yesterday there was a woman here\to do my cleaning, my laundry, cook my food...
@@ -355,7 +355,7 @@ Click.
 [Kojiroh] The desk where my computer is...
 [Kojiroh] The place where I skated on thin ice with\Kyoko...
 [Kojiroh] I don't think the system has figured out\what we've done, but who knows...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Good idea. I'll get out of here for now.
 a002_2
 [Kojiroh] That's right. Kyoko said she'd change and\then come... I might as well go out.
@@ -396,17 +396,17 @@ Click!...
 b08
 [Kyoko] Are you prepared to hear what I have to say\yet?
 [Kojiroh] Ready when you are.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Think
-Å@Save/Load
-Å@Save
-Å@Load
-Å@About the painting
-Å@About Project C
-Å@About the former Intelligence Sector
-Å@About people
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄThink
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄAbout the painting
+„ÄÄAbout Project C
+„ÄÄAbout the former Intelligence Sector
+„ÄÄAbout people
 [Kyoko] I can't believe it...
 [Kojiroh] It's even harder to think there is no\connection.
 [Kyoko] I'm confused by the painting, too...
@@ -470,10 +470,10 @@ b08
 [Kojiroh] Maybe... But if that's the case then why\does Kou have to be killed?
 [Kyoko] Good question...
 [Kojiroh] My thoughts seem to be shifting to\something else...
-Å@About Mido
-Å@About Kou
-Å@About Purin
-Å@About Terror
+„ÄÄAbout Mido
+„ÄÄAbout Kou
+„ÄÄAbout Purin
+„ÄÄAbout Terror
 [Kojiroh] As much as I'm thinking about it, I can't\seem to come up with any good ideas now.
 [Kyoko] Told you so.
 [Kojiroh] Hmm...
@@ -569,7 +569,7 @@ b08
 [Kojiroh] Someone could have just wanted to use a\knife to make it look like a 'Terror' job.
 [Kyoko] But we don't have any evidence that\suggests it wasn't 'Terror' either.
 [Kojiroh] ...
-Å@Kyoko
+„ÄÄKyoko
 [Kyoko] Now what?
 [Kojiroh] Let's see, a top-notch assassin from the\Middle East, the Japanese government, and Eldian\former Intelligence Sector. We'll wage war against\all three of them.
 [Kyoko] ...
@@ -673,9 +673,9 @@ eve_03
 [Kojiroh] Good idea.
 [Kyoko] For now just read it, okay?
 [Kojiroh] Okay.
-Å@Surroundings
-Å@Kyoko
-Å@Print log
+„ÄÄSurroundings
+„ÄÄKyoko
+„ÄÄPrint log
 [Kojiroh] I've got to read it again?
 The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science and the termination of the project was resolved.
 Furthermore, due to the assassination of Stoleman, the international school's Director, the government recognized the threats of the Middle East and cut off any funds to the former Eldian Ministry of Science. The project was fully discarded.
@@ -742,7 +742,7 @@ The search for Mido and his two Asian executives...
 [Kojiroh] (Purins nowhere around.)
 [Kojiroh] (The atmosphere's still a little intense\in here...)
 [Kojiroh] (She's relaxing a little with my tasty\coffee...)
-Å@Go outside
+„ÄÄGo outside
 [Kyoko] Hey!
 [Kojiroh] I know, I know... Women!..
 [Kyoko] Where do you think you're going?
@@ -751,12 +751,12 @@ The search for Mido and his two Asian executives...
 [Kojiroh] My motto is, work hard until the whole\blue sea turns yellow with my piss.
 [Kyoko] Kojiroh. Does the word "stupid" mean\anything to you?
 [Kojiroh] No. Not much.
-Å@1
-Å@2
-Å@3
-Å@4
-Å@A
-Å@B
+„ÄÄ1
+„ÄÄ2
+„ÄÄ3
+„ÄÄ4
+„ÄÄA
+„ÄÄB
 1_0
 1 0
 Password error!0
@@ -920,23 +920,23 @@ B_0
 B_0
 B_0
 B_0
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Disconnect
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Mido's personal information
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄDisconnect
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄMido's personal information
 [Kyoko] Even to disconnect we need the cooperation\of the other person.
 [Kyoko] What are you doing? Hurry up and respond.
-Å@Kyoko
+„ÄÄKyoko
 [Kyoko] What are they doing?
 [Kyoko] This is costing us valuable time.
-Å@Kyoko
-Å@Monitor
-Å@Fingers
-Å@Shoulders
+„ÄÄKyoko
+„ÄÄMonitor
+„ÄÄFingers
+„ÄÄShoulders
 [Kojiroh] (She's seems a little shaky...)
 [Kojiroh] (She's trembling...)
 [Kojiroh] (I can't expect her to relax with this\going on...)
@@ -984,7 +984,7 @@ I grab her.
 [Kyoko] Ah!...
 [Kojiroh] Relax. It's okay.
 [Kyoko] If you say so...
-Å@Between Kyoko's legs
+„ÄÄBetween Kyoko's legs
 [Kojiroh] (Hold your horses, partner...)
 [Kojiroh] (She's not in the mood for that now...)
 [Kojiroh] (Come on, cowboy, pay attention to the\monitor.)

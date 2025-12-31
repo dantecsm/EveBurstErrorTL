@@ -110,11 +110,11 @@ eve_41
 eve_06
 [Kojiroh] I'm back where I used to work...
 [Kojiroh] This place depresses me...
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] No way. I'm too tired for that.
 [Kojiroh] Every time I come here, I find myself\wanting to climb the building.
 [Kojiroh] Maybe I'm really a mountain climber at\heart.
@@ -124,10 +124,10 @@ eve_06
 [Kojiroh] Maybe I can sneak into Yayoi's office and\apologize.
 [Kojiroh] She'd probably give a nice punch, right\in the kisser.
 [Kojiroh] So let's not do that...
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] There aren't many people walking the\streets.
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] It's pretty quiet for a financial\district...
@@ -150,8 +150,8 @@ eve_06
 [Kojiroh] They aren't anything special to look at.
 [Kojiroh] But these plants are everywhere I go...
 [Kojiroh] I'm getting tired of seeing these damn\things.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] Yayoi's office...? I'm not so excited\about being here...
 a004_2
 [Kojiroh] You wanna go to Yayoi's office?
@@ -160,11 +160,11 @@ a004_2
 a004_2
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] Perhaps a stairway or elevator would make\more sense.
 [Kojiroh] Some guys get their kicks by trying wacky\shit, like climbing buildings.
 [Kojiroh] But I don't do those stunt.
@@ -173,10 +173,10 @@ a007
 [Kojiroh] But hey, maybe I could look through\Yayoi's office window if I climbed a tree.
 [Kojiroh] Ha ha ha... I'd surprise her, alright.
 [Kojiroh] But so what...?
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] There aren't many people walking the\streets.
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] It's pretty quiet for a financial\district...
@@ -201,8 +201,8 @@ a007
 [Kojiroh] They aren't anything special to look at.
 [Kojiroh] But these plants are everywhere I go...
 [Kojiroh] I'm getting tired of seeing these damn\things.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] I can go to Yayoi's office, but no one\will be there.
 a004_2
 [Kojiroh] Oh yeah... Did I lock it?
@@ -222,21 +222,21 @@ a004
 a004
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] Um, I don't think that will be possible.
 [Kojiroh] But there is one sure fire way of\climbing it...
 [Kojiroh] You just go in the building and take the\elevator.
 [Kojiroh] Trust me. Climbing it is out of the\question.
 [Kojiroh] Back in the old days I might've tried.\They called me, "Kojiroh the hero."
 [Kojiroh] But now they call me, "Kojiroh the zero."\I don't climb shit.
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] There aren't many people walking the\streets.
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] This place is quiet for a financial\district.
@@ -265,28 +265,28 @@ a007
 [Kojiroh] There sure is lots of green plants around\this place.
 [Kojiroh] But I'm not a big fan of artificial\plants...
 [Kojiroh] There's something wrong when plants are\artificial...
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] You wanna go to Yayoi's office?
 [Kojiroh] I'm never too thrilled with that idea...
 a004
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] Um, I don't think that will be possible.
 [Kojiroh] But there is one sure fire way of\climbing it...
 [Kojiroh] You just go in the building and take the\elevator.
 [Kojiroh] Trust me. Climbing it is out of the\question.
 [Kojiroh] Back in the old days I might've tried.\They called me, "Kojiroh the hero."
 [Kojiroh] But now they call me, "Kojiroh the zero."\I don't climb shit.
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] There aren't many people walking the\streets.
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] It's a quiet business district.
@@ -316,8 +316,8 @@ a007
 [Kojiroh] There sure is lots of green plants around\this place.
 [Kojiroh] But I'm not a big fan of artificial\plants...
 [Kojiroh] There's something wrong when plants are\artificial.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] You wanna go to Yayoi's office?
 a004
 [Kojiroh] You wanna go to Yayoi's office?
@@ -341,11 +341,11 @@ I jiggle the door...
 a007
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] I can't possibly stand on the wall, man.
 [Kojiroh] I might be able to, after taking a\hallucinogenic... But I doubt it.
 [Kojiroh] No matter how high I get, I'll never get\up there.
@@ -358,10 +358,10 @@ a007
 [Kojiroh] I hope I still got it.
 [Kojiroh] ...
 [Kojiroh] My hand hurts too much for that.
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] It's a quiet business district... It's\like a ghost town.
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] It's a quiet place so it's kinda spooky\at night.
@@ -388,19 +388,19 @@ a007
 [Kojiroh] But I know which floor it's on... No need\to look at this thing.
 [Kojiroh] These damn bushes won't change no matter\how long I stare at them... Okay?
 [Kojiroh] In the dark, these plants look like weird\monster dwarfs.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] I think I've had enough of this for\today...
 [Kojiroh] You wanna go to Yayoi's office?
 [Kojiroh] I'm not too thrilled about the idea...
 a004
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] I can't possibly stand on the wall, man.
 [Kojiroh] I might be able to, after taking a\hallucinogenic... But I doubt it.
 [Kojiroh] Wow... I'm getting smarter...
@@ -413,10 +413,10 @@ a007
 [Kojiroh] I hope I still got it.
 [Kojiroh] ...
 [Kojiroh] My hand hurts too much for that.
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] This financial district is very quiet...
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] It's pretty quiet for a financial\district...
@@ -446,18 +446,18 @@ a007
 [Kojiroh] They're just bushes... Green is supposed\to relax the eye.
 [Kojiroh] And nothing relaxes me more than a pile\of green cash in the palm of my hand.
 [Kojiroh] But then, maybe it excites me, too.\Viagra is green.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] I pray that Nikaido isn't here...
 a004
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] I'm the only one standing on the\sidewalk...
 [Kojiroh] Yayoi's already gone...
 [Kojiroh] Hardly anyone's around here... I'm the\only one standing on the sidewalk.
@@ -484,17 +484,17 @@ a007
 [Kojiroh] They're just bushes... Green is supposed\to relax the eye.
 [Kojiroh] And nothing relaxes me more than a pile\of green cash in the palm of my hand.
 [Kojiroh] But then, maybe it excites me, too.\Viagra is green.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] I don't want to go there...
 [Kojiroh] Hey, I just got out of there!
 [Kojiroh] And I don't want to go there...
 [Kojiroh] Yeah, let's get back to Central Avenue...
 a007
-　Look/Investigate
-　Move
-　Speak
-　Yayoi
+縲Look/Investigate
+縲Move
+縲Speak
+縲Yayoi
 [Yayoi] I've got things to do... See you later.
 [Kojiroh] Whatever.
 [Yayoi] I'd like to do work we both agree on.
@@ -614,9 +614,9 @@ Yayoi giggles...
 [Yayoi] He said some pretty bad things to you...
 [Kojiroh] Oh, that... Like I give a shit.
 [Yayoi] ...
-　Surroundings
-　Yayoi
-　Cigarettes
+縲Surroundings
+縲Yayoi
+縲Cigarettes
 [Kojiroh] I'm in front of the Katsuragi Private\Detective Offices.
 [Kojiroh] Let's have a word with Yayoi.
 [Kojiroh] Katsuragi Private Detective Offices...\Yayoi's right in front of me.
@@ -626,8 +626,8 @@ Yayoi giggles...
 [Kojiroh] (Forget about the cigarettes, man! Let's\listen to what she has to say.)
 [Kojiroh] (She smokes a lot more now...)
 [Kojiroh] (It's her habit... And there must be\something really important.)
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] I probably shouldn't go there today.
 [Kojiroh] Again? I just came out from there.
 [Kojiroh] And that Nikaido might charge at me\again.
@@ -635,11 +635,11 @@ Yayoi giggles...
 [Kojiroh] I'd like to return to Central Avenue,\but...
 [Kojiroh] Yayoi's right in front of me.
 [Kojiroh] And I can't just leave her here.
-　Look/Investigate
-　Move
-　Climb
-　Building
-　Shrubbery
+縲Look/Investigate
+縲Move
+縲Climb
+縲Building
+縲Shrubbery
 [Kojiroh] I can't possibly stand on the wall, man.
 [Kojiroh] I might be able to, after taking a\hallucinogenic... But I doubt it.
 [Kojiroh] Wow... I must be getting smarter.
@@ -652,10 +652,10 @@ Yayoi giggles...
 [Kojiroh] I hope I still got it.
 [Kojiroh] ...
 [Kojiroh] My hand hurts too much for that.
-　Surroundings
-　Building
-　Directory
-　Shrubbery
+縲Surroundings
+縲Building
+縲Directory
+縲Shrubbery
 [Kojiroh] This financial district is very quiet...
 [Kojiroh] I'm on a side-street off Central\Avenue...
 [Kojiroh] It's pretty quiet for a financial\district...
@@ -685,8 +685,8 @@ Yayoi giggles...
 [Kojiroh] They're just bushes... Green is supposed\to relax the eye.
 [Kojiroh] And nothing relaxes me more than a pile\of green cash in the palm of my hand.
 [Kojiroh] But then, maybe it excites me, too.\Viagra is green.
-　Katsuragi Offices
-　Central Avenue
+縲Katsuragi Offices
+縲Central Avenue
 [Kojiroh] You wanna go to Katsuragi Private\Detective Offices?
 [Kojiroh] I'm not too enthused about the idea...
 a004

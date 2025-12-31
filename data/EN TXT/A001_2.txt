@@ -59,7 +59,7 @@ eve_03
 [Kojiroh] I'm back in my office.
 [Kojiroh] Purin washing dishes.
 eve_29
-ÇcÇÖÇÉÇÖÇçÇÇÇÖÇíÅ@ÇS\  - 9* / 12 / 04 -0
+Ôº§ÔΩÖÔΩÉÔΩÖÔΩçÔΩÇÔΩÖÔΩí„ÄÄÔºî\  - 9* / 12 / 04 -0
 waku
 _...
 Chop, chop, chop.
@@ -249,17 +249,17 @@ eve_22
 eve
 [Kojiroh] I guess Purin went shopping.
 [Kojiroh] Now, what should I do?
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
-Å@Ticket
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
+„ÄÄTicket
 [Kojiroh] We can use the pool facility at the\international school.
 [Kojiroh] Hey, we can use the pool facility at the\international school.
 [Kojiroh] I really don't need that right now.
@@ -295,10 +295,10 @@ I imagine myself rich and give out a bellow.
 This is Chopper One reporting in...
 I twirl my pee-pee as fast as I can.
 [Kojiroh] Let's... Let's stop...
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work Desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork Desk
 [Kojiroh] This is my office.
 [Kojiroh] Purin seems to be out shopping.
 [Kojiroh] Is it just me, or does the office look\cleaner than it use to?
@@ -316,19 +316,19 @@ I twirl my pee-pee as fast as I can.
 [Kojiroh] It's the desk with the terminal.
 [Kojiroh] The terminal's on that desk.
 [Kojiroh] I don't need to use it right now.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Yeah, let's step outside.
 a002
 [Kojiroh] Yeah, let's use the terminal.
-Å@Look/Investigate
-Å@Move
-Å@Think
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Painting
-Å@Kou
-Å@Author's name looks hard to pronounce
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄThink
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPainting
+„ÄÄKou
+„ÄÄAuthor's name looks hard to pronounce
 [Kojiroh] He committed suicide and left a curse.
 [Kojiroh] The author committed suicide... That was\a story...
 [Kojiroh] He decapitated himself...
@@ -420,8 +420,8 @@ I flip through the pages.
 [Kojiroh] My job is to find where the painting\is... So I just have to find it and report... I\don't need to bring it back.
 [Kojiroh] I wonder if there's a reason why he\doesn't want me to bring it back...?
 [Kojiroh] He just doubled my fee and told me not to\ask any more questions...
-Å@Surroundings
-Å@Terminal
+„ÄÄSurroundings
+„ÄÄTerminal
 [Kojiroh] Until yesterday this was a place where I\could be at peace.
 [Kojiroh] This is my space...
 [Kojiroh] Used to be a place for myself...
@@ -434,7 +434,7 @@ I shake my head in silence.
 [Kojiroh] This is my terminal.
 [Kojiroh] I use it to input my data.
 [Kojiroh] I use it to think as I input my\materials.
-Å@Leave the terminal
+„ÄÄLeave the terminal
 [Kojiroh] Yeah, I'm done punching in all the\materials.
 [Kojiroh] I guess I can leave the terminal now.
 001
@@ -443,13 +443,13 @@ eve_03
 [Kojiroh] I still need to think about what I just\typed in...
 [Kojiroh] Oh man...
 [Kojiroh] Now what should I do.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Equipment
-Å@Use
-Å@Save/Load
-Å@Terminal
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄEquipment
+„ÄÄUse
+„ÄÄSave/Load
+„ÄÄTerminal
 [Kojiroh] Yeah, let's input the material from the\library.
 [Kojiroh] I use it as a database, but I also use it\to think about all the materials as I input them.
 [Kojiroh] Hey Purin!
@@ -462,9 +462,9 @@ Purin leaves.
 [Kojiroh] Finally... Time for some peace.
 0290
 eve_13
-Å@Save
-Å@Load
-Å@Purin
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPurin
 [Kojiroh] Let's not.
 [Kojiroh] I'm not that mean.
 [Kojiroh] Hey Purin!
@@ -506,11 +506,11 @@ b03
 Purin leaves.
 [Kojiroh] ...
 [Kojiroh] She's so... Casual...
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
-Å@Ticket
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
+„ÄÄTicket
 [Kojiroh] I can use the pool facility at the\international school.
 [Kojiroh] I can use the pool facility at the\international school.
 [Kojiroh] But, I don't need to use the pool right\now...
@@ -538,10 +538,10 @@ s07
 [Kojiroh] Let's not.
 [Kojiroh] There's a girl here, you know?
 [Kojiroh] What the hell are you gonna do with it?
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] This is my office.
 [Kojiroh] It's starting to look clean, thanks to\Purin.
 [Kojiroh] The office does look cleaner than it did\yesterday.
@@ -558,7 +558,7 @@ s07
 [Kojiroh] It's the desk with the terminal.
 [Kojiroh] The terminal is on that desk.
 [Kojiroh] I don't need to use it right now.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Yeah, let's step out.
 a002
 [Kojiroh] I should do some research at the library.
@@ -566,14 +566,14 @@ a002
 [Kojiroh] To input my research, I need to use\that...
 [Kojiroh] There...
 [Kojiroh] Now what should I do.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Equipment
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Purin
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄEquipment
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPurin
 [Kojiroh] Let's not.
 [Kojiroh] I'm not that mean...
 [Kojiroh] Hey Purin!
@@ -631,10 +631,10 @@ Purin leaves.
 [Kojiroh] Well, that's done.
 [Kojiroh] I can't believe I'm trusting my office to\a girl I just met yesterday.
 [Kojiroh] ...
-Å@Picture
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄPicture
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a weird painting...
 [Kojiroh] According to Glen, it's worthless.
@@ -660,10 +660,10 @@ s07
 [Kojiroh] Let's not.
 [Kojiroh] There's a girl here.
 [Kojiroh] What are you gonna do with it?
-Å@Surroundings
-Å@Lights
-Å@Table
-Å@Work Desk
+„ÄÄSurroundings
+„ÄÄLights
+„ÄÄTable
+„ÄÄWork Desk
 [Kojiroh] This is my office.
 [Kojiroh] It's fairly clean, thanks to Purin.
 [Kojiroh] The office does look cleaner than it did\yesterday.
@@ -680,17 +680,17 @@ s07
 [Kojiroh] It's the desk with the terminal.
 [Kojiroh] The terminal is on the desk.
 [Kojiroh] I don't need to use it right now.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Yeah, let's step outside.
 a002
 [Kojiroh] I should warn Purin.
 [Kojiroh] Yeah...
 [Kojiroh] I need to warn Purin.
 [Kojiroh] I don't mind you cleaning the room but...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Akane
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄAkane
 [Akane] Hey Kojiroh.
 [Kojiroh] ...
 [Akane] Hey Kojiroh!
@@ -866,9 +866,9 @@ Purin leaves.
 [Kojiroh] No, no. The part about me liking older\women is true! Oh, never mind...
 [Akane] So you admit it.
 [Kojiroh] NO!
-Å@Surroundings
-Å@Akane
-Å@Camera
+„ÄÄSurroundings
+„ÄÄAkane
+„ÄÄCamera
 [Kojiroh] I really don't have time for this...
 [Akane] But you do have the time for that girl...
 [Kojiroh] ...
@@ -887,18 +887,18 @@ Purin leaves.
 [Akane] Hey, there's an idea.
 [Kojiroh] That's invasion of privacy!
 [Akane] Yeah, yeah...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Fine, what do you want?
 [Akane] Hold on a sec. I'm not done talking.
 [Kojiroh] Don't worry, I am.
 [Akane] Well, I'm not. Okay!?
 [Kojiroh] Okay, then let's just say that we have a\little to talk about.
 [Akane] Huh?
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Eat
-Å@Food
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄEat
+„ÄÄFood
 [Kojiroh] I ate already.
 [Kojiroh] Isn't there something you wanna tell her?
 [Kojiroh] But man... I didn't know we had all this\food.
@@ -1004,7 +1004,7 @@ I stuff my mouth with more food.
 [Purin] I think Mr. Vegetables and Mr. Cow are\happy knowing that someone is enjoying them.
 [Kojiroh] ...
 [Kojiroh] (I'm starting to lose my appetite...)
-Å@Purin
+„ÄÄPurin
 [Kojiroh] Oh man...
 [Purin] I'm really good at housekeeping.
 [Kojiroh] Housekeeping, huh?
@@ -1222,11 +1222,11 @@ Purin is just sitting there, waiting for me to say something.
 [Kojiroh] Oh, okay.
 [Purin] I... Like you.
 [Kojiroh] ...
-Å@Surroundings
-Å@Purin
-Å@Eyes
-Å@Hair
-Å@Food
+„ÄÄSurroundings
+„ÄÄPurin
+„ÄÄEyes
+„ÄÄHair
+„ÄÄFood
 [Kojiroh] The food's pretty good.
 [Kojiroh] It's not gourmet, but it ain't half bad.
 [Kojiroh] And I thought there was hardly anything\in the fridge... How resourceful!
@@ -1270,7 +1270,7 @@ Purin is just sitting there, waiting for me to say something.
 [Kojiroh] I've never met a woman with hair of gold\and skin of wheat. How rare...
 [Purin] Please don't stare at me like that...\You're making me nervous.
 [Kojiroh] ...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] I'll do it later.
 [Kojiroh] I'm having fun looking at this girl,\Jelly.
 [Purin] It's Purin.

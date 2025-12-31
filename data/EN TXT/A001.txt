@@ -108,7 +108,7 @@ Click.
 [Voice] ...
 [Kojiroh] Amagi Private Detective Office, can I\help you? Hello?
 [Voice] ...
-[Kojiroh] Listen.Å@Speak up or hang up.
+[Kojiroh] Listen.„ÄÄSpeak up or hang up.
 [Voice] ...
 [Kojiroh] Hey man, I don't have time to screw\around with you...
 [Glen] Kojiroh, it's me...
@@ -160,23 +160,23 @@ eve_03
 [Kojiroh] What a day I've been having!
 [Kojiroh] As always, I'll lie down and think things\over...
 [Kojiroh] Otherwise, I'll never fall asleep.
-Å@Think
-Å@Lie down
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Go to sleep
+„ÄÄThink
+„ÄÄLie down
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄGo to sleep
 a001_2
 [Kojiroh] I have to think first...
 [Kojiroh] Otherwise, I'll lie awake all night.
 [Kojiroh] I have to arrange my thoughts before I\can really sleep.
-Å@About the painting
-Å@About Kou
-Å@About Yayoi
-Å@About Nikaido
-Å@About Glen
-Å@About Akane
-Å@Many things
+„ÄÄAbout the painting
+„ÄÄAbout Kou
+„ÄÄAbout Yayoi
+„ÄÄAbout Nikaido
+„ÄÄAbout Glen
+„ÄÄAbout Akane
+„ÄÄMany things
 [Kojiroh] I'll continue with this tomorrow...
 [Kojiroh] I'm finally getting sleepy...
 [Kojiroh] Today was one hell of a day.
@@ -280,7 +280,7 @@ b06
 [Kojiroh] Basically, Kou's words do have some\credibility to them.
 [Kojiroh] ...
 [Kojiroh] Wait... I can't jump to too many\conclusions at once, here.
-[Kojiroh] I'd better relax for a while, andÅ@Speak\politely... All I know is that he's a rich, fat\bastard.
+[Kojiroh] I'd better relax for a while, and„ÄÄSpeak\politely... All I know is that he's a rich, fat\bastard.
 [Kojiroh] But he pisses me off for some reason.
 [Kojiroh] For now I'll just concentrate on the case\at hand...
 [Kojiroh] On one hand it looks like a robbery. But\then, it also looks like a crock of shit.
@@ -296,15 +296,15 @@ b06
 [Kojiroh] Oh well...
 [Kojiroh] Why can't I just get her out of my head,\dammit!?
 [Kojiroh] She's the one woman that drives me mad...\What's a guy to do?
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Use
-Å@Enter
-Å@Lie down
-Å@Save/Load
-Å@Bed
-Å@Sofa
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄUse
+„ÄÄEnter
+„ÄÄLie down
+„ÄÄSave/Load
+„ÄÄBed
+„ÄÄSofa
 Kojiroh] Yeah, it's getting late...
 [Kojiroh] Usually, I'd get in bed and think about\the case...
 [Kojiroh] But right now that girl's sound asleep.
@@ -328,10 +328,10 @@ eve_13
 [Kojiroh] Are you crazy or what?
 [Kojiroh] There's no reason to use the terminal\right now...
 [Kojiroh] Man, it's cold...
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a painting of a bizarre pattern.
 [Kojiroh] And now... I'm naked.
@@ -363,10 +363,10 @@ Snap.
 [Kojiroh] Yeah, baby!
 [Kojiroh] ...
 [Kojiroh] Enough for now... I'm too cold.
-Å@Save
-Å@Load
-Å@Bath
-Å@Refrigerator
+„ÄÄSave
+„ÄÄLoad
+„ÄÄBath
+„ÄÄRefrigerator
 [Kojiroh] Oh yeah! I wanted to take a bath!
 [Kojiroh] A... A... A-Choooo!
 [Kojiroh] I'm trembling...
@@ -401,11 +401,11 @@ Uh-oh.
 [Kojiroh] If I enter the fridge like this, I'll\die. Got it?
 [Kojiroh] If I die, that's it. Game over.
 [Kojiroh] What the hell am I saying?
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
-Å@Girl
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
+„ÄÄGirl
 [Kojiroh] She saw me naked...
 [Kojiroh] She saw every inch of my skin when I was\naked.
 [Kojiroh] ...
@@ -426,24 +426,24 @@ Uh-oh.
 [Kojiroh] Got it?
 [Kojiroh] The terminal's no help in this situation.
 [Kojiroh] I'm freezing my ass off.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Looking like this?!?
 [Kojiroh] Are you trying to kill me?
 [Kojiroh] Where the hell did that kid go...
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Use
-Å@Enter
-Å@Save/Load
-Å@Terminal
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄUse
+„ÄÄEnter
+„ÄÄSave/Load
+„ÄÄTerminal
 [Kojiroh] No need to use it now...
 There's no need to use the terminal right now.
 [Kojiroh] The kid couldn't have gone that far...
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 [Kojiroh] Photos are useless in the bath... Not\this one at least.
 s10
 [Kojiroh] It's the painting Kou is looking for.
@@ -475,10 +475,10 @@ s07
 [Kojiroh] What good will that do me now?
 [Kojiroh] Lead me to the golden child, oh master\penis.
 [Kojiroh] My private dick is hot on the case.
-Å@Save
-Å@Load
-Å@Bath
-Å@Refrigerator
+„ÄÄSave
+„ÄÄLoad
+„ÄÄBath
+„ÄÄRefrigerator
 [Kojiroh] Oh yeah... I want to get in the bath; not\the refrigerator.
 [Kojiroh] My body is tired and dirty... A bath will\do me some good.
 [Kojiroh] It's been a rough day...
@@ -551,11 +551,11 @@ Phew...
 [Kojiroh] Hmm... I sleep in the refrigerator\whenever I'm tired.
 [Kojiroh] I just love the claustrophobic\sensation...
 [Kojiroh] Are you serious?
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
-Å@Bed
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
+„ÄÄBed
 [Kojiroh] The kid's in the bathroom.
 [Kojiroh] Dirtying the sheets, drooling on the\pillow... Oh, man.
 [Kojiroh] I'll run a wash.
@@ -607,17 +607,17 @@ I flick the switch.
 [Kojiroh] The terminal seems to be fine...
 [Kojiroh] This is the computer I use to organize\all my information
 [Kojiroh] It doesn't seem to have been tampered\with.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] You want me to go out looking like this?
 [Kojiroh] It's cold... I need to get into the tub.
 [Kojiroh] That's strange... He wasn't outside.
 [Kojiroh] Maybe I'd better check around the room\some more.
-Å@In the closet
-Å@Under the desk
-Å@Refrigerator
-Å@Universe
-Å@Spiritual Realm
-Å@Outside the office
+„ÄÄIn the closet
+„ÄÄUnder the desk
+„ÄÄRefrigerator
+„ÄÄUniverse
+„ÄÄSpiritual Realm
+„ÄÄOutside the office
 [Kojiroh] There's nothing in the closet.
 [Kojiroh] I don't have too many things, as you can\see.
 [Kojiroh] The closet!?!
@@ -653,19 +653,19 @@ I take a few swigs.
 [Kojiroh] I'll step outside.
 a002
 [Kojiroh] What should I do from now on...
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Use
-Å@Save/Load
-Å@Terminal
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄUse
+„ÄÄSave/Load
+„ÄÄTerminal
 [Kojiroh] There's no need to use that now.
 [Kojiroh] There's no reason to use the terminal\right now.
 [Kojiroh] I'll use it when I get some new\information.
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's the painting Kou's looking for.
 [Kojiroh] It doesn't appear to have much artistic\value.
@@ -708,13 +708,13 @@ Gulp...
 [Kojiroh] Yeah, baby!
 [Kojiroh] ...
 [Kojiroh] That's enough for now.
-Å@Save
-Å@Load
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
-Å@Bed
+„ÄÄSave
+„ÄÄLoad
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
+„ÄÄBed
 [Kojiroh] The little brat's sleeping in my bed.
 [Kojiroh] The little kid should be sleeping in the\bed.
 [Kojiroh] Let's see...
@@ -746,16 +746,16 @@ Gulp...
 [Kojiroh] My equipment is all set up to send and\receive data.
 [Kojiroh] I can access the internet without even\going through a provider.
 [Kojiroh] Information is the most important thing\in the world, you see.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Yeah. Why not go outside?
 a002
 [Kojiroh] So, what should I look into first?
 eve_38
-Å@Examine data
-Å@Move
-Å@Save/Load
-Å@==Data 1==
-Å@==Data 2==
+„ÄÄExamine data
+„ÄÄMove
+„ÄÄSave/Load
+„ÄÄ==Data 1==
+„ÄÄ==Data 2==
 [Kojiroh] There's no more data to look at.
 [Kojiroh] I'm done going over Data 2.
 [Kojiroh] I'll look at Data 1... Just for the hell\of it.
@@ -829,26 +829,26 @@ eve_38
 [Kojiroh] Hey, here's some data on Keiko, the new\secretary... I'll take notes... I may be able to\get into her pants.
 [Kojiroh] ...
 [Kojiroh] And this ain't the info I'm looking for.
-Å@Leave terminal
+„ÄÄLeave terminal
 [Kojiroh] I didn't learn anything crucial, but I\had fun...
 [Kojiroh] I'm not denying they have valuable info.\We just don't match, that's all.
 [Kojiroh] And that's why I'm in this office alone.
 [Kojiroh] ...
 [Kojiroh] Okay. Time to put things to practical\use.
 [Kojiroh] It's been a while since I've used this\thing... Let's stay on a bit longer.
-Å@Save
-Å@Load
+„ÄÄSave
+„ÄÄLoad
 [Kojiroh] Oh yeah.
 [Kojiroh] I'll think things over while looking at\Nikaido's data. It may come in handy.
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Use
-Å@Save/Load
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄUse
+„ÄÄSave/Load
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a strange design...
 001
@@ -882,9 +882,9 @@ Gulp...
 [Kojiroh] Yeah, baby!
 [Kojiroh] ...
 [Kojiroh] Enough for now.
-Å@Save
-Å@Load
-Å@Terminal
+„ÄÄSave
+„ÄÄLoad
+„ÄÄTerminal
 [Kojiroh] Oh yeah, I only finished inputting his\data.
 [Kojiroh] Information is the key to success... I'll\take advantage of this stuff.
 0290
@@ -892,10 +892,10 @@ Gulp...
 [Kojiroh] First I'll flip on the switch...
 The screen fades into brightness.
 [Kojiroh] Good. It's finished booting up... I can\work on the terminal.
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] This place is dark and messy, but it's a\formal office.
 [Kojiroh] I know what I'm talking about... I'm the\owner.
 [Kojiroh] This is my private detective office...
@@ -921,21 +921,21 @@ The screen fades into brightness.
 [Kojiroh] My equipment is all set up to send and\receive data.
 [Kojiroh] I can access the internet without even\going through a provider.
 [Kojiroh] Information is the most important thing\in the world, you see.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Huh? What about checking out Nikaido's\data?
 [Kojiroh] Fine, whatever you say... I'll take a\walk.
 a002
 [Kojiroh] I did everything I could, but if you\insist...
 [Kojiroh] But where the hell am I supposed to start\looking for that painting?
-Å@Look/Investigate
-Å@Move
-Å@Equipment
-Å@Make a phone call
-Å@Save/Load
-Å@Photograph
-Å@Glock
-Å@Cash
-Å@Viagra
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄEquipment
+„ÄÄMake a phone call
+„ÄÄSave/Load
+„ÄÄPhotograph
+„ÄÄGlock
+„ÄÄCash
+„ÄÄViagra
 s10
 [Kojiroh] It's a painting of a bizarre pattern.
 001
@@ -969,11 +969,11 @@ Gulp...
 [Kojiroh] Yeah, baby!
 [Kojiroh] ...
 [Kojiroh] Enough for now.
-Å@Save
-Å@Load
-Å@Glen
-Å@Katsuragi Offices
-Å@Kou
+„ÄÄSave
+„ÄÄLoad
+„ÄÄGlen
+„ÄÄKatsuragi Offices
+„ÄÄKou
 [Kojiroh] At the earliest, it would be tonight.
 [Kojiroh] Basically, there's no reason to call\anyone.
 [Kojiroh] You want me to call Glen?
@@ -1042,10 +1042,10 @@ It's ringing...
 Click.
 [Kojiroh] ...
 [Kojiroh] I called him for no reason...
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] This place is dark and messy, but it's a\formal office.
 [Kojiroh] I know what I'm talking about... I'm the\owner.
 [Kojiroh] This is my private detective office...
@@ -1071,23 +1071,23 @@ Click.
 [Kojiroh] My equipment is all set up to send and\receive data.
 [Kojiroh] I can access the internet without even\going through a provider.
 [Kojiroh] Information is the most important thing\in the world, you see.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Screwing around in here won't get me\anywhere.
 [Kojiroh] Time to get some fresh air outside!
 a002
 [Kojiroh] A missing painting... Everything is so\vague.
 [Kojiroh] But where the hell am I supposed to start\looking?
-Å@Look/Investigate
-Å@Move
-Å@Think
-Å@Use
-Å@Make a phone call
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Glen
-Å@Katsuragi Offices
-Å@Kou
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄThink
+„ÄÄUse
+„ÄÄMake a phone call
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄGlen
+„ÄÄKatsuragi Offices
+„ÄÄKou
 [Kojiroh] I already called Glen... Weren't you\paying attention?
 [Kojiroh] I gotta move fast. Otherwise I'll never\get there on time.
 [Kojiroh] Yeah, I'll call Glen.
@@ -1112,7 +1112,7 @@ Someone picks up...
 [Kojiroh] And that's why you checked my voiceprint.
 [Glen] Correct.
 [Kojiroh] But what would anyone do with a recording\of my voice?
-[Glen] They could put aÅ@Speaker next to the phone,\imitating your voice. With a little sampling, they\could completely reproduce your natural voice.
+[Glen] They could put a„ÄÄSpeaker next to the phone,\imitating your voice. With a little sampling, they\could completely reproduce your natural voice.
 [Kojiroh] You know your technology, Glen.
 [Glen] That's what I'm paid to do... What was it\you wanted?
 [Kojiroh] I just want to ask you something...
@@ -1173,10 +1173,10 @@ It's ringing...
 Still no answer.
 [Kojiroh] I don't think he's in...
 Click.
-Å@Missing painting
-Å@Kou
-Å@Katsuragi Offices
-Å@Akane
+„ÄÄMissing painting
+„ÄÄKou
+„ÄÄKatsuragi Offices
+„ÄÄAkane
 [Kojiroh] Maybe Glen knows what's going on.
 [Kojiroh] I'll call him right away.
 [Kojiroh] I wonder if his house has a burglar\alarm...
@@ -1240,7 +1240,7 @@ I look for the paper.
 [Kojiroh] She oughtta come here again... I'll show\her some sadism and masochism of my own.
 [Kojiroh] What kind of punishment is that?
 [Kojiroh] Ah, who the hell cares.
-Å@Terminal
+„ÄÄTerminal
 0290
 [Kojiroh] There's no need to use it now.
 [Kojiroh] I'm just about to see Glen.
@@ -1278,10 +1278,10 @@ The terminal continues spattering about.
 [Kojiroh] This may take some time.
 [Kojiroh] I'll do some more thinking over there...
 001
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] This place is dark and messy, but it's a\formal office.
 [Kojiroh] I know what I'm talking about... I'm the\owner.
 [Kojiroh] This is my private detective office...
@@ -1317,7 +1317,7 @@ The terminal continues spattering about.
 [Kojiroh] My equipment is all set up to send and\receive data.
 [Kojiroh] I can access the internet without even\going through a provider.
 [Kojiroh] Information is the most important thing\in the world, you see.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Okay, let's take a walk.
 a002
 [Kojiroh] I'll take Nikaido's electric pocket\organizer with me.
@@ -1331,15 +1331,15 @@ a002
 [Kojiroh] Why don't I go outside a little later?
 [Kojiroh] This is my private detective office...
 [Kojiroh] Let's go to Kou's house ASAP.
-Å@Look/Investigate
-Å@Move
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Surroundings
-Å@Lamp
-Å@Table
-Å@Work desk
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄSurroundings
+„ÄÄLamp
+„ÄÄTable
+„ÄÄWork desk
 [Kojiroh] This place is dark and messy, but it's a\formal office.
 [Kojiroh] I know what I'm talking about... I'm the\owner.
 [Kojiroh] This is my private detective office...
@@ -1368,7 +1368,7 @@ a002
 [Kojiroh] My equipment is all set up to send and\receive data.
 [Kojiroh] I can access the internet without even\going through a provider.
 [Kojiroh] Information is the most important thing\in the world, you see.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Oh yeah... I was going to Kou's house.
 [Kojiroh] It's been a long time since I worked on a\case. Let's rock and roll!
 a002

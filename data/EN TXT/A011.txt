@@ -109,10 +109,10 @@ b06
 [Nikaido] You're the farthest thing there is from a\nice guy!
 [Kojiroh] No. That would be you.
 [Nikaido] ...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Kou
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄKou
 [Kojiroh] Sorry to bother you, but can I check this\room out again?
 [Kou] Of course you may. Unfortunately so many\people have been in and out of here that the room\is hardly in the exact condition it was...
 [Kojiroh] I'll take what I can get. Thanks for your\concern.
@@ -156,9 +156,9 @@ i[Kou] I stand corrected. Forgive me.
 [Kojiroh] I found out some very interesting things\there.
 [Kou] What sort of things?
 [Kojiroh] Well...
-Å@Surroundings
-Å@Kou
-Å@Stomach
+„ÄÄSurroundings
+„ÄÄKou
+„ÄÄStomach
 [Kojiroh] All alone in this big house...
 [Kojiroh] Must get pretty lonely sometimes...
 [Kojiroh] Your drawing room... No one else is here.
@@ -176,12 +176,12 @@ i[Kou] I stand corrected. Forgive me.
 [Kou] I've heard it all before, Mr. Amagi. That's\just a friendly way of calling me Chubby Peckers,\the rolly-polly fatass.
 [Kojiroh] Hey, all I said was you've got big\muscles, don't get all defensive.
 [Kou] ...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] I should talk to Kou a little more\first...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Kou
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄKou
 [Kou] Spare no effort in your investigation, Mr.\Amagi. I'm more than happy to reimburse all\expenses.
 [Kojiroh] You'd better be.
 [Kou] I'm counting on you, Mr. Amagi.
@@ -231,9 +231,9 @@ i[Kou] I stand corrected. Forgive me.
 [Kou] Quite so, Mr. Amagi, and results are what I\desire.
 [Kojiroh] ...
 [Kojiroh] (Is it just me, or is fatass being a\little hateful?...)
-Å@Surroundings
-Å@Kou
-Å@Stomach
+„ÄÄSurroundings
+„ÄÄKou
+„ÄÄStomach
 [Kojiroh] All alone in this big house...
 [Kojiroh] Must get pretty lonely sometimes...
 [Kojiroh] Your drawing room... No one else is here.
@@ -251,7 +251,7 @@ i[Kou] I stand corrected. Forgive me.
 [Kou] I've heard it all before, Mr. Amagi. That's\just a friendly way of calling me Chubby Peckers,\the rolly-polly fatass.
 [Kojiroh] Hey, all I said was you've got big\muscles, so don't get all defensive.
 [Kou] ...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Well, I should probably get going. It's\dark already.
 [Kou] Yes, you're quite right. And, Mr. Amagi,\please find that painting. I'm in your hands.
 [Kojiroh] I'll do everything I can to help you.
@@ -266,10 +266,10 @@ i[Kou] I stand corrected. Forgive me.
 [Kou] Wonderful.
 a010
 [Kojiroh] I should talk with Kou a little more...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@çE
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄÂ≠î
 [Kou] As long as I'm here, please feel free to drop\by any time.
 [Kojiroh] That helps a lot. Thanks.
 [Kou] What brings you here this time?
@@ -302,9 +302,9 @@ a010
 [Kojiroh] Don't make me laugh, butterball.
 [Kou] Then what brings you here today? I'm sure it\wasn't simply to ask about my alarm system, was it?
 [Kojiroh] Ummm... (Actually it was, smart-ass...)
-Å@Surroundings
-Å@Kou
-Å@Chandelier
+„ÄÄSurroundings
+„ÄÄKou
+„ÄÄChandelier
 [Kojiroh] I'd like to swing from that chandelier.
 [Kou] Please refrain.
 [Kojiroh] Whenever I see something shaking in front\of me I just want to grab on to it and dangle.
@@ -323,17 +323,17 @@ a010
 [Kojiroh] The master of this big, fat house...
 [Kojiroh] A big, fat guy in control of a big, fat\house. You must have a lot of power.
 [Kou] I'm just a dedicated but humble worker.
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] There's no point in my sticking around\here...
 [Kou] Good luck, Mr. Amagi. You are my only hope.
 [Kojiroh] (Do you really mean that?...)
 a010
 [Kojiroh] I want to talk to fatass a little more.
 [Kou] You have a very direct way of speaking...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Kou
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄKou
 [Kojiroh] There's nothing left to talk with this\guy about.
 [Kojiroh] That's enough for today.
 [Kou] But still...
@@ -429,9 +429,9 @@ a010
 [Kou] Which would seem to point even further to the\truth of your conclusion...
 [Kojiroh] Not necessarily...
 [Kou] Oh?
-Å@Surroundings
-Å@Kou
-Å@Window
+„ÄÄSurroundings
+„ÄÄKou
+„ÄÄWindow
 [Kojiroh] No matter how hard I try to look at\what's around me, fatass is about the only thing I\can see.
 [Kou] Admittedly I cover a large area...
 [Kojiroh] The drawing room. It seemed pretty big\before Mr. Big walked into the room.
@@ -448,7 +448,7 @@ a010
 [Kojiroh] There's no need to investigate anything\now. I should talk with Kou.
 [Kojiroh] I'll talk to him about the dirt on the\window frame.
 [Kojiroh] I need to confirm it...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] I guess I should be going now.
 [Kou] Thank you so much for coming by.
 [Kojiroh] I may drop in unannounced over the next\few days. Is that alright?
@@ -460,20 +460,20 @@ a010
 [Kojiroh] Maybe I should talk with Kou a little\more.
 [Kojiroh] It's a little too soon to leave...
 [Kojiroh] How about talking with Kou a little more?
-Å@Look/Investigate
-Å@Move
-Å@Leave cupboard
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄLeave cupboard
 [Kojiroh] Nothing... I guess it could be worse,\though.
 [Kojiroh] The day's almost over. Yayoi and\Company's investigation is probably getting\someplace.
 [Kojiroh] But I wonder why it's empty...
 011
 [Kojiroh] As long as I'm looking, I might as well\check out the cupboard, too...
-Å@Upper left
-Å@Lower left
-Å@Upper middle
-Å@Lower middle
-Å@Upper right
-Å@Lower right
+„ÄÄUpper left
+„ÄÄLower left
+„ÄÄUpper middle
+„ÄÄLower middle
+„ÄÄUpper right
+„ÄÄLower right
 [Kojiroh] The top-left?
 0005b
 [Kojiroh] Nothing's in there.
@@ -536,11 +536,11 @@ I'll flip through the pages.
 [Kojiroh] Bingo!
 [Kojiroh] This one's full of air! For Christ's\sake, this is frustrating.
 0005
-Å@Look/Investigate
-Å@Move
-Å@Think
-Å@About the painting
-Å@About Yayoi et al
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄThink
+„ÄÄAbout the painting
+„ÄÄAbout Yayoi et al
 s10
 [Kojiroh] It's a pretty small painting...
 [Kojiroh] Of no real artistic value, but it seems\pretty damn important to Kou.
@@ -569,12 +569,12 @@ s10
 [Kojiroh] So the two of them have come across some\clues, but they still don't have any hard evidence.
 [Kojiroh] Since I came after they did, I'm at an\overwhelming disadvantage.
 [Kojiroh] I wonder what line of investigation\they're following...
-Å@Surroundings
-Å@Picture
-Å@Cabinet
-Å@Desk
-Å@Paintings
-Å@Window
+„ÄÄSurroundings
+„ÄÄPicture
+„ÄÄCabinet
+„ÄÄDesk
+„ÄÄPaintings
+„ÄÄWindow
 [Kojiroh] I'll have another look.
 s10
 [Kojiroh] So this is the painting that's causing so\much fuss.
@@ -652,14 +652,14 @@ There's noise.
 [Kojiroh] Who that someone is... That's the\question.
 [Kojiroh] Interesting...
 011
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] I should stay here a little longer.
 [Kojiroh] It's too early to go home.
 [Kojiroh] I need to collect my thoughts...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Kou
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄKou
 [Kou] Can I get you to look at this?
 [Kojiroh] What is it?
 s10
@@ -818,9 +818,9 @@ eve_38
 [Kou] Thank you for understanding.
 [Kojiroh] (Of course I can say that...)
 [Kojiroh] (But the emotions involved are more\complicated...)
-Å@Surroundings
-Å@Kou
-Å@Chandelier
+„ÄÄSurroundings
+„ÄÄKou
+„ÄÄChandelier
 [Kojiroh] (This place is pretty chic.)
 [Kojiroh] (He's got a good mix of art and\nature...)
 [Kojiroh] So this is your reception room. A whole\apartment could easily fit into this place.
@@ -846,7 +846,7 @@ eve_38
 [Kojiroh] I'd love to sit on that thing and use it\like a swing.
 [Kou] Please refrain from doing so.
 [Kojiroh] Shit...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] Just relax and talk with Kou a little\more.
 [Kou] Is there any particular reason you want to\climb onto my chandelier?
 [Kojiroh] No reason at all. It has nothing to do\with anything. It just looks fun.
@@ -857,11 +857,11 @@ eve_38
 [Kou] That's the bedroom, you know...
 [Kojiroh] Understanding the layout of the house is\very important for an investigation.
 [Kou] I see...
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Grab
-Å@Electronic appointment book
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄGrab
+„ÄÄElectronic appointment book
 b06
 Bang!
 [Kojiroh] Huh!???!
@@ -884,9 +884,9 @@ b05
 011
 011b
 b05
-Å@Nikaido
+„ÄÄNikaido
 Kou
-Å@Yayoi
+„ÄÄYayoi
 [Yayoi] I wouldn't have thought you'd hear about\this case.
 [Kojiroh] I'm as surprised as you are. What should\we do? I'll happily give up the case if you want me\to.
 [Yayoi] I could care less what you decide to do.\I'll doubt you'll be of much help if you take the\case, though.
@@ -1045,11 +1045,11 @@ b05
 [Kojiroh] ...Unexpected.
 [Kou and Kojiroh] Ah-hah-hah-hah-hah...
 [Nikaido] What are you laughing at?!
-Å@Surroundings
-Å@Nikaido
-Å@Kou
-Å@Yayoi
-Å@Cigarette
+„ÄÄSurroundings
+„ÄÄNikaido
+„ÄÄKou
+„ÄÄYayoi
+„ÄÄCigarette
 [Kojiroh] You look sexy sucking on that\cancer-stick.
 [Kojiroh] Suck harder baby!...
 [Yayoi] Shut up.
@@ -1108,7 +1108,7 @@ b05
 [Nikaido] Nikaido! It's Nikaido!!
 [Kojiroh] You're out of breath. Is it asthma?
 [Nikaido] ...
-Å@Go outside
+„ÄÄGo outside
 [Kojiroh] I'll stay here a little bit longer.
 [Kojiroh] That'll probably be more interesting.
 [Nikaido] What the hell do you think you're doing\in the window?

@@ -217,12 +217,12 @@ eve_06
 [Kojiroh] The architecture and style fit the\description perfectly.
 [Kojiroh] This should be it, if the map on the fax\is right...
 [Kojiroh] Even the nameplate here says so. This is\Kou's house.
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] I already rang the intercom several\times.
 [Kojiroh] Maybe the intercom is broken.
 [Kojiroh] Shit... This house is too nice for an\Intercom that doesn't ring.
@@ -248,10 +248,10 @@ Doesn't ring again.
 [Kojiroh] Fine. I'll push the telephone pole.
 Grrrrrr...
 [Kojiroh] Just like I thought. It's no use.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] I'm the only one on this road.
 [Kojiroh] I'm standing here on the road all by\myself.
 [Kojiroh] This isn't a very exciting area.
@@ -275,8 +275,8 @@ Grrrrrr...
 [Kojiroh] These are the bushes and shrubs... I\don't see Kou hiding in here.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 a011_2
 [Kojiroh] Well, I guess there is a possibility the\intercom is broken down... Shit like that happens\in life.
 [Kojiroh] I'll just go up and knock on the door.
@@ -304,12 +304,12 @@ b06
 [Kojiroh] ...I have to ring the intercom first.
 [Kojiroh] Wait a minute... I'd better hang out here\for a little while longer.
 [Kojiroh] There's something fishy about this whole\thing...
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] I already rang the intercom.
 [Kojiroh] Kou doesn't seem to be in.
 [Kojiroh] You want me to press the intercom?
@@ -330,10 +330,10 @@ Squish.
 [Kojiroh] You want me to push the telephone pole?\Fine.
 Grrrrrrrrr...
 [Kojiroh] Just as I thought. A complete waste of\time.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my hide.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -342,26 +342,26 @@ Grrrrrrrrr...
 [Kojiroh] It's such a quiet neighborhood... There's\no one around at all.
 [Kojiroh] But there are always so few people around\here.
 [Kojiroh] I wonder if anyone really lives around\here...
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] What a big house!
 [Kojiroh] I just said it was a big house. Got a\problem with that?
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] There's no need to go inside right now.
 [Kojiroh] There's nothing to speak to Kou about. He\already paid me in full.
 [Kojiroh] Let's see...
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] I just got out here.
 [Kojiroh] I found the painting, and that means I\solved the case.
 [Kojiroh] And THAT means I don't need to see Kou\anymore. He paid me the full reward, too.
@@ -390,10 +390,10 @@ Squish.
 [Kojiroh] You want me to push the telephone pole?\Fine.
 Grrrrrr...
 [Kojiroh] Just as I thought. A complete waste of\time.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my hide.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -402,16 +402,16 @@ Grrrrrr...
 [Kojiroh] It's such a quiet neighborhood... There's\no one around at all.
 [Kojiroh] But there are always so few people around\here.
 [Kojiroh] I wonder if anyone really lives around\here...
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] What a big house!
 [Kojiroh] I just said it was a big house. Got a\problem with that?
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] I've no more business with Kou.
 [Kojiroh] Basically, there's no reason to go in his\house.
 [Kojiroh] Okay, I'm going in.
@@ -420,12 +420,12 @@ a011
 [Kojiroh] I should definitely ring the intercom\before entering Ko's house.
 [Kojiroh] Perhaps I should go back to the office.
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] I already rang the darned Intercom.
 [Kojiroh] I guess Kou's not there.
 [Kojiroh] I heard he might not be home.
@@ -446,10 +446,10 @@ Squish.
 [Kojiroh] You want me to push the telephone pole?\Fine.
 Grrrrrr...
 [Kojiroh] Just as I thought. A complete waste of\time.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my hide.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -458,27 +458,27 @@ Grrrrrr...
 [Kojiroh] It's such a quiet neighborhood... There's\no one around at all.
 [Kojiroh] But there are always so few people around\here.
 [Kojiroh] I wonder if anyone really lives around\here...
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] What a big house!
 [Kojiroh] I just said it was a big house. Got a\problem with that?
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I feel a bit lonely...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Ko's not here... Great. Now I can't go\inside.
 [Kojiroh] I'll ring the intercom first.
 [Kojiroh] I should definitely ring the intercom\before entering Ko's house.
 [Kojiroh] Perhaps I should go back to the office.
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] The same thing happens, no matter how\many times I ring the damn thing.
 [Kojiroh] I remember Ko saying he was going out...
 [Kojiroh] I don't think he's in right now.
@@ -498,10 +498,10 @@ Squish.
 [Kojiroh] You want me to push the telephone pole?\Fine.
 Grrrrrr...
 [Kojiroh] Just as I thought. A complete waste of\time.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my hide.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -509,27 +509,27 @@ Grrrrrr...
 [Kojiroh] I'm paying the same government these\people pay! Why are the areas treated so unequal?!
 [Kojiroh] It's such a quiet neighborhood... There's\no one around at all.
 [Kojiroh] But then, it's a rich residential\district. Who'd want to be out here?!
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] What a big house!
 [Kojiroh] I just said it was a big house. Got a\problem with that?
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Kou's not here... Great. Now I can't go\inside.
 [Kojiroh] I'll ring the intercom first.
 [Kojiroh] I should definitely ring the intercom\before entering Kou's house.
 [Kojiroh] Perhaps I should go back to the office.
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] The same thing happens, no matter how\many times I ring the damn thing.
 [Kojiroh] I remember Ko saying he was going out...
 [Kojiroh] I don't think he's in right now.
@@ -563,10 +563,10 @@ Squish.
 [Kojiroh] Hey, will you just drop it already?
 [Kojiroh] Are you high? Why would I want to push a\light pole?
 [Kojiroh] I may be a fool, but I ain't a maniac.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my hide.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -576,16 +576,16 @@ Squish.
 [Kojiroh] As you'd expect from an upscale\residential area, it seems like it's quiet and\comfortable at night.
 [Kojiroh] In terms of quietness, my office is just\as good.
 [Kojiroh] After all, there's no one around and\nothing around, hahaha.
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] It's eerie, all these big dark\mansions...
 [Kojiroh] This house isn't a big mansion... It's\not bad, but not so big.
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Kou took off somewhere. I don't think\he's home.
 [Kojiroh] Why not try ringing the intercom?
 [Kojiroh] Why do I have to return to Kou's house?
@@ -596,12 +596,12 @@ a011
 [Kojiroh] But there's no reason to go inside Kou's\house.
 [Kojiroh] Perhaps I should go back to the office.
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] I already rang the intercom. Why not go\inside?
 [Kojiroh] Okay, I'll ring the intercom.
 Ding-Dong.
@@ -629,10 +629,10 @@ Squish.
 [Kojiroh] Hey, will you just drop it already?
 [Kojiroh] Are you high? Why do I have to push a\light pole?
 [Kojiroh] What am I, a sumo wrestler?
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my hide.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -642,16 +642,16 @@ Squish.
 [Kojiroh] As you'd expect from an upscale\residential area, it seems like it's quiet and\comfortable at night.
 [Kojiroh] In terms of quietness, my office is just\as good.
 [Kojiroh] After all, there's no one around and\nothing around, hahaha.
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] It's eerie, all these big dark\mansions...
 [Kojiroh] This house isn't a big mansion... It's\not bad, but not so big.
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Nikaido just came out of there, so Kou\must be home.
 [Kojiroh] Well, time to go inside Kou's house.
 a011
@@ -660,13 +660,13 @@ a011
 [Kojiroh] Are you a complete, blithering idiot??\Ring the goddamn intercom!
 [Kojiroh] Perhaps I should go back to the office.
 a002
-　Look/Investigate
-　Move
-　Speak
-　Punch
-　Face
-　Lights
-　Shadowbox
+縲Look/Investigate
+縲Move
+縲Speak
+縲Punch
+縲Face
+縲Lights
+縲Shadowbox
 [Kojiroh] Punching this guy sounds like a great\idea, but I'd better talk to him for a while.
 [Nikaido] Are you looking for trouble, pal?
 [Kojiroh] If I were looking for trouble, I'd sleep\with your mama.
@@ -694,8 +694,8 @@ Smack.
 [Kojiroh] I'll knock you so hard, you'll be as\senile as me!
 [Kojiroh] ...
 [Kojiroh] I'm pooped.
-　Nikaido
-　Yayoi
+縲Nikaido
+縲Yayoi
 [Kojiroh] I'd better stop this before he wets his\pants.
 [Kojiroh] Hey, Yayoi.
 [Nikaido] Uh, Well, Uh... Uhh...
@@ -767,9 +767,9 @@ eve_08
 [Nikaido] ...
 [Kojiroh] No one's stopping you.
 [Nikaido] No one will ever stop me.
-　Surroundings
-　Kou's house
-　Outfit
+縲Surroundings
+縲Kou's house
+縲Outfit
 [Nikaido] The man who will solve this case,\single-handedly, Susumu Nikaido! Hey! Look at me\when I talk to you!
 [Kojiroh] What? I'm sorry, I thought I heard a\bunch of bull-shit.
 [Nikaido] What bull-shit?
@@ -792,8 +792,8 @@ eve_08
 [Kojiroh] I hate to say it, but Armani is Italian.
 [Nikaido] That's what they said about spaghetti. It\was actually Chinese, fool!
 [Kojiroh] Sure, and the Chinese invented the\Ferrari... Right?
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Well, I can't go in because Nikaido's\blocking my way.
 [Nikaido] Ha-ha-ha. You lose.
 [Nikaido] What are you seeing Kou for?
@@ -805,12 +805,12 @@ eve_08
 [Kojiroh] I'm going home.
 [Nikaido] I'm still speaking to you. Stay right\where you are.
 [Kojiroh] You're a selfish little bastard, aren't\you...
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Electric Pole
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Electric Pole
 Ding-Dong.
 [Kojiroh ...
 [Kojiroh] I knew he wasn't here...
@@ -843,10 +843,10 @@ Squish.
 [Kojiroh] Hey, will you just drop it already?
 [Kojiroh] Are you high? Why must I push a light\pole?
 [Kojiroh] I'd rather masturbate with super-glue as\a lubricant.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my balls.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -856,16 +856,16 @@ Squish.
 [Kojiroh] As you'd expect from an upscale\residential area, it seems like it's quiet and\comfortable at night.
 [Kojiroh] In terms of quietness, my office is just\as good.
 [Kojiroh] After all, there's no one around and\nothing around, hahaha.
-[Kojiroh] This house isn’t as tasteless as the ones\around it.
-[Kojiroh] It’s just a big, perfectly ordinary\house... yeah, that came out a bit weird.
+[Kojiroh] This house isn窶冲 as tasteless as the ones\around it.
+[Kojiroh] It窶冱 just a big, perfectly ordinary\house... yeah, that came out a bit weird.
 [Kojiroh] It's eerie, all these big dark\mansions...
 [Kojiroh] This house isn't a big mansion... It's\not bad, but not so big.
 [Kojiroh] These are just bushes... They don't\particularly look like mushrooms.
 [Kojiroh] I'd love to do some shrooms right about\now.
 [Kojiroh] I can hear the wind rustling through my\hair...
 [Kojiroh] I get lonely when I hear the trees sway\in the night...
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] He's not in... I'll have to come again\later.
 [Kojiroh] Okay, time to go inside.
 a011
@@ -875,12 +875,12 @@ a011
 [Kojiroh] Yeah, no use in standing here all day.
 [Kojiroh] Perhaps I should go back to the office.
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 Ding-Dong...
 [Kojiroh] ...
 [Kojiroh] I knew he wasn't here...
@@ -913,10 +913,10 @@ Squish.
 [Kojiroh] Hey, will you just drop it already?
 [Kojiroh] Are you high? Why must I push a light\pole?
 [Kojiroh] I'd rather masturbate with super-glue as\a lubricant.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my balls.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -938,8 +938,8 @@ Squish.
 [Kojiroh] Nice bushes. I wonder if there's a glove\hidden in there.
 [Kojiroh] The ozone layer should be safe with all\this green...
 [Kojiroh] Nah, nothing's safe anymore these days.
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Kou's not home... That means I can't go\inside.
 [Kojiroh] Ah, to hell with it. I might as well give\up.
 [Kojiroh] Okay, let's go inside Kou's house.
@@ -949,12 +949,12 @@ a011
 [Kojiroh] Press the intercom to see if he's home.
 [Kojiroh] Sure, why not go back to the office?
 a002
-　Look/Investigate
-　Move
-　Push
-　Intercom
-　Shrubbery
-　Lights
+縲Look/Investigate
+縲Move
+縲Push
+縲Intercom
+縲Shrubbery
+縲Lights
 [Kojiroh] I don't have to press it again.
 [Kojiroh] Let's just go in now.
 [Kojiroh] I already rang the intercom.
@@ -999,10 +999,10 @@ Squish.
 [Kojiroh] Hey, will you just drop it already?
 [Kojiroh] Are you high? Why must I push a light\pole?
 [Kojiroh] I'd rather masturbate with super-glue as\a lubricant.
-　Surroundings
-　Kou's house
-　Shrubbery
-　Road
+縲Surroundings
+縲Kou's house
+縲Shrubbery
+縲Road
 [Kojiroh] Why is our tax money being spent here...
 [Kojiroh] It chaps my balls.
 [Kojiroh] The road is neatly paved... All for the\sake of comfort.
@@ -1023,8 +1023,8 @@ Squish.
 [Kojiroh] Nice bushes. I wonder if there's a glove\hidden in there.
 [Kojiroh] The ozone layer should be safe with all\this green...
 [Kojiroh] Nah, nothing's safe anymore these days.
-　Enter the house
-　Warehouse district
+縲Enter the house
+縲Warehouse district
 [Kojiroh] Okay, let's go inside Kou's house.
 a011
 [Kojiroh] Dammit! Use the intercom first!

@@ -68,17 +68,17 @@ eve_21
 [Kojiroh] She's not back yet...
 eve_39
 [Kojiroh] Kyoko's still busting her ass at the\terminal.
-　Look/Investigate
-　Move
-　Equipment
-　Save/Load
-　Save
-　Load
-　Photograph
-　Glock
-　Cash
-　Viagra
-　Note
+縲Look/Investigate
+縲Move
+縲Equipment
+縲Save/Load
+縲Save
+縲Load
+縲Photograph
+縲Glock
+縲Cash
+縲Viagra
+縲Note
 s10
 [Kojiroh] It's a painting of a bizarre pattern...
 [Kojiroh] Nikaido knew what this meant...
@@ -109,10 +109,10 @@ s07
 [Kojiroh] Siria gave me this note.
 [Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
 [Kojiroh] Purin should know what it means...
-　Surroundings
-　Lights
-　Table
-　Work desk
+縲Surroundings
+縲Lights
+縲Table
+縲Work desk
 [Kojiroh] It's the office, without Purin.
 [Kyoko] I'm here...
 [Kojiroh] Must you respond to everything I say?
@@ -139,8 +139,8 @@ s07
 0380
 [Kyoko] Not yet.
 [Kojiroh] Oh...
-　Go outside
-　By the terminal
+縲Go outside
+縲By the terminal
 [Kojiroh] Yeah, I'll go out for some fresh air.
 [Kojiroh] I'll be back in a few, Kyoko.
 [Kyoko] Fine.
@@ -158,11 +158,11 @@ eve_38
 eve_38
 [Kyoko] Not yet.
 [Kojiroh] Oh...
-　Look/Investigate
-　Move
-　Speak
-　Attack
-　Attack Kyoko
+縲Look/Investigate
+縲Move
+縲Speak
+縲Attack
+縲Attack Kyoko
 [Kojiroh] (That would be suicide.)
 [Kojiroh] (Let's stop this crap.)
 Kyoko gives me that look...
@@ -171,7 +171,7 @@ Kyoko gives me that look...
 [Kojiroh] Who, me?
 [Kyoko] Yeah... I know you're up to something.
 [Kojiroh] You must be joking.
-　Kyoko
+縲Kyoko
 [Kyoko] Would you give me some time alone, please?
 [Kyoko] I'm almost finished... Just a little more.
 [Kyoko] I have to break this code... Otherwise, I\can't access the DMBS.
@@ -215,10 +215,10 @@ Kyoko gives me that look...
 [Kyoko] Honestly, the success rate here is very\low... I need luck. Lots of luck.
 [Kojiroh] I see... Well, just try your best. You're\doing great.
 [Kyoko] Thanks. I've come this far; I'm not giving\up.
-　Kyoko
-　Monitor
-　Fingers
-　Shoulders
+縲Kyoko
+縲Monitor
+縲Fingers
+縲Shoulders
 [Kojiroh] (She's unlocking the protections...)
 [Kojiroh] (She's unlocking the protections...)
 [Kojiroh] (Something tells me she just may do this\right...)
@@ -260,8 +260,8 @@ Kyoko gives me that look...
 [Kojiroh] Ha ha ha... I'm just expressing my\affection.
 [Kyoko] Don't interfere with my work.
 [Kojiroh] Geez...
-　Leave the terminal
-　Sit on Kyoko's lap
+縲Leave the terminal
+縲Sit on Kyoko's lap
 [Kojiroh] (Kyoko's eyes look pretty scary.)
 [Kyoko] Must you try to screw everyone you come in\contact with!
 [Kojiroh] Sorry, okay...?
@@ -294,14 +294,14 @@ Kyoko gives me a stare.
 [Kojiroh] Good. I'll be waiting.
 b08
 [Kojiroh] We've got lots to talk about...
-　Look/Investigate
-　Move
-　Speak
-　Equipment
-　Save/Load
-　Save
-　Load
-　Kyoko
+縲Look/Investigate
+縲Move
+縲Speak
+縲Equipment
+縲Save/Load
+縲Save
+縲Load
+縲Kyoko
 [Kojiroh] But more importantly...
 [Kyoko] What??
 [Kojiroh] I want to find out more on this Mido guy.
@@ -465,11 +465,11 @@ She punches the keys...
 [Kojiroh] Let's try to be a little more gentle.
 [Kyoko] Could you show me the note, and the other\things?
 [Kojiroh] Sure.
-　Photograph
-　Glock
-　Cash
-　Viagra
-　Note
+縲Photograph
+縲Glock
+縲Cash
+縲Viagra
+縲Note
 s10
 [Kojiroh] It's a painting of bizarre design...
 [Kyoko] It's on the tip of my tongue, but...
@@ -565,10 +565,10 @@ I give her that puppy look.
 [Kyoko] Something like that.
 [Kojiroh] Couldn't be. This is a copy. They told me\she'd know what it meant if she saw it.
 [Kyoko] Hmm...
-　Surroundings
-　Kyoko
-　Table
-　Work desk
+縲Surroundings
+縲Kyoko
+縲Table
+縲Work desk
 [Kojiroh] It's my office, without my little Purin.
 [Kojiroh] She knew this place so well, in such a\short time...
 [Kojiroh] She'd clean this place up so well that\it'd actually look like a normal warehouse.
@@ -585,7 +585,7 @@ I give her that puppy look.
 [Kyoko] At first look, it appears to be a boring\office... But there're actually lots of machinery\parts here.
 [Kojiroh] I am a pro, you know?
 [Kyoko] There are plenty of telecommunication\lines... We can receive all kinds of information\here...
-　Bed
+縲Bed
 [Kojiroh] Oh well, I guess I will save the bed for\later.
 [Kyoko] Don't bother saving it for later, I won't\sleep with you!
 [Kyoko] ...
@@ -597,17 +597,17 @@ I give her that puppy look.
 [Kyoko] Hey!
 [Kojiroh] Where could Purin have gone?
 [Kojiroh] We're all looking for you...
-　Look/Investigate
-　Move
-　Equipment
-　Save/Load
-　Save
-　Load
-　Photograph
-　Glock
-　Cash
-　Viagra
-　Note
+縲Look/Investigate
+縲Move
+縲Equipment
+縲Save/Load
+縲Save
+縲Load
+縲Photograph
+縲Glock
+縲Cash
+縲Viagra
+縲Note
 s10
 [Kojiroh] It's a painting of a bizarre painting...
 [Kojiroh] Apparently, Nikaido knew what it meant.
@@ -635,10 +635,10 @@ s07
 [Kojiroh] It's the memo that Siria gave me.
 [Kojiroh] "The moon will be full, the oasis will\flourish, and green shall return to the desert."
 [Kojiroh] Purin should know what this means...
-　Surroundings
-　Lights
-　Table
-　Work desk
+縲Surroundings
+縲Lights
+縲Table
+縲Work desk
 [Kojiroh] It's my office, without my little Purin.
 [Kojiroh] She knew this place so well, in such a\short time...
 [Kojiroh] She'd clean this place up so well that\it'd actually look like a normal warehouse.
@@ -654,16 +654,16 @@ s07
 [Kojiroh] And all she had to do was ask...
 [Kojiroh] The terminal with all my data is sitting\on top of it.
 [Kojiroh] The telecommunication lines are open,\from here we can access the network.
-　Go outside
+縲Go outside
 [Kojiroh] Yeah, hanging around this place won't\make me feel any better.
 [Kojiroh] Let's get some fresh air!
 a002_2
-　About Purin
-　About Nikaido
-　About Glen
-　About Aqua
-　About Kou
-　My real name
+縲About Purin
+縲About Nikaido
+縲About Glen
+縲About Aqua
+縲About Kou
+縲My real name
 [Kojiroh] I guess it's not about Purin.
 [Kojiroh] Yes! It's Purin!
 [Kojiroh] Then why does Purin have to send herself\something?
@@ -700,13 +700,13 @@ a002_2
 [Kojiroh] But when did I write this memo.
 [Siria] I don't get you...
 [Siria] Well, what do you want to ask?
-　Look/Investigate
-　Move
-　Speak
-　Save/Load
-　Save
-　Load
-　Siria
+縲Look/Investigate
+縲Move
+縲Speak
+縲Save/Load
+縲Save
+縲Load
+縲Siria
 [Siria] I'll give the note to you.
 [Kojiroh] This?
 [Siria] It's just a copy. Do what you want to it.
@@ -936,10 +936,10 @@ I look at the paper
 [Kojiroh] ...
 [Kojiroh] (The way she carries herself, her\fighting style, her knowledge on weapons...)
 [Kojiroh] (She's probably telling the truth.)
-　Siria
-　Tits
-　Ass
-　Thighs
+縲Siria
+縲Tits
+縲Ass
+縲Thighs
 [Siria] All bets are off.
 [Siria] You want to do it again?
 [Kojiroh] You wouldn't mind?
@@ -971,7 +971,7 @@ I look at the paper
 [Siria] The treatment isn't bad... There's no\inflammation.
 [Kojiroh] You owe me one.
 [Siria] I know... I'll get back to you.
-　Above Siria
+縲Above Siria
 [Kojiroh] Let's listen to Siria some more...
 [Kojiroh] I said no, didn't I?
 [Siria] Don't push me down when you say that.

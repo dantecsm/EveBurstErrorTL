@@ -1,23 +1,23 @@
 waku
-@@@@@@@òÿ@‚d‚u‚d burst error\\@@@@@@@ƒeƒXƒgƒo[ƒWƒ‡ƒ“@‚u‚…‚’‚OD‚S
-@ƒ[ƒh
-@Å‰‚©‚ç
-@Clear System Flags
-@Cancel
-@Clear All
-Œ»İ‚ÌƒVƒXƒeƒ€ƒtƒ‰ƒO‚ğAƒI[ƒ‹ƒNƒŠƒA‚µ‚Ü‚·B
-‚±‚ê‚ğs‚Á‚½Œã‚ÉA¡‚Ü‚Å‚ÌƒZ[ƒuƒf[ƒ^‚ğƒ[ƒh‚·‚é‚ÆAƒnƒ}‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B
-¡‚¾‚Á‚½‚çAXFER + ROLL_UP + ROLL_DOWN ƒL[‚ÅA”²‚¯‚ç‚ê‚Ü‚·B
-‚³‚ŸA‚¢‚¢‚Å‚·‚ËA‚¢‚«‚Ü‚·‚æH
-ƒNƒŠƒAŠ®—¹‚µ‚Ü‚µ‚½B
-ƒZ[ƒuƒf[ƒ^ƒtƒ@ƒCƒ‹(SAVE?.DAT)‚ÍAÁ‹‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B
-@“Vé@¬Ÿ˜Y
-@–@ğ@‚Ü‚è‚È
-@HHH
+ã€€ã€€ã€€ã€€ã€€ã€€ã€€â™¯ï¿½@ï¼¥ï¼¶ï¼¥ burst error\\ã€€ã€€ã€€ã€€ã€€ã€€ã€€ãƒ†ã‚¹ãƒˆãƒãƒ¼ã‚¸ãƒ§ãƒ³ã€€ï¼¶ï½…ï½’ï¼ï¼ï¼”
+ã€€ãƒ­ãƒ¼ãƒ‰
+ã€€æœ€åˆã‹ã‚‰
+ã€€Clear System Flags
+ã€€Cancel
+ã€€Clear All
+ç¾åœ¨ã®ã‚·ã‚¹ãƒ†ãƒ ãƒ•ãƒ©ã‚°ã‚’ã€ã‚ªãƒ¼ãƒ«ã‚¯ãƒªã‚¢ã—ã¾ã™ã€‚
+ã“ã‚Œã‚’è¡Œã£ãŸå¾Œã«ã€ä»Šã¾ã§ã®ã‚»ãƒ¼ãƒ–ãƒ‡ãƒ¼ã‚¿ã‚’ãƒ­ãƒ¼ãƒ‰ã™ã‚‹ã¨ã€ãƒãƒã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚
+ä»Šã ã£ãŸã‚‰ã€XFER + ROLL_UP + ROLL_DOWN ã‚­ãƒ¼ã§ã€æŠœã‘ã‚‰ã‚Œã¾ã™ã€‚
+ã•ãã€ã„ã„ã§ã™ã­ã€ã„ãã¾ã™ã‚ˆï¼Ÿ
+ã‚¯ãƒªã‚¢å®Œäº†ã—ã¾ã—ãŸã€‚
+ã‚»ãƒ¼ãƒ–ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«(SAVE?.DAT)ã¯ã€æ¶ˆå»ã—ã¦ãŠã„ã¦ãã ã•ã„ã€‚
+ã€€å¤©åŸã€€å°æ¬¡éƒ
+ã€€æ³•æ¡ã€€ã¾ã‚Šãª
+ã€€ï¼Ÿï¼Ÿï¼Ÿ
 c01
 b01
 eve_29
-December@3\  - 9* / 12 / 03 -0
+Decemberã€€3\  - 9* / 12 / 03 -0
 waku
 001
 *thump*
@@ -120,11 +120,11 @@ b16
 [Kojiroh] All I see is a hungry hyena posing as a\journalist.
 [Akane] Why don't you hear what I have to say\first? Then you might call me a flower.
 [Kojiroh] ...
-@Look/Investigate
-@Move
-@Speak
-@Ask
-@About the case
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Ask
+ã€€About the case
 [Akane] I already told you everything about the\case.
 [Akane] Oh, right. There's one more thing...
 [Kojiroh] What? There's more?
@@ -265,7 +265,7 @@ b16
 [Kojiroh] Actually I was just thinking about how to\shut you up.
 [Akane] If you don't work you can't eat.
 [Kojiroh] ...
-@Akane
+ã€€Akane
 [Akane] See you later. I have work to do.
 [Kojiroh] Just don't take any more disgusting\pictures like you did for that suicide scandal\story last week. You journalists are sick.
 [Akane] It's not disgusting. A house burned down.
@@ -495,9 +495,9 @@ b16
 [Akane] The door was unlocked.
 [Kojiroh] I spend all my money keeping this place\beautifully decorated. I can't afford a lock.
 [Akane] You're not making any sense...
-@Surroundings
-@Akane
-@Camera
+ã€€Surroundings
+ã€€Akane
+ã€€Camera
 [Kojiroh] Akane's on the phone right now.
 [Kojiroh] Which means that she's not in front of me\now.
 [Kojiroh] Which means that I don't have to look at\her camera.
@@ -581,11 +581,11 @@ b16
 [Kojiroh] ...
 [Akane] Wow. I'd better be going.
 [Kojiroh] Not so fast.
-[Akane] Huh?@Speak up. I can't hear you.
+[Akane] Huh?ã€€Speak up. I can't hear you.
 [Kojiroh] How come I didn't hear you saying\anything about the case?
 [Akane] What?
-[Kojiroh] I get it. You were@Speaking in code.
-[Akane] I wasn't@Speaking in code! That was the\editor of the paper.
+[Kojiroh] I get it. You wereã€€Speaking in code.
+[Akane] I wasn'tã€€Speaking in code! That was the\editor of the paper.
 [Kojiroh] What!?
 [Akane] He told me about a big story. I'll call\Mr. Kou next.
 [Kojiroh] I can't believe you would enter a\person's private home and use their phone to...
@@ -619,7 +619,7 @@ b16
 [Akane] How could a shit-fly be that cute, and hold\a cutting edge camera?
 [Kojiroh] Well that's exactly how it is. You're a\cute shit-fly with a nice camera.
 [Akane] You're impossible!
-@Go outside
+ã€€Go outside
 [Kojiroh] Akane's on the phone right now.
 [Kojiroh] I should wait a little before I go out...
 [Akane] Where do you think you're going without\me?!
@@ -630,14 +630,14 @@ b16
 [Kojiroh] ...
 eve_03
 [Kojiroh] So after I get the fax from that Kou guy,\I've gotta go right away to find out what he\wants...
-@Look/Investigate
-@Move
-@Think
-@Save/Load
-@Save
-@Load
-@Missing painting
-@Mr. Kou
+ã€€Look/Investigate
+ã€€Move
+ã€€Think
+ã€€Save/Load
+ã€€Save
+ã€€Load
+ã€€Missing painting
+ã€€Mr. Kou
 [Kojiroh] I should ask Kou directly about the\details of the case.
 [Kojiroh] I'm not sure I like the sound of all\this, but at least I'm working again.
 [Kojiroh] I'll find the painting and get the\3 million yen before Kou has time to blink.
@@ -675,10 +675,10 @@ eve_03
 [Kojiroh] When you deal with foreign cultures you\have to be tread lightly.
 [Kojiroh] Sometimes, even the slightest detail\might be badly percieved.
 [Kojiroh] First I'll meet the guy and get a feel\for things. I'll worry about the details later...
-@Surroundings
-@Lamp
-@Table
-@Work desk
+ã€€Surroundings
+ã€€Lamp
+ã€€Table
+ã€€Work desk
 [Kojiroh] It's a little dark and dirty, but this\place is a first rate detective office.
 [Kojiroh] I'm the owner and that's what I say, so\it's got to be true.
 [Kojiroh] Akane's gone...
@@ -710,7 +710,7 @@ eve_03
 [Kojiroh] It's equipped with fancy data transfer\functions.
 [Kojiroh] I can access the Internet without going\through a provider.
 [Kojiroh] There's nothing like fresh information...
-@Go outside
+ã€€Go outside
 [Kojiroh] I'd better get going to Kou's place.
 a002
 [Kojiroh] I still haven't recieved the fax from\Kou.

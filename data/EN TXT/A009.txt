@@ -200,10 +200,10 @@ eve_09
 [Kojiroh] This is the cocktail lounge... Everyone's\favorite meeting place.
 [Kojiroh] Glen isn't here yet.
 [Kojiroh] But then, I'm five minutes early.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Glen
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄGlen
 [Glen] Call me if you need anything, Kojiroh.
 [Kojiroh] Sure thing.
 [Glen] Okay, so you already knew about the girl...\So I'll only charge you one information fee. Heh,\heh, heh...
@@ -397,10 +397,10 @@ eve_09
 eve_52
 [Kojiroh] (What?! About the guy who killed Kou?)
 eve_13
-Å@Surroundings
-Å@Glen
-Å@Sunglasses
-Å@Booze
+„ÄÄSurroundings
+„ÄÄGlen
+„ÄÄSunglasses
+„ÄÄBooze
 [Glen] What's wrong? Don't you want to hear what I\have to say?
 [Glen] You're careful today... Is anyone checking\up on us?
 [Glen] There sure are fewer people here than usual.
@@ -420,7 +420,7 @@ eve_13
 [Glen] No drink beats a good glass of bourbon.
 [Glen] Heh, heh, heh... I only drink bourbon.
 [Glen] Would you like some?
-Å@On Glen's lap
+„ÄÄOn Glen's lap
 [Kojiroh] For Christ's sake, man... Get real.
 [Kojiroh] Sorry.
 [Glen] Me too.
@@ -436,13 +436,13 @@ eve_13
 [Glen] What?
 [Kojiroh] Why the hell do I have to sit on your\lap?
 [Glen] Kojiroh, you must be really tired...
-Å@Look/Investigate
-Å@Move
-Å@Order
-Å@Bourbon
-Å@Whiskey
-Å@Wine
-Å@Beef
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄOrder
+„ÄÄBourbon
+„ÄÄWhiskey
+„ÄÄWine
+„ÄÄBeef
 [Kojiroh] I already ordered... I don't need to be\so repetitive.
 [Kojiroh] Bourbon, please.
 b20
@@ -479,10 +479,10 @@ b20
 [Waitress] Jeez...
 009
 [Kojiroh] Doesn't this chick say anything else?
-Å@Surroundings
-Å@Booze
-Å@Ceiling fan
-Å@Lights
+„ÄÄSurroundings
+„ÄÄBooze
+„ÄÄCeiling fan
+„ÄÄLights
 [Kojiroh] This is my favorite cocktail lounge...
 [Kojiroh] If only that waitress wasn't here...
 [Kojiroh] I didn't see Aqua yesterday...
@@ -498,17 +498,17 @@ b20
 [Kojiroh] Not too bright, not too dim... It's just\right.
 [Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
 [Kojiroh] This is the way every cocktail lounge\should be.
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Kojiroh] Okay, let's get out of here.
 a007
 [Kojiroh] I don't have anything important to do\there at the time being.
 [Kojiroh] Oh, well... Let's go...
 a008
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Glen
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄGlen
 [Glen] Heh, heh, heh... Well, that should about do\it.
 [Kojiroh] I'm expecting good info.
 [Glen] Sure thing...
@@ -573,10 +573,10 @@ a008
 [Glen] I personally found her quite amusing.
 [Kojiroh] I'll never get to where you're at, pal.
 [Glen] Heh, heh, heh...
-Å@Surroundings
-Å@Glen
-Å@Booze
-Å@Hat
+„ÄÄSurroundings
+„ÄÄGlen
+„ÄÄBooze
+„ÄÄHat
 [Kojiroh] Who knows what the hell you're hiding in\that thing.
 [Glen] I'm not hiding anything.
 [Glen] I'm not hiding anything at all.
@@ -595,17 +595,17 @@ a008
 [Glen] Heh, heh, heh... Bourbon. Always.
 [Kojiroh] I see...
 [Glen] I love drinking alcohol that smells like the\fields.
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Glen] Come on, listen first.
 [Glen] Hey, you're leaving without hearing the\information?
-Å@Look/Investigate
-Å@Move
-Å@Order
-Å@Bourbon
-Å@Whiskey
-Å@Wine
-Å@Beef
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄOrder
+„ÄÄBourbon
+„ÄÄWhiskey
+„ÄÄWine
+„ÄÄBeef
 [Kojiroh] I already ordered... I don't need to be\repetitive.
 [Kojiroh] Bourbon, please.
 She puts a glass on my table.
@@ -630,10 +630,10 @@ I swallow the whole glass.
 She puts the bowl on my table.
 [Kojiroh] Hey, not bad... She actually served me a\bowl of beef.
 [Kojiroh] I don't know if it's elegant, or just\filled.
-Å@Surroundings
-Å@Booze
-Å@Ceiling fan
-Å@Lights
+„ÄÄSurroundings
+„ÄÄBooze
+„ÄÄCeiling fan
+„ÄÄLights
 [Kojiroh] This is one of my favorite bars.
 [Kojiroh] Here I can drink long and slow... It's so\relaxing.
 [Kojiroh] They've got every drink in the book, and\the interior design is cool.
@@ -647,19 +647,19 @@ She puts the bowl on my table.
 [Kojiroh] Not too bright, not too dim... It's just\right.
 [Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
 [Kojiroh] This is the way every cocktail lounge\should be.
-Å@Go outside
-Å@Hotel Lobby
+„ÄÄGo outside
+„ÄÄHotel Lobby
 [Kojiroh] Okay, let's get out of here.
 a007
 [Kojiroh] I don't have anything important to do at\the time being.
 [Kojiroh] Oh, well... Let's hit the road.
 a008
-Å@Look/Investigate
-Å@Move
-Å@Surroundings
-Å@Booze
-Å@Ceiling fan
-Å@Lights
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSurroundings
+„ÄÄBooze
+„ÄÄCeiling fan
+„ÄÄLights
 [Kojiroh] There aren't any customers here...
 [Kojiroh] Uh-oh... I'm the only one here.
 [Kojiroh] I didn't even notice myself getting so\enthralled, talking to Aqua.
@@ -674,19 +674,19 @@ a008
 [Kojiroh] Not too bright, not too dim... It's just\right.
 [Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
 [Kojiroh] This is the way every cocktail lounge\should be.
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Kojiroh] If I go outside, I'll be right on Central\Avenue.
 [Kojiroh] What? You already know that...? I was\just trying to make sure...
 a007
 [Kojiroh] I don't have anything important to do at\the time being.
 [Kojiroh] Oh, well... Let's hit the road.
 a008
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Order
-Å@Aqua
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄOrder
+„ÄÄAqua
 Aqua] Okay, then let's go to the next one. How about the fourth one?
 [Kojiroh] You look like your having fun.
 [Aqua] Oh, believe me. I am.
@@ -884,8 +884,8 @@ b18
 [Kojiroh] I'll try to keep that in mind.
 [Aqua] Thanks... I wouldn't want to get that nice\jacket dirty.
 [Kojiroh] (She's putting her guard up.)
-Å@Booze
-Å@Beer nuts
+„ÄÄBooze
+„ÄÄBeer nuts
 [Kojiroh] I don't want to get all drunk and make an\ass out of myself.
 [Kojiroh] No beer tonight.
 [Kojiroh] Booze...?
@@ -923,10 +923,10 @@ Smack!0
 She dashes off.
 [Aqua] You're having fun, aren't you...
 [Kojiroh] It's no computer game, but it's fun\enough.
-Å@Surroundings
-Å@Aqua
-Å@Booze
-Å@Tits
+„ÄÄSurroundings
+„ÄÄAqua
+„ÄÄBooze
+„ÄÄTits
 [Kojiroh] No way, man... She's already giving me\bad looks.
 [Kojiroh] C-cup...? Maybe even a D?
 [Kojiroh] She's rather thin... Maybe those tits are\implants.
@@ -950,8 +950,8 @@ She dashes off.
 [Kojiroh] The glass is full of green liquid, with a\slice of lemon... It looks delicious.
 [Aqua] I won't give you any.
 [Kojiroh] ...
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Kojiroh] I can go to the lobby anytime. It's open\24 hours a day.
 [Kojiroh] This may be my only chance to talk to\her.
 [Kojiroh] I'd like to stick around here a little\longer.
@@ -959,13 +959,13 @@ She dashes off.
 [Kojiroh] Come on, let's hang out here for a while.
 [Kojiroh] Hey, I spent all this time getting to\know her. I can't just leave now!
 [Kojiroh] Let's stay here a little longer.
-Å@Look/Investigate
-Å@Move
-Å@Order
-Å@Bourbon
-Å@Whiskey
-Å@Wine
-Å@Beef
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄOrder
+„ÄÄBourbon
+„ÄÄWhiskey
+„ÄÄWine
+„ÄÄBeef
 [Kojiroh] Ah, to hell with it. I don't need to\order anything.
 [Kojiroh] Hey, toots... Give me a bourbon.
 b20
@@ -1007,10 +1007,10 @@ b20
 009
 [Kojiroh] Never mind my nerves... Let's think about\those tits.
 [Kojiroh] In other words, I won't be eating any\beef tonight.
-Å@Surroundings
-Å@Booze
-Å@Ceiling fan
-Å@Lights
+„ÄÄSurroundings
+„ÄÄBooze
+„ÄÄCeiling fan
+„ÄÄLights
 [Kojiroh] This is one of my favorite bars.
 [Kojiroh] Here I can drink long and slow... It's so\relaxing.
 [Kojiroh] They've got every drink in the book, and\the interior design is cool.
@@ -1024,20 +1024,20 @@ b20
 [Kojiroh] Not too bright, not too dim... It's just\right.
 [Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
 [Kojiroh] This is the way every cocktail lounge\should be.
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Kojiroh] If I go outside, I'll be right on Central\Avenue.
 [Kojiroh] What? You already know? I was checking...
 a007
 [Kojiroh] I don't have anything important to do at\the time being.
 [Kojiroh] Oh, well... Let's hit the road.
 a008
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Ask
-Å@Missing painting
-Å@Kou
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄAsk
+„ÄÄMissing painting
+„ÄÄKou
 [Glen] I think I'll be able to give you some good\information tonight.
 [Kojiroh] According to Kou, it was his wife's\keepsake.
 [Glen] Which means I'll get some information as\soon as it hits the black market.
@@ -1097,7 +1097,7 @@ s10
 [Glen] Look it up yourself.
 [Kojiroh] Basically, you've never heard of the guy.
 [Glen] Basically, yes.
-Å@Glen
+„ÄÄGlen
 [Glen] Okay, Kojiroh. That'll do it.
 [Kojiroh] I'm expecting some useful information...
 009
@@ -1177,7 +1177,7 @@ b20
 [Kojiroh] ...
 [Waitress] Well, it's not on the menu.
 She slaps me HARD.
-\Å@
+\„ÄÄ
 [Kojiroh] ...
 [Waitress] This place closes at 11.
 009
@@ -1187,11 +1187,11 @@ She walks away.
 [Kojiroh] Jesus... I thought there was an\earthquake!
 [Glen] No, there was no earthquake.
 [Kojiroh] Damn, she put her weight on it.
-Å@Surroundings
-Å@Booze
-Å@Ceiling fan
-Å@Lights
-Å@Glen
+„ÄÄSurroundings
+„ÄÄBooze
+„ÄÄCeiling fan
+„ÄÄLights
+„ÄÄGlen
 [Kojiroh] Although he's a low life... His\information can be trusted.
 [Glen] Th... Thanks.
 [Kojiroh] He's bald under the hat, and his\bloodshot eyes are under those sunglasses.
@@ -1219,19 +1219,19 @@ She walks away.
 [Kojiroh] This light is dim enough to make me look\relatively attractive.
 [Kojiroh] This is the way every cocktail lounge\should be.
 [Glen] I like this place, too.
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Kojiroh] I'll go outside after while.
 [Kojiroh] I'll talk to Glen first. Wait until I\finish.
 [Glen] Let's relax, Kojiroh. Let's just both take\it easy.
 [Kojiroh] I think it's best I stick around here for\a while.
 [Kojiroh] There's nothing to do in the lobby.
 [Glen] You haven't even heard what I have to say\yet.
-Å@Look/Investigate
-Å@Move
-Å@Wait
-Å@Sit
-Å@Glen
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄWait
+„ÄÄSit
+„ÄÄGlen
 [Kojiroh] Damn, where is he?
 [Kojiroh] ...
 [Waitress] Ready to order yet?
@@ -1278,9 +1278,9 @@ She goes off in a huff.
 [Kojiroh] I'll sit down first.
 [Kojiroh] Why not have a seat first?
 [Kojiroh] My posture isn't good enough to stand and\wait for him. I'd feel self-conscious.
-Å@Chair
-Å@Counter
-Å@Ceiling
+„ÄÄChair
+„ÄÄCounter
+„ÄÄCeiling
 [Kojiroh] I'm already seated.
 [Kojiroh] Yeah, there's still some time left until\he gets here.
 [Kojiroh] I'll take a seat and wait for him.
@@ -1309,10 +1309,10 @@ I wipe the spill off the table.
 [Kojiroh] Come on, I can do it...
 [Kojiroh] Nope... No can do.
 [Kojiroh] It would've been nice to see all those\tits, but there are only so many things a man can\do.
-Å@Surroundings
-Å@Booze
-Å@Ceiling fan
-Å@Lights
+„ÄÄSurroundings
+„ÄÄBooze
+„ÄÄCeiling fan
+„ÄÄLights
 [Kojiroh] This is one of my favorite bars.
 [Kojiroh] Here I can drink long and slow... It's so\relaxing.
 [Kojiroh] They've got every drink in the book, and\the interior design is cool.
@@ -1326,8 +1326,8 @@ I wipe the spill off the table.
 [Kojiroh] Not too bright, not too dim... It's just\right.
 [Kojiroh] This light is dim enough to make me look\relatively attractive.
 [Kojiroh] This is the way every cocktail lounge\should be.
-Å@Go outside
-Å@Hotel lobby
+„ÄÄGo outside
+„ÄÄHotel lobby
 [Kojiroh] I haven't met Glen yet.
 [Kojiroh] Whoa, horsey! I just got here.
 [Kojiroh] I didn't talk to Glen yet... Where do you\expect to go?

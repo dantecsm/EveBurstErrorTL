@@ -246,8 +246,8 @@ They're at the door.
 [Kojiroh] 'Cuz that's what's gonna happen if we\don't get the hell outa here now.
 [Kyoko] But it's impossible. We'll die from the\fall.
 [Kojiroh] (This broad sure is a handful!)
-@Surrender
-@Think of another way
+ã€€Surrender
+ã€€Think of another way
 [Kyoko] No way! I'm scared!
 [Kojiroh] (Aw, dang it all.)
 [Kyoko] Surrender?! And turn me into Mido's sex\slave?
@@ -266,8 +266,8 @@ I kick the window.0
 [Kyoko] What are you doing?
 [Kojiroh] I'm right behind you.
 [Kyoko] Huh?!
-y‹±qz‚«‚á‚Ÿ[[[[[‚ÁI0
-y‹±qz‚«‚á‚Ÿ[[[[[‚ÁI0
+ã€æ­å­ã€‘ãã‚ƒããƒ¼ãƒ¼ãƒ¼ãƒ¼ãƒ¼ã£ï¼0
+ã€æ­å­ã€‘ãã‚ƒããƒ¼ãƒ¼ãƒ¼ãƒ¼ãƒ¼ã£ï¼0
 0400c
 0400d
 [Kojiroh] Smooth sailing!
@@ -326,22 +326,22 @@ Bang! Bang!
 [Kojiroh] We'll talk after we get to your place.
 [Kyoko] Sounds good. Let's go! 
 a020-2
-@Look/Investigate
-@Move
-@Search
-@Save/Load
-@Save
-@Load
-@Purin
+ã€€Look/Investigate
+ã€€Move
+ã€€Search
+ã€€Save/Load
+ã€€Save
+ã€€Load
+ã€€Purin
 [Kojiroh] It looks like Purin ain't here.
 [Kojiroh] Purins nowhere to be found...
 [Kojiroh] Of course, she might be in another\room...
 [Kojiroh] I wonder if Kyoko's looking for her...
-@Surroundings
-@Sofa
-@Mirror on the right
-@Desk
-@Report
+ã€€Surroundings
+ã€€Sofa
+ã€€Mirror on the right
+ã€€Desk
+ã€€Report
 [Kojiroh] No clues here... Shit.
 [Kojiroh] Looks like there's nothing here...
 [Kojiroh] Purins not here...
@@ -400,20 +400,20 @@ I look through its contents.
 [Kojiroh] The desk... There might be some clues\there.
 [Kojiroh] On top we have a... pen holder... a\calculator...
 [Kojiroh] It's too clean!!
-@Leave the office
+ã€€Leave the office
 [Kojiroh] There's no reason for me to stay here.
 [Kojiroh] I'll leave this room...
 [Kojiroh] I should look a little more closely...
 [Kojiroh] No, not yet.
 [Kojiroh] I'd better stay here and search a little\more.
 006c
-@Look/Investigate
-@Move
-@Speak
-@Save/Load
-@Save
-@Load
-@Speak
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Save/Load
+ã€€Save
+ã€€Load
+ã€€Speak
 [Mido] Is that all... Please understand I'm a busy\man.
 [Kojiroh] Thank you for your time... I'll go now.
 [Kojiroh] By the way, Ambassador.
@@ -458,7 +458,7 @@ I ruffle through my things.
 [Kojiroh] I can get it myself...
 [Kojiroh] (Under the table...)
 [Kojiroh] (Behind the chair... There's no other\place.)
-ƒJƒ`ƒbddB
+ã‚«ãƒãƒƒâ€¥â€¥ã€‚
 [Kojiroh] ...
 [Mido] Is everything alright?
 006
@@ -557,10 +557,10 @@ I ruffle through my things.
 [Mido] All sorts.
 [Kojiroh] ...
 [Kojiroh] (This guy ain't cool at all...)
-@Surroundings
-@Mido
-@Glasses
-@Mirror
+ã€€Surroundings
+ã€€Mido
+ã€€Glasses
+ã€€Mirror
 [Kojiroh] (He'll think something's up if I look\around too much...)
 [Kojiroh] (He probably already thinks so...)
 [Kojiroh] (Marina must be in here somewhere...)
@@ -590,7 +590,7 @@ I ruffle through my things.
 [Mido] Ladies who come here often end up fixing\their hair in it.
 [Kojiroh] ...
 [Kojiroh] (A mirror...)
-@Go outside
+ã€€Go outside
 [Mido] If that's all, then I'll show you out.
 [Kojiroh] I owe you a debt of gratitude...
 [Mido] I look forward to reading your article.

@@ -61,13 +61,13 @@ b18
 009c
 [Aqua] Have a seat too, Kojiroh.
 [Kojiroh] Thanks.
-　Look/Investigate
-　Move
-　Order
-　Bourbon
-　Whisky
-　Wine
-　Beef
+縲Look/Investigate
+縲Move
+縲Order
+縲Bourbon
+縲Whisky
+縲Wine
+縲Beef
 [Kojiroh] I don't feel like ordering anymore...
 [Kojiroh] I'll have a bourbon.
 [Kojiroh] But then again, I might regret it later...
@@ -83,10 +83,10 @@ b18
 [Kojiroh] Beef!?!
 [Kojiroh] The last thing I need is that pig to come sniffing around me...
 [Kojiroh] Forget about it.
-　Surroundings
-　Sake
-　Ceiling fans
-　Lights
+縲Surroundings
+縲Sake
+縲Ceiling fans
+縲Lights
 [Kojiroh] I'd like to meet Aqua again sometime...
 [Kojiroh] I think about her every time I come here...
 [Kojiroh] There's hardly anyone in this cocktail lounge...
@@ -101,19 +101,19 @@ b18
 [Kojiroh] It's not too bright, not too dark... It's just right.
 [Kojiroh] I like my bars to be dim.
 [Kojiroh] This place suits me just fine.
-　Go outside
-　Hotel lobby
+縲Go outside
+縲Hotel lobby
 [Kojiroh] Yeah, let's get out of this hotel.
 a007
 [Kojiroh] To the hotel lobby...
 a008
-　Look/Investigate
-　Move
-　Order
-　Bourbon
-　Whiskey
-　Wine
-　Beef
+縲Look/Investigate
+縲Move
+縲Order
+縲Bourbon
+縲Whiskey
+縲Wine
+縲Beef
 [Kojiroh] I don't want to order anything.
 [Kojiroh] I'll have a bourbon.
 Looks tasty...
@@ -133,10 +133,10 @@ Looks tasty...
 How scrumptious...
 I gobble it down.
 [Kojiroh] Check please!
-　Surroundings
-　Sake
-　Ceiling fans
-　Lights
+縲Surroundings
+縲Sake
+縲Ceiling fans
+縲Lights
 [Kojiroh] This cocktail lounge suits me just fine...
 [Kojiroh] If only that damn waitress was gone...
 [Kojiroh] I wonder if I'll ever see Aqua again...
@@ -152,20 +152,20 @@ I gobble it down.
 [Kojiroh] It's not too light, not too dark... It's just right.
 [Kojiroh] I like my bars to be dim.
 [Kojiroh] This place suits me just fine.
-　Go outside
-　Hotel lobby
+縲Go outside
+縲Hotel lobby
 [Kojiroh] Yeah, let's get out of this hotel.
 a007
 [Kojiroh] Either way, there's nothing to do now...
 [Kojiroh] Fine. Let's go.
 a008
-　Look/Investigate
-　Move
-　Speak
-　Order
-　Alcohol
-　Aqua
-　Call Girl
+縲Look/Investigate
+縲Move
+縲Speak
+縲Order
+縲Alcohol
+縲Aqua
+縲Call Girl
 [Kojiroh] I already have... For now, let's listen to what Aqua has to say.
 [Kojiroh] I already ordered another glass of whiskey...
 [Kojiroh] I can't get wasted this early in the afternoon. Right?
@@ -194,7 +194,7 @@ a008
 [Aqua] ...
 [Kojiroh] Sorry... I was just, you know, joking...
 [Kojiroh] (Uh-oh... She doesn't look happy...)
-　Aqua
+縲Aqua
 [Aqua] You're not asking me the right questions.
 [Kojiroh] Say what?
 [Aqua] Haven't you noticed that I look a bit down today?
@@ -284,10 +284,10 @@ Aqua giggles...
 [Aqua] Ha, ha... Don't you have work to do?
 [Kojiroh] Sometimes I do, sometimes I don't...
 [Aqua] ...
-　Surroundings
-　Aqua
-　Alcohol
-　Hair
+縲Surroundings
+縲Aqua
+縲Alcohol
+縲Hair
 [Aqua] This place has a nice atmosphere...
 [Aqua] Do you come here a lot, too Kojiroh?
 [Kojiroh] Every once in a while, to drink alone... Lately it's been my meeting spot.
@@ -322,7 +322,7 @@ Aqua giggles...
 [Kojiroh] ...
 [Kojiroh] It's a magnificent brown... How exquisite.
 [Aqua] You're the first man to ever tell me such things...
-　Go outside
+縲Go outside
 [Kojiroh] (I'd rather stick around here for a little while longer.)
 [Aqua] Are you leaving already?
 [Kojiroh] No, I was just readjusting my chair.

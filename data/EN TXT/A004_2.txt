@@ -92,10 +92,10 @@ kYayoi gives me a LONG stare...
 004b
 [Kojiroh] It's night and no one's back yet.
 [Kojiroh] I wonder what's going on...
-　Look/Investigate
-　Move
-　Speak
-　Yayoi
+縲Look/Investigate
+縲Move
+縲Speak
+縲Yayoi
 [Kojiroh] Hey!!
 ...
 [Kojiroh] She ignored me.
@@ -118,10 +118,10 @@ Yayoi gives me the stare.
 004b
 [Kojiroh] ...
 [Kojiroh] (Damn, she's getting mean...)
-　Surroundings
-　Desk
-　Air-conditioner
-　Copier
+縲Surroundings
+縲Desk
+縲Air-conditioner
+縲Copier
 [Kojiroh] There aren't any employees around.
 [Kojiroh] Yayoi's working right over there.
 [Kojiroh] It's a rather quiet office, and easy to\get lots of work done.
@@ -144,7 +144,7 @@ Yayoi gives me the stare.
 [Kojiroh] It's spotless all around the copier.
 [Kojiroh] The copier is turned off.
 [Kojiroh] Maybe that guy complaining about having\to make copies actually left already.
-　Go outside
+縲Go outside
 [Kojiroh] Yeah, there's no reason to hang around\here.
 b05
 [Yayoi] No use, eh?
@@ -154,10 +154,10 @@ b05
 004b
 [Kojiroh] I'm going outside... See ya!
 a003
-　Look/Investigate
-　Move
-　Speak
-　Talk to myself
+縲Look/Investigate
+縲Move
+縲Speak
+縲Talk to myself
 [Kojiroh] No one will listen to me if I talk to\myself.
 [Kojiroh] Shit, even I have trouble listening to\myself.
 [Kojiroh] Yayoi!!!
@@ -165,10 +165,10 @@ a003
 [Kojiroh] She's not here. She's probably at home,\fast asleep in bed.
 [Kojiroh] Hellloooo!!
 [Kojiroh] Okay, now I'm sure no one's here.
-　Surroundings
-　Desk
-　Air-conditioner
-　Copier
+縲Surroundings
+縲Desk
+縲Air-conditioner
+縲Copier
 [Kojiroh] This is a Private Detective Office\without any detectives.
 [Kojiroh] Maintenance must be a bitch here...
 [Kojiroh] Maybe I should come back for a while...
@@ -187,17 +187,17 @@ a003
 [Kojiroh] It's spotless all around the copier.
 [Kojiroh] The copier is turned off.
 [Kojiroh] Maybe that guy complaining about having\to make copies actually left already.
-　Go outside
+縲Go outside
 [Kojiroh] Yeah, there's no reason to hang around\here anymore.
 [Kojiroh] I'm takin' off!
 a003
-　Look/Investigate
-　Move
-　Speak
-　Save/Load
-　Save
-　Load
-　Yayoi
+縲Look/Investigate
+縲Move
+縲Speak
+縲Save/Load
+縲Save
+縲Load
+縲Yayoi
 [Yayoi] Zzz...
 [Kojiroh] She must be asleep... Shit.
 [Yayoi] Heh heh...
@@ -328,10 +328,10 @@ a003
 [Yayoi] Don't move around so much... I'll vomit.
 [Kojiroh] If you wanna puke, puke.
 [Yayoi] Oh, no...
-　Surroundings
-　Yayoi
-　Tits
-　Ass
+縲Surroundings
+縲Yayoi
+縲Tits
+縲Ass
 [Kojiroh] (I'm at Yayoi's apartment...)
 [Kojiroh] (I have to carry her into the room.)
 [Kojiroh] Okay, we're here...
@@ -387,10 +387,10 @@ She grinds her hips on mine.
 I shuffle around.
 [Kojiroh] (I think I love giving piggy backs.)
 [Kojiroh] (Big is good...)
-　Yayoi's apartment
-　Cheap motel
-　Central Avenue
-　Room 402
+縲Yayoi's apartment
+縲Cheap motel
+縲Central Avenue
+縲Room 402
 [Kojiroh] (I'll get Yayoi home fast, and then I'll\go back to the warehouse.)
 [Kojiroh] (No way... I've carried her this far\already.)
 [Kojiroh] (Quit joking! ...I just came from there.)
@@ -418,15 +418,15 @@ a024-2
 [Yayoi] ...
 [Kojiroh] (What the...?)
 [Kojiroh] What's happening?
-　Look/Investigate
-　Move
-　Speak
-　Drink
-　Care for her
-　Save/Load
-　Save
-　Load
-　Yayoi
+縲Look/Investigate
+縲Move
+縲Speak
+縲Drink
+縲Care for her
+縲Save/Load
+縲Save
+縲Load
+縲Yayoi
 [Kojiroh] Yeah, I can't just leave her here,\sleeping like this.
 [Kojiroh] Come on, wake up...
 [Yayoi] Hmmm...?
@@ -482,7 +482,7 @@ eve_17
 [Kojiroh] If you're so awake, why don't you walk on\your own.
 [Yayoi] I can't.
 [Kojiroh] Don't underestimate yourself.
-　Yayoi
+縲Yayoi
 [Yayoi] I'm tired... I'm so sleepy.
 [Kojiroh] (Dammit. What do I do now?)
 [Yayoi] Listen...
@@ -710,8 +710,8 @@ Yayoi drinks from the bottle.
 [Kojiroh] Are you sure you're not drunk?
 [Yayoi] I'm not drunk. I'm just drinking.
 [Kojiroh] ...
-　Booze
-　Tits
+縲Booze
+縲Tits
 [Kojiroh] I'll feel her up once she wakes up.
 [Kojiroh] It's against my policy to touch a\sleeping drunk woman.
 [Kojiroh] I touch them when they're fully awake.\That's my policy.
@@ -776,10 +776,10 @@ She puts the bottle down.
 She burps.
 [Kojiroh] Hey! That's enough!
 [Kojiroh] (What the hell has gotten into her!)
-　Surroundings
-　Yayoi
-　Booze
-　Thighs
+縲Surroundings
+縲Yayoi
+縲Booze
+縲Thighs
 [Kojiroh] Yayoi's drunk and asleep.
 [Kojiroh] I'd better move her somewhere.
 [Yayoi] This is my office! Stop looking around!
@@ -832,10 +832,10 @@ Ouch!0
 \ 
 [Yayoi] Don't you remember? I hate jokes like that?
 [Kojiroh] Okay, now I remember.
-　Look/Investigate
-　Move
-　Speak
-　Talk to myself
+縲Look/Investigate
+縲Move
+縲Speak
+縲Talk to myself
 [Kojiroh] Why not go check on how Yayoi is doing?
 [Kojiroh] I think Yayoi's in the other room, over\there...
 [Kojiroh] Yayoi, hello!!!
@@ -847,10 +847,10 @@ Ouch!0
 [Kojiroh] Hey!!!
 [Kojiroh] ...
 [Kojiroh] I guess no one's here.
-　Surroundings
-　Desk
-　Air-conditioner
-　Copier
+縲Surroundings
+縲Desk
+縲Air-conditioner
+縲Copier
 [Kojiroh] No one's in sight...
 [Kojiroh] I think Yayoi's in the other room, over\there.
 [Kojiroh] No one's here.
@@ -877,8 +877,8 @@ I open the door.
 [Kojiroh] And the area around the copier is\clean...
 [Kojiroh] And the copier is turned off.
 [Kojiroh] What happened to that guy who always\complained about making copies?
-　Go outside
-　Other room
+縲Go outside
+縲Other room
 [Kojiroh] Yeah, let's go to that room over there.
 [Kojiroh] I hear a voice from the other side of the\wall.
 Knock, knock.

@@ -264,10 +264,10 @@ eve_06
 [Kojiroh] Here I am in the Princess Hotel lobby...\This place is always so nice and pleasant.
 [Kojiroh] I guess it has to be with all the movie\stars and politicians coming through...
 [Kojiroh] The cocktail lounge is beneath the lobby.
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] I already gave out the key...
 [Front desk] You, one stud player!
 [Kojiroh] ...
@@ -288,10 +288,10 @@ eve_06
 [Kojiroh] Which room is it?
 [Purin] VIP room number 1420.
 [Kojiroh] (VIP room...)
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] Don't look around so much!...
 [Kojiroh] I guess a lot of incidents happened...
 [Kojiroh] But right now things seem calm.
@@ -310,9 +310,9 @@ eve_06
 [Kojiroh] That's a damn big window... You can't\take it home with you.
 [Purin] But I want it...
 [Kojiroh] No way.
-@Go outside
-@Cocktail lounge
-@Room 1420
+ã€€Go outside
+ã€€Cocktail lounge
+ã€€Room 1420
 [Kojiroh] Good idea. Let's go to room 1420 and meet\Mr. Fancy-pants.
 [Purin] It's this way.
 [Kojiroh] You know where it is?
@@ -320,11 +320,11 @@ eve_06
 a008_2
 [Kojiroh] Hey, you're not going to Fancy-pants'\room?
 [Kojiroh] There's no time for that now...
-@Look/Investigate
-@Move
-@Speak
-@Wait
-@Phony Kou
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Wait
+ã€€Phony Kou
 [Kojiroh] There's no sign of Fatass coming... Shit!
 [Kojiroh] I'm getting irritated...
 [Kojiroh] Son of a bitch. How dare he make me wait\this long.
@@ -352,7 +352,7 @@ I look behind the counter.
 [Kojiroh] Strange... I can't believe he's still not\here.
 [Kojiroh] ...
 [Kojiroh] Maybe he's behind that plant... Nope.
-@Front desk
+ã€€Front desk
 [Front desk] I haven't seen any big Chinese-looking\gentlemen.
 [Front desk] You're looking for this person?
 [Front desk] What's that? You mean the fatass?
@@ -369,10 +369,10 @@ I look behind the counter.
 [Front desk] It's just out of control... A murder\suspect killed himself in one of our rooms.
 [Front desk] We're getting more than a mouthful of\reporters...
 [Front desk] You're not a reporter, are you?
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] I don't see anyone who looks like him...
 [Kojiroh] It doesn't look like phony Kou is\anywhere around.
 [Kojiroh] Son of a bitch, telling me he'll be\here...
@@ -387,8 +387,8 @@ I look behind the counter.
 [Kojiroh] So they put up a flier to tell us we\can't put up fliers...
 [Kojiroh] Look at it all you want, but you can't\take it home.
 [Kojiroh] Pretty big window... Can't take it home.
-@Go outside
-@Cocktail lounge
+ã€€Go outside
+ã€€Cocktail lounge
 [Kojiroh] He ain't coming... What a waste of time.
 [Kojiroh] I'm going out...
 a007
@@ -398,10 +398,10 @@ a007
 [Kojiroh] I'll go down and check out the cocktail\lounge...
 a009_2
 [Kojiroh] No. I have to wait for him...
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] Please give us a break...
 [Front desk] The hotel is losing customers...
 [Front desk] I thought I told you no more\interviews!
@@ -412,10 +412,10 @@ a009_2
 [Front desk] What a mess... Sob...
 [Front desk] I've already told everything to the\reporters...
 [Front desk] You're not a reporter, are you?
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] It looks like there are swarms of\reporters.
 [Kojiroh] What a pain in the ass for the hotel\people...
 [Kojiroh] There are a lot more people than usual...
@@ -430,26 +430,26 @@ a009_2
 [Kojiroh] So they put up a flier to tell us we\can't put up fliers...
 [Kojiroh] Look at it all you want, but you can't\take it home.
 [Kojiroh] Pretty big window... Can't take it home.
-@Go outside
-@Cocktail lounge
+ã€€Go outside
+ã€€Cocktail lounge
 [Kojiroh] Outside... Yeah, sounds good.
 a007
 [Kojiroh] I'd sort of like to go...
 [Kojiroh] I'll go check out the cocktail lounge.
 a009_2
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] If you've come to get busy between the\sheets, please check in here.
 [Front desk] If you're here to mess around, please\get the hell out of here.
 [Front desk] You again... You really come here a\LOT lately.
 [Front desk] Quit standing around like a jerk-off\and go take care of your reproductive action\between male and female.
 [Front desk] Did I just say that?...
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Front desk] If you're going to fall down, then do\it by the exit.
 [Kojiroh] Don't be cold...
 [Kojiroh] Whenever I come to a fancy, quiet hotel\like this one, I want to roll around the floor like\a dog.
@@ -476,10 +476,10 @@ a009_2
 [Kojiroh] 'Please don't look anymore... Stop\punishing me.'
 [Kojiroh] What the hell is that supposed to mean?
 [Kojiroh] Fliers... Let's see what they say.
-y¬Ÿ˜YzwA‚Ì‰œ[‚­‚Ü‚Å‘}“ü‚³‚êA‡q‚Í“f‚«‹C‚ğ‚à‚æ‚¨‚µ‚½Bx
-y¬Ÿ˜Yzw‚µ‚©‚µ“ª‚ğŒÅ’è‚³‚ê‚Ä‚¢‚é‚Ì‚ÅA“÷–_‚ğŒûo‚©‚ç“f‚«o‚·‚±‚Æ‚à‚Å‚«‚È‚¢Bx
-y¬Ÿ˜YzwŒûo‚ğAŒÀŠE‚Ü‚Åd‚­‚È‚Á‚½“÷–_‚ªo“ü‚è‚µ‚È‚ª‚çA”M‚¢”S‰t‚ªA‚É‚ ‚Ñ‚¹‚©‚¯‚ç‚ê‚éBx
-y¬Ÿ˜Yzw‚Ş‚¹‚©‚¦‚è‚»‚¤‚É‚È‚è‚È‚ª‚çA‡q‚Í”Z‚­”S‚è‚¯‚Ì‚ ‚é¸‰t‚ğA–Ù‚Á‚Äš‹‰º‚·‚é‚µ‚©‚È‚©‚Á‚½B‚²‚­‚ÁA‚²‚­‚ÁBx
+ã€å°æ¬¡éƒã€‘ã€å–‰ã®å¥¥æ·±ãã¾ã§æŒ¿å…¥ã•ã‚Œã€é †å­ã¯åãæ°—ã‚’ã‚‚ã‚ˆãŠã—ãŸã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã—ã‹ã—é ­ã‚’å›ºå®šã•ã‚Œã¦ã„ã‚‹ã®ã§ã€è‚‰æ£’ã‚’å£è…”ã‹ã‚‰åãå‡ºã™ã“ã¨ã‚‚ã§ããªã„ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€å£è…”ã‚’ã€é™ç•Œã¾ã§ç¡¬ããªã£ãŸè‚‰æ£’ãŒå‡ºå…¥ã‚Šã—ãªãŒã‚‰ã€ç†±ã„ç²˜æ¶²ãŒå–‰ã«ã‚ã³ã›ã‹ã‘ã‚‰ã‚Œã‚‹ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã‚€ã›ã‹ãˆã‚Šãã†ã«ãªã‚ŠãªãŒã‚‰ã€é †å­ã¯æ¿ƒãç²˜ã‚Šã‘ã®ã‚ã‚‹ç²¾æ¶²ã‚’ã€é»™ã£ã¦åš¥ä¸‹ã™ã‚‹ã—ã‹ãªã‹ã£ãŸã€‚ã”ãã£ã€ã”ãã£ã€‚ã€
 [Kojiroh] This shit's making me impatient.
 [Kojiroh] But it was exciting...
 [Kojiroh] This is different from what was written\before.
@@ -487,13 +487,13 @@ a009_2
 [Kojiroh] ...
 [Kojiroh] I have no idea what this means.
 [Kojiroh] It looks like the fliers have changed\again...
-y¬Ÿ˜Yzw‚¢‚½‚¢‚½‚í‚ Aƒ\‚½ƒŒA‚Æ‚§‚Á‚½‚Ä‚à‚Ó‚½‚Æ‚­‚½‚Äddƒ‚ƒO‚½ƒ‚‚½ƒO‚µ‚½‚¿‚á‚¤‚ÁB‚½‚Ê‚«‚æ‚èx
+ã€å°æ¬¡éƒã€‘ã€ã„ãŸã„ãŸã‚ã‚ã€ã‚½ãŸãƒ¬ã€ã¨ã‰ã£ãŸã¦ã‚‚ãµãŸã¨ããŸã¦â€¥â€¥ãƒ¢ã‚°ãŸãƒ¢ãŸã‚°ã—ãŸã¡ã‚ƒã†ã£ã€‚ãŸã¬ãã‚ˆã‚Šã€
 [Kojiroh] ...Sounds familiar.
 [Kojiroh] It's changed again... What next?
-y¬Ÿ˜Yzw‚Ö‚¢ƒxƒCƒx[AƒWƒ…ƒe[ƒ€AƒEƒHƒAƒCƒjƒBAƒAƒCƒ‰ƒ”ƒ†ƒDIx
+ã€å°æ¬¡éƒã€‘ã€ã¸ã„ãƒ™ã‚¤ãƒ™ãƒ¼ã€ã‚¸ãƒ¥ãƒ†ãƒ¼ãƒ ã€ã‚¦ã‚©ã‚¢ã‚¤ãƒ‹ã‚£ã€ã‚¢ã‚¤ãƒ©ãƒ´ãƒ¦ã‚¥ï¼ã€
 [Kojiroh] ...
-y¬Ÿ˜Yz‚»‚¤‚¢‚¦‚Î“ú–{‚Ì‰Ì‚¢è‚³‚ñ‚ÍA‚È‚ñ‚ÅuƒxƒCƒx[v‚Á‚Ä”­‰¹‚·‚é‚ñ‚¾‚ë‚¤‚©B
-y¬Ÿ˜Yz³Šm‚É‚ÍuƒxƒCƒr[v‚ª³‚µ‚¢‚ñ‚¾‚¼B
+ã€å°æ¬¡éƒã€‘ãã†ã„ãˆã°æ—¥æœ¬ã®æ­Œã„æ‰‹ã•ã‚“ã¯ã€ãªã‚“ã§ã€Œãƒ™ã‚¤ãƒ™ãƒ¼ã€ã£ã¦ç™ºéŸ³ã™ã‚‹ã‚“ã ã‚ã†ã‹ã€‚
+ã€å°æ¬¡éƒã€‘æ­£ç¢ºã«ã¯ã€Œãƒ™ã‚¤ãƒ“ãƒ¼ã€ãŒæ­£ã—ã„ã‚“ã ãã€‚
 [Kojiroh] The fliers have some new information.\Let's see...
 [Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
 [Kojiroh] ...
@@ -503,17 +503,17 @@ a009_2
 [Kojiroh] I seriously doubt that.
 [Kojiroh] No matter how many times you look at it\you can't take it home.
 [Kojiroh] That's one big damn window... Can't take\it home, though.
-@Go outside
-@Cocktail lounge
+ã€€Go outside
+ã€€Cocktail lounge
 [Kojiroh] Go outside... Sounds good.
 a007
 [Kojiroh] I'm in the mood to get out of here...
 [Kojiroh] I'll go check out the cocktail lounge.
 a009_2
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] It's a little strange for me to not\know...
 [Front desk] I'll probably find out what happened\after tomorrow.
 [Front desk] There sure are a lot of police\officers about...
@@ -525,10 +525,10 @@ a009_2
 [Front desk] You again... You really come here a\LOT lately.
 [Front desk] Quit standing around like a jerk-off\and take care of reproductive actions between male\and female.
 [Front desk] Did I just say that?...
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Front desk] If you're going to fall down, then do\it by the exit.
 [Kojiroh] Don't be cruel baby...
 [Kojiroh] Whenever I come to a fancy, quiet hotel\like this one, I want to roll around on the floor\like a dog.
@@ -555,10 +555,10 @@ a009_2
 [Kojiroh] 'Please don't look anymore... Stop\punishing me.'
 [Kojiroh] What the hell is that supposed to mean?
 [Kojiroh] Fliers... Let's see what they say.
-y¬Ÿ˜YzwA‚Ì‰œ[‚­‚Ü‚Å‘}“ü‚³‚êA‡q‚Í“f‚«‹C‚ğ‚à‚æ‚¨‚µ‚½Bx
-y¬Ÿ˜Yzw‚µ‚©‚µ“ª‚ğŒÅ’è‚³‚ê‚Ä‚¢‚é‚Ì‚ÅA“÷–_‚ğŒûo‚©‚ç“f‚«o‚·‚±‚Æ‚à‚Å‚«‚È‚¢Bx
-y¬Ÿ˜YzwŒûo‚ğAŒÀŠE‚Ü‚Åd‚­‚È‚Á‚½“÷–_‚ªo“ü‚è‚µ‚È‚ª‚çA”M‚¢”S‰t‚ªA‚É‚ ‚Ñ‚¹‚©‚¯‚ç‚ê‚éBx
-y¬Ÿ˜Yzw‚Ş‚¹‚©‚¦‚è‚»‚¤‚É‚È‚è‚È‚ªA‡q‚Í”Z‚­”S‚è‚¯‚Ì‚ ‚é¸‰t‚ğA–Ù‚Á‚Äš‹‰º‚·‚é‚µ‚©‚È‚©‚Á‚½B‚²‚­‚ÁA‚²‚­‚ÁBx
+ã€å°æ¬¡éƒã€‘ã€å–‰ã®å¥¥æ·±ãã¾ã§æŒ¿å…¥ã•ã‚Œã€é †å­ã¯åãæ°—ã‚’ã‚‚ã‚ˆãŠã—ãŸã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã—ã‹ã—é ­ã‚’å›ºå®šã•ã‚Œã¦ã„ã‚‹ã®ã§ã€è‚‰æ£’ã‚’å£è…”ã‹ã‚‰åãå‡ºã™ã“ã¨ã‚‚ã§ããªã„ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€å£è…”ã‚’ã€é™ç•Œã¾ã§ç¡¬ããªã£ãŸè‚‰æ£’ãŒå‡ºå…¥ã‚Šã—ãªãŒã‚‰ã€ç†±ã„ç²˜æ¶²ãŒå–‰ã«ã‚ã³ã›ã‹ã‘ã‚‰ã‚Œã‚‹ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã‚€ã›ã‹ãˆã‚Šãã†ã«ãªã‚ŠãªãŒã€é †å­ã¯æ¿ƒãç²˜ã‚Šã‘ã®ã‚ã‚‹ç²¾æ¶²ã‚’ã€é»™ã£ã¦åš¥ä¸‹ã™ã‚‹ã—ã‹ãªã‹ã£ãŸã€‚ã”ãã£ã€ã”ãã£ã€‚ã€
 [Kojiroh] This shit's making me impatient.
 [Kojiroh] But it was exciting...
 [Kojiroh] This is different from what was written\before.
@@ -566,13 +566,13 @@ a009_2
 [Kojiroh] ...
 [Kojiroh] I have no idea what this means.
 [Kojiroh] It looks like the fliers have changed\again...
-y¬Ÿ˜Yzw‚¢‚½‚¢‚½‚í‚ Aƒ\‚½ƒŒA‚Æ‚§‚Á‚½‚Ä‚à‚Ó‚½‚Æ‚­‚½‚Äddƒ‚ƒO‚½ƒ‚‚½ƒO‚µ‚½‚¿‚á‚¤‚ÁB‚½‚Ê‚«‚æ‚èx
+ã€å°æ¬¡éƒã€‘ã€ã„ãŸã„ãŸã‚ã‚ã€ã‚½ãŸãƒ¬ã€ã¨ã‰ã£ãŸã¦ã‚‚ãµãŸã¨ããŸã¦â€¥â€¥ãƒ¢ã‚°ãŸãƒ¢ãŸã‚°ã—ãŸã¡ã‚ƒã†ã£ã€‚ãŸã¬ãã‚ˆã‚Šã€
 [Kojiroh] ...Sounds familiar.
 [Kojiroh] It's changed again... What next?
-y¬Ÿ˜Yzw‚Ö‚¢ƒxƒCƒx[AƒWƒ…ƒe[ƒ€AƒEƒHƒAƒCƒjƒBAƒAƒCƒ‰ƒ”ƒ†ƒDIx
+ã€å°æ¬¡éƒã€‘ã€ã¸ã„ãƒ™ã‚¤ãƒ™ãƒ¼ã€ã‚¸ãƒ¥ãƒ†ãƒ¼ãƒ ã€ã‚¦ã‚©ã‚¢ã‚¤ãƒ‹ã‚£ã€ã‚¢ã‚¤ãƒ©ãƒ´ãƒ¦ã‚¥ï¼ã€
 [Kojiroh] ...
-y¬Ÿ˜Yz‚»‚¤‚¢‚¦‚Î“ú–{‚Ì‰Ì‚¢è‚³‚ñ‚ÍA‚È‚ñ‚ÅuƒxƒCƒx[v‚Á‚Ä”­‰¹‚·‚é‚ñ‚¾‚ë‚¤‚©B
-y¬Ÿ˜Yz³Šm‚É‚ÍuƒxƒCƒr[v‚ª³‚µ‚¢‚ñ‚¾‚¼B
+ã€å°æ¬¡éƒã€‘ãã†ã„ãˆã°æ—¥æœ¬ã®æ­Œã„æ‰‹ã•ã‚“ã¯ã€ãªã‚“ã§ã€Œãƒ™ã‚¤ãƒ™ãƒ¼ã€ã£ã¦ç™ºéŸ³ã™ã‚‹ã‚“ã ã‚ã†ã‹ã€‚
+ã€å°æ¬¡éƒã€‘æ­£ç¢ºã«ã¯ã€Œãƒ™ã‚¤ãƒ“ãƒ¼ã€ãŒæ­£ã—ã„ã‚“ã ãã€‚
 [Kojiroh] The fliers have some new information.\Let's see...
 [Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
 [Kojiroh] ...
@@ -582,9 +582,9 @@ a009_2
 [Kojiroh] I seriously doubt that.
 [Kojiroh] No matter how many times you look at it\you can't take it home.
 [Kojiroh] That's one big damn window... Can't take\it home, though.
-@Go outside
-@Cocktail lounge
-@Follow Akane
+ã€€Go outside
+ã€€Cocktail lounge
+ã€€Follow Akane
 [Kojiroh] Akane seemed strange... I'd better see\what she's up to.
 [Kojiroh] She seemed like she was really nervous...
 [Kojiroh] I'll go after Akane!
@@ -657,13 +657,13 @@ a009
 [Kojiroh] Right now it looks... open. So it must\not be morning.
 [Kojiroh] I'll go check it out...
 a009
-@Look/Investigate
-@Move
-@Speak
-@Punch
-@Nikaido
-@Chandelier
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Punch
+ã€€Nikaido
+ã€€Chandelier
+ã€€Front desk
 [Kojiroh] Whatever. You'll have to excuse me now.
 [Nikaido] You don't make any sense, shithead.
 POW!
@@ -686,7 +686,7 @@ POW!
 [Front desk] Please cut it out.
 [Kojiroh] I got told first...
 [Nikaido] You're an idiot.
-@Nikaido
+ã€€Nikaido
 [Nikaido] Ha ha ha.
 [Kojiroh] You okay Nikaido?
 [Nikaido] I'll give credit where credit is due. You\win. I lose
@@ -742,9 +742,9 @@ eve_06
 [Kojiroh] What then?
 [Nikaido] Ha ha, your ignorance is bliss.
 [Kojiroh] Are you sure you're okay?
-@Surroundings
-@Nikaido
-@Clothes
+ã€€Surroundings
+ã€€Nikaido
+ã€€Clothes
 [Nikaido] I'm Nikaido with the gorgeous gonads.
 [Kojiroh] I don't know what you're talking about.
 [Kojiroh] All I see in front of me is Nikaido with\the hemorrhoid-cream mustache.
@@ -762,8 +762,8 @@ eve_06
 [Nikaido] I hate to disappoint you, but I have\multiples of the same suit.
 [Kojiroh] You are still wearing those '3 for $39'\suits...
 [Nikaido] I feel sorry for you that you have\absolutely no sense of style.
-@Go outside
-@Cocktail lounge
+ã€€Go outside
+ã€€Cocktail lounge
 [Nikaido] Don't make me laugh.
 [Kojiroh] I'm right here.
 [Nikaido] Son of a b...
@@ -774,19 +774,19 @@ eve_06
 [Nikaido] It's no cocktail lounge for a butt-picker\like you.
 [Kojiroh] God, you're annoying...
 [Nikaido] Look at you. You're going to that\cocktail lounge dressed like that?
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] What can I do for you?
 [Front desk] Oh, it's you again...
 [Front desk] I see you a lot lately. What brings\you here today?
 [Front desk] Excuse me? Nothing really?
 [Front desk] Please don't play games with me, sir.
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] There aren't many people...
 [Kojiroh] This place is pretty empty right now...
 [Kojiroh] But, then again, is it ever not empty?
@@ -808,10 +808,10 @@ eve_06
 [Kojiroh] 'Please don't look anymore... Stop\punishing me.'
 [Kojiroh] What the hell is that supposed to mean?
 [Kojiroh] Fliers... Let's see what they say.
-y¬Ÿ˜YzwA‚Ì‰œ[‚­‚Ü‚Å‘}“ü‚³‚êA‡q‚Í“f‚«‹C‚ğ‚à‚æ‚¨‚µ‚½Bx
-y¬Ÿ˜Yzw‚µ‚©‚µ“ª‚ğŒÅ’è‚³‚ê‚Ä‚¢‚é‚Ì‚ÅA“÷–_‚ğŒûo‚©‚ç“f‚«o‚·‚±‚Æ‚à‚Å‚«‚È‚¢Bx
-y¬Ÿ˜YzwŒûo‚ğAŒÀŠE‚Ü‚Åd‚­‚È‚Á‚½“÷–_‚ªo“ü‚è‚µ‚È‚ª‚çA”M‚¢”S‰t‚ªA‚É‚ ‚Ñ‚¹‚©‚¯‚ç‚ê‚éBx
-y¬Ÿ˜Yzw‚Ş‚¹‚©‚¦‚è‚»‚¤‚É‚È‚è‚È‚ªA‡q‚Í”Z‚­”S‚è‚¯‚Ì‚ ‚é¸‰t‚ğA–Ù‚Á‚Äš‹‰º‚·‚é‚µ‚©‚È‚©‚Á‚½B‚²‚­‚ÁA‚²‚­‚ÁBx
+ã€å°æ¬¡éƒã€‘ã€å–‰ã®å¥¥æ·±ãã¾ã§æŒ¿å…¥ã•ã‚Œã€é †å­ã¯åãæ°—ã‚’ã‚‚ã‚ˆãŠã—ãŸã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã—ã‹ã—é ­ã‚’å›ºå®šã•ã‚Œã¦ã„ã‚‹ã®ã§ã€è‚‰æ£’ã‚’å£è…”ã‹ã‚‰åãå‡ºã™ã“ã¨ã‚‚ã§ããªã„ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€å£è…”ã‚’ã€é™ç•Œã¾ã§ç¡¬ããªã£ãŸè‚‰æ£’ãŒå‡ºå…¥ã‚Šã—ãªãŒã‚‰ã€ç†±ã„ç²˜æ¶²ãŒå–‰ã«ã‚ã³ã›ã‹ã‘ã‚‰ã‚Œã‚‹ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã‚€ã›ã‹ãˆã‚Šãã†ã«ãªã‚ŠãªãŒã€é †å­ã¯æ¿ƒãç²˜ã‚Šã‘ã®ã‚ã‚‹ç²¾æ¶²ã‚’ã€é»™ã£ã¦åš¥ä¸‹ã™ã‚‹ã—ã‹ãªã‹ã£ãŸã€‚ã”ãã£ã€ã”ãã£ã€‚ã€
 [Kojiroh] This shit's making me impatient.
 [Kojiroh] But it was exciting...
 [Kojiroh] This is different from what was written\before.
@@ -819,13 +819,13 @@ eve_06
 [Kojiroh] ...
 [Kojiroh] I have no idea what this means.
 [Kojiroh] It looks like the fliers have changed\again...
-y¬Ÿ˜Yzw‚¢‚½‚¢‚½‚í‚ Aƒ\‚½ƒŒA‚Æ‚§‚Á‚½‚Ä‚à‚Ó‚½‚Æ‚­‚½‚Äddƒ‚ƒO‚½ƒ‚‚½ƒO‚µ‚½‚¿‚á‚¤‚ÁB‚½‚Ê‚«‚æ‚èx
+ã€å°æ¬¡éƒã€‘ã€ã„ãŸã„ãŸã‚ã‚ã€ã‚½ãŸãƒ¬ã€ã¨ã‰ã£ãŸã¦ã‚‚ãµãŸã¨ããŸã¦â€¥â€¥ãƒ¢ã‚°ãŸãƒ¢ãŸã‚°ã—ãŸã¡ã‚ƒã†ã£ã€‚ãŸã¬ãã‚ˆã‚Šã€
 [Kojiroh] ...Sounds familiar.
 [Kojiroh] It's changed again... What next?
-y¬Ÿ˜Yzw‚Ö‚¢ƒxƒCƒx[AƒWƒ…ƒe[ƒ€AƒEƒHƒAƒCƒjƒBAƒAƒCƒ‰ƒ”ƒ†ƒDIx
+ã€å°æ¬¡éƒã€‘ã€ã¸ã„ãƒ™ã‚¤ãƒ™ãƒ¼ã€ã‚¸ãƒ¥ãƒ†ãƒ¼ãƒ ã€ã‚¦ã‚©ã‚¢ã‚¤ãƒ‹ã‚£ã€ã‚¢ã‚¤ãƒ©ãƒ´ãƒ¦ã‚¥ï¼ã€
 [Kojiroh] ...
-y¬Ÿ˜Yz‚»‚¤‚¢‚¦‚Î“ú–{‚Ì‰Ì‚¢è‚³‚ñ‚ÍA‚È‚ñ‚ÅuƒxƒCƒx[v‚Á‚Ä”­‰¹‚·‚é‚ñ‚¾‚ë‚¤‚©B
-y¬Ÿ˜Yz³Šm‚É‚ÍuƒxƒCƒr[v‚ª³‚µ‚¢‚ñ‚¾‚¼B
+ã€å°æ¬¡éƒã€‘ãã†ã„ãˆã°æ—¥æœ¬ã®æ­Œã„æ‰‹ã•ã‚“ã¯ã€ãªã‚“ã§ã€Œãƒ™ã‚¤ãƒ™ãƒ¼ã€ã£ã¦ç™ºéŸ³ã™ã‚‹ã‚“ã ã‚ã†ã‹ã€‚
+ã€å°æ¬¡éƒã€‘æ­£ç¢ºã«ã¯ã€Œãƒ™ã‚¤ãƒ“ãƒ¼ã€ãŒæ­£ã—ã„ã‚“ã ãã€‚
 [Kojiroh] The fliers have some new information.\Let's see...
 [Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
 [Kojiroh] ...
@@ -835,9 +835,9 @@ eve_06
 [Kojiroh] I seriously doubt that.
 [Kojiroh] That's a big-ass window... Bigger than my\office.
 [Kojiroh] That window's so damn big... It's two\stories high!
-[Kojiroh] At night you can see the beautiful\reflection of the chandelier in it.B
-@Go outside
-@Cocktail lounge
+[Kojiroh] At night you can see the beautiful\reflection of the chandelier in it.ã€‚
+ã€€Go outside
+ã€€Cocktail lounge
 [Kojiroh] Going outside sounds good. I'm in the\mood for some fresh air.
 a007
 [Kojiroh] It looks open right now...
@@ -852,20 +852,20 @@ a009
 [Kojiroh] The cocktail lounge should be right here\at the bottom of the escalator... Huh?
 [Kojiroh] What's this sign about...? 'The cocktail\lounge opens in the afternoon'.
 [Kojiroh] That's bullshit! It should be open 24\hours.
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] I personally like thin, perky girls in\sailor outfits.
 [Front desk] I already told you.
 [Kojiroh] You didn't see a big-titty mama?
 [Front desk] Forgive me, sir, but I go for thin,\perky gals.
 [Kojiroh] Fine. Then did you see a girl in a red\jacket?
 [Front desk] Nothing reaches me except the sailor\outfits, sir.
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] She's nowhere. Shit! How could I let her\get away?
 [Kojiroh] She isn't here...
 [Kojiroh] I wish I knew why.
@@ -879,26 +879,26 @@ I look.
 [Kojiroh] Nope.
 [Kojiroh] Look all you want but you can't take it\home.
 [Kojiroh] Pretty big damn window... I can't take it\home with me.
-@Go outside
-@Cocktail Lounge
+ã€€Go outside
+ã€€Cocktail Lounge
 [Kojiroh] I'll go outside. I'm sick of hanging\around in here.
 a007
 [Kojiroh] The cocktail lounge sounds good right\now.
 a009
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] To get to the cocktail lounge just go\down the escalator on your right.
 [Front desk] Do you have a reservation?
 [Front desk] Every night we fill completely up with\naughty boys and girls.
 [Front desk] The VIP room is open, however. It\costs $1200 a night.
 [Front desk] I see.
 [Front desk] Please come again.
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] The lobby's pretty empty...
 [Kojiroh] Everyone's pumping in their rooms...\Shit!
 [Kojiroh] This place is like a 24-hour convenience\store.
@@ -922,10 +922,10 @@ a009
 [Kojiroh] 'Please don't look anymore... Stop\punishing me.'
 [Kojiroh] What the hell is that supposed to mean?
 [Kojiroh] Fliers... Let's see what they say.
-y¬Ÿ˜YzwA‚Ì‰œ[‚­‚Ü‚Å‘}“ü‚³‚êA‡q‚Í“f‚«‹C‚ğ‚à‚æ‚¨‚µ‚½Bx
-y¬Ÿ˜Yzw‚µ‚©‚µ“ª‚ğŒÅ’è‚³‚ê‚Ä‚¢‚é‚Ì‚ÅA“÷–_‚ğŒûo‚©‚ç“f‚«o‚·‚±‚Æ‚à‚Å‚«‚È‚¢Bx
-y¬Ÿ˜YzwŒûo‚ğAŒÀŠE‚Ü‚Åd‚­‚È‚Á‚½“÷–_‚ªo“ü‚è‚µ‚È‚ª‚çA”M‚¢”S‰t‚ªA‚É‚ ‚Ñ‚¹‚©‚¯‚ç‚ê‚éBx
-y¬Ÿ˜Yzw‚Ş‚¹‚©‚¦‚è‚»‚¤‚É‚È‚è‚È‚ªA‡q‚Í”Z‚­”S‚è‚¯‚Ì‚ ‚é¸‰t‚ğA–Ù‚Á‚Äš‹‰º‚·‚é‚µ‚©‚È‚©‚Á‚½B‚²‚­‚ÁA‚²‚­‚ÁBx
+ã€å°æ¬¡éƒã€‘ã€å–‰ã®å¥¥æ·±ãã¾ã§æŒ¿å…¥ã•ã‚Œã€é †å­ã¯åãæ°—ã‚’ã‚‚ã‚ˆãŠã—ãŸã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã—ã‹ã—é ­ã‚’å›ºå®šã•ã‚Œã¦ã„ã‚‹ã®ã§ã€è‚‰æ£’ã‚’å£è…”ã‹ã‚‰åãå‡ºã™ã“ã¨ã‚‚ã§ããªã„ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€å£è…”ã‚’ã€é™ç•Œã¾ã§ç¡¬ããªã£ãŸè‚‰æ£’ãŒå‡ºå…¥ã‚Šã—ãªãŒã‚‰ã€ç†±ã„ç²˜æ¶²ãŒå–‰ã«ã‚ã³ã›ã‹ã‘ã‚‰ã‚Œã‚‹ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã‚€ã›ã‹ãˆã‚Šãã†ã«ãªã‚ŠãªãŒã€é †å­ã¯æ¿ƒãç²˜ã‚Šã‘ã®ã‚ã‚‹ç²¾æ¶²ã‚’ã€é»™ã£ã¦åš¥ä¸‹ã™ã‚‹ã—ã‹ãªã‹ã£ãŸã€‚ã”ãã£ã€ã”ãã£ã€‚ã€
 [Kojiroh] This shit's making me impatient.
 [Kojiroh] But it was exciting...
 [Kojiroh] This is different from what was written\before.
@@ -933,13 +933,13 @@ a009
 [Kojiroh] ...
 [Kojiroh] I have no idea what this means.
 [Kojiroh] It looks like the fliers have changed\again...
-y¬Ÿ˜Yzw‚¢‚½‚¢‚½‚í‚ Aƒ\‚½ƒŒA‚Æ‚§‚Á‚½‚Ä‚à‚Ó‚½‚Æ‚­‚½‚Äddƒ‚ƒO‚½ƒ‚‚½ƒO‚µ‚½‚¿‚á‚¤‚ÁB‚½‚Ê‚«‚æ‚èx
+ã€å°æ¬¡éƒã€‘ã€ã„ãŸã„ãŸã‚ã‚ã€ã‚½ãŸãƒ¬ã€ã¨ã‰ã£ãŸã¦ã‚‚ãµãŸã¨ããŸã¦â€¥â€¥ãƒ¢ã‚°ãŸãƒ¢ãŸã‚°ã—ãŸã¡ã‚ƒã†ã£ã€‚ãŸã¬ãã‚ˆã‚Šã€
 [Kojiroh] ...Sounds familiar.
 [Kojiroh] It's changed again... What next?
-y¬Ÿ˜Yzw‚Ö‚¢ƒxƒCƒx[AƒWƒ…ƒe[ƒ€AƒEƒHƒAƒCƒjƒBAƒAƒCƒ‰ƒ”ƒ†ƒDIx
+ã€å°æ¬¡éƒã€‘ã€ã¸ã„ãƒ™ã‚¤ãƒ™ãƒ¼ã€ã‚¸ãƒ¥ãƒ†ãƒ¼ãƒ ã€ã‚¦ã‚©ã‚¢ã‚¤ãƒ‹ã‚£ã€ã‚¢ã‚¤ãƒ©ãƒ´ãƒ¦ã‚¥ï¼ã€
 [Kojiroh] ...
-y¬Ÿ˜Yz‚»‚¤‚¢‚¦‚Î“ú–{‚Ì‰Ì‚¢è‚³‚ñ‚ÍA‚È‚ñ‚ÅuƒxƒCƒx[v‚Á‚Ä”­‰¹‚·‚é‚ñ‚¾‚ë‚¤‚©B
-y¬Ÿ˜Yz³Šm‚É‚ÍuƒxƒCƒr[v‚ª³‚µ‚¢‚ñ‚¾‚¼B
+ã€å°æ¬¡éƒã€‘ãã†ã„ãˆã°æ—¥æœ¬ã®æ­Œã„æ‰‹ã•ã‚“ã¯ã€ãªã‚“ã§ã€Œãƒ™ã‚¤ãƒ™ãƒ¼ã€ã£ã¦ç™ºéŸ³ã™ã‚‹ã‚“ã ã‚ã†ã‹ã€‚
+ã€å°æ¬¡éƒã€‘æ­£ç¢ºã«ã¯ã€Œãƒ™ã‚¤ãƒ“ãƒ¼ã€ãŒæ­£ã—ã„ã‚“ã ãã€‚
 [Kojiroh] The fliers have some new information.\Let's see...
 [Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
 [Kojiroh] ...
@@ -950,19 +950,19 @@ a009
 [Kojiroh] That's a big window... It makes me want\to dirty it up with my grimy finger prints.
 [Kojiroh] At night you can't see the scenery\outside...
 [Kojiroh] Looking at the window I can see what's\going on in the lobby.
-@Go outside
-@Cocktail lounge
+ã€€Go outside
+ã€€Cocktail lounge
 [Kojiroh] Going out sounds good right now.
 a007
 [Kojiroh] It's right at the bottom of the escalator\on the right.
 [Kojiroh] I'll go check it out.
 a009
-@Look/Investigate
-@Move
-@Speak
-@Lick
-@Face
-@Camera
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Lick
+ã€€Face
+ã€€Camera
 [Kojiroh] I guess I won't lick you this time.
 [Akane] Of course you won't!
 [Kojiroh] Akane's face?!
@@ -982,7 +982,7 @@ a009
 [Kojiroh] She'd probably complain that her camera\would rust and rot or something.
 [Kojiroh] Forget about licking the camera.
 [Kojiroh] I get pissed off just thinking about her\reaction.
-@Akane
+ã€€Akane
 [Akane] If you find the painting, you ARE going to\take the money, right?
 [Kojiroh] Yeah, I guess so.
 [Akane] Well?
@@ -1028,9 +1028,9 @@ b16b
 [Kojiroh] (But I still don't understand it. She\should be happy if she's meeting her lover...)
 [Kojiroh] (They must have fought...)
 [Kojiroh] (I'd better change the subject...)
-@Surroundings
-@Akane
-@Camera
+ã€€Surroundings
+ã€€Akane
+ã€€Camera
 [Kojiroh] The more I look at this place, the more I\want to destroy it... I'd better look at something\else.
 [Kojiroh] This is a damn fine lobby... I guess I\should expect that from the biggest hotel in town.
 [Kojiroh] Whenever I come to a fancy-schmancy place\like this, I just want to take a baseball bat to\the whole thing and destroy the place!
@@ -1053,8 +1053,8 @@ b16b
 [Kojiroh] Okay then. I want it. Give it to me.
 [Akane] No!
 [Kojiroh] Then what does it matter whether or not I\want it?
-@Go outside
-@Cocktail Lounge
+ã€€Go outside
+ã€€Cocktail Lounge
 [Kojiroh] I still have some things to take care of.\See you later.
 [Akane] Good luck. I'm rooting for you...
 [Kojiroh] Oh, yeah?
@@ -1084,20 +1084,20 @@ a009
 [Kojiroh] I'm going to take you to the cocktail\lounge, get you drunk on screwdrivers, and take you\straight to bed!
 [Kojiroh] Yeah, right! Then you'll be on my wallet\for the rest of my life.
 [Akane] Hey, what are you tryin' to say?
-@Look/Investigate
-@Move
-@Speak
-@Front desk
+ã€€Look/Investigate
+ã€€Move
+ã€€Speak
+ã€€Front desk
 [Front desk] To get to the cocktail lounge, just go\down the escalator on your right, please.
 [Front desk] Do you have a reservation?
 [Front desk] In addition to economy rooms here, we\also have first and second class rooms and a VIP\suite.
 [Front desk] The VIP suites alone have 4-digit room\numbers, the rest are 3 digits.
 [Front desk] I see. You're not a registered guest?
 [Front desk] In that case, please make like a\tree...
-@Surroundings
-@Chandelier
-@Fliers
-@Window
+ã€€Surroundings
+ã€€Chandelier
+ã€€Fliers
+ã€€Window
 [Kojiroh] When I look around, I feel like I want to\break things. I'd better not look.
 [Kojiroh] This is the biggest hotel in town... I\shouldn't be surprised that the lobby is so nice.
 [Kojiroh] Whenever I'm surrounded by so much\beautiful stuff, I start to feel like I want to\break it!
@@ -1122,10 +1122,10 @@ a009
 [Kojiroh] 'Please don't look anymore... Stop\punishing me.'
 [Kojiroh] What the hell is that supposed to mean?
 [Kojiroh] Fliers... Let's see what they say.
-y¬Ÿ˜YzwA‚Ì‰œ[‚­‚Ü‚Å‘}“ü‚³‚êA‡q‚Í“f‚«‹C‚ğ‚à‚æ‚¨‚µ‚½Bx
-y¬Ÿ˜Yzw‚µ‚©‚µ“ª‚ğŒÅ’è‚³‚ê‚Ä‚¢‚é‚Ì‚ÅA“÷–_‚ğŒûo‚©‚ç“f‚«o‚·‚±‚Æ‚à‚Å‚«‚È‚¢Bx
-y¬Ÿ˜YzwŒûo‚ğAŒÀŠE‚Ü‚Åd‚­‚È‚Á‚½“÷–_‚ªo“ü‚è‚µ‚È‚ª‚çA”M‚¢”S‰t‚ªA‚É‚ ‚Ñ‚¹‚©‚¯‚ç‚ê‚éBx
-y¬Ÿ˜Yzw‚Ş‚¹‚©‚¦‚è‚»‚¤‚É‚È‚è‚È‚ªA‡q‚Í”Z‚­”S‚è‚¯‚Ì‚ ‚é¸‰t‚ğA–Ù‚Á‚Äš‹‰º‚·‚é‚µ‚©‚È‚©‚Á‚½B‚²‚­‚ÁA‚²‚­‚ÁBx
+ã€å°æ¬¡éƒã€‘ã€å–‰ã®å¥¥æ·±ãã¾ã§æŒ¿å…¥ã•ã‚Œã€é †å­ã¯åãæ°—ã‚’ã‚‚ã‚ˆãŠã—ãŸã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã—ã‹ã—é ­ã‚’å›ºå®šã•ã‚Œã¦ã„ã‚‹ã®ã§ã€è‚‰æ£’ã‚’å£è…”ã‹ã‚‰åãå‡ºã™ã“ã¨ã‚‚ã§ããªã„ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€å£è…”ã‚’ã€é™ç•Œã¾ã§ç¡¬ããªã£ãŸè‚‰æ£’ãŒå‡ºå…¥ã‚Šã—ãªãŒã‚‰ã€ç†±ã„ç²˜æ¶²ãŒå–‰ã«ã‚ã³ã›ã‹ã‘ã‚‰ã‚Œã‚‹ã€‚ã€
+ã€å°æ¬¡éƒã€‘ã€ã‚€ã›ã‹ãˆã‚Šãã†ã«ãªã‚ŠãªãŒã€é †å­ã¯æ¿ƒãç²˜ã‚Šã‘ã®ã‚ã‚‹ç²¾æ¶²ã‚’ã€é»™ã£ã¦åš¥ä¸‹ã™ã‚‹ã—ã‹ãªã‹ã£ãŸã€‚ã”ãã£ã€ã”ãã£ã€‚ã€
 [Kojiroh] This shit's making me impatient.
 [Kojiroh] But it was exciting...
 [Kojiroh] This is different from what was written\before.
@@ -1133,13 +1133,13 @@ a009
 [Kojiroh] ...
 [Kojiroh] I have no idea what this means.
 [Kojiroh] It looks like the fliers have changed\again...
-y¬Ÿ˜Yzw‚¢‚½‚¢‚½‚í‚ Aƒ\‚½ƒŒA‚Æ‚§‚Á‚½‚Ä‚à‚Ó‚½‚Æ‚­‚½‚Äddƒ‚ƒO‚½ƒ‚‚½ƒO‚µ‚½‚¿‚á‚¤‚ÁB‚½‚Ê‚«‚æ‚èx
+ã€å°æ¬¡éƒã€‘ã€ã„ãŸã„ãŸã‚ã‚ã€ã‚½ãŸãƒ¬ã€ã¨ã‰ã£ãŸã¦ã‚‚ãµãŸã¨ããŸã¦â€¥â€¥ãƒ¢ã‚°ãŸãƒ¢ãŸã‚°ã—ãŸã¡ã‚ƒã†ã£ã€‚ãŸã¬ãã‚ˆã‚Šã€
 [Kojiroh] ...Sounds familiar.
 [Kojiroh] It's changed again... What next?
-y¬Ÿ˜Yzw‚Ö‚¢ƒxƒCƒx[AƒWƒ…ƒe[ƒ€AƒEƒHƒAƒCƒjƒBAƒAƒCƒ‰ƒ”ƒ†ƒDIx
+ã€å°æ¬¡éƒã€‘ã€ã¸ã„ãƒ™ã‚¤ãƒ™ãƒ¼ã€ã‚¸ãƒ¥ãƒ†ãƒ¼ãƒ ã€ã‚¦ã‚©ã‚¢ã‚¤ãƒ‹ã‚£ã€ã‚¢ã‚¤ãƒ©ãƒ´ãƒ¦ã‚¥ï¼ã€
 [Kojiroh] ...
-y¬Ÿ˜Yz‚»‚¤‚¢‚¦‚Î“ú–{‚Ì‰Ì‚¢è‚³‚ñ‚ÍA‚È‚ñ‚ÅuƒxƒCƒx[v‚Á‚Ä”­‰¹‚·‚é‚ñ‚¾‚ë‚¤‚©B
-y¬Ÿ˜Yz³Šm‚É‚ÍuƒxƒCƒr[v‚ª³‚µ‚¢‚ñ‚¾‚¼B
+ã€å°æ¬¡éƒã€‘ãã†ã„ãˆã°æ—¥æœ¬ã®æ­Œã„æ‰‹ã•ã‚“ã¯ã€ãªã‚“ã§ã€Œãƒ™ã‚¤ãƒ™ãƒ¼ã€ã£ã¦ç™ºéŸ³ã™ã‚‹ã‚“ã ã‚ã†ã‹ã€‚
+ã€å°æ¬¡éƒã€‘æ­£ç¢ºã«ã¯ã€Œãƒ™ã‚¤ãƒ“ãƒ¼ã€ãŒæ­£ã—ã„ã‚“ã ãã€‚
 [Kojiroh] The fliers have some new information.\Let's see...
 [Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
 [Kojiroh] ...
@@ -1151,8 +1151,8 @@ a009
 [Kojiroh] There's no reason for it, but I gotta\hand it to this place. It's a mighty big window.
 [Kojiroh] God, that window's big. The lobby's two\stories high, for Christ's sake.
 [Kojiroh] The window goes all the way to the\ceiling. Bigger than momma's ass.
-@Go outside
-@Cocktail lounge
+ã€€Go outside
+ã€€Cocktail lounge
 [Kojiroh] Should I go out?
 [Kojiroh] I guess so. I'm in the mood for some\fresh air.
 a007

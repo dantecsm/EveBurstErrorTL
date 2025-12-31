@@ -200,11 +200,11 @@ eve_06
 [Kojiroh] This is Central Avenue.
 [Kojiroh] Development along the coast has been\skyrocketing. Tons of shops and new office\buildings are going up.
 [Kojiroh] And the Katsuragi Private Detective\Offices are here as well. It's a far cry from where\my office is located.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Couple
-Å@Businessman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄCouple
+„ÄÄBusinessman
 [Girl] You sure approach lots of people...
 [Girl] I don't know any girl named Jelly.
 [Girl] Yes. Fruit cocktail.
@@ -230,10 +230,10 @@ eve_06
 [Businessman] So that's why I spent the entire\night on the bench.
 [Businessman] Achhoooo!!! Excuse me...
 [Businessman] I caught a light sneeze...
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] It looks like a bustling area...
 [Kojiroh] Everyone has some destination in mind,\they're all busy... There isn't a single person\standing around relaxing.
 [Kojiroh] ...
@@ -249,10 +249,10 @@ eve_06
 [Kojiroh] The world keeps changing...
 [Kojiroh] But that damn sculpture's always the\same.
 [Kojiroh] Wow... That was deep.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] Her place? ...I don't have anything to do\there.
 a023
 [Kojiroh] Yayoi's apartment, eh? ...Okay, let's go.
@@ -274,11 +274,11 @@ a008
 [Kojiroh] Katsuragi Private Detective Offices?\Hmm...
 [Kojiroh] That doesn't sound like such a great\idea.
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Couple
-Å@Businessman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄCouple
+„ÄÄBusinessman
 [Girl] You like talking to strangers, don't you...\Well, you'll never get my phone number!
 [Girl] If you enjoy talking to couples, talk to\this guy as well.
 [Boy] Hey, I've been trying to get in her pants for\six months.
@@ -296,10 +296,10 @@ a003
 Smash!0
 \ 
 [Businessman] Sorry...
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] A lot of people here.
 [Kojiroh] This place is so lively, even at night...
 [Kojiroh] I love this town.
@@ -314,10 +314,10 @@ Smash!0
 [Kojiroh] It appears to be the symbol of this town.
 [Kojiroh] To me, it's just a stupid sculpture.
 [Kojiroh] It's crap. I have no idea what the artist\was trying to convey.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] Yayoi's place? But there's nothing for me\to do there...
 a023
 [Kojiroh] Yeah, I kinda want to go home...
@@ -330,11 +330,11 @@ a003
 [Kojiroh] Katsuragi Private Detective Offices?...\This might be bad timing.
 [Kojiroh] Okay, fine... But just for a little\while.
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Couple
-Å@Businessman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄCouple
+„ÄÄBusinessman
 [Girl] You like talking to strangers, don't you...\Well, you'll never get my phone number!
 [Girl] If you enjoy talking to couples, talk to\this guy as well.
 [Boy] Hey, I've been trying to get in her pants for\six months.
@@ -350,10 +350,10 @@ a003
 [Businessman] I always run into you here.
 [Businessman] Last night there was a murder not too\far from here. Pretty scary, isn't it?
 [Businessman] I have a job, you see... And after\work I got drunk and ended up falling asleep.
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] After leaving the financial district, the\surrounding area has considerably less people.
 [Kojiroh] There are just scores of people here...
 [Kojiroh] The population in the warehouse district\is nothing compared to this place.
@@ -371,10 +371,10 @@ a003
 [Kojiroh] Come on, man... How many times do you\want me to look at it!
 [Kojiroh] No matter how many times you see it, a\sculpture is a sculpture.
 [Kojiroh] It's crap. I have no idea what the artist\was trying to convey.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] You want to go there? Again?
 [Kojiroh] I'm not too thrilled about the idea.
 a023
@@ -388,11 +388,11 @@ a003
 [Kojiroh] Katsuragi Private Detective Offices?...\This might be bad timing.
 [Kojiroh] Okay, let's go. But only for a little\while.
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Couple
-Å@Businessman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄCouple
+„ÄÄBusinessman
 [Boy] Finally... I get a chance to speak.
 [Boy] I've been hard as a rock all night long...
 [Girl] Islam? You should've told me that in the\very beginning!
@@ -407,25 +407,25 @@ a003
 [Businessman] Haven't seen her.
 [Businessman] But it does give me an image to\fantasize about.
 Smack!0
-\Å@
+\„ÄÄ
 [Businessman] I was only kidding, really... I was\only admiring the beauty...
 Smack!0
-\Å@
+\„ÄÄ
 [Businessman] I mean, she'd be a wonderful woman to\date...
 Smack!0
-\Å@
+\„ÄÄ
 [Businessman] Great. Now my face is distorted...
 [Businessman] The economy is down, you see, so the\prostitutes are worried about money.
 [Businessman] A blonde girl with tan skin? Well, is\she 18?
 [Businessman] She's an energetic gal named Purin?
 [Businessman] Sounds like a foxy little bitch...\Which massage parlor is she in?
 Smack!0
-\Å@
+\„ÄÄ
 [Businessman] I was only joking! Please don't\distort my face anymore...
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] This area is always so exciting...
 [Kojiroh] The streets are lined with lots of\buildings and shops...
 [Kojiroh] The financial district is just a bit\further.
@@ -440,10 +440,10 @@ Smack!0
 [Kojiroh] No matter how many times you see it, that\sculpture isn't getting any prettier.
 [Kojiroh] That sculpture is a piece of shit.
 [Kojiroh] It's a piece of shit, I say!
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] As always, the idea doesn't impress me...
 [Kojiroh] Fine... But only for a little while.
 a023
@@ -454,14 +454,14 @@ a002
 a008
 [Kojiroh] Katsuragi Private Detective Offices...?\Okay, let's go.
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Purin
-Å@Salesclerk
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPurin
+„ÄÄSalesclerk
 [Purin] How do you like it, Kojiroh?
 [Kojiroh] ?
 0080
@@ -529,10 +529,10 @@ a014
 [Salesclerk] You should learn to be more sensitive\to a woman's heart.
 [Kojiroh] ...
 [Salesclerk] A woman loves to hear her lover tell\her "You look fantastic in that."
-Å@Surroundings
-Å@Purin
-Å@Bathing suit
-Å@Salesclerk
+„ÄÄSurroundings
+„ÄÄPurin
+„ÄÄBathing suit
+„ÄÄSalesclerk
 [Kojiroh] This shop has lots of bathing suits and\bikinis.
 [Kojiroh] Purin looks so happy.
 [Kojiroh] Something tells me I don't belong in this\place.
@@ -570,18 +570,18 @@ a014
 [Kojiroh] Giving Purin all this damn advice...
 [Salesclerk] Here, how do you like this one?
 [Purin] Hmm...
-Å@Leave the shop
+„ÄÄLeave the shop
 [Purin] Oh...
 [Kojiroh] I know.
 [Purin] Umm...
 [Kojiroh] All I'm doing is standing next to the\doorway...
 [Purin] Hey, where are you going?
 [Kojiroh] Don't look sad... I'm not going anywhere.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Buy
-Å@Something
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄBuy
+„ÄÄSomething
 [Kojiroh] Okay, I have to get my thoughts back\together again.
 [Kojiroh] What should I get...
 [Kojiroh] I'll get something that Akane will hate.
@@ -677,8 +677,8 @@ eve_16
 eve_06
 [Kojiroh] What should I do?
 [Kojiroh] Don't spend too much, just because you're\richer. Okay!?
-Å@Couple
-Å@Businessman
+„ÄÄCouple
+„ÄÄBusinessman
 [Girl] Well, do you have the cash?
 [Girl] What! You used 300 bucks in one day? And now\you're broke?
 [Girl] I can't believe it.
@@ -704,10 +704,10 @@ Smack!0
 Smack!0
 \ 
 [Businessman] I'm sorry...
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] It's a lively area...
 [Kojiroh] This is Central Avenue...
 [Kojiroh] I've never even stayed here. Not once.
@@ -720,10 +720,10 @@ Smack!0
 [Kojiroh] It's that confusing sculpture... What a\piece of crap!
 [Kojiroh] I just can't get interested in bad art.
 [Kojiroh] It's boring. I'm sick of looking at it.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] You wanna go to Yayoi's place?
 [Kojiroh] I'm not crazy about going there, you\know...
 a023
@@ -738,23 +738,23 @@ a008
 a008
 [Kojiroh] Katsuragi Private Detective Offices...?\Okay, let's go.
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Talk to myself
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄTalk to myself
 [Kojiroh] Enough of this crap...
 [Kojiroh] ...
 [Kojiroh] ...
 [Kojiroh] ...
 [Kojiroh] ...
 [Kojiroh] I can't think of anything to say to\myself.
-Åyè¨éüòYÅzç°ÇÕíNÇ‡Ç¢Ç»Ç¢ÇÊÇ§ÇæÇ©ÇÁÇ»ÅdÅdÅB
+„ÄêÂ∞èÊ¨°ÈÉé„Äë‰ªä„ÅØË™∞„ÇÇ„ÅÑ„Å™„ÅÑ„Çà„ÅÜ„Å†„Åã„Çâ„Å™‚Ä•‚Ä•„ÄÇ
 [Kojiroh] Gee, what fine weather we're having...
 [Kojiroh] Oh, man. This is hopeless.
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] This area is packed, even at night...
 [Kojiroh] Perhaps at night I'll see the city's\other "personality."
 [Kojiroh] This is Central Avenue...
@@ -768,10 +768,10 @@ a003
 [Kojiroh] It's that confusing sculpture... What a\piece of crap!
 [Kojiroh] I just can't get interested in bad art.
 [Kojiroh] It's boring. I'm sick of looking at it.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] You want to go to Yayoi's place?
 [Kojiroh] I'm not crazy about going there, you\know...
 a023
@@ -782,12 +782,12 @@ a002
 a008
 [Kojiroh] Katsuragi Private Detective Offices...?\Okay, let's go.
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Buy
-Å@Headache medicine
-Å@Street girl
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄBuy
+„ÄÄHeadache medicine
+„ÄÄStreet girl
 [Kojiroh] Hey, toots!
 [Kojiroh] Where would I find one of them?
 [Kojiroh] Hey, toots!
@@ -847,8 +847,8 @@ eve_39
 [Kojiroh] Her enormous tits are what made such a\lasting impression on me.
 [Kojiroh] I wonder what she's up to this time...
 [Kojiroh] She was rushing off to somewhere...
-Å@Couple
-Å@Businessman
+„ÄÄCouple
+„ÄÄBusinessman
 [Girl] And when I make a demand on a man... Hey,\where are you going!!
 [Girl] When I bitch or nag at a man, that's not a\problem, is it?
 [Girl] If a man doesn't permit that, he's merely a\boy.
@@ -875,10 +875,10 @@ eve_39
 [Businessman] I worked so hard... And this is the\life I lead...
 [Businessman] What's that? You want to know what I\do for a living?
 [Businessman] My job is to walk around aimlessly.
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] There's something suspicious about this\place. It's totally different than the area around\my office.
 [Kojiroh] Even at night, this place is thriving.
 [Kojiroh] That's why this place was given the name,\"The town that never sleeps."
@@ -897,10 +897,10 @@ eve_39
 [Kojiroh] The sculpture has a certain elegance at\night that it doesn't have during the day.
 [Kojiroh] I respect artistic geniuses.
 [Kojiroh] It's pretty good.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] There's something I'd like to do before\going to Yayoi's place.
 [Kojiroh] I don't really want to go there, to tell\you the truth.
 [Kojiroh] Fine. Let's go to Yayoi's.
@@ -926,11 +926,11 @@ a008
 [Kojiroh] The Katsuragi Private Detective Offices?
 [Kojiroh] I'd prefer not to go there...
 a003
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Couple
-Å@Businessman
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄCouple
+„ÄÄBusinessman
 [Kojiroh] I think I'm being ignored.
 [Kojiroh] I hate it when that happens.
 [Kojiroh] Hey, baby!
@@ -953,10 +953,10 @@ a003
 [Businessman] Huh? Am I busy with work, you ask?
 [Businessman] No way. I'm just busy with all this\free time I have.
 [Businessman] I used to be busy. I had a year when\I worked 24 hours a day, everyday. Boy, was I a\sucker.
-Å@Surroundings
-Å@Princess Hotel
-Å@Phone booth
-Å@Sculpture
+„ÄÄSurroundings
+„ÄÄPrincess Hotel
+„ÄÄPhone booth
+„ÄÄSculpture
 [Kojiroh] This area is jumping, even in the\evening.
 [Kojiroh] Perhaps at night I'll see the city's\other "personality."
 [Kojiroh] It's so peaceful.
@@ -979,10 +979,10 @@ a003
 [Kojiroh] All these artists trying to make a name\for themselves.
 [Kojiroh] The hell with it... I don't get it\anyway.
 [Kojiroh] I'll be sure to destroy it, when no one's\looking.
-Å@Warehouse district
-Å@Princess Hotel
-Å@Katsuragi Offices
-Å@Yayoi's apartment
+„ÄÄWarehouse district
+„ÄÄPrincess Hotel
+„ÄÄKatsuragi Offices
+„ÄÄYayoi's apartment
 [Kojiroh] You wanna go to Yayoi's place?
 [Kojiroh] There's nothing to do there...
 a023

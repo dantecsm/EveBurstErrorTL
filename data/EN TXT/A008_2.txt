@@ -36,9 +36,9 @@ We open the door...
 [Kojiroh] ...
 [Kojiroh] (What the...?)
 eve_40
-　Shoot
-　Hide
-　Kamikaze Attack
+縲Shoot
+縲Hide
+縲Kamikaze Attack
 [Kojiroh] (Kamikaze attacking isn't exactly one of\my hobbies.)
 [Kojiroh] (I can take one down with my gun... And\maybe two fighting...)
 [Kojiroh] (But it looks like there are five of\them...)
@@ -300,15 +300,15 @@ BAM!!
 [Prisia] Okay.
 0450
 0450c
-　Look/Investigate
-　Move
-　Speak
-　Hug
-　Save/Load
-　Save
-　Load
-　Prisia
-　Prisia
+縲Look/Investigate
+縲Move
+縲Speak
+縲Hug
+縲Save/Load
+縲Save
+縲Load
+縲Prisia
+縲Prisia
 [Prisia] I... I...
 [Kojiroh] Purin...
 [Prisia] Stoleman told me to go to you, if anything\happens.
@@ -491,10 +491,10 @@ BAM!!
 [Kojiroh] You know who I am, don't you...
 [Prisia] Yes. Purin's memories are mine as well.\Everything she remembers, I remember.
 [Kojiroh] ...
-　Prisia
-　Eyes
-　Hair
-　Clothing
+縲Prisia
+縲Eyes
+縲Hair
+縲Clothing
 [Kojiroh] (The girl in front of me is definitely\Purin.)
 [Kojiroh] (It couldn't possibly be anyone else.)
 [Kojiroh] (It's just gotta be Purin.)
@@ -509,24 +509,24 @@ BAM!!
 [Kojiroh] (Wait a minute...)
 [Kojiroh] (Clothes Purin was wearing...)
 [Kojiroh] (Why is this woman wearing them...?)
-　Leave the room
+縲Leave the room
 [Kojiroh] (Maybe I'd better ask Prisia what's going\on...)
 [Kojiroh] (Wait a minute...)
 [Kojiroh] (Shouldn't I ask Prisia what the hell is\going on?)
 0450b
 [Kojiroh] Is this some sort of joke...?
 [Kojiroh] It's a doll, and she's on that chair\wearing a wig!
-　Look/Investigate
-　Move
-　Speak
-　Save/Load
-　Leave the room
+縲Look/Investigate
+縲Move
+縲Speak
+縲Save/Load
+縲Leave the room
 [Kojiroh] Hey, wait a minute...
 [Kojiroh] Just what the hell's going on...?!?!
-　Save
-　Load
-　Purin
-　Doll
+縲Save
+縲Load
+縲Purin
+縲Doll
 [Kojiroh] Dolls don't respond.
 [Kojiroh] Hey...
 [Kojiroh] ...For Christ's sake, it's a doll! It\can't respond.
@@ -545,9 +545,9 @@ BAM!!
 [Kojiroh] Hey, tell me. What's going on here?
 [Purin] ...
 [Kojiroh] (What the hell is going on here!)
-　Doll
-　Hair
-　Purin
+縲Doll
+縲Hair
+縲Purin
 [Kojiroh] Hey, there's a plaque there...
 [Kojiroh] And there's something written on it.
 Hmm...
@@ -592,14 +592,14 @@ eve_08
 [Kojiroh] (Purin is stone silent...)
 [Kojiroh] (She looks flabbergasted...)
 [Kojiroh] (Her blue and gold eyes are looking\straight at me.)
-　Look/Investigate
-　Move
-　Speak
-　Approach
-　Save/Load
-　Save
-　Load
-　Chair in the middle
+縲Look/Investigate
+縲Move
+縲Speak
+縲Approach
+縲Save/Load
+縲Save
+縲Load
+縲Chair in the middle
 [Kojiroh] Sure, let's have a closer look.
 [Purin] Kojiroh... I feel something strange.
 [Kojiroh] (She's right. There's something fishy\about this.)
@@ -610,8 +610,8 @@ eve_08
 eve_52
 eve_15
 \ 
-　Purin
-　Girl on chair
+縲Purin
+縲Girl on chair
 [Purin] I'm scared...
 [Kojiroh] Purin...
 [Purin] I feel so... Strange...
@@ -644,10 +644,10 @@ eve_15
 [Kojiroh] Purins back.
 [Woman] ...
 [Kojiroh] (Dammit! What the hell is going on here!)
-　Surroundings
-　Chair in the middle
-　Purin
-　Lights
+縲Surroundings
+縲Chair in the middle
+縲Purin
+縲Lights
 [Kojiroh] (It's quite relaxing and comfortable...)
 [Kojiroh] (It's not very spacious, but it's\relaxing and comfortable.)
 [Kojiroh] (A rather chic room.)
@@ -665,7 +665,7 @@ eve_15
 [Kojiroh] (The lights are burning dim.)
 [Kojiroh] (The lights sure aren't very bright.)
 [Kojiroh] (It's the living room.)
-　Go outside
+縲Go outside
 [Kojiroh] (What are you doing?)
 [Kojiroh] (We just got here...)
 [Kojiroh] (But something's strange about this whole\thing.)

@@ -250,11 +250,11 @@ b09
 005
 [Kojiroh] She's going into the embassy.
 [Kojiroh] ...
-　Look/Investigate
-　Move
-　Speak
-　Do it
-　Kiss
+縲Look/Investigate
+縲Move
+縲Speak
+縲Do it
+縲Kiss
 [Kyoko] If you try that again I'll kill you.
 [Kojiroh] (She says it like she means it...)
 [Kyoko] Until you change your mind, I'm going to\keep screaming. AAAHHH!!
@@ -321,8 +321,8 @@ b08
 [Kyoko] Why is that?
 [Kojiroh] I don't know.
 [Kyoko] You drive me crazy!
-　Security guard
-　Kyoko
+縲Security guard
+縲Kyoko
 [Kojiroh] (I said he's not here!...)
 [Kojiroh] (This must be my chance.)
 [Kyoko] I won't try to stop you... It wouldn't even\help if I did.
@@ -330,10 +330,10 @@ b08
 [Kyoko] I really can't believe you.
 [Kyoko] Please don't commit any more crimes!
 [Kojiroh] You make me sound like a bad guy...
-　Surroundings
-　Gate
-　Security guard
-　Kyoko
+縲Surroundings
+縲Gate
+縲Security guard
+縲Kyoko
 [Kojiroh] (There seems to be some confusion inside\the embassy...)
 [Kojiroh] (I'll take advantage of this\opportunity...)
 [Kyoko] Are you really going inside?
@@ -347,8 +347,8 @@ b08
 [Kojiroh] (It's not impossible...)
 [Kyoko] No! Please, stop it!
 [Kojiroh] If people heard you they'd think I was\raping you or something...
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Kyoko] Are you sure?
 [Kojiroh] Yes.
 [Kyoko] You're unbelievable! God help us!
@@ -373,10 +373,10 @@ a006
 [Kyoko] ...
 [Kyoko] Come on. Let's go back to the international\school.
 [Kojiroh] (I wonder...)
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Kojiroh] There's no one to talk with...
 [Kojiroh] What do you mean?
 [Kojiroh] Do you see anyone to talk with?
@@ -390,10 +390,10 @@ a006
 [Security guard] I see 'em every day. All the\embassy's cars are bullet-proofed, black Mercedes.
 [Security Guard] But why would you want to know\about that for?
 [Security guard] Anyway, you can't get any\information today. They told me not to let anyone\through.
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] Mr. Bear the bodyguard isn't there\anymore...
 [Kojiroh] I wonder what happened...
 [Kojiroh] Phony Kou might be inside the embassy...
@@ -470,8 +470,8 @@ eve_15
 [Security guard] What are you looking for...?
 [Security guard] The Ambassador told me to keep the\press out.
 [Security guard] I'm very sorry, but I can't help\you.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Kojiroh] ...
 [Kojiroh] The gate's open, and the pesky guard is\nowhere around...
 [Kojiroh] Which means I can get in right now!...
@@ -521,10 +521,10 @@ b08
 [Security guard] Don't know him... And even if I\did I wouldn't tell you.
 [Kojiroh] I think he just came from over there...
 [Kojiroh] Nevermind that. I have to find where that\fatass went first...
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Security guard] The Ambassador isn't here. He'll\be back later.
 [Security guard] The Ambassador isn't here.
 [Security guard] If you have some business here\I'll hear it...
@@ -534,10 +534,10 @@ b08
 [Security guard] The Ambassador is out...
 [Security guard] Where did he go? I can't tell you\that.
 [Security guard] If you're here for news\information, you'd better schedule an appointment.
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] This place looks pretty well fortified...
 [Kojiroh] If I'm not careful I'll get caught.
 [Kojiroh] I shouldn't hang around too much...
@@ -552,8 +552,8 @@ b08
 [Security guard] Get me from a 45 degree angle...\Hey! Where are you going!?
 [Security guard] Look at my face from a 45 degree\angle to the right.
 [Security guard] I'm pretty proud of myself from\this angle.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Security guard] If you want to see the Ambassador\you should make an appointment first.
 [Security guard] The Ambassador is a very busy\man...
 [Security guard] You again... Trying to get a\story?
@@ -562,18 +562,18 @@ b08
 [Kojiroh] It does me no good to hang around here...
 [Kojiroh] I'd better be getting back to the\international school.
 a014_2
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Kojiroh] Who cares about the damn security guard?
 [Kojiroh] It would suck if I got caught.
 [Kojiroh] There's no time for that!
 [Kojiroh] I'm gonna get the hell out of here now!
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] The police are coming...
 [Kojiroh] I'd better get out of here quick...
 [Kojiroh] He came out from there...
@@ -581,18 +581,18 @@ a014_2
 [Kojiroh] The gate!
 [Kojiroh] I want to get out of here!
 [Kojiroh] If I get stuck between him and the cops\I'll really be screwed.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Kojiroh] Hey, that's where I came out of.
 [Kojiroh] What am I going to do in there again?
 [Kojiroh] I'll bet I can get away if I go that\way...
 [Police] Hey! Stop where you are!
 [Kojiroh] I'm getting out of here!
 a014_2
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Security guard] What are you doing? The Ambassador\is waiting inside.
 [Kojiroh] Hi there.
 [Security guard] You again... What business have\you here anyway?
@@ -639,10 +639,10 @@ He hangs up the phone.
 [Security guard] You're asking me if the Ambassador\is here?
 [Security guard] Why do you want to know about\that?
 [Security guard] Go on. Get lost.
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] This place looks pretty well fortified...
 [Kojiroh] If I'm not careful I'll get caught.
 [Kojiroh] I shouldn't hang around too much...
@@ -658,8 +658,8 @@ He hangs up the phone.
 [Security guard] You should go quickly for your own\sake.
 [Security guard] What are you looking at?
 [Security guard] Unless you have some business\here, you should hurry up and disappear.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Kojiroh] (Soon I'll be face to face with Mido...)
 [Kojiroh] (Hopefully I can get enough information\out of him...)
 a006
@@ -677,10 +677,10 @@ a006
 [Kojiroh] This place is no good. It gives me bad\vibes...
 [Kojiroh] I'll go back to the international school.
 a014_2
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Security guard] If you don't stop bothering me\I'll call the police.
 [Security guard] The Ambassador is very busy. He\has no time for you.
 [Security guard] So get lost, if you catch my\drift.
@@ -689,10 +689,10 @@ a014_2
 [Security guard] Go on. Get lost.
 [Security guard] You were here earlier too... What\business do you have here anyway?
 [Security guard] You'd better not try to come in\just because you're curious.
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] This place looks pretty well fortified...
 [Kojiroh] If I'm not careful I'll get caught.
 [Kojiroh] I have a feeling that after dark there\will be a lot of patrol cars around here.
@@ -706,8 +706,8 @@ a014_2
 [Security guard] You should go quickly for your own\sake.
 [Security guard] What are you looking at?
 [Security guard] Unless you have some business\here, you should hurry up and disappear.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Security guard] Nobody gets in unless they're\affiliated with the embassy.
 [Security guard] If you keep standing there I'll\call the police.
 [Security guard] You come here a lot...
@@ -716,10 +716,10 @@ a014_2
 [Kojiroh] This place is no good. It gives me bad\vibes...
 [Kojiroh] I'll go back to the international school.
 a014_2
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Security guard] You'd better be careful... We deal\with troublemakers differently here.
 [Security guard] You'd better shape up... I'm\serious about calling the police.
 [Security guard] You're giving me a lot of work\today...
@@ -727,10 +727,10 @@ a014_2
 [Security guard] And you don't have any, so you're\not getting in, okay?
 [Security guard] Not you again... I thought I\warned you yesterday.
 [Security guard] We deal very harshly with\troublemakers here. You'd better watch yourself.
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] This place looks pretty well fortified...
 [Kojiroh] There are a lot of patrol cars around...
 [Kojiroh] I'd better not linger.
@@ -746,8 +746,8 @@ a014_2
 [Security guard] You should go quickly for your own\sake.
 [Security guard] What are you looking at?
 [Security guard] Unless you have some business\here, you should hurry up and disappear.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Security guard] Nobody gets in unless they're\affiliated with the embassy.
 [Security guard] If you keep standing there I'll\call the police.
 [Security guard] You come here a lot...
@@ -756,19 +756,19 @@ a014_2
 [Kojiroh] This place is no good. It gives me bad\vibes...
 [Kojiroh] I'll go back to the international school.
 a014_2
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Security guard] Are you trying to get arrested?
 [Security guard] This is no place for vermin like\you.
 [Security guard] If you loiter I'll call the\police.
 [Security guard] No one gets in unless they're\affiliated with the embassy.
 [Security guard] You're still here?... Get lost for\your own sake.
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] The police are watching too...
 [Kojiroh] If I keep hanging around someone's gonna\spot me...
 [Kojiroh] It's just an embassy, but it looks like a\damn fortress.
@@ -789,8 +789,8 @@ a014_2
 [Security guard] You should go quickly for your own\sake.
 [Security guard] What are you looking at?
 [Security guard] Unless you have some business\here, you should hurry up and disappear.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Security guard] Nobody gets in unless they're\affiliated with the embassy.
 [Security guard] If you keep standing there I'll\call the police.
 [Security guard] Hey, shithead! What do you think\you're doing?
@@ -798,10 +798,10 @@ a014_2
 [Security guard] Go on. Get lost!
 [Kojiroh] There's no use in my staying here any\longer...
 a014
-　Look/Investigate
-　Move
-　Speak
-　Security guard
+縲Look/Investigate
+縲Move
+縲Speak
+縲Security guard
 [Security guard] Are you trying to get arrested?
 [Security guard] This is no place for vermin like\you.
 [Security guard] If you loiter I'll call the\police.
@@ -816,10 +816,10 @@ a014
 [Kojiroh] What would happen?
 [Security guard] The police would be here in a\second.
 [Kojiroh] Is that so...
-　Surroundings
-　Embassy
-　Gate
-　Security guard
+縲Surroundings
+縲Embassy
+縲Gate
+縲Security guard
 [Kojiroh] The police are watching too...
 [Kojiroh] If I keep hanging around someone's gonna\spot me...
 [Kojiroh] It's just an embassy, but it looks like a\damn fortress.
@@ -839,8 +839,8 @@ a014
 [Security guard] You should go quickly for your own\sake.
 [Security guard] What are you looking at?
 [Security guard] Unless you have some business\here, you should hurry up and disappear.
-　Go inside
-　International school
+縲Go inside
+縲International school
 [Security guard] Nobody gets in unless they're\affiliated with the embassy.
 [Security guard] If you keep standing there I'll\call the police.
 [Security guard] Hey, shithead! What do you think\you're doing?

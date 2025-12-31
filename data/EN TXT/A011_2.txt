@@ -57,11 +57,11 @@ The body is lifeless.
 [Kojiroh] I can't panic.
 [Kojiroh] Oh, mommy mommy mommy...
 [Kojiroh] I gotta calm the hell down... Okay, I'm\calm.
-　Look/Investigate
-　Move
-　Speak
-　Shoot
-　Girl in front of you
+縲Look/Investigate
+縲Move
+縲Speak
+縲Shoot
+縲Girl in front of you
 [Kojiroh] (To hell with that idea...)
 [Kojiroh] (I'm not in the mood.)
 [Kojiroh] (Let's hear what she has to say...)
@@ -76,7 +76,7 @@ The body is lifeless.
 [Girl] Okay...
 [Kojiroh] (Hey, she's trembling...)
 [Kojiroh] (I'm a sinner...)
-　Girl
+縲Girl
 [Kojiroh] No point in asking questions here.
 [Girl] ....!?!
 [Kojiroh] Stay like that and face the door.
@@ -186,10 +186,10 @@ a010_2
 [Kojiroh] Yeah. Just like that...
 [Girl] ...
 [Kojiroh] (Well, what am I gonna do?)
-　Surroundings
-　Girl
-　Hair
-　Ass
+縲Surroundings
+縲Girl
+縲Hair
+縲Ass
 [Kojiroh] (It's just me, the girl, and the corpse.)
 [Kojiroh] (Why the hell was this girl here...?)
 [Kojiroh] (This girl couldn't have...)
@@ -206,21 +206,21 @@ a010_2
 [Girl] ...Yes?
 [Kojiroh] Ah, nothing.
 [Kojiroh] (She caught me staring at her!)
-　Go outside
+縲Go outside
 [Kojiroh] (Not now... I should talk to her some\more.)
 [Kojiroh] (I can't just go outside and leave this\fine filly here!)
 [Kojiroh] (Let's actually think before acting.)
 [Kojiroh] There's a dead body right there! What the\hell's going on!?!
-　Look/Investigate
-　Move
-　Speak
-　Touch
-　Hide
-　Save/Load
-　Save
-　Load
-　Behind the curtain
-　Under the corpse
+縲Look/Investigate
+縲Move
+縲Speak
+縲Touch
+縲Hide
+縲Save/Load
+縲Save
+縲Load
+縲Behind the curtain
+縲Under the corpse
 [Kojiroh] That's about my only option in this\room...
 [Kojiroh] Okay, I'll hide behind the curtain.
 I hear footsteps.
@@ -255,9 +255,9 @@ eve_38
 [Kojiroh] Maybe I can be a human chair or\something.
 [Kojiroh] I'll be lucky if she sits on my lap.
 [Kojiroh] ...Just kidding.
-　Man's body
-　Jacket
-　Wound
+縲Man's body
+縲Jacket
+縲Wound
 [Kojiroh] This ain't the time to be touchy-feely...\Someone's coming.
 [Kojiroh] The body is starting to stiffen...
 [Kojiroh] But it's still warm... He wasn't killed\so long ago.
@@ -270,16 +270,16 @@ eve_38
 [Kojiroh] It's still slightly warm.
 [Kojiroh] It'll start drying pretty soon... The\blood has stopped flowing.
 [Kojiroh] The skin is beginning to harden...
-　Man
+縲Man
 [Kojiroh] This isn't the time to hang around and\shoot the shit, man!
 [Kojiroh] This guy is 100% dead... He's not gonna\talk to me... Idiot...
 [Kojiroh] He's dead.
 [Kojiroh] I guess this means he won't be talking to\me.
-　Surroundings
-　Man
-　Wound
-　Jacket
-　Knife
+縲Surroundings
+縲Man
+縲Wound
+縲Jacket
+縲Knife
 [Kojiroh] This ain't the time to stare at it. There\are certain web sites for that.
 [Kojiroh] And the knife lying behind the sofa\bothers me...
 [Kojiroh] If he cut his own throat, the knife\would've fallen at his feet.
@@ -377,16 +377,16 @@ I shuffle through his jacket.
 [Kojiroh] It's smothered in blood... He bled all\over this thing like a mad girl's tampon.
 [Kojiroh] It's so full of blood I can't tell what\color it was originally.
 [Kojiroh] It's begun to dry... The clothing is\becoming rice crispy treats.
-　Go outside
+縲Go outside
 [Kojiroh] I can't just go outside now...
 [Kojiroh] I have to hide somewhere.
 [Kojiroh] I'd better check out the area some more.
 [Kojiroh] Not yet... I wanna check this place out\some more.
-　Look/Investigate
-　Move
-　Speak
-　Think
-　About the drawers
+縲Look/Investigate
+縲Move
+縲Speak
+縲Think
+縲About the drawers
 [Kojiroh] (Just as I thought...)
 [Kojiroh] (I'll laugh if I'm wrong with this one.)
 [Kojiroh] (I remember that notepad... Which drawer\was it in again...?)
@@ -466,8 +466,8 @@ eve_13
 [Kojiroh] (I guess I was badly mistaken... It\happens.)
 [Kojiroh] ...
 [Nikaido] What happened to all your arrogance?
-　Kou
-　Nikaido
+縲Kou
+縲Nikaido
 [Kou] Thank you so much...
 [Kojiroh] I solved the case. Looks like it's all\over, folks. May I collect my reward now?
 [Kou] Of course! Do you accept cash?
@@ -649,9 +649,9 @@ Nikaido rattles the drawer...
 [Nikaido] You're just shitting us, Kojiroh.
 [Kojiroh] I'm not positive, but I have a hell of a\feeling I'm right.
 [Nikaido] ...
-　Surroundings
-　Nikaido
-　Kou
+縲Surroundings
+縲Nikaido
+縲Kou
 [Kojiroh] (They're both looking at me... They\probably want an explanation.)
 [Kojiroh] (There wasn't anything in the drawer...)
 [Kojiroh] (Was my thought process screwed up along\the way...?)
@@ -671,7 +671,7 @@ Nikaido rattles the drawer...
 [Kojiroh] (Kou... He seems to be waiting for an\explanation.)
 [Kojiroh] (What the hell am I going to tell him?)
 [Kojiroh] (He sure is a weird old bastard.)
-　Go outside
+縲Go outside
 [Kou] Are you going home already?
 [Kojiroh] Yeah. I've got some things to do.
 [Kou] Thanks a lot.
@@ -682,16 +682,16 @@ Nikaido rattles the drawer...
 a010
 [Kojiroh] (Stop the jokes, man.)
 [Kojiroh] (Hey, how can I go home after coming this\far?)
-　Look/Investigate
-　Move
-　Step back from drawers
+縲Look/Investigate
+縲Move
+縲Step back from drawers
 [Kojiroh] I checked all the drawers...
-　Upper left
-　Lower left
-　Upper middle
-　Lower middle
-　Upper right
-　Lower right
+縲Upper left
+縲Lower left
+縲Upper middle
+縲Lower middle
+縲Upper right
+縲Lower right
 [Kojiroh] The upper left, right?
 0005b
 [Kojiroh] ...Nothing's inside.
@@ -852,13 +852,13 @@ eve_13
 0005g
 [Kojiroh] Nothing.
 0005
-　Look/Investigate
-　Move
-　Surroundings
-　Drawers
-　Desk
-　Picture
-　Window
+縲Look/Investigate
+縲Move
+縲Surroundings
+縲Drawers
+縲Desk
+縲Picture
+縲Window
 [Kojiroh] I'm the only one in this room.
 [Kojiroh] Let's look this place over like a\teenager does a girly magazine.
 [Kojiroh] Kou ran off to another room.
@@ -883,6 +883,6 @@ eve_13
 [Kojiroh] Someone must've climbed in here from\outside... Ya think?
 [Kojiroh] I don't know why they didn't just use the\door...
 011
-　Go outside
+縲Go outside
 [Kojiroh] Not yet. There's more to see.
 [Kojiroh] I'm here, ain't I? I'd better look around\thoroughly.

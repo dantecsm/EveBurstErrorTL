@@ -137,13 +137,13 @@ eve_06
 eve_06
 [Kojiroh] There's a reward out for you, Purin...
 [Kojiroh] Where the hell could she have gone...?
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Person on boat
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPerson on boat
 [Kojiroh] Let's stop this...
 [Kojiroh] Hey!
 [Kojiroh] Hey, didn't I say we shouldn't do this?
@@ -151,10 +151,10 @@ eve_06
 [Kojiroh] Let's go quietly... And I mean quietly.
 [Kojiroh] Hey!
 [Kojiroh] Like I said... Let's stop this.
-Å@Surroundings
-Å@Cruise liner
-Å@Ocean
-Å@Rope
+„ÄÄSurroundings
+„ÄÄCruise liner
+„ÄÄOcean
+„ÄÄRope
 [Kojiroh] I'll be screwed if I don't do my best to\find it.
 [Kojiroh] It's pretty empty around this port at\dawn.
 [Kojiroh] Or so I thought... More and more people\show up, but they aren't fishermen.
@@ -175,9 +175,9 @@ eve_06
 [Kojiroh] I guess it's necessary to hold a boat\with that much weight.
 [Kojiroh] They're all over the boat...
 [Kojiroh] The anchor is dropped to keep the boat\from floating away.
-Å@Warehouse district
-Å@Boat
-Å@Connect the rope
+„ÄÄWarehouse district
+„ÄÄBoat
+„ÄÄConnect the rope
 [Kojiroh] This seems to be the only way.
 [Kojiroh] I can get up there in a minute.
 [Kojiroh] Okay... Let's connect the rope.
@@ -205,10 +205,10 @@ a029
 [Kojiroh] How should I sneak into the boat...
 [Kojiroh] Hmm...
 b26
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Akane
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄAkane
 [Akane] Good luck.
 [Kojiroh] Hey, it's not like I'm going into Vietnam\with the Green Berets...
 [Akane] But...
@@ -217,10 +217,10 @@ b26
 [Akane] You always come out alright, Kojiroh.
 [Kojiroh] I like the way you're talkin', sugar!
 [Akane] ...
-Å@Surroundings
-Å@Detective office
-Å@Boat
-Å@Buildings
+„ÄÄSurroundings
+„ÄÄDetective office
+„ÄÄBoat
+„ÄÄBuildings
 [Kojiroh] I can hear the waves and the birds...
 [Kojiroh] It's already daybreak... The sky is\fading into white.
 [Akane] I'm cold...
@@ -233,11 +233,11 @@ b26
 [Kojiroh] I have to give her the fragments of the\National Seal...
 [Kojiroh] I don't have anything to do there now.
 [Kojiroh] Central Avrenue...
-Å@Inside the office
-Å@Central Avenue
-Å@Ko's house
-Å@International school
-Å@Tristan
+„ÄÄInside the office
+„ÄÄCentral Avenue
+„ÄÄKo's house
+„ÄÄInternational school
+„ÄÄTristan
 [Akane] You're going, aren't you?
 [Kojiroh] Yeah.
 [Akane] Mind if I wait here...?
@@ -275,7 +275,7 @@ b26
 [Kojiroh] It sure is big... Whoa.
 [Kojiroh] So, this is Tristan.
 eve_29
-ÇcÇÖÇÉÇÖÇçÇÇÇÖÇíÅ@ÇV\  - 9* / 12 / 07 -0
+Ôº§ÔΩÖÔΩÉÔΩÖÔΩçÔΩÇÔΩÖÔΩí„ÄÄÔºó\  - 9* / 12 / 07 -0
 waku
 036
 eve_04
@@ -287,24 +287,24 @@ eve_04
 [Kojiroh] I don't have any reason to go to his\house.
 [Kojiroh] The international school is closed....
 [Kojiroh] I don't have time to go there right now.
-Å@Look/Investigate
-Å@Move
-Å@Speak
-Å@Attack
-Å@Ask
-Å@Save/Load
-Å@Save
-Å@Load
-Å@Purin
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSpeak
+„ÄÄAttack
+„ÄÄAsk
+„ÄÄSave/Load
+„ÄÄSave
+„ÄÄLoad
+„ÄÄPurin
 [Kojiroh] (I can't do that...)
 [Kojiroh] (I can't.)
 [Kojiroh] (I'd ruin everything if I attacked the\girl I care about.)
 [Kojiroh] (I just can't do that...)
 [Kojiroh] (Purin seems worried about something...\I'll hear what she has to say.)
-Å@About the embassy
-Å@About "person"
-Å@About the note
-Å@About "Terror"
+„ÄÄAbout the embassy
+„ÄÄAbout "person"
+„ÄÄAbout the note
+„ÄÄAbout "Terror"
 [Purin] The ones at the embassy have taken me in.\They protect me.
 [Kojiroh] Oh...
 [Kojiroh] (I must've read Mido all wrong.)
@@ -441,7 +441,7 @@ I scrounge around, looking for the note.
 [Purin] You mean, someone actually named their kid\"Terror"???
 [Kojiroh] Ah, just forget I mentioned it.
 [Purin] ...
-Å@Purin
+„ÄÄPurin
 [Purin] Aren't you going to enter your office?
 [Kojiroh] Why don't we take a trip somewhere...
 0295
@@ -604,10 +604,10 @@ Purin nods.
 [Kojiroh] It takes me a few joints to reach that\level of understanding, but I don't think you're\crazy...
 [Purin] ...
 [Kojiroh] (Purin...)
-Å@Surroundings
-Å@Purin
-Å@Hair
-Å@Ocean
+„ÄÄSurroundings
+„ÄÄPurin
+„ÄÄHair
+„ÄÄOcean
 [Kojiroh] (It's such a nice, quiet wharf...)
 [Kojiroh] (I can hear her breathing...)
 [Purin] It's so still, and beautiful... I love this\place.
@@ -632,8 +632,8 @@ Purin nods.
 [Kojiroh] Harbors like these are never very\beautiful.
 [Purin] But the moonlight on the night sea...
 [Kojiroh] Well, maybe then it's beautiful.
-Å@Inside the office
-Å@Inside the ocean
+„ÄÄInside the office
+„ÄÄInside the ocean
 [Kojiroh] Okay, let's go inside the office.
 [Purin] Okay.
 a001_7
@@ -647,21 +647,21 @@ a001_7
 [Kojiroh] Ha ha ha... Ice swimming is a hobby of\mine.
 [Purin] I see...
 [Kojiroh] ...Stop that.
-Å@Look/Investigate
-Å@Move
-Å@Sit
-Å@Box
-Å@Air
+„ÄÄLook/Investigate
+„ÄÄMove
+„ÄÄSit
+„ÄÄBox
+„ÄÄAir
 [Kojiroh] Do I feel a special attachment to the box\or something?
 [Kojiroh] Forget about it. There is no time to rest\my ass on some box.
 [Kojiroh] I've got more important things to do.
 [Kojiroh] I said forget about it.
 [Kojiroh] Isn't there something else I should be\doing?
 [Kojiroh] I'm too tired for that now.
-Å@Surroundings
-Å@Detective office
-Å@Boat
-Å@Buildings
+„ÄÄSurroundings
+„ÄÄDetective office
+„ÄÄBoat
+„ÄÄBuildings
 [Kojiroh] I'm looking around, but I don't see Purin\anywhere.
 [Kojiroh] I'm used to this scene... Nothing's\changed.
 [Kojiroh] It's my damned private detective office!
@@ -673,10 +673,10 @@ a001_7
 [Kojiroh] It's Central Avenue... Shall we go?
 [Kojiroh] Central Avenue is over there.
 [Kojiroh] Perhaps Purin is wandering around there\like a lost puppy...
-Å@Inside the office
-Å@Central Avenue
-Å@Kou's house
-Å@International school
+„ÄÄInside the office
+„ÄÄCentral Avenue
+„ÄÄKou's house
+„ÄÄInternational school
 [Kojiroh] Back to the office...?
 a001_7
 [Kojiroh] Inside the office...? Don't I have\somewhere else to go?

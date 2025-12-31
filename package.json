@@ -1,0 +1,16 @@
+{
+  "name": "evebursterrortl",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "decompress": "bun run src/decompress.ts \"data/JP CC\" \"data/decompress JP CC\"",
+    "compress": "bun run src/compress.ts \"data/decompress EN CC\" \"data/EN CC\""
+  }
+}

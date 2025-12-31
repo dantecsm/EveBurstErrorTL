@@ -26,15 +26,15 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
   // 读取输入文件
   const inputBuffer = readFileSync(inputPath);
 
-  if (inputBuffer.length < 14) {
+  if (inputBuffer.length < 0x14) {
     throw new Error(`文件太小 (${inputBuffer.length} 字节)，无法压缩`);
   }
 
-  // 提取前14字节头部
-  const header = inputBuffer.subarray(0, 14);
+  // 提取前0x14字节头部
+  const header = inputBuffer.subarray(0, 0x14);
   
-  // 提取需要压缩的数据部分（跳过前14字节）
-  const uncompressedData = inputBuffer.subarray(14);
+  // 提取需要压缩的数据部分（跳过前0x14字节）
+  const uncompressedData = inputBuffer.subarray(0x14);
 
   // 创建临时文件
   const tempUncompressed = `${outputPath}.temp.uncompressed`;

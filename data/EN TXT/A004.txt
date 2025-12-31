@@ -1,0 +1,1236 @@
+004
+004b
+[Kojiroh] It's already nighttime... No one's back\yet.
+[Kojiroh] I wonder what everyone's up to...
+004
+004b
+[Kojiroh] No one's here yet...
+[Kojiroh] I wonder what everyone's up to...
+004
+004b
+[Kojiroh] Hey, someone's coming!
+[Kojiroh] ...
+[Kojiroh] Huh? Guess it was no one...
+[Kojiroh] Where'd they all go?
+[Kojiroh] Maybe they all went out to find clients.
+[Kojiroh] But not even Keiko is here...
+[Kojiroh] ...
+004
+eve_06
+[Man at Desk] Ahhh!
+[Kojiroh] What kind of reaction is that?
+[Man at Desk] Oh, hi there... Uhh, the Chief isn't\back yet.
+[Kojiroh] (There's something fishy about this...)
+004
+eve_06
+[Man at desk] Ahhh!
+[Kojiroh] What kind of reaction is that?
+[Man at desk] Oh, it's you...
+[Kojiroh] ...?
+[Man at desk] The Chief is, uhh... I mean where is\the Chief...?
+[Man at copier] Uh, she just went to the bank.
+[Man at desk] Oh yeah, that's the ticket... She\went to the bank...
+[Kojiroh] Yayoi hasn't taken a break, yet?
+[Man at desk] Yeah...
+[Man at copier] We didn't saying anything...
+[Man at desk] Shh.
+[Kojiroh] ...
+[Kojiroh] (There's something fishy about this...)
+004
+b05
+eve_06
+[Yayoi] Oh, Kojiroh... I'm kind of busy now.
+004
+eve_03
+[Man at desk] Ah, Mr. Amagi... We're very busy\right now.
+The telephone rings.
+[Man at desk] Answer the phone, Keiko!
+She picks it up.
+[Keiko] Hello, this is the Katsuragi Private\Detective Offices.
+[Keiko] No, that article is a lie. No, it's not\true...
+There's a man making a whole bunch of copies.
+[Man at copier] This is hard work.
+[Man at copier] I need to get paid more, to keep\this up.
+The phone rings.
+[Man at desk] Oh... Keiko's on the phone right now.
+[Man at desk] I guess I'll have to answer it.
+The putz at the desk answers the phone.
+[Man at desk] Hello, Katsuragi offices...
+[Man at desk] No, we don't do interviews.
+[Kojiroh] ...
+[Kojiroh] Things are getting crazy around here...
+[Kojiroh] But I can't exactly say business is\thriving here...
+[Woman's voice] Hello, Kojiroh...
+b05
+[Kojiroh] Yayoi...?!
+[Yayoi] What do you want.
+[Kojiroh] Hey, you have bags under your eyes. And\you've lost weight.
+[Yayoi] I've been busy... Now what do you want!
+[Kojiroh] (I guess I came at a bad time...)
+004
+004b
+eve_08
+[Kojiroh] The employees have all gone home...
+b05
+[Yayoi] What are you here for, Kojiroh?
+[Kojiroh] Oh, nothing... (What the hell did I come\back in here for?!)
+[Yayoi] ...?
+[Kojiroh] Sorry. I'll get going.
+a003
+004
+004b
+[Kojiroh] Hey, no one's here...
+[Kojiroh] ...That's right, it's already pretty\late.
+[Kojiroh] Damn those guys... All they do is\complain and go home.
+[Kojiroh] ...
+[Kojiroh] This office isn't secure at all...\There's too much information here to leave lying\around.
+[Kojiroh] I guess Yayoi's not here.
+004
+eve_06
+[Man at desk] Hello, Mr. Amagi.
+[Kojiroh] Is the Chief here?
+[Man at desk] No...
+004
+eve_06
+[Man at desk] She's out at the moment.
+004
+b05
+eve_06
+[Yayoi] Do you still have something you wanna take\care of?
+[Kojiroh] No... (Damn, she's cold.)
+[Kojiroh] (Come on, let's get out of here.)
+a003
+004
+eve_06
+[Kojiroh] Hello.
+[Man at desk] Looks like you did it this time, Mr.\Amagi.
+[Kojiroh] Did what?
+[Man at desk] You found the painting, didn't you...
+[Kojiroh] Well, yeah...
+[Man at desk] Good job!
+[Kojiroh] Yeah, yeah.
+[Man at desk] You're amazing, Mr. Amagi...
+[Kojiroh] What...
+[Man at desk] ...
+b05
+[Yayoi] What are you here for, Kojiroh...
+[Kojiroh] Hmm.
+[Yayoi] You want to see what we're up to here? Is\that it?
+[Kojiroh] ...
+[Yayoi] I heard about it. You found the painting\already...
+[Kojiroh] That's right.
+[Yayoi] We've been working on it for days... And\you solve it in a day...
+[Kojiroh] It's a coincidence. That's what Nikaido\told me.
+[Yayoi] A coincidence? How modest.
+[Kojiroh] ...
+[Kojiroh] (...I knew I shouldn't have come here.)
+[Yayoi] Will you take care of the place while I'm\gone.
+[Man at desk] Yes, Chief.
+[Kojiroh] Are you going somewhere?
+[Yayoi] Yes. I was on my way out to meet an old\friend.
+[Kojiroh] Then let me take you part of the way.
+[Yayoi] No thanks.
+[Kojiroh] ...Fine.
+[Yayoi] ...
+[Kojiroh] Well, see you around.
+[Yayoi] Good luck, Kojiroh.
+[Kojiroh] (Why is she being so sarcastic?)
+[Kojiroh] (Well, maybe it's my fault. I shouldn't\have come here.)
+[Kojiroh] Let's go outside.
+a003
+004
+004b
+[Kojiroh] No one's here anymore... It's late, I\guess.
+[Kojiroh] ...
+[Kojiroh] But the lights are on, and the door is\unlocked.
+[Woman's voice] Who's there!?!
+[Kojiroh] (It's Yayoi...)
+[Yayoi's voice] If you are salesman, you come at\the wrong time.
+[Kojiroh] Hello there. Let me tell you about our\savior, Lord Vader.
+[Woman's voice] Kojiroh...
+0140b
+0140
+eve_41
+[Kojiroh] You workin'?
+[Yayoi] I have too many things to do today.
+[Kojiroh] You're still the same, after all these\years... Staying up all night at your desk.
+[Kojiroh] (Some people never change...)
+004
+eve_08
+[Man at desk] Oh, good evening Mr. Amagi.
+[Kojiroh] Look who's here...
+[Man at desk] Sorry, but Yayoi and Nikaido are out\at the moment.
+[Kojiroh] Thanks for the info, but look at me when\you're talking to me.
+004
+eve_06
+[Kojiroh] Hey babe! Miss me?
+[Man at desk] Oh, Mr. Amagi.
+[Kojiroh] How did you know it was me? You're not\even looking this way!
+[Man at desk] Because you're the only one who says\such ridiculous things.
+[Kojiroh] ...Oh.
+004
+eve_06
+[Kojiroh] Uhh... I have a pizza here, no\anchovies...
+[Man at desk] Huh? I never ordered any pizza! ...\Oh, Mr. Amagi!
+[Kojiroh] Hey what's up?
+[Man at desk] I'm fine, how are you?
+[Kojiroh] Look at me when you're talking to me,\boy.
+[Man at desk] Actually, I'm too busy to look up\right now.
+[Kojiroh] What, are you setting up dominoes?
+[Man's voice] Hey, dammit!
+[Kojiroh] Who the hell is shouting like that...?
+b06
+[Nikaido] I can shout if I want to!
+[Kojiroh] Hey, I came just as you told me to.
+[Nikaido] I never told you to come...Hey you there,\don't talk to this guy.
+[Man] I'm sorry.
+[Kojiroh] Hey Nerdo, you're such an idiot.
+[Nikaido] It is Nikaido. What the hell do you want?\You have no business here anymore.
+@Look/Investigate
+@Move
+@Speak
+@Talk to myself
+[Kojiroh] No one will listen to me if I talk to\myself, you know...
+[Kojiroh] Where did everyone go...?
+[Kojiroh] Yayooiii!
+[Kojiroh] ...
+[Kojiroh] I'd usually hear a response... Something\like, "How dare you call my name so rudely!"
+[Kojiroh] She must be out somewhere...
+[Kojiroh] Hellooooo!!
+[Kojiroh] ...
+[Kojiroh] Looks like no one's here...
+@Surroundings
+@Desk
+@Heater
+@Copier
+[Kojiroh] No one's here...
+[Kojiroh] I wonder what's going on.
+[Kojiroh] Could she be in the bathroom?
+I open the door.
+[Kojiroh] ...
+004
+004b
+[Kojiroh] Not in here.
+[Kojiroh] It's a good thing she wasn't in there...\She'd murder me if I saw her taking a crap!
+[Kojiroh] But it's strange that Yayoi, the head\Chief, isn't around.
+[Kojiroh] They mentioned something about the bank,\but jeez...
+[Kojiroh] Where did everyone go?
+[Kojiroh] All of a sudden, this place is completely\empty.
+[Kojiroh] The desk is so neat and orderly...
+[Kojiroh] This is the cleanest I've ever seen it...
+[Kojiroh] Did these employees suddenly take\cleaning lessons?
+[Kojiroh] The heater is off... There's no reason to\use it now anyway.
+[Kojiroh] The heater is off...
+[Kojiroh] They're saving energy by not being here,\but that couldn't be the reason...
+[Kojiroh] But why the hell isn't anyone here?
+[Kojiroh] It's even clean around the copy machine\area.
+[Kojiroh] The copier is turned off...
+[Kojiroh] What happened to that guy who is always\making copies...?
+@Go outside
+[Kojiroh] Yeah, Yayoi's not here anyway...
+[Kojiroh] Besides, this office bugs me...
+a003
+@Look/Investigate
+@Move
+@Speak
+@Man at desk
+@Man at copier
+@Keiko
+[Man at desk] See how I'm organizing these vouchers\here...?
+[Man at desk] ...Please, keep this a secret from\the Chief.
+[Man at desk] ...
+[Man at desk] Oh, no... We haven't discussed\anything of the sort.
+[Man at desk] I'm very involved in my work...
+[Man at desk] ...
+[Man at copier] I'm doing my job, aren't I?
+[Man at copier] I'm just fine... I'm working away\as fast I can.
+[Man at copier] ...
+[Man at copier] See? I'm working my ass off...
+[Man at copier] Please don't say anything about\Nikaido...
+[Man at copier] I've nothing to hide from the\Chief...
+[Man at copier] Well... Time to get to all these\copies!
+[Man at copier] ...
+[Keiko] Hey, it's not like we're talking out of\guilt, you know...
+[Keiko] ...
+[Keiko] Hey, hey... The place where we're working\next... Wow, hey... Kojiroh!
+[Keiko] We're not discussing anything strange, you\know... God...
+[Keiko] ...
+[Keiko] ...Please, don't tell the Chief about any\of this.
+@Surroundings
+@Employees
+@Heater
+@Round table
+[Kojiroh] Yayoi went out somewhere... She's not\here.
+[Kojiroh] That Nikaido guy isn't here either. I\wonder how long can he runs...
+[Kojiroh] Night or day, the Katsuragi Private\Detective Offices never change.
+[Kojiroh] There's a strange atmosphere here now...
+[Kojiroh] Everyone's working hard... Or, so it\seems.
+[Kojiroh] ...
+[Kojiroh] Everyone appears to have their own\tasks...
+[Kojiroh] But there's something weird about this.
+[Kojiroh] The heater... It conditions the air.
+[Kojiroh] Then again, so does my anus when I blow\wind...
+[Kojiroh] What a boring table... They should get\rid of this thing.
+[Kojiroh] It must be where the employees hang out\during breaks.
+[Kojiroh] But no one looks ready to take a break\yet.
+@Go outside
+[Kojiroh] Let's go outside... This place is too\twisted right now.
+[Man at copier] Have a nice day, Mr. Amagi.
+[Kojiroh] ...
+a003
+@Look/Investigate
+@Move
+@Speak
+@Yayoi
+[Yayoi] Sorry, Kojiroh... I don't have time to talk\anymore.
+[Kojiroh] Yeah, you look pretty busy.
+[Yayoi] Feel free to ask if you need anything...
+[Kojiroh] ...
+[Yayoi] You seem shocked.
+[Kojiroh] Well, I am. But that's...
+[Yayoi] I told the police.
+[Kojiroh] Well, what happened?
+[Yayoi] Everything's going wrong... They say we\were hired by Kou, not that fat guy.
+[Kojiroh] Testify... I'll testify.
+[Yayoi] Don't bother... We have no proof.
+[Kojiroh] ...
+[Yayoi] We got totally nailed.
+[Kojiroh] Look, all we have to do is find that\phony Kou.
+[Yayoi] ...
+[Kojiroh] Oh, wait. Even if we do find him... He\just has to bluff and we're finished.
+[Yayoi] He's taken it this far... He probably wiped\away all his fingerprints and took everything that\could lead us to him.
+[Kojiroh] Probably...
+[Yayoi] And Nikaido's fingerprints are all over the\knife. It's over...
+[Kojiroh] ...
+[Kojiroh] (Come to think of it, there were a lot of\things that just seemed wrong.)
+[Kojiroh] (I should think it over again.)
+[Yayoi] I can't believe the nerve of that guy.
+[Kojiroh] Is that guy...Nikaido?
+[Yayoi] No. Our client, the fat ass guy with narrow\eyes.
+[Kojiroh] Oh, you mean Kou. What's your problem\with him?
+[Yayoi] ...? You mean, you haven't seen the news?
+[Kojiroh] Well... I only heard about this case\through Akane.
+[Yayoi] Keiko, bring me the morning paper.
+[Keiko] Here you are...
+[Kojiroh] ...
+[Yayoi] Take a look at this.
+eve_13
+I take the paper.
+[Kojiroh] ...
+[Kojiroh] "Early yesterday morning, on December 4,\the principal of Yale International School, 35 year\old Kou Stoleman's body was found in his home..."
+[Kojiroh] "...Shin Nikaido is wanted for murder..."
+[Yayoi] Well?
+[Kojiroh] What the hell? It says that Kou's dead.
+[Yayoi] Exactly. He is dead.
+[Kojiroh] But look at the picture... The dead\dude's got glasses...
+[Yayoi] Yeah... And the REAL Kou...
+[Kojiroh] So who was that fat guy?
+[Yayoi] I don't know.
+[Kojiroh] ...!?!
+[Yayoi] See. We got our asses wiped.
+[Kojiroh] So that guy we've been calling "Kou,"\is...
+[Yayoi] Somebody else.
+[Kojiroh] ...
+[Kojiroh] (What the hell...?)
+[Kojiroh] (That fat guy isn't Kou...!)
+[Kojiroh] (So... So what the hell is my case\about???)
+[Kojiroh] ...
+[Kojiroh] Have you lost some weight?
+[Yayoi] Yes... Since I've been so busy...dieting.
+[Kojiroh] What's this thing with Nikaido all about?
+[Yayoi] Well, our phones and faxes have been going\nonstop since this morning.
+[Kojiroh] ...It looks that way.
+[Yayoi] I even considered closing the office for\the day. But all my clients have been barging in\here...
+[Kojiroh] Why?
+[Yayoi] Most of them wanted to cancel their cases.
+[Kojiroh] What for?
+[Yayoi] Why else? Because they think there's a\murderer working in this office!
+[Kojiroh] ...
+[Yayoi] Plus, I get a whole bunch of calls asking\for interviews.
+[Kojiroh] Damn paparazzi...
+[Yayoi] They wanted me to ask Nikaido to turn\himself in on the air... Crying.
+[Kojiroh] They just want a story, don't listen to\them.
+[Yayoi] But they pay well... Honestly, I thought\about it.
+[Kojiroh] Why don't you take a little break.
+[Yayoi] Everyone's working their asses off and you\want me to take a break!?
+[Kojiroh] But you haven't been getting any sleep\lately, have you?
+[Yayoi] I run this place... If it means I don't\sleep, I don't sleep.
+[Kojiroh] ...
+@Surroundings
+@Yayoi
+@Cigarette
+@Tits
+[Yayoi] Can't you see how busy I am?
+[Kojiroh] I think I can imagine what it's like...
+[Yayoi] Do you know why I'm so busy? I've been\dealing with the media since this morning, then all\the clients' complaints...
+[Kojiroh] ...
+[Kojiroh] (The ribbon in her hair is the same one\as yesterday's...)
+[Kojiroh] (She used to change her hair ribbon\everyday...)
+[Kojiroh] (I've never seen her this busy...)
+[Kojiroh] (She looks thinner, and there are bags\under her eyes.)
+[Kojiroh] (She needs some rest...)
+[Kojiroh] (The hand holding the cigarette is\quivering.)
+[Yayoi] What, you want a drag off this?
+[Kojiroh] I don't smoke. You should know that.
+[Yayoi] Well, this calms my nerves... I need it.
+[Kojiroh] ...
+[Kojiroh] (Let's stop this now.)
+[Kojiroh] (Her tits are flawless... Flawless.)
+[Kojiroh] (But now is not the time to look at\them...)
+@Go outside
+@On the desk
+[Kojiroh] Well, I'll get going.
+[Yayoi] Kojiroh...
+[Kojiroh] If I speak to Nikaido, I'll tell him to\turn himself in.
+[Yayoi] ...Thanks.
+a003
+[Yayoi] And just in case you see Nikaido...
+[Kojiroh] Yeah?
+[Yayoi] Tell him to turn himself in.
+[Kojiroh] Do you think he's the murderer?
+[Yayoi] I don't know... But he's not gaining my\sympathy by running away like this.
+[Kojiroh] ...Okay. I'll let you know if I hear from\him.
+[Yayoi] Thanks.
+a003
+[Kojiroh] (Damn... It's not the time to fool\around.)
+[Kojiroh] Okay, let's do the Lambada on top of the\desk.
+[Yayoi] Yeah, whatever.
+[Kojiroh] (Holy shit... This is serious. She's not\getting mad.)
+@Look/Investigate
+@Move
+@Speak
+@Attack
+@Yayoi
+@Chair
+[Kojiroh] (No, let's not do this.)
+[Kojiroh] (Come on! Enough of this!)
+[Kojiroh] (Are you aware of what Yayoi was just\doing?)
+[Kojiroh] (What good will it do to attack the\chair?)
+[Kojiroh] (I'm so sexually frustrated, I even went\for the chair...)
+[Kojiroh] (Dammit... My emotional state isn't very\stable right now.)
+@Yayoi
+[Yayoi] No, you can't help us out.
+[Kojiroh] I know... I don't know what I was\thinking.
+[Yayoi] What are you up to these days?
+[Kojiroh] Well, you know... Just waiting for\clients.
+[Yayoi] You should've been paid a fee, right?
+[Kojiroh] Oh, well... I spent it all in one day.
+[Yayoi] One day?!?
+[Kojiroh] To be specific, it was gone by the\afternoon. I only enjoyed it for a moment.
+[Yayoi] You spent it all!?
+[Kojiroh] Hell no. My secretary paid off the bill\collectors.
+[Yayoi] Secretary? You have a secretary?
+[Kojiroh] She's just a part-time.
+[Yayoi] I'd love to have one too... But\unfortunately, I don't have any money right now.
+[Kojiroh] ...
+[Yayoi] ...
+[Kojiroh] Hey Yayoi...
+[Yayoi] What?
+[Kojiroh] I know this is kinda strange... But if\you don't mind, I'd like to help.
+[Yayoi] No...
+[Kojiroh] ...
+[Yayoi] We're supposed to be competitors... I have\pride too, you know?
+[Kojiroh] Alright.
+[Yayoi] I don't want to see you like this... You're\supposed to be more... Logical.
+[Kojiroh] ...
+[Yayoi] Katsuragi Private Detective Offices isn't\finished yet. You just watch.
+[Kojiroh] Okay... Just forget about what I just\said.
+[Yayoi] I already have...
+[Kojiroh] (Dammit... The cats got my tongue?)
+[Kojiroh] (I left them, remember?)
+[Kojiroh] (There must be something wrong with\me...)
+[Kojiroh] Oh yeah, mind if I ask a question?
+[Yayoi] As long as it's decent.
+[Kojiroh] At the pool this afternoon...
+[Yayoi] I'd like to forget about that right now.
+[Kojiroh] No, I'm talking about that girl.
+[Yayoi] Marina?
+[Kojiroh] Yeah, that was her name.
+[Yayoi] If you got the hots for her, I'll give you\her number.
+[Kojiroh] For cryin' out loud, woman! I'm being\serious here.
+[Yayoi] What about her?
+[Kojiroh] How do you know her?
+[Yayoi] She's an old friend.
+[Kojiroh] I see... What exactly does she do?
+[Yayoi] Why do you ask?
+[Kojiroh] I'm just curious.
+[Yayoi] Then why don't you just ask her yourself?
+[Kojiroh] ...
+[Kojiroh] (I know she's hiding something...)
+[Kojiroh] (I'll never know anything if she doesn't\want to talk about it.)
+[Yayoi] I don't need your help, Kojiroh.
+[Kojiroh] Maybe you're right.
+[Yayoi] What's the matter with you, all of sudden?
+[Kojiroh] Nothing... Hey, you talked to Nikaido,\right?
+[Yayoi] Yeah...
+[Kojiroh] Did you tell him?
+[Yayoi] Tell him what?
+[Kojiroh] The things you were saying this\afternoon... That he was on a different case...
+[Yayoi] Oh that...
+[Kojiroh] What happened?
+[Yayoi] Everything's okay now. I gave him\permission.
+[Kojiroh] You did?
+[Yayoi] Yeah, after we talked it over... He\convinced me.
+[Kojiroh] Yayoi...
+[Yayoi] That's what I decided.
+[Kojiroh] Oh...
+[Kojiroh] (If that's the decision she made, then\there's nothing I can do.)
+[Kojiroh] (This is ridiculous... Let's stop.)
+@Surroundings
+@Yayoi
+@Tits
+@Thighs
+[Kojiroh] (I think we're the only ones here...)
+[Kojiroh] Hey, the picture's on the ground...
+[Yayoi] What...?
+0140b
+0140
+0140c
+[Yayoi] Stop, please... That photograph...
+[Kojiroh] ...
+[Yayoi] I don't want to see it now.
+[Kojiroh] Oh.
+0140b
+0140
+[Kojiroh] (I think we're alone now...)
+[Kojiroh] (She was just alone with Nikaido a minute\ago.)
+[Kojiroh] (It's Yayoi... Her cheeks are red.)
+[Kojiroh] (Yayoi's expression... She seems\flushed.)
+[Kojiroh] (Just a minute ago, she was...)
+[Kojiroh] (No, I don't want to remember it.)
+[Kojiroh] (Ahh, her tits... They're perfectly\shaped. Believe me, I know them well.)
+[Kojiroh] (But a second ago, that Nikaido guy...)
+[Kojiroh] (I shouldn't look anymore. Let's not.)
+[Kojiroh] (I'm starting to get sick to my stomach.)
+[Kojiroh] (Yayoi's thighs... I can't tell you how\many times I had those wrapped around my head.)
+[Kojiroh] (And just until now, they were around\that Nikaido...)
+[Kojiroh] (Shit... What the hell's happening to\me!?!)
+@Go outside
+[Yayoi] Are you leaving already?
+[Kojiroh] yeah.
+[Yayoi] Kojiroh...
+[Kojiroh] What.
+[Yayoi] ...Nothing.
+[Kojiroh] Fine. Good bye.
+[Yayoi] Bye.
+a003
+[Kojiroh] (I want to talk to Yayoi a little more.)
+I hear a noise...
+Then I hear a voice...
+[Voice] ...
+[Kojiroh] (Hey, someone's there...)
+[Kojiroh] (Is it...Yayoi?)
+0135
+eve_52
+y¬Ÿ˜YzIIIIHHHH3
+\ 
+y¬Ÿ˜Yzi‚ÉA“ñŠK“°‚Ædd–í¶IHj
+eve_40
+y“ñŠK“°zŠ’·ddB
+y–í¶z‚âA‚â‚ß‚é‚ñ‚¾A“ñŠK“°ƒNƒ“ddB
+y“ñŠK“°z‚¢‚¢‚¦A‚â‚ß‚Ü‚¹‚ñB–l‚Ì‹C‚¿‚Í’m‚Á‚Ä‚é‚Í‚¸‚Å‚·B
+y–í¶z‚»A‚»‚ê‚ÍddB
+y“ñŠK“°zˆá‚¤‚ñ‚Å‚·‚©H
+y–í¶zŒN‚Ì‹C‚¿‚ÍA‚»‚ÌA•ª‚©‚Á‚Ä‚¢‚édd‚Â‚à‚è‚¾B
+y“ñŠK“°z‚¾‚Á‚½‚çB
+y–í¶z‚Å‚àddB
+y“ñŠK“°zddddB
+y–í¶zddddB
+y“ñŠK“°zŠ’·A‚Ü‚¾‚ ‚ñ‚Èƒ„ƒc‚Ì‚±‚Æ‚ğH
+y–í¶zddddB
+y“ñŠK“°z‚ ‚¢‚Â‚ÍA‚ ‚È‚½‚Ì‚¨•ƒ‚³‚ñ‚ğ‘ß•ß‚³‚¹AŸè‚É‘ŞĞ‚µA‚±‚Ì––±Š‚ğ•ö‰ó‚³‚¹‚©‚¯‚½’£–{l‚Å‚·‚æI
+y–í¶z‚»‚¤dd‚¾‚Á‚½‚ÈB
+y“ñŠK“°z‚¨‚Ü‚¯‚É¡‰ñ‚ÍA–l‚Ì“dqè’ ‚ğ”²‚«æ‚èA’†‚Ìƒf[ƒ^‚ğ“‚İŒ©‚ÄAŠG‰æ‚ğ‘{‚µo‚µ‚½”Ú—ò‚Èƒ„ƒc‚Å‚·‚ÁB
+y–í¶zddddB
+y“ñŠK“°z‚ ‚¢‚Â‚ÍA‚±‚Ì––±Š‚ğƒcƒu‚µ‚½‚ª‚Á‚Ä‚é‚ñ‚Å‚·‚æ‚ÁB
+y–í¶z‚à‚¤A‚â‚ß‚Ä‚­‚êddB
+y“ñŠK“°z‚¾‚ª–l‚Í‚ª‚ñ‚Î‚è‚Ü‚·B‚ ‚ñ‚Èƒ„ƒc‚É•‰‚¯‚â‚µ‚Ü‚¹‚ñB
+y–í¶z‚ÉA“ñŠK“°ƒNƒ“ddB
+y“ñŠK“°z‚µ‚Á‚©‚è‚µ‚Ä‰º‚³‚¢AŠ’·B‚Ql‚Å‚±‚Ì––±Š‚ğA—§‚Ä’¼‚µ‚Ä‚¢‚«‚Ü‚µ‚å‚¤‚æddB
+y–í¶z‚»A‚»‚¤‚¾‚ÈA„‚ª‚µ‚Á‚©‚è‚µ‚È‚­‚¿‚áddB
+y“ñŠK“°z–l‚ÌƒRƒlƒNƒVƒ‡ƒ“‚Ì•û‚ÅAK‚¢‚É‚à‘–{‚É—]—T‚ª‚Å‚Ä‚«‚Ü‚µ‚½ddB
+y–í¶z‚ A‚ ‚ dd“ñŠK“°ƒNƒ“‚É‚ÍŠ´Ó‚µ‚Ädd‚ ‚ÁI
+y“ñŠK“°z–í¶‚³‚ñddB
+y–í¶z‚¨Šè‚¢dd‚â‚ß‚ÄddB
+y“ñŠK“°z‚±‚ÌŠÔ‚ÍAƒLƒX‚ğ‹–‚µ‚Ä‚­‚ê‚½‚¶‚á‚È‚¢‚Å‚·‚©B
+y–í¶z‚ A‚ ‚ê‚ÍddÔ‚Ì’†‚ÅŒN‚ª‚¢‚«‚È‚èddB
+y“ñŠK“°z‚Å‚àA‹‘‚İ‚Ü‚¹‚ñ‚Å‚µ‚½B
+y–í¶zddddB
+y“ñŠK“°z–í¶‚³‚ñA—Í‚ğ”²‚¢‚ÄddB
+ƒOƒbddB
+y–í¶z‚ñ‚ÁddB
+y“ñŠK“°z_‚ç‚©‚¢O‚¾ddB
+y–í¶z‚ÉA“ñŠK“°dd‚ñ‚Ádd‚ñ‚ñddB
+y“ñŠK“°z‚±‚±‚àddB
+y–í¶z‚ ‚Ádd¨‚Íddƒ_ƒddB
+y“ñŠK“°z–í¶‚³‚ñA¨‚ª•qŠ´‚È‚ñ‚Å‚·‚ËddB
+y–í¶z‚ ‚£ddI
+y“ñŠK“°z–²‚Ì‚æ‚¤‚¾B–í¶‚³‚ñ‚ªA–l‚Ìè‚Ì’†‚É‚¢‚ÄA–l‚ğó‚¯“ü‚ê‚Ä‚­‚ê‚Ä‚¢‚éddB
+y–í¶z‚ ‚ŸAƒ_ƒ‚æddB
+y“ñŠK“°z‚±‚ñ‚È×–‚‚È•‚ÍddB
+‚µ‚ã‚é‚ÁddB
+y–í¶z‚ ‚ÁIH
+y“ñŠK“°zŠ’·ddD‚«‚Å‚·B–l‚Ì‚±‚Æ‚ğŒ©‚Ä‚­‚¾‚³‚¢B
+y–í¶z‚ÉA“ñŠK“°ƒNƒ“ddB
+y“ñŠK“°zD‚«‚È‚ñ‚Å‚·‚æddB
+y–í¶z‚ñ‚Ádd‚ñ‚ñdd‚ñ‚ ‚ŸddB
+y“ñŠK“°z‰º‚Ì•û‚àddB
+y–í¶z‚ñdd‚ ‚Ÿdd‚»‚ñ‚Èdd‚âddB
+y“ñŠK“°z‚±‚ñ‚È‚ÉA‚È‚Á‚Ä‚éddB
+y–í¶z‚ ‚Ÿ‚ŸA‚»‚ñ‚ÈddŒ¾‚í‚È‚¢‚ÅddB
+y“ñŠK“°z‚È‚ºdd‘f“G‚Å‚·‚ædd‚Ù‚çB
+y–í¶z‚ ‚£‚£ddI
+‚­‚¿‚á‚ÁddB
+y–í¶z‚ ‚Í‚Ÿdd‚ñdd‚ñ‚ñddƒ_ƒddB
+y“ñŠK“°z‚à‚¤‰º’…‚ª‚±‚ñ‚È‚ÉddB
+y–í¶z‚¢AŒ¾‚í‚È‚¢‚ÅddB
+y“ñŠK“°z‚à‚Á‚Æ‘«‚ğŠJ‚¢‚ÄddB
+y–í¶zdd‚±‚¤ddH
+y“ñŠK“°z‚»‚¤‚Å‚·B‚·‚²‚¢dd‚±‚ñ‚È‚ÉddB
+y–í¶z‚ ‚Ÿ‚ŸA‚»‚ñ‚È‚É‚µ‚½‚çdd‚ñddB
+y“ñŠK“°z‚±‚±‚ÉAƒLƒX‚µ‚Ä‚¢‚¢H
+y–í¶z‚¨Šè‚¢A¬Ÿ˜YB‚Ü‚¾„AƒVƒƒƒ[‚àdd‚Í‚ÁIH
+y“ñŠK“°zddddB
+y–í¶zddddB
+y“ñŠK“°zdd‚âA–í¶‚³‚ñB‚ÚA–l‚Í“ñŠK“°‚Å‚·‚æA‚â‚¾‚È‚ŸB
+y–í¶zddddB
+y“ñŠK“°z‚³‚ÁA‚à‚¤ˆê“xddB
+y–í¶z‚¾Aƒ_ƒI
+ƒoƒVƒbI
+y“ñŠK“°z‚âA–í¶‚³‚ñdd‚È‚ºddB
+y–í¶z‚²AƒSƒƒ“A“ñŠK“°ƒNƒ“ddƒ_ƒ‚È‚ñ‚¾B„ddB
+y“ñŠK“°zddddB
+y–í¶zddƒSƒƒ“A–{“–‚Édd„ddB
+y“ñŠK“°zddddB
+y–í¶zddddB
+y“ñŠK“°z‚í‚©‚è‚Ü‚µ‚½ddB
+y–í¶zddddB
+y“ñŠK“°zŠ’·‚ÌS‚Ì®—‚ª•t‚¢‚½‚ç‚Ådd\‚¢‚Ü‚¹‚ñ‚æB
+y–í¶z‚·‚Ü‚È‚¢dd„‚Ídd„‚ÍddB
+y“ñŠK“°z‹C‚É‚È‚³‚ç‚¸‚ÉB‚¶‚áddB
+y¬Ÿ˜Yzi‚¤‚í‚ÁA‚±A‚±‚Á‚¿‚É—ˆ‚é‚¼Bj
+004
+004b
+b06
+[Nikaido] ...!?
+[Kojiroh] Hello sir. Let me tell you about our\Lord, Jesus Christ.
+[Nikaido] What are you doing here! How long have\you been listening?
+[Kojiroh] Uhh... I just got here a second ago...
+[Nikaido] ...
+[Kojiroh] I can leave if I'm in the way...
+[Nikaido] Did you see us... Um, did you see me try\to...
+[Kojiroh] I took a peek, yeah.
+[Nikaido] Good. Now you know... She's forgotten all\about you.
+[Kojiroh] As I remember it... She refused your\ass... Didn't she?
+[Nikaido] Shut up!!
+[Kojiroh] Ha ha...
+[Nikaido] The Chief is almost mine. And with her,\I'll be the new Chief around here.
+[Kojiroh] ...
+[Nikaido] Just you watch... I'm the one who'll\rebuild this detective agency...
+[Kojiroh] I see...
+[Nikaido] Shut your yapping trap, boy.
+004
+004b
+[Kojiroh] How manly of you...
+[Kojiroh] Two birds with one rock.
+[Kojiroh] ...
+[Kojiroh] Why the hell am I getting so pissed off\over this...
+[Kojiroh] The Chief's position and Yayoi...
+[Kojiroh] ...
+[Kojiroh] Hmm... I've had enough of this running\around for today.
+[Yayoi's voice] Nikaido? Is someone there?
+[Kojiroh] (I'm doomed...)
+[Yayoi's voice] Is anyone...there?
+[Kojiroh] Let me tell you about our savior, Lord\Buddha.
+[Yayoi's voice] Kojiroh!
+[Kojiroh] Sorry.
+[Yayoi's voice] Why are you here...
+[Kojiroh] Here, let me explain...
+[Yayoi's voice] Hold on a second... Just wait\there.
+[Kojiroh] I'm waiting.
+[Kojiroh] (I must be a complete idiot...)
+[Kojiroh] (But she already knows that by now...)
+[Kojiroh] (Why am I so crazy about women...?!)
+[Yayoi's voice] So...sorry.
+[Kojiroh] Ready?
+[Yayoi's voice] Sure...
+0140b
+0140
+eve_41
+[Kojiroh] Everyone's gone, but they were working\pretty hard.
+[Yayoi] How long have you been here...?
+[Kojiroh] Oh, I just got here. I met Nikaido on the\stairs a minute ago.
+[Yayoi] Oh... Good.
+[Kojiroh] Hey, you buttoned your blouse wrong.
+[Yayoi] No!
+[Kojiroh] Just kidding.
+[Yayoi] ...
+@Look/Investigate
+@Move
+@Surroundings
+@Heater
+@Round table
+@Shrubbery
+[Kojiroh] I can hear sounds coming from way over\there...
+[Kojiroh] Nothing changes, no matter how many times\I see them.
+There's a noise in the back.
+[Kojiroh] Huh...?
+[Kojiroh] ...
+[Kojiroh] Maybe I'm hearing things...
+There're more noises from the back.
+[Kojiroh] I hear something coming from over\there... What could it be?
+[Kojiroh] All the employees must be gone...
+[Kojiroh] Yayoi isn't here either, I guess...
+[Kojiroh] Which means they left the door\unlocked... This place has poor security.
+[Kojiroh] I've seen these plants a million times.\They're all the same.
+[Kojiroh] They're just plants... Nothing special.
+[Kojiroh] The heater is on, but I don't see any\employees around.
+[Kojiroh] The heater is on... But where have all\the employees gone?
+[Kojiroh] This must be where the employees hang out\during breaks.
+[Kojiroh] Of course, no one would be hiding down\there.
+[Kojiroh] There couldn't be anyone under there!\Thought so.
+@Go outside
+@Go to the back
+[Kojiroh] What the hell...?
+[Kojiroh] A burglar?
+[Kojiroh] No wait... There is something wrong with\this place...
+@Look/Investigate
+@Move
+@Speak
+@Man at desk
+@Man at copier
+@Keiko
+[Man at desk] The Chief was here a moment ago...
+[Man at desk] But she left again to go see a\client.
+[Man at desk] The Chief isn't in right now...
+[Man at desk] The Chief...?
+[Man at desk] She said she was going out to meet an\old friend...
+[Man at desk] Do you have a message to give her?
+[Man at desk] Hmm...
+[Man at desk] Your office is so well known now, Mr.\Amagi...
+[Man at copier] I'm almost finished with these...
+[Man at copier] Once I finish these copies, I'll go\grab a beer.
+[Man at copier] The condition of this office is\getting quite serious...
+[Man at copier] The last Chief was arrested...
+[Man at copier] And then Mr. Amagi took off to\start up his own business...
+[Man at copier] Our new Chief, Yayoi, is busting\her ass here, but it may not be enough.
+[Man at copier] Please don't tell her I said\anything...
+[Keiko] I think I'm gonna change jobs soon...
+[Keiko] I'd love a job where I just sit on my ass,\flirt with rich men, and make a few thousand\dollars every month.
+[Keiko] Please, Mr. Amagi... Don't give me such a\dirty look.
+[Keiko] I mean, I've gotta think about my future...
+[Keiko] This office used to be rolling in the\dough...
+[Keiko] We were the best in the business.
+[Keiko] But now... Oh, it's no use talking about\this with you, Mr. Amagi.
+@Surroundings
+@Employees
+@Heater
+@Round table
+[Kojiroh] Yayoi doesn't seem to be here.
+[Kojiroh] Nikaido's not here, either. I'm not\complaining.
+[Kojiroh] Night or day, the Katsuragi Private\Detective Offices never change.
+[Kojiroh] Everyone's working hard... It must help\Yayoi a lot.
+[Kojiroh] Everyone appears to have their own\tasks...
+[Kojiroh] There must be others who are working on\investigations outside the office.
+[Kojiroh] I remember I once punched that heater to\fix it.
+[Kojiroh] It probably works now...
+[Kojiroh] It's working quietly... It's nice and\warm in here.
+[Kojiroh] It used to make such a ruckus when it was\on before.
+[Kojiroh] This must be where the employees hang out\during breaks.
+[Kojiroh] Wobbly old chairs surround the ugly\table.
+[Kojiroh] You make the clients sit on these so that\they'll feel insecure.
+[Kojiroh] That's what I told Yayoi, and she flat\out denied it.
+@Go outside
+[Kojiroh] I'll get some fresh air...
+[Man at copier] Drop by again sometime.
+[Kojiroh] Look at me when you speak to me, you\nincompoop.
+a003
+@Look/Investigate
+@Move
+@Speak
+@Attack
+@Yayoi
+[Yayoi] Excuse me, I have work to do.
+[Kojiroh] Yeah, I figured.
+[Yayoi] My father also gave me that look sometimes.
+[Kojiroh] You mean, like a clown?
+[Yayoi] You fool.
+[Kojiroh] Hey, lighten up, will ya?
+[Yayoi] What cold eyes you have...
+[Kojiroh] ...
+[Yayoi] He's dead. You know that, right?
+[Kojiroh] What!?!
+[Yayoi] You mean, no one told you?
+[Kojiroh] Never.
+[Yayoi] Well, there was a fire at the prison\several days ago. He was burned to death.
+[Kojiroh] ...?!
+[Kojiroh] (My God...)
+[Kojiroh] (Akane mentioned the fire... Could this\be it?)
+[Yayoi] I'm too busy to cry for him... Maybe I'll\get a chance at the funeral.
+[Kojiroh] (The old boss... He's dead.)
+[Yayoi] But I can't cry. There's no time to cry.
+[Kojiroh] ...
+[Yayoi] You look shocked.
+[Kojiroh] Of course! He was like a father to me...
+[Yayoi] I know... Were you ever aware of how\jealous I was?
+[Kojiroh] Jealous of whom?
+[Yayoi] I was jealous because you two were so\close.
+[Kojiroh] Hey, we weren't THAT close...
+[Yayoi] You sure?
+[Kojiroh] You could never stay away from your\daddy.
+[Yayoi] Well...
+[Kojiroh] You know it's true.
+[Yayoi] I know. I always loved my father... And we\always felt as if you were family.
+[Kojiroh] ...
+[Yayoi] But now everything's changed.
+[Kojiroh] ...
+[Yayoi] ...
+[Kojiroh] Let's not discuss this anymore.
+[Yayoi] ...
+[Kojiroh] This isn't gonna do us any good.
+[Yayoi] Oh...
+[Kojiroh] But let me tell you something. I'm ever\grateful to him... And I still respect him.
+[Yayoi] Then why did you do it?
+[Kojiroh] ...
+[Yayoi] I guess you had to... He broke the law...
+[Kojiroh]...
+[Yayoi] ...
+[Kojiroh] ...
+[Yayoi] Sorry, but would you mind leaving? I've got\work to do.
+[Kojiroh] Sure, we talked a bit longer than\necessary.
+[Yayoi] ...
+[Yayoi] Ha ha...
+[Kojiroh] ...
+[Yayoi] You haven't changed a bit...
+[Kojiroh] Huh...?
+[Yayoi] I was just saying that you haven't changed\much.
+[Kojiroh] Oh. Well, I try not to.
+[Yayoi] Sometimes you give me the chills.
+[Kojiroh] Really?
+[Yayoi] Yes. Just a minute ago you were looking\right through me, off into the distance.
+[Kojiroh] That's not true... I just look funny\sometimes, that's all.
+[Yayoi] Don't make that clown face!
+[Kojiroh] I'm not only a clown, you know. I can\make lots of other faces, too.
+[Yayoi] Kojiroh...
+[Kojiroh] Ah, come on. I'm just trying to have a\little fun.
+[Yayoi] I can tell, Kojiroh. Your heart is never\here... You're always so far away...
+[Kojiroh] ...
+[Yayoi] I'm beginning to think that this isn't a\simple robbery.
+[Kojiroh] Really, Katsuragi Offices think so too,\eh?
+[Yayoi] Yeah, but it's all up to Nikaido.
+[Kojiroh] Well, he may be competent, but he's a\complete idiot.
+[Yayoi] Once again you're judging someone, and\you've lost sight of reality.
+[Kojiroh] On the contrary, my dear.
+[Yayoi] You're too flexible, Kojiroh.
+[Kojiroh] I've got a stiff part as well. Wanna see\it?
+[Yayoi] No thanks. That'd require a microscope.
+[Kojiroh] You never complained about that before.
+[Yayoi] No one can figure you out. There are no\guide books to follow.
+[Kojiroh] Need a manual, eh?
+[Yayoi] Oh yeah...
+[Kojiroh] Everyone should run an investigation\efficiently and rationally. Is that it?
+[Yayoi] There aren't enough people with your\ability as a detective. You've got instinct.
+[Kojiroh] Instinct? Are you implying that I'm an\animal?
+[Yayoi] Something like that.
+[Kojiroh] There are many ways to run an\investigation. Give it some thought and you'll come\up with a dozen.
+[Yayoi] That's what I mean when I say you're too\flexible.
+[Kojiroh] ...
+[Yayoi] You, and my father, are the only ones I\ever knew with such talent.
+[Kojiroh] Perhaps I'm his illegitimate son.
+[Yayoi] He was MY father, and he ran this office.
+[Kojiroh] I know.
+[Yayoi] ...
+[Kojiroh] Yayoi, I really...
+[Yayoi] Gimme a break. I don't think the word\"compassion" is in your vocabulary.
+[Kojiroh] Well, you're right.
+[Kojiroh] (Damn, what was I going to say to her...)
+[Kojiroh] (I left this office, remember?)
+[Kojiroh] (There's nothing I can do for her right\now.)
+[Kojiroh] (Hmm...)
+[Kojiroh] (But what if...)
+[Kojiroh] (...Yeah.)
+[Yayoi] Can I ask one thing?
+[Kojiroh] You should know the size of my prick by\now.
+[Yayoi] Don't talk like that to me, please.
+[Kojiroh] Fine. What is it?
+[Yayoi] I don't know if I should be asking this to\a competitor, but...
+[Kojiroh] Oh, yes. My first time... It was August,\and so humid.
+[Yayoi] I'm referring to the investigation. Is\there any progress?
+[Kojiroh] None whatsoever.
+[Yayoi] Are you getting desperate?
+[Kojiroh] No way.
+[Yayoi] So, you're being modest for once.
+[Kojiroh] Modesty is a word that doesn't exist in\my vocabulary. I'd tell you if I was making\progress.
+[Yayoi] ...
+[Kojiroh] In fact, I haven't a clue.
+[Yayoi] This is awfully strange.
+[Kojiroh] I swear to God.
+[Yayoi] You're an atheist, Kojiroh.
+[Kojiroh] Oh, that's right.
+[Yayoi] Oh, well... I believe you.
+[Kojiroh] Good, now just relax.
+[Yayoi] It's so scary that when I'm with you, I\feel more... Relaxed.
+[Kojiroh] (What does she mean by that...?)
+[Kojiroh] (This conversation isn't getting\anywhere...)
+[Kojiroh] (Something's not right.)
+[Kojiroh] By the way...
+[Yayoi] What now.
+[Kojiroh] This office...
+[Yayoi] What about this office?
+[Kojiroh] Nothing. Forget it.
+[Kojiroh] (I can't just ask her why she's going\broke.)
+[Kojiroh] (...)
+[Kojiroh] (But then...)
+[Kojiroh] (Why the hell should I care about how\this office is doing?)
+[Kojiroh] (I've already left this place. It's no\longer my concern.)
+[Yayoi] You're acting strange.
+[Kojiroh] Yeah... Maybe I'm just hungry. Yeah,\that's all.
+[Kojiroh] You certainly are a workaholic... Working\this late into the night.
+[Yayoi] I'm working too much. Everyone here works\so hard.
+[Kojiroh] Why do you constantly overwork yourself?
+[Yayoi] Because I don't finish my work during\business hours.
+[Kojiroh] Why not?
+[Yayoi] There's just too much.
+[Kojiroh] Why do you accept such a workload?
+[Yayoi] I need it. It's necessary.
+[Kojiroh] You're so unreasonable.
+[Yayoi] As are you.
+[Kojiroh] Do you enjoy this?
+[Yayoi] Whether I enjoy it or not isn't the issue.
+[Kojiroh] Yeah, yeah.
+[Yayoi] What are you talking about.
+[Kojiroh] Nothing.
+[Yayoi] Either way, I'm the boss. I have to support\my employees as best I can.
+[Kojiroh] See, that's why you don't have a\boyfriend.
+[Yayoi] I have no intention of getting one in the\near future, thank you.
+[Kojiroh] ...
+[Yayoi] I have plans to meet an old friend today.
+[Kojiroh] An old...boyfriend?
+[Yayoi] A woman.
+[Kojiroh] Is she a fox?
+[Yayoi] ...
+[Kojiroh] (She looks pretty pissed...)
+@Yayoi
+@Chair
+[Kojiroh] (Hey, no way... She'll NEVER forgive me.)
+I howl like a wolf.
+[Yayoi] ...
+[Kojiroh] Hey, I'm just kidding.
+[Yayoi] ...
+[Kojiroh] I won't do it again.
+I howl like a pack of wolves.
+[Kojiroh] Oh! Oh!
+[Yayoi] Stop gyrating your hips... You're making me\sick.
+[Kojiroh] Well, you can't blame me for trying.
+[Yayoi] If you're horny, then you go do it against\a pole outside, alright?
+[Kojiroh] You're so cold...
+[Yayoi] I'll smack your lights out if you do\anything strange.
+[Kojiroh] Yes ma'am.
+[Kojiroh] (I'm not that desperate!)
+[Kojiroh] (What the hell am I gonna do with a\chair?)
+I howl like a wild wolf.
+[Kojiroh] Yeah babe! Ridem!
+[Yayoi] What the hell are you doing with a chair?
+[Kojiroh] I don't know... It just looked sexy...
+[Yayoi] I'll never be able to understand you.
+@Surroundings
+@Yayoi
+@Tits
+@Thighs
+[Kojiroh] Yayoi's the only one left in the\office...
+[Kojiroh] I didn't know it was this fancy...
+0140b
+0140
+0140c
+[Yayoi] There aren't enough pictures of my father,\though...
+[Kojiroh] This was taken when your dad was\overseas... We went to see him, remember?
+[Yayoi] Those were the good old days...
+[Kojiroh] You still had short hair back then.
+[Yayoi] So...?
+[Kojiroh] Why did you grow it long?
+[Yayoi] ...No reason.
+[Kojiroh] (She's a cool gal...)
+0140b
+0140
+[Kojiroh] There aren't any employees here...
+[Kojiroh] Yayoi's the only one still here...\There's a mountain of documents piled on her desk.
+[Yayoi] I still have so many things to do today...
+[Kojiroh] You've been working harder than anyone\I've ever seen.
+[Kojiroh] You've gotten so much more serious about\work, haven't you...
+[Yayoi] Not really. This is just my responsibility\as Chief of the company.
+[Kojiroh] I consider you very serious.
+[Yayoi] Don't look at me...
+[Yayoi] If you touch me again, I'll smack you good.
+[Kojiroh] I'm just looking, just looking.
+[Yayoi] You can forget about it.
+[Kojiroh] It may not look like much, but there's a\lot there.
+[Kojiroh] They look bigger than when I last saw\them.
+[Yayoi] What are you talking about?
+[Kojiroh] That.
+I poke her tits.
+[Yayoi] Ah... Oh! Oh! Ahhh!
+[Kojiroh] Do I make you horny, baby?
+[Yayoi] You idiot!
+Smack!0
+\ 
+[Kojiroh] Nice! You're putting more power in your\punches, I can tell.
+[Kojiroh] I'd get you in a headlock, but you'll\probably kick me!
+[Yayoi] I'd kick you from here to Arkansas, jerk.
+[Kojiroh] Those legs are as healthy as ever...
+[Kojiroh] Such long, foxy legs... I'd like those\legs to get me in a headlock.
+[Yayoi] Take your perverse eyes off of my legs, you\horny ass.
+@Go outside
+[Kojiroh] Well, good bye.
+[Yayoi] Sorry I wasn't the friendliest person\today.
+[Kojiroh] I'm used to it...
+[Yayoi] You'll never beat us, Kojiroh.
+[Kojiroh] I expect a challenge.
+a003
+[Kojiroh] I don't want to go outside... I want to\talk to Yayoi some more.
+[Kojiroh] You can chose that option all you want.\I'm not budging!
+I go out the door.
+[Kojiroh] Whew... I'm outside.
+[Yayoi] You talk to yourself too much... Are you\under a lot of stress?
+[Kojiroh] ...
+[Kojiroh] Yeah...
+[Yayoi] What are you doing, standing on the window\sill...?
+[Kojiroh] Ha ha ha... This is the third floor. Only\way to go outside is to fall to my death!
+@Look/Investigate
+@Move
+@Speak
+@Man at desk
+@Man at copier
+@Keiko
+[Man at desk] The Chief isn't in right now...
+[Man at desk] The Chief...?
+[Man at desk] She's out with Nikaido, investigating\a case.
+[Man at desk] Do you have any message to give her?
+[Man at copier] I'm almost finished with these...
+[Man at copier] Once I finish these copies, I'll go\grab a beer.
+[Man at copier] Oh, boy...
+[Man at copier] I just make copies... From morning\to night, it's copies, copies, copies...
+[Man at copier] I've finally finished for today.
+[Keiko] I want to fall in love...
+[Keiko] I want a good man, a good single man to go\home with...
+[Keiko] Isn't there a man who wants to take me to\the Princess Hotel, and make hot love to me all\night long...?
+[Keiko] Why are you pointing at yourself, Mr.\Amagi?
+@Surroundings
+@Employees
+@Heater
+@Round table
+[Kojiroh] Maybe it could be a nudie bar...
+[Kojiroh] Night or day, the Katsuragi Private\Detective Offices never change.
+[Kojiroh] But wouldn't it be great if it turns into\a nudie bar at night?
+[Kojiroh] Everyone's working hard... It must help\Yayoi a lot.
+[Kojiroh] It's late at night, but the employees are\still at work.
+[Kojiroh] And the building next door is completely\dark.
+[Kojiroh] I remember I once punched that heater to\fix it.
+[Kojiroh] It probably works now...
+[Kojiroh] It's working quietly... It's nice and\warm in here.
+[Kojiroh] It used to make such a ruckus when it was\on before.
+[Kojiroh] That must be where the employees hang out\during breaks.
+[Kojiroh] Wobbly old chairs surround the ugly\table.
+[Kojiroh] You make the clients sit on these so that\they'll feel insecure.
+[Kojiroh] That's what I told Yayoi, and she flat\out denied it.
+@Go outside
+[Kojiroh] Yeah, let's get outta here...
+[Man at copier] Stop by again sometime.
+[Kojiroh] Look over here...
+a003
+@Look/Investigate
+@Move
+@Speak
+@Man at desk
+@Man at copier
+@Woman I can see
+@Keiko
+[Man at desk] The Chief isn't in right now...
+[Man at desk] The Chief...?
+[Man at desk] She's out with Nikaido, investigating\a case.
+[Man at desk] Do you have a message for her?
+[Man at copier] Jesus... I have 200 of these things\to do!
+[Man at copier] Oh, man...
+[Man at copier] All I do is make copies, every damn\day. Won't I ever get to work on a case?
+[Man at copier] What? I have to grab a case for\myself...?
+[Man at copier] I tried... And Nikaido just blew me\off.
+[Man at copier] This is all I ever do...
+[Keiko] Don't tell the Chief or Nikaido what I\said.
+[Keiko] This office isn't as prosperous as it may\look...
+[Keiko] That's because both you and the last Chief\are gone...
+[Keiko] Now there's just Yayoi, and she works so\hard.
+[Keiko] And Nikaido works pretty hard, too... But\he's nothing compared to how you were, Mr. Amagi...
+[Kojiroh] Hey, that's Keiko... The one who answers\the phones.
+[Keiko] Oh, Mr. Amagi!
+[Keiko] Nikaido said some pretty rude things to\you, didn't he...
+[Keiko] But I think you did the right thing.
+[Keiko] Most of the employees here respect you, Mr.\Amagi.
+@Surroundings
+@Employees
+@Heater
+@Round table
+[Kojiroh] This office is too damn bright for me,\dammit.
+[Kojiroh] As always, everything here is so clean\and organized.
+[Kojiroh] Yayoi used to come here so early, to\clean up... Could she still be doing that these\days?
+[Kojiroh] But this office is very different from a\house.
+[Kojiroh] The employees are busy typing, or working\with accounting papers...
+[Kojiroh] They are busy working at their desks...\Doesn't sound THAT bad...
+[Kojiroh] Investigators need to move around!
+[Kojiroh] But that's the old way... Now we use our\heads.
+[Kojiroh] But you don't get anywhere if you just\sit around...
+[Kojiroh] It's circulating fresh air throughout the\room.
+[Kojiroh] This part of the ceiling where it's kinda\low... This is where the heater is.
+[Kojiroh] It was working so well last winter. So I\give it a punch and it became a freezer.
+[Kojiroh] This must be where the employees hang out\during breaks.
+[Kojiroh] Wobbly old chairs surround the ugly\table.
+[Kojiroh] You make the clients sit on these so that\they'll feel insecure.
+[Kojiroh] That's what I told Yayoi, and she flat\out denied it.
+@Go outside
+[Kojiroh] Let's go outside...
+[Man at desk] Please come again... When Nikaido\isn't here.
+[Kojiroh] God... He never looks this way.
+a003
+@Look/Investigate
+@Move
+@Speak
+@Give back
+@Electronic organizer
+[Kojiroh] Urghh!
+[Nikaido] What the hell's the matter with you?
+[Kojiroh] I think I'm gonna puke!!
+[Nikaido] You fool!
+[Kojiroh] Oh...man...! I'm gonna barf!!!
+[Nikaido] Not here! Don't do it here!!!
+[Kojiroh] I'm gonna barf here, man! Right here!
+[Nikaido] Someone bring him a bucket! Quick!
+[Kojiroh] (And when he's not looking...)
+cI slip it right into his pocket.
+[Kojiroh] (Too easy...)
+[Kojiroh] (Well... I'm done.)
+[Nikaido] You idiot! If you're gonna puke, puke\here!
+[Kojiroh] Oh, I felt better as soon as I looked at\the bottom of the bucket.
+[Nikaido] Damn you!
+[Kojiroh] I've always had a thing for bucket\bottoms.
+[Nikaido] Well, what made you want to throw up in\the first place?
+[Kojiroh] Oh, I think it was your face. But I feel\much better now.
+[Nikaido] You... You...
+[Nikaido] You shitheeaaaddd!!
+[Nikaido] That's it... Out! Out! Out!
+[Kojiroh] Hey, hey. Calm down... Take a deep\breath... That's it.
+@Nikaido
+[Nikaido] I've had enough of your crap!
+[Kojiroh] (Uh-oh... Things are getting out of hand\here. I'd better leave.)
+[Nikaido] What the hell do you want?
+[Kojiroh] Damn, you sound upset. Are you on your\period?
+[Nikaido] No... I just lost something very\important... That's all.
+[Kojiroh] (What an idiot...)
+[Nikaido] Well? What the hell are you doing here?
+[Kojiroh] I sure as hell didn't come here to take\this shit from you!
+[Nikaido] Well, what DID you come here for, then?
+[Kojiroh] (To return your stupid electronic\organizer.)
+[Nikaido] What did you say?
+[Kojiroh] Oh, just talking to myself.
+[Nikaido] ...?
+[Kojiroh] (I'm not getting anything done by being\here...)
+[Kojiroh] (I'll just do what I came to do and go\home...)
+[Nikaido] Or maybe you came here to eavesdrop for\more information! You damned leech!!!
+[Kojiroh] How old are you?
+[Nikaido] I've already found a clue you could never\even dream of...
+[Kojiroh] Oh! And I bet you're just dying to tell\me about it...
+[Nikaido] You idiot, I wouldn't dislose company\secrets to anyone like you.
+[Kojiroh] Well, you're actually showing some signs\of common sense.
+[Nikaido] But I'll give you a hint. Even though the\Chief forbids me to tell you everything.
+[Kojiroh] ...
+[Nikaido] With your tiny brain, you probably think\that it's just lost, right?
+[Kojiroh] You mean, like the mud on the window\sill?
+[Nikaido] How did you know about that?!?
+[Kojiroh] (Whoopiee...)
+[Nikaido] So, you heard from Kou, eh? You coward...\Do you want credit for that!?!
+[Kojiroh] (This is no good...)
+[Kojiroh] By the way, I haven't seen Yayoi around\here...
+[Nikaido] She's arranging documents in the other\room.
+[Kojiroh] Documents about this case?
+[Nikaido] Unlike your mediocre office, we don't\deal with trivial cases...
+[Kojiroh] It's not necessarily mediocre, but I get\your point...
+[Kojiroh] (Yayoi and I made this office big,\idiot.)
+[Nikaido] We have many cases that we have to deal\with.
+[Kojiroh] Oh, so business is soaring!!!
+[Nikaido] Where the hell are you going! You don't\have the right to hang around here!
+[Kojiroh] You don't mind if I just jerk off in the\next room, do you?
+[Nikaido] Dammit! What the hell are you talking\about! Of course I mind!
+[Kojiroh] Damn.
+[Nikaido] I have nothing to say to you.
+[Kojiroh] Come on. Lighten up, Nikaido.
+[Nikaido] It's Mr. Nikaido to you!
+[Kojiroh] Why don't I just call you Mr. Fido?
+[Nikaido] You son of a bitch!
+[Kojiroh] Are you on medication, by any chance? I\know a good psychiatrist who could help you control\those outbursts.
+[Nikaido] I get crazy whenever I speak to you.
+[Kojiroh] Good, go with that. Now, tell me your\darkest fantasies.
+[Nikaido] Are you trying to make a fool out of\me!?!
+[Kojiroh] I'm only trying to help, Nikaido.
+[Nikaido] I told you to call me Mr. Nikaido!
+[Kojiroh] I'll call you whatever I damn well\please, Libido, now drop it!
+[Nikaido] Wait'll I get my hands on you!
+@Surroundings
+@Nikaido
+@Shrubbery
+[Nikaido] I've had enough of your crap!
+[Kojiroh] (Uh-oh... Things are getting out of hand\here. I'd better leave.)
+[Kojiroh] God damn it... There's this big ass in\front of me and I can't see anything.
+[Nikaido] What big ass?
+[Kojiroh] This is Katsuragi Private Detective\Offices.
+[Kojiroh] Business appears to be doing quite well.
+[Nikaido] Ha ha ha... Thanks to me taking your\place! Don't stick your nose where it doesn't\belong.
+[Nikaido] I've had enough of your crap!
+[Kojiroh] (Uh-oh... Things are getting out of hand\here. I'd better leave.)
+[Kojiroh] (Who cares...)
+[Kojiroh] (Let's just get the job done and go.)
+[Kojiroh] There's an idiot in front of me.
+[Nikaido] What did you say!?
+[Nikaido] I've had enough of your crap!
+[Kojiroh] (Uh-oh... Things are getting out of hand\here. I'd better leave.)
+[Kojiroh] Only if it can lift spirits...
+[Kojiroh] But things just aren't going the right\way...
+[Nikaido] What the hell are you talking about?
+[Kojiroh] I incorporated these plants into the\office.
+[Kojiroh] I thought it would bring peoples spirits\up.
+[Nikaido] I don't like them. I'm gonna throw them\away as soon as I get permission from the Chief.
+@Go outside
+[Kojiroh] (Yeah... Let's go home.)
+[Kojiroh] See ya later, Nikaido.
+[Nikaido] Wait, fool! I have something to tell you.
+[Kojiroh] What? That I'm a nice guy? I already know\that.
+[Nikaido] Who the hell says that!
+[Kojiroh] You.
+[Nikaido] I don't know how you got this case from\Kou, but consider it your last one.
+[Kojiroh] Is that so?
+[Nikaido] After this case, you'll be begging for\change on the street...
+[Kojiroh] ...
+[Nikaido] Soon, no one will ever offer you any\cases.
+[Kojiroh] I see...
+[Nikaido] You don't even have a license anymore. I\have contacts who can keep it that way. I can have\your license permanently revoked.
+[Kojiroh] Go ahead and try.
+[Nikaido] This business isn't known for second\chances. You don't have a single ally. You're all\alone.
+[Kojiroh] You're breaking my heart. Really.
+[Nikaido] You're laughing now... But we'll see who\has the last laugh!!
+[Kojiroh] ...
+[Woman's voice] What was all that commotion!?!
+004
+b05
+[Nikaido] Chief...
+[Yayoi] What's going on here, Nikaido...
+[Nikaido] I was just talking with Kojiroh.
+[Yayoi] Kojiroh, you're here...?
+[Kojiroh] Well, I thought I'd drop in and say hi...
+[Yayoi] You should've told me...
+[Kojiroh] Nah, I gotta get going anyway...
+[Nikaido] Chief! This guy is at it again...
+[Yayoi] I'm in charge here, Nikaido.
+[Nikaido] ...
+[Yayoi] Come into this room, Kojiroh.
+[Kojiroh] No thanks... I've done what I came to do.\See ya.
+[Yayoi] Kojiroh!!!
+a003
+[Kojiroh] Let's ditch this place and go home.
+[Kojiroh] I came all this way.
+[Kojiroh] I had something in mind, didn't I?

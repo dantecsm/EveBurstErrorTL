@@ -1,0 +1,1374 @@
+001
+eve_03
+[Kojiroh] I'm finally back in my office...
+[Kojiroh] It can't be this late already! ...Time\flies.
+[Kojiroh] ...Think I'll call it a day.
+[Kojiroh] Oh yeah, where's the little rascal...
+[Kojiroh] Hmm...
+[Kojiroh] Huh? He's not here...
+[Kojiroh] He's not under the sheets...
+[Kojiroh] Under the pillow?!
+I take a peek.
+[Kojiroh] Where the hell could he be?
+[Kojiroh] Uh-oh... Oh shit!
+001
+I rummage through my stuff...
+[Kojiroh] Let's see...
+[Kojiroh] I'm not missing any valuables...
+[Kojiroh] But then, even my valuables aren't so\valuable...
+[Kojiroh] My God! The computer data!?!
+[Kojiroh] ...
+[Kojiroh] The light isn't blinking and the seal\isn't broken... Everything's okay.
+001
+[Kojiroh] There's nothing abnormal here.
+[Kojiroh] ...
+001
+eve_03
+[Kojiroh] I'm back in my office...
+[Kojiroh] Where's that little brat...
+[Kojiroh] He's sleeping well... But he sure is\dirty.
+001
+001
+eve_03
+[Kojiroh] I'm back in my office...
+[Kojiroh] Where's that little brat...
+[Kojiroh] He's sleeping well... But he sure is\dirty.
+[Kojiroh] Oh yeah, I bought some aspirin.
+The pills shake inside the container.
+[Kojiroh] I'll just set it here on the table... Ah,\he ain't listening.
+001
+eve_03
+[Kojiroh] I'm back at the office...
+[Kojiroh] Where is that little brat...
+[Kojiroh] He's sleeping well... But he sure is\dirty...
+[Kojiroh] Shit... I can't just leave him here like\this...
+[Kojiroh] Come on, kiddo... Can you walk?
+[Boy] This headache... It's killing me...
+[Kojiroh] This ain't good.
+[Kojiroh] Maybe I'll let him sleep on the chair in\the office...
+[Kojiroh] Upsie-daisy...
+[Kojiroh] He's not too as heavy as I thought he\might be...
+[Kojiroh] ...
+[Kojiroh] But he's just one trouble after\another...
+[Kojiroh] Today just isn't my day...
+[Kojiroh] Hey! Are you even listening?
+[Boy] My head is pounding... Oww...
+[Kojiroh] Geez...
+[Kojiroh] Why is it that I attract so much trouble\in life?
+[Kojiroh] Maybe I was born under a bad sign...
+[Kojiroh] Hm...
+[Kojiroh] Now, I'll just put him in the chair...
+[Kojiroh] Ah, man... There're too many documents\scattered on it.
+[Kojiroh] I thought about cleaning this place up a\bit, but I never got my act together.
+[Kojiroh] There's no way this kid's sleeping in my\bed...
+[Kojiroh] ...
+[Kojiroh] Oh well. I will give him my bed.
+I lay him down carefully, trying not to wake him up.
+001
+[Kojiroh] Whew...
+[Kojiroh] I actually managed to carry the little\shit all the way to my bed.
+[Kojiroh] But he's dirty as hell. Doesn't this kid\ever bathe?
+[Kojiroh] Hey, you little runt! You listening?!
+[Boy] Zzzz...
+[Kojiroh] Damn.
+[Kojiroh] Oh yeah, he mentioned having a\headache...
+[Kojiroh] I should have some medicine around here\somewhere.
+I shuffle through the mess, looking for pills...
+[Kojiroh] Why do I have to do all this? I ain't his\mother.
+I keep rummaging through the mess...
+[Kojiroh] Nothing...
+[Kojiroh] Hmm...
+[Kojiroh] Come to think of it, I need to go\shopping. Maybe I'll get some aspirin while I'm at\it.
+[Kojiroh] Seems crazy, but I need to replenish my\supplies. I'm not going to the store for the brat\though.
+[Kojiroh] Headache medicine should be easy to\find...
+eve_03
+001
+[Kojiroh] Hmm... Now what'll I do?
+Smash!
+[Kojiroh] What the hell?
+[Voice A] That son of a bitch.
+[Voice B] I'm gonna have some fun...
+[Voive A] Go on, say something.
+[Kojiroh] What the hell..?
+[Voice] Please, stop it...
+[Voice C] Go ahead! Make the first move!
+[Voice B] What's the matter? You chicken or\something?
+[Kojiroh] ...
+[Kojiroh] Where are those voices coming from?
+001
+eve_03
+[Kojiroh] I'm back in my office.
+001
+eve_03
+[Kojiroh] Well, I'm back again...
+The telephone rings...
+[Kojiroh] Who could be calling at this hour?
+Click.
+[Kojiroh] Hello, this is the Amagi Private\Detective Office...
+[Voice] ...
+[Kojiroh] Amagi Private Detective Office, can I\help you? Hello?
+[Voice] ...
+[Kojiroh] Listen.　Speak up or hang up.
+[Voice] ...
+[Kojiroh] Hey man, I don't have time to screw\around with you...
+[Glen] Kojiroh, it's me...
+[Kojiroh] Glen? Are you checking my voice again?
+[Glen] You could say that...
+[Kojiroh] So, what's up? Any news?
+[Glen] Yeah. I just got some new information...\Lots of it.
+[Kojiroh] You don't sound so hot... Is it bad news?
+[Glen] I just spoke to my contact, and he only made\matters more confusing.
+[Kojiroh] I see...
+[Glen] That painting ain't no masterpiece... It\ain't worth shit.
+[Kojiroh] Are you telling me that thing\is...Worthless?
+[Glen] Exactly...
+[Kojiroh] So it's no van Gogh...
+[Glen] Not quite.
+[Kojiroh] Would it be wrong to assume it has\something to do with tax evasion?
+[Glen] Perhaps you should treat this robbery as a\special case.
+[Kojiroh] That's for me to decide.
+[Glen] Perhaps the painting is a fake.
+[Kojiroh] Your contact is trustworthy, and he says\it's worthless?
+[Glen] Yes...
+[Kojiroh] Alright... Let me know if you hear\anything more...
+[Glen] No problem.
+I hang up the phone.
+[Kojiroh] Hmm...
+[Kojiroh] So it's crap, basically...
+[Kojiroh] This isn't what I expected. Kou was\actually right.
+[Kojiroh] He said he was heartbroken because he\couldn't forget about his dead wife.
+[Kojiroh] ...
+[Kojiroh] I'm not exactly satisfied with his\explanation.
+001
+eve_03
+[Kojiroh] Where the hell am I supposed to find the\missing painting?
+001
+eve_03
+[Kojiroh] This is the strangest case I've ever been\given.
+[Kojiroh] Then again, I've hardly been getting any\cases at all, recently.
+[Kojiroh] But now it's time to show everyone what\I'm made of.
+[Kojiroh] ...
+[Kojiroh] Oh yeah... I didn't finish putting\Nikaido's data into the terminal.
+001
+eve_03
+001
+eve_03
+001
+eve_03
+001
+eve_03
+[Kojiroh] What a day I've been having!
+[Kojiroh] As always, I'll lie down and think things\over...
+[Kojiroh] Otherwise, I'll never fall asleep.
+　Think
+　Lie down
+　Save/Load
+　Save
+　Load
+　Go to sleep
+a001_2
+[Kojiroh] I have to think first...
+[Kojiroh] Otherwise, I'll lie awake all night.
+[Kojiroh] I have to arrange my thoughts before I\can really sleep.
+　About the painting
+　About Kou
+　About Yayoi
+　About Nikaido
+　About Glen
+　About Akane
+　Many things
+[Kojiroh] I'll continue with this tomorrow...
+[Kojiroh] I'm finally getting sleepy...
+[Kojiroh] Today was one hell of a day.
+[Kojiroh] But at least I have a new case to work\on...
+[Kojiroh] I have to pay Akane for getting me hired\by Kou...
+[Kojiroh] The investigation's going nowhere,\Yayoi's against me... Shit.
+[Kojiroh] And now I'm stuck with some little\girl...
+[Kojiroh] I wonder if she's sleeping okay...
+[Kojiroh] She's sleeping in my soft bed... I better\not hear any lip from her.
+[Kojiroh] I've been swamped with bad luck today...
+[Kojiroh] ...
+[Kojiroh] I wonder how Yayoi's gonna attack this\case...
+[Kojiroh] And Nikaido...
+[Kojiroh] He said he found a clue...
+[Kojiroh] I'd be lying if I said I wasn't curious.\I wonder what it is...
+[Kojiroh] No matter what happens, I can't lose to\Katsuragi Private Detective Offices...
+[Kojiroh] ...
+[Kojiroh] Well, I'll go to the library tomorrow and\look for more information.
+[Kojiroh] I might find more clues...
+[Kojiroh] Anything helps... I'll get that Matsuno\girl to help me out.
+[Kojiroh] The only thing to do now is sleep...
+001
+s10
+[Kojiroh] I was asked to find the missing\painting...
+[Kojiroh] Who could have it? It's suppose to be\used in memorial services...
+[Kojiroh] He said something about an acquaintance\from work... Maybe someone in the reception room.
+[Kojiroh] Including today, I only have three days\to look for this painting.
+[Kojiroh] It looks like Islamic art.
+[Kojiroh] I don't know when it "disappeared". It's\possibly stolen...
+[Kojiroh] But why would anyone steal it?
+[Kojiroh] There are so many clues left to be\found...
+[Kojiroh] It's like if the burglar want's to be\found.
+[Kojiroh] How about the mud on the window sill...\It was nice to see the tracks leading straight to\the painting.
+[Kojiroh] These details go on forever.
+[Kojiroh] I sense something fishy going on...
+[Kojiroh] But I don't know what that sense is\trying to tell me.
+[Kojiroh] Okay. Basically, Kou hired some\heavy-duty detectives to find his missing painting.
+[Kojiroh] It's a little strange, but who am I to\criticize?
+[Kojiroh] I'll give my job 100% effort.
+[Kojiroh] I'll find that painting somehow.
+[Kojiroh] I'm not gonna rack my brains trying to\figure out why it was lost.
+[Kojiroh] I'm only paid to find the painting...
+[Kojiroh] Be it his wife's third anniversary, tax\evasion... It's not problem.
+[Kojiroh] I'll find that painting, and Kou will pay\me.
+[Kojiroh] I have to perform my job with perfect\professionalism.
+001
+001
+b05
+[Kojiroh] I didn't think Yayoi was involved with\this case, too...
+[Kojiroh] It's been three months since we last\met... She hasn't changed a bit.
+[Kojiroh] Their investigation actually started\several days ago...
+[Kojiroh] ...
+[Kojiroh] Yayoi doesn't think this is a simple\robbery either.
+[Kojiroh] But Nikaido's opinion was a bit different\than hers.
+[Kojiroh] I'll never lose to the Katsuragi Private\Detective Offices...
+001
+009
+009b
+[Kojiroh] That's one information source I'll be\sure to use.
+[Kojiroh] And Glen's real name isn't "Glen." He\uses that as a nick-name.
+[Kojiroh] Address unknown. Age unknown... He uses a\cellular whenever he calls people.
+[Kojiroh] I think I'm playing with fire here...
+[Kojiroh] But then, danger's my middle name. I\can't be clean all the time...
+[Kojiroh] Glen has some pretty extraordinary means\of gathering information. And it'll cost me a\pretty penny to obtain that illegal info.
+[Kojiroh] Shit, legal or illegal, info is info.\There're no morals involved with quality\information.
+[Kojiroh] Yayoi always hated my reasoning.
+[Kojiroh] Glen says there's no artistic value in\that painting. It's just cheap crap.
+[Kojiroh] I've learned to believe what he says.
+[Kojiroh] He also said he was hired by a major\client.
+[Kojiroh] I hope he's not getting himself into\something more than he can't handle.
+001
+001
+b16
+[Kojiroh] That Akane...
+[Kojiroh] She's a foxy dame.
+[Kojiroh] She's a reporter, a one-woman paparazzo.
+[Kojiroh] She may look cute on the outside, but I\can't let her trick me.
+[Kojiroh] She'll do anything to get what she\wants...
+[Kojiroh] She's a workaholic, and lets nothing\stand in her way.
+[Kojiroh] But this time she brought the case to me.\I'm obliged to solve it.
+[Kojiroh] She would be so much cuter if she didn't\charge me that intoductory fee.
+[Kojiroh] And she seems to be interested in how I'm\taking up this case.
+[Kojiroh] Could 50.000 yen really be so important?
+[Kojiroh] ...
+[Kojiroh] Yeah, I guess it could.
+001
+001
+b06
+[Kojiroh] Nikaido thinks a thief is at the center\of this investigation...
+[Kojiroh] I, however, share a different view.
+[Kojiroh] But I AM interested in what kind of clue\he found.
+[Kojiroh] Oh yeah... I made a note in my\pocketbook: "Contact M."
+[Kojiroh] I wonder if it has anything to do with\this investigation.
+[Kojiroh] This guy's actually helping me out quite\a bit... Thanks, man.
+[Kojiroh] I'll pay him back by solving the case.
+001
+011
+011b
+[Kojiroh] It's the 3rd anniversary of his wife's\death, and he wants me to find his friend's\painting.
+[Kojiroh] At first I thought it was tax evasion...\But it's just a worthless piece of art.
+[Kojiroh] Basically, Kou's words do have some\credibility to them.
+[Kojiroh] ...
+[Kojiroh] Wait... I can't jump to too many\conclusions at once, here.
+[Kojiroh] I'd better relax for a while, and　Speak\politely... All I know is that he's a rich, fat\bastard.
+[Kojiroh] But he pisses me off for some reason.
+[Kojiroh] For now I'll just concentrate on the case\at hand...
+[Kojiroh] On one hand it looks like a robbery. But\then, it also looks like a crock of shit.
+[Kojiroh] Why on earth would he want that cheap\thing so much...?
+[Kojiroh] Glen said it was worthless, and he knows\his art...
+[Kojiroh] Kou just wants me to inform him when I\find it.
+[Kojiroh] I'll never understand the rich...
+[Kojiroh] It must have something to do with his\wife, and the 3rd anniversary of her passing away.
+001
+[Kojiroh] Hmm...
+[Kojiroh] At least I was able to put the little\girl to bed...
+[Kojiroh] It's times like this when I wish Yayoi\was here.
+[Kojiroh] Oh well...
+[Kojiroh] Why can't I just get her out of my head,\dammit!?
+[Kojiroh] She's the one woman that drives me mad...\What's a guy to do?
+　Look/Investigate
+　Move
+　Equipment
+　Use
+　Enter
+　Lie down
+　Save/Load
+　Bed
+　Sofa
+Kojiroh] Yeah, it's getting late...
+[Kojiroh] Usually, I'd get in bed and think about\the case...
+[Kojiroh] But right now that girl's sound asleep.
+[Kojiroh] Tonight, and ONLY tonight, I'll let her\sleep there...
+[Kojiroh] Guess the sofa will have to do for now!
+[Kojiroh] I'm still stark-naked...
+[Kojiroh] I just got out of the bath. I'll catch\cold if I don't put some clothes on.
+I quickly throw on some pajamas.
+[Kojiroh] That's better.
+[Kojiroh] Why am I doomed to suffer like this!?!
+[Kojiroh] Ah, shut up and sleep.
+I rub my hands together to keep warm.
+I move towards the sofa.
+[Kojiroh] Hmm...
+eve_13
+[Kojiroh] My bed is occupied at the moment...
+[Kojiroh] The girl's using the bed right now...
+[Kojiroh] Too bad. I'll let her sleep there\tonight...
+ Terminal
+[Kojiroh] Why must I use the terminal looking like\this!
+[Kojiroh] Are you crazy or what?
+[Kojiroh] There's no reason to use the terminal\right now...
+[Kojiroh] Man, it's cold...
+　Photograph
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] It's a painting of a bizarre pattern.
+[Kojiroh] And now... I'm naked.
+001
+s10
+[Kojiroh] And it's my job to find this thing.
+[Kojiroh] I'll start tomorrow.
+[Kojiroh] A... A... A-Choooo!
+[Kojiroh] Brrr...
+001
+s07
+[Kojiroh] It's my Customized Glock 22.
+[Kojiroh] And boy, am I freezing.
+001
+s07
+[Kojiroh] It's my Customized Glock 22... A...\A-choo!
+[Kojiroh] Oh, I'm so cold...
+001
+[Kojiroh] My wallet's empty...
+[Kojiroh] I feel pretty damn cold right about now.
+[Kojiroh] Cash?
+Snap.
+[Kojiroh] I just opened my coin purse.
+[Kojiroh] ...
+[Kojiroh] Every time I look at it, it's cold...
+[Kojiroh] It's drooping because it's chilly.
+[Kojiroh] Kinda pathetic, huh?
+[Kojiroh] Perhaps I should put some pants on.
+[Kojiroh] Yeah, baby!
+[Kojiroh] ...
+[Kojiroh] Enough for now... I'm too cold.
+　Save
+　Load
+　Bath
+　Refrigerator
+[Kojiroh] Oh yeah! I wanted to take a bath!
+[Kojiroh] A... A... A-Choooo!
+[Kojiroh] I'm trembling...
+[Kojiroh] I've been naked for a while now...
+[Kojiroh] Okay, I'll take a bath and warm myself\up.
+I hop in the tub...
+The water splashes everywhere.
+I scrub myself all over...
+And I mean ALL over.
+Yeah!
+0170
+[Kojiroh] Oh, how nice...
+[Kojiroh] I can feel the life coming back to me...
+[Kojiroh] ...
+[Kojiroh] If I catch a cold because of this... I'd\be a fool.
+[Kojiroh] This is all that little guy's - I mean -\girl's fault.
+[Kojiroh] ...
+[Kojiroh] She's actually the same person I rescued\in the street.
+[Kojiroh] The clothes on the floor, the hair\color... She's a foreigner.
+[Kojiroh] The problem is, why the hell would a girl\be out there at night?
+[Kojiroh] Well, girls will be girls.
+[Kojiroh] Shit... I'll have to take her back to her\parents tomorrow.
+[Kojiroh] She's staying here tonight only... This\ain't no hotel.
+[Kojiroh] ...
+[Kojiroh] Hmm...
+[Kojiroh] Now I feel better...
+[Kojiroh] I'd better get out and dry off.
+Uh-oh.
+001
+[Kojiroh] No thanks. I don't want it to be "Game\Over."
+[Kojiroh] Enough of the jokes, please.
+[Kojiroh] If I enter the fridge like this, I'll\die. Got it?
+[Kojiroh] If I die, that's it. Game over.
+[Kojiroh] What the hell am I saying?
+　Surroundings
+　Lamp
+　Table
+　Work desk
+　Girl
+[Kojiroh] She saw me naked...
+[Kojiroh] She saw every inch of my skin when I was\naked.
+[Kojiroh] ...
+[Kojiroh] No way... I ain't that old.
+[Kojiroh] A-CHOOO!
+[Kojiroh] I'm freezing...
+[Kojiroh] Why the hell am I walking around like\this?
+[Kojiroh] This place is...
+[Kojiroh] Brrr...
+[Kojiroh] What good will it do to look at the\lights!?!
+[Kojiroh] Oh, maybe the heat from the lights will\help a little.
+[Kojiroh] A-CHOO!
+[Kojiroh] This table isn't very warm...
+[Kojiroh] I'll sit on the table.
+[Kojiroh] Ah... Nice and cool...
+[Kojiroh] What the hell am I saying? I'm freezing.
+[Kojiroh] That desk is... Aaaaa-Choo!
+[Kojiroh] Got it?
+[Kojiroh] The terminal's no help in this situation.
+[Kojiroh] I'm freezing my ass off.
+　Go outside
+[Kojiroh] Looking like this?!?
+[Kojiroh] Are you trying to kill me?
+[Kojiroh] Where the hell did that kid go...
+　Look/Investigate
+　Move
+　Equipment
+　Use
+　Enter
+　Save/Load
+　Terminal
+[Kojiroh] No need to use it now...
+There's no need to use the terminal right now.
+[Kojiroh] The kid couldn't have gone that far...
+　Photograph
+　Glock
+　Cash
+　Viagra
+[Kojiroh] Photos are useless in the bath... Not\this one at least.
+s10
+[Kojiroh] It's the painting Kou is looking for.
+[Kojiroh] I'm a little concerned with what happened\to that little kid.
+001
+s10
+[Kojiroh] This is what they asked me to find.
+[Kojiroh] According to Glen, this is worthless...
+[Kojiroh] Hey, this ain't time to be looking at\pictures.
+001
+[Kojiroh] No need to bring my glock into the bath.
+[Kojiroh] For now I'll just stick it in the\fridge...
+[Kojiroh] ...Just kidding.
+s07
+[Kojiroh] It's my Customized Glock 22.
+[Kojiroh] But I'm more concerned with where the kid\is...
+001
+s07
+[Kojiroh] It's my Customized Glock 22.
+[Kojiroh] I'll have to watch him closer next time I\catch him.
+001
+[Kojiroh] He wouldn't steal my money... I hardly\have any.
+[Kojiroh] That'll let me relax a little.
+[Kojiroh] It won't do any good to check how much\cash I have.
+[Kojiroh] There's not much to take from me. Ha, ha,\ha...
+[Kojiroh] Hmm...
+[Kojiroh] I'll use my penis to lead the way...
+[Kojiroh] Hm...
+[Kojiroh] What good will that do me now?
+[Kojiroh] Lead me to the golden child, oh master\penis.
+[Kojiroh] My private dick is hot on the case.
+　Save
+　Load
+　Bath
+　Refrigerator
+[Kojiroh] Oh yeah... I want to get in the bath; not\the refrigerator.
+[Kojiroh] My body is tired and dirty... A bath will\do me some good.
+[Kojiroh] It's been a rough day...
+[Kojiroh] I'll take a bath, relax, and think about\the case. Then I'll listen to what the kid has to\say.
+[Kojiroh] I'd better take him back home. His\parent's must miss him...
+[Kojiroh] Hope he doesn't mind me walking in the\nude...
+I take off all my clothes.
+[Kojiroh] I have to get a change of clothes ready\for him...
+I move around the room naked...
+...searching for some extra clothes.
+001
+[Kojiroh] This shirt and pants will do... But they\might be a tad big.
+[Kojiroh] Okay, off to the bathroom.
+[Kojiroh] Hey, kiddo... Can you hear me?
+...
+[Kojiroh] I don't look so good...
+[Kojiroh] Shit, I can't just worry about stuff all\the time!
+[Kojiroh] Hey! You ready, kiddo? Here I come!
+I slide open the door.
+0030
+[Kojiroh] ...!
+\ 
+eve_16
+[Kojiroh] Who in the hell are you!
+[Girl] Ah, ah, ah...
+[Kojiroh] Wh...where are you looking at?
+0030b
+[Girl] Ah...
+[Kojiroh] Hey, you're...
+0030
+[Girl] Uh...
+[Kojiroh] Who are you!
+0030b
+[Girl] Um...
+[Kojiroh] And why are you here?
+0030
+[Girl] Ah...
+[Kojiroh] She is not listening...
+[Girl] Kou, uh, eh, ah...
+0030b
+0030
+0030b
+0030
+[Girl] Ohh...
+She faints.
+[Kojiroh] Hey, wait a minute!
+[Kojiroh] What the hell's going on!?!
+[Kojiroh] Don't faint... Did the sight of my cock\make you woozy?!?
+[Kojiroh] ...
+[Kojiroh] Well, anyway...
+[Kojiroh] I can't just let her sleep here in the\bath like this...
+[Kojiroh] Come on...
+Ooph.
+[Kojiroh] You sure are a light little thing!\...Huh?
+[Kojiroh] This girl... is that kid!?
+[Kojiroh] That grubby little kid is actually this\young beauty.
+[Kojiroh] I hate to admit it, but she's a real\piece of ass.
+[Kojiroh] What am I saying! This is no time for\that talk...
+[Kojiroh] What am I supposed to do with her? She's\completely naked?
+[Kojiroh] Right... something to cover up...
+[Kojiroh] Let... Let me give her this to cover\up...
+Covering her up...
+[Kojiroh] I thought she was a kid... But she's\actually quite developed...
+[Kojiroh] Jesus! I can't fall in love with a kid!
+[Kojiroh] I'll put her in bed for now...
+[Kojiroh] Down you go ...
+Phew...
+001
+[Kojiroh] Now... Back to the bath...
+[Kojiroh] Hmm... I sleep in the refrigerator\whenever I'm tired.
+[Kojiroh] I just love the claustrophobic\sensation...
+[Kojiroh] Are you serious?
+　Surroundings
+　Lamp
+　Table
+　Work desk
+　Bed
+[Kojiroh] The kid's in the bathroom.
+[Kojiroh] Dirtying the sheets, drooling on the\pillow... Oh, man.
+[Kojiroh] I'll run a wash.
+[Kojiroh] No one's in the bed over there...
+[Kojiroh] Where the hell did he go?
+[Kojiroh] The kid's in the bathroom.
+[Kojiroh] He sure was smelly...
+[Kojiroh] I wonder where he's from...
+I can smell something...
+[Kojiroh] It smells nice.
+[Kojiroh] Mmm...
+[Kojiroh] Mmm, smells like soap...
+[Kojiroh] Soap?
+[Kojiroh] ...
+[Kojiroh] Okay, Into the bathroom!
+[Kojiroh] ...
+[Kojiroh] Yup, he's already undressed.
+[Kojiroh] Yuck... These are filthy.
+[Kojiroh] Oh well... Hey, kiddo.
+...
+[Kojiroh] I wonder if he can hear me...
+[Kojiroh] Hey! I'm gonna throw these in the wash!
+...
+[Kojiroh] Maybe he can't hear me.
+001
+[Kojiroh] I'll start to gather the dirty clothes...
+I flick the switch.
+[Kojiroh] The wash has begun.
+[Kojiroh] I might as well throw in my jacket...
+[Kojiroh] No TV, no radio... But I do have a\washing machine. Go figure!
+[Kojiroh] It's an old machine, so it doesn't really\get all the dirt out of the clothes.
+[Kojiroh] I'll buy a nicer one someday... I like my\shit clean.
+[Kojiroh] Guess the kid's gone...
+[Kojiroh] Looks like the kid's disappeared...
+[Kojiroh] I didn't exactly expect any gratitude,\but it would've been nice.
+[Kojiroh] Where could he have gone?
+[Kojiroh] The lights are a little warm, but...\Brrr!
+[Kojiroh] I need my bath! Here I come!
+[Kojiroh] The lights are dim... There's no way he\could've escaped.
+[Kojiroh] The lights are dim...
+[Kojiroh] He couldn't have escaped...
+[Kojiroh] Where could he have gone?
+[Kojiroh] Looks like a good time to dance on the\table... How 'bout it?
+[Kojiroh] I'm too cold... I need to hop in the\bath.
+[Kojiroh] The aspirin box is open...
+[Kojiroh] He must've took the medicine before\leaving.
+[Kojiroh] Uh-oh... The aspirin box is open...
+[Kojiroh] At least he'll feel better.
+[Kojiroh] The terminal seems to be fine...
+[Kojiroh] This is the computer I use to organize\all my information
+[Kojiroh] It doesn't seem to have been tampered\with.
+　Go outside
+[Kojiroh] You want me to go out looking like this?
+[Kojiroh] It's cold... I need to get into the tub.
+[Kojiroh] That's strange... He wasn't outside.
+[Kojiroh] Maybe I'd better check around the room\some more.
+　In the closet
+　Under the desk
+　Refrigerator
+　Universe
+　Spiritual Realm
+　Outside the office
+[Kojiroh] There's nothing in the closet.
+[Kojiroh] I don't have too many things, as you can\see.
+[Kojiroh] The closet!?!
+The door opens.
+[Kojiroh] ...
+[Kojiroh] I don't own very much, do I...
+[Kojiroh] Everything's scattered around the room.\Nothing's under the desk...
+[Kojiroh] Ha, ha, ha... Could he be under the desk?
+[Kojiroh] Come out, come out, wherever you are!
+Wham!
+[Kojiroh] ...
+[Kojiroh] My room's pretty messy...
+[Kojiroh] The beer sure was good...
+[Kojiroh] No one's in here, obviously.
+[Kojiroh] How about... Here!
+Click...
+[Kojiroh] Take a look at all these beers! Now\THAT'S a fridge.
+I take a few swigs.
+[Kojiroh] A real man doesn't mind losing a few\brain cells.
+[Kojiroh] I'm not getting any radio waves from\outer space...
+[Kojiroh] Now I'm talking crazy...
+[Kojiroh] Yes! The mystery of the universe!
+[Kojiroh] Wait... I can sense signals coming from\Orion...
+[Kojiroh] Ahh, he's ramming his sword up Alpha\Centauri...
+[Kojiroh] It was bound to happen...
+[Kojiroh] I don't want to cross the River Styx...
+[Kojiroh] One more beer and I'll be able to hear\the spiritual realm!
+[Kojiroh] The far shore of the River Styx... I can\see them beckoning.
+[Kojiroh] ...
+[Kojiroh] I'm a little scared now...
+[Kojiroh] I think I can hear him outside the\office...
+[Kojiroh] Who the hell are they...? It sounds like\more than one guy.
+[Kojiroh] I'll step outside.
+a002
+[Kojiroh] What should I do from now on...
+　Look/Investigate
+　Move
+　Equipment
+　Use
+　Save/Load
+　Terminal
+[Kojiroh] There's no need to use that now.
+[Kojiroh] There's no reason to use the terminal\right now.
+[Kojiroh] I'll use it when I get some new\information.
+　Photograph
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] It's the painting Kou's looking for.
+[Kojiroh] It doesn't appear to have much artistic\value.
+001
+s10
+[Kojiroh] I was hired to find this.
+[Kojiroh] According to Glen, this is worthless...
+[Kojiroh] I'll never understand the rich...
+001
+s10
+[Kojiroh] It's a painting with a strange design...
+001
+s10
+[Kojiroh] This is the picture Kou gave me.
+[Kojiroh] I think it's a strange design, but I'm no\art critic.
+[Kojiroh] That's a matchstick on the right. Not\sperm.
+001
+s07
+[Kojiroh] It's my Customized Glock 22.
+[Kojiroh] This is an illegal firearm, but I'll keep\it a secret.
+001
+s07
+[Kojiroh] My Customized Glock 22... This gun is my\main passion in life right now.
+[Kojiroh] It's got a fancy laser-sight in front of\the trigger... I can take anyone out... At any\distance.
+[Kojiroh] It's a crazy world out there... A man's\got to protect himself in this business.
+[Kojiroh] I originally got this thing to intimidate\people. But it comes in handy when I need to blast\someone.
+[Kojiroh] When I shoot, I aim for the legs.
+001
+[Kojiroh] My wallet's empty.
+[Kojiroh] Dammit... I need to get paid as soon as\possible.
+[Kojiroh] Cash?
+Snap.
+[Kojiroh] I'm just opening my coin purse.
+[Kojiroh] I count the dough...
+[Kojiroh] ...
+[Kojiroh] Boy, am I cold...
+[Kojiroh] I can't go wrong with this stuff!
+Gulp...
+[Kojiroh] Oh yeah! Nice color! Perfect shine! Great\angle! Ohhh...
+[Kojiroh] Yeah, baby!
+[Kojiroh] ...
+[Kojiroh] That's enough for now.
+　Save
+　Load
+　Surroundings
+　Lamp
+　Table
+　Work desk
+　Bed
+[Kojiroh] The little brat's sleeping in my bed.
+[Kojiroh] The little kid should be sleeping in the\bed.
+[Kojiroh] Let's see...
+[Boy] ...
+001
+[Kojiroh] Cute little guy...
+[Kojiroh] This place is dark and messy, but it's a\formal office.
+[Kojiroh] I know what I'm talking about... I'm the\owner.
+[Kojiroh] This is my private detective office...
+[Kojiroh] I renovated this warehouse myself... The\location could be better. It's just a port.
+[Kojiroh] The good news is, rent is dirt cheap...\The bad news is, it's hard to find clients here.
+[Kojiroh] Ha, ha... How do you like that?
+[Kojiroh] The lights are a bit dim. I'll take care\of it someday...
+[Kojiroh] ...If I ever get the cash.
+[Kojiroh] The lights are dim...
+[Kojiroh] These lights came with this place when I\got it...
+[Kojiroh] Pretty soon it'll be time for a change.
+[Kojiroh] But I can't afford it now. Oh, well...
+[Kojiroh] Now I use it as a dinner table.
+[Kojiroh] It's pretty convenient, you know.
+[Kojiroh] It looks like a small table...
+[Kojiroh] But it's all-purpose. I can read the\paper, eat dinner, and type documents on this\thing.
+[Kojiroh] I can even stack a mountain of magazines\on it.
+[Kojiroh] ...
+[Kojiroh] Geez... I'm getting carried away.
+[Kojiroh] Right now, my computer is on the table.\It's packed with information.
+[Kojiroh] I organize all my info on that computer.
+[Kojiroh] The terminal's on the desk, set up in a\real mess... This thing can do just about anything.
+[Kojiroh] My equipment is all set up to send and\receive data.
+[Kojiroh] I can access the internet without even\going through a provider.
+[Kojiroh] Information is the most important thing\in the world, you see.
+　Go outside
+[Kojiroh] Yeah. Why not go outside?
+a002
+[Kojiroh] So, what should I look into first?
+eve_38
+　Examine data
+　Move
+　Save/Load
+　==Data 1==
+　==Data 2==
+[Kojiroh] There's no more data to look at.
+[Kojiroh] I'm done going over Data 2.
+[Kojiroh] I'll look at Data 1... Just for the hell\of it.
+[Kojiroh] ...
+[Kojiroh] More strange data... What could it be...
+[Kojiroh] Requesting urgent contact with 'M'...\"M"?
+[Kojiroh] What could 'M' possibly mean?
+[Kojiroh] Could it be an initial for someone's last\name?
+[Kojiroh] Why don't they just say the whole name?
+[Kojiroh] Maybe it's not a name. I always jump to\conclusions.
+[Kojiroh] ...
+[Kojiroh] What words begin with 'M'? ...Masturbate?
+[Kojiroh] "Masako?" I could be "Mistaken"...
+[Kojiroh] Well, maybe Nikaido was flustered with\the urgency, and just jotted it down in a hurry.
+[Kojiroh] But it makes me wonder...
+[Kojiroh] Anything else? ...Nope. All done.
+[Kojiroh] Let's see category 2... Well, well.
+[Kojiroh] According to this, a robbery seems to be\more likely... Oh! Now this is what I was looking\for.
+[Kojiroh] But the date has been updated to\yesterday's...
+[Kojiroh] Bad timing... The data has just been\updated.
+[Kojiroh] This only contains the new data... I\wanted to take a few steps back.
+[Kojiroh] Well hey, this is better than nothing.
+[Kojiroh] I see...
+[Kojiroh] This analysis ain't so bad. Yayoi has a\habit of taking notes of her analysis.
+[Kojiroh] Basically, this is Yayoi's analysis and\reasoning.
+[Kojiroh] It appears the Katsuragi Offices are\approaching this as a theft...
+[Kojiroh] Well, that's one way of looking at it.\I'm gonna take a different approach.
+[Kojiroh] There's no more data to look up...
+[Kojiroh] Anything else? ...Nope.
+[Kojiroh] Shit. I just wasted my time with this\boring data...
+[Kojiroh] I'll save it...
+[Kojiroh] Anything else...?
+[Kojiroh] Hey, Kou's personal data is in here.
+[Kojiroh] And I almost missed this data on a\woman...
+[Kojiroh] Well, whadda ya know... He works at Yale\International School.
+[Kojiroh] Yale International School?
+[Kojiroh] ...
+[Kojiroh] Could that fat old bastard be working at\the international school?
+[Kojiroh] He's probably the janitor...
+[Kojiroh] But how could an old janitor become so\prosperous??
+[Kojiroh] Let's see... Here's the school address.
+[Kojiroh] Whadda ya know? Not too far from here.
+[Kojiroh] I'll go there and take a look.
+[Kojiroh] I should check into this data thoroughly.
+[Kojiroh] ...
+[Kojiroh] Wow... There's even data on Akane.
+[Kojiroh] Nikaido sure knows how to obtain\information.
+[Kojiroh] I understand wanting to know about women,\but this is going a little overboard.
+[Kojiroh] Take a look at this...
+[Kojiroh] Wow... Akane's got some big tits.
+[Kojiroh] Her birthday is... What the hell?!? That\immature girl's already 22!
+[Kojiroh] It's hard to believe, but I consider\Nikaido's data to be quite reliable.
+[Kojiroh] Huh?
+[Kojiroh] According to this date, Akane's birthday\is...tomorrow.
+[Kojiroh] That bitch... On my birthday, she gave me\chopsticks.
+[Kojiroh] ...
+[Kojiroh] I'll show her some chopsticks of my own!\Heh, heh...
+[Kojiroh] But this isn't the data category I want\to look up.
+[Kojiroh] Just what DO I want to look up,\anyway...?
+[Kojiroh] How many profiles are in this thing?!?
+[Kojiroh] Wow... There's even info on Yayoi...
+[Kojiroh] ...All the way down to her measurements!
+[Kojiroh] What the hell is she doing at the\office...
+[Kojiroh] Hey, that ain't her waist size... She's\slimmer than that. Around 56 cm.
+[Kojiroh] Then again, my data was 3 months old. She\might have gained some weight.
+[Kojiroh] But no one updates that data...
+[Kojiroh] And this ain't the info I'm looking for.
+[Kojiroh] How about data category 1...
+[Kojiroh] Kaori Iida, Yoshiko Arai, Emi\Tsuchihashi, Kanako Ito, Yukari Ishii... Who are\these babes?
+[Kojiroh] Hey, here are their phone numbers and\addresses... And their measurements!
+[Kojiroh] Hey, here's some data on Keiko, the new\secretary... I'll take notes... I may be able to\get into her pants.
+[Kojiroh] ...
+[Kojiroh] And this ain't the info I'm looking for.
+　Leave terminal
+[Kojiroh] I didn't learn anything crucial, but I\had fun...
+[Kojiroh] I'm not denying they have valuable info.\We just don't match, that's all.
+[Kojiroh] And that's why I'm in this office alone.
+[Kojiroh] ...
+[Kojiroh] Okay. Time to put things to practical\use.
+[Kojiroh] It's been a while since I've used this\thing... Let's stay on a bit longer.
+　Save
+　Load
+[Kojiroh] Oh yeah.
+[Kojiroh] I'll think things over while looking at\Nikaido's data. It may come in handy.
+　Look/Investigate
+　Move
+　Equipment
+　Use
+　Save/Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] It's a strange design...
+001
+s10
+[Kojiroh] It's the photograph Kou gave me.
+[Kojiroh] I think it's a strange design, but I'm no\art critic.
+[Kojiroh] That's a matchstick on the right. Not\sperm.
+001
+s07
+[Kojiroh] It's my Customized Glock 22.
+[Kojiroh] This is an illegal firearm, but I'll keep\it a secret.
+001
+s07
+[Kojiroh] My Customized Glock 22... This gun is my\main passion in life right now.
+[Kojiroh] It's got a fancy laser-sight in front of\the trigger... I can take anyone out... At any\distance.
+[Kojiroh] It's a crazy world out there... But a\man's got to protect himself in this business.
+[Kojiroh] I originally got this thing to intimidate\people. But it comes in handy when I need to blast\someone.
+[Kojiroh] When I shoot, I aim for the legs.
+001
+[Kojiroh] My wallet's empty.
+[Kojiroh] Dammit... I need to get paid as soon as\possible.
+[Kojiroh] Cash?
+Snap.
+[Kojiroh] I'm just opening my coin purse.
+[Kojiroh] I count the dough...
+[Kojiroh] ...
+[Kojiroh] Man, is it cold!
+[Kojiroh] I can't go wrong with this stuff!
+Gulp...
+[Kojiroh] Oh yeah! Nice color! Perfect shine! Great\angle! Ohhh...
+[Kojiroh] Yeah, baby!
+[Kojiroh] ...
+[Kojiroh] Enough for now.
+　Save
+　Load
+　Terminal
+[Kojiroh] Oh yeah, I only finished inputting his\data.
+[Kojiroh] Information is the key to success... I'll\take advantage of this stuff.
+0290
+[Kojiroh] The light isn't blinking... Looks like I\was the last one to touch it.
+[Kojiroh] First I'll flip on the switch...
+The screen fades into brightness.
+[Kojiroh] Good. It's finished booting up... I can\work on the terminal.
+　Surroundings
+　Lamp
+　Table
+　Work desk
+[Kojiroh] This place is dark and messy, but it's a\formal office.
+[Kojiroh] I know what I'm talking about... I'm the\owner.
+[Kojiroh] This is my private detective office...
+[Kojiroh] I renovated this warehouse myself... The\location could be better. It's just a port.
+[Kojiroh] The good news is, rent is dirt cheap...\The bad news is, it's hard to find clients here.
+[Kojiroh] Ha, ha... How do you like that?
+[Kojiroh] The lights are a bit dim. I'll take care\of it someday...
+[Kojiroh] ...If I ever get the cash.
+[Kojiroh] The lights are dim...
+[Kojiroh] These lights came with this place when I\got it...
+[Kojiroh] Pretty soon it'll be time for a change.
+[Kojiroh] But I can't afford it now. Oh, well...
+[Kojiroh] Now I use it as a dinner table.
+[Kojiroh] It's pretty convenient, you know.
+[Kojiroh] It looks like a small table...
+[Kojiroh] But it's all-purpose. I can read the\paper, eat dinner, and type documents on this\thing.
+[Kojiroh] I can even stack a mountain of magazines\on it.
+[Kojiroh] ...
+[Kojiroh] Geez... I'm getting carried away.
+[Kojiroh] Right now, my computer is on the table.\It's packed with information.
+[Kojiroh] I organize all my info on that computer.
+[Kojiroh] The terminal's on the desk, set up in a\real mess... This thing can do just about anything.
+[Kojiroh] My equipment is all set up to send and\receive data.
+[Kojiroh] I can access the internet without even\going through a provider.
+[Kojiroh] Information is the most important thing\in the world, you see.
+　Go outside
+[Kojiroh] Huh? What about checking out Nikaido's\data?
+[Kojiroh] Fine, whatever you say... I'll take a\walk.
+a002
+[Kojiroh] I did everything I could, but if you\insist...
+[Kojiroh] But where the hell am I supposed to start\looking for that painting?
+　Look/Investigate
+　Move
+　Equipment
+　Make a phone call
+　Save/Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] It's a painting of a bizarre pattern.
+001
+s10
+[Kojiroh] This is the picture Kou gave me.
+[Kojiroh] I think it's a strange design, but I'm no\art critic.
+[Kojiroh] That's a matchstick on the right. Not\sperm.
+001
+s07
+[Kojiroh] It's my Customized Glock 22.
+[Kojiroh] This is an illegal firearm, but I'll keep\it a secret.
+001
+s07
+[Kojiroh] My Customized Glock 22... This gun is my\main passion in life right now.
+[Kojiroh] It's got a fancy laser-sight in front of\the trigger... I can take anyone out... At any\distance.
+[Kojiroh] It's a crazy world out there... But a\man's got to protect himself in this business.
+[Kojiroh] I originally got this thing to intimidate\people. But it comes in handy when I need to blast\someone.
+[Kojiroh] When I shoot, I aim for the legs.
+001
+[Kojiroh] My wallet's empty.
+[Kojiroh] Dammit... I need to get paid as soon as\possible.
+[Kojiroh] Cash?
+Snap.
+[Kojiroh] I'm just opening my coin purse.
+[Kojiroh] I count the dough...
+[Kojiroh] ...
+[Kojiroh] I'm cold...
+[Kojiroh] I can't go wrong with this stuff!
+Gulp...
+[Kojiroh] Oh yeah! Nice color! Perfect shine! Great\angle! Ohhh...
+[Kojiroh] Yeah, baby!
+[Kojiroh] ...
+[Kojiroh] Enough for now.
+　Save
+　Load
+　Glen
+　Katsuragi Offices
+　Kou
+[Kojiroh] At the earliest, it would be tonight.
+[Kojiroh] Basically, there's no reason to call\anyone.
+[Kojiroh] You want me to call Glen?
+[Kojiroh] Okay, I'm dialing...
+I'm an excellent dialer.
+Okay, it's ringing...
+Click.
+[Kojiroh] It's me, Kojiroh. Hurry up and check the\voice print.
+...
+[Glen] It's clear... What's up?
+[Kojiroh] Nothing. I was just wondering if you\heard anything new.
+[Glen] I won't know anything until tonight at the\earliest, man.
+[Kojiroh] You sure?
+[Glen] I'm positive. Geez...
+[Kojiroh] Don't get so pissed... Listen, I'm\sending a fax of the photo over there right now.
+[Glen] Please send your fax after the beep.\Thanks...
+[Kojiroh] It's an answering machine... Shit.
+hBeeep.
+[Kojiroh] Ready? The picture is... Wait, maybe it's\upside-down.
+[Kojiroh] Okay, all set.
+uThe paper's going through.
+[Kojiroh] ...
+[Glen] Fax received. Thank you, and do call again.
+[Kojiroh] Yeah, yeah.
+Click.
+[Kojiroh] Whew...
+[Kojiroh] I'm not like a woman to wait...
+[Kojiroh] I don't want to be killed by Yayoi. She's\a ball-buster.
+[Kojiroh] Okay... I'll make one more call.
+I'm pressing the buttons.
+It's ringing...
+[Woman's voice] Hello, Katsuragi Private Detective\Offices.
+[Kojiroh] Keiko... Hey babe, how ya doin'?
+[Woman's voice] Keiko? This is the boss, Yayoi\Katsuragi.
+Click.
+[Kojiroh] Whew... That was a close one.
+[Kojiroh] She'd kill me if she knew it was me.
+[Kojiroh] Okay, I'll call Katsuragi Private\detective offices.
+[Kojiroh] Here goes...
+I'm dialing...
+It's ringing...
+[Woman's voice] Hello, Katsuragi Private Detective\Offices.
+[Kojiroh] (Oh, it must be Keiko, the rookie.)
+[Kojiroh] Hey babe, I was wonderin' if...
+[Woman's voice] I'm not your babe, freak!
+Click!
+[Kojiroh] Oh, man...
+[Kojiroh] I think my ears are ruined...
+[Kojiroh] I don't see how calling Kou would do any\good.
+[Kojiroh] Okay... But I don't know if he's there.
+[Kojiroh] Hmmm... His number should be written on\the fax...
+[Kojiroh] Here goes...
+I'm dialing...
+It's ringing...
+[Kou] Yeah?
+[Kojiroh] (Guess he's there after all...)
+[Kojiroh] Uhh... I'm just...
+[Kou] Oh! I've been waiting for you call, Mr. De\Niro!
+[Kojiroh] It's Kojiroh!
+[Kou] I see... Are you calling because you've found\the painting?
+[Kojiroh] Well, no. Actually, I'm not.
+[Kou] Oh... In that case, what may I help you with?
+[Kojiroh] Nothing. I just called to tell you that I\haven't found it yet.
+[Kou] ...Excuse me?
+[Kojiroh] That's all... Bye now!
+Click.
+[Kojiroh] ...
+[Kojiroh] I called him for no reason...
+　Surroundings
+　Lamp
+　Table
+　Work desk
+[Kojiroh] This place is dark and messy, but it's a\formal office.
+[Kojiroh] I know what I'm talking about... I'm the\owner.
+[Kojiroh] This is my private detective office...
+[Kojiroh] I renovated this warehouse myself... The\location could be better. It's just a port.
+[Kojiroh] The good news is, rent is dirt cheap...\The bad news is, it's hard to find clients here.
+[Kojiroh] Ha, ha... How do you like that?
+[Kojiroh] The lights are a bit dim. I'll take care\of it someday...
+[Kojiroh] ...If I ever get the cash.
+[Kojiroh] The lights are dim...
+[Kojiroh] These lights came with this place when I\got it...
+[Kojiroh] Pretty soon it'll be time for a change.
+[Kojiroh] But I can't afford it now. Oh, well...
+[Kojiroh] Now I use it as a dinner table.
+[Kojiroh] It's pretty convenient, you know.
+[Kojiroh] It looks like a small table...
+[Kojiroh] But it's all-purpose. I can read the\paper, eat dinner, and type documents on this\thing.
+[Kojiroh] I can even stack a mountain of magazines\on it.
+[Kojiroh] ...
+[Kojiroh] Geez... I'm getting carried away.
+[Kojiroh] Right now, my computer is on the table.\It's packed with information.
+[Kojiroh] I organize all my info on that computer.
+[Kojiroh] The terminal's on the desk, set up in a\real mess... This thing can do just about anything.
+[Kojiroh] My equipment is all set up to send and\receive data.
+[Kojiroh] I can access the internet without even\going through a provider.
+[Kojiroh] Information is the most important thing\in the world, you see.
+　Go outside
+[Kojiroh] Screwing around in here won't get me\anywhere.
+[Kojiroh] Time to get some fresh air outside!
+a002
+[Kojiroh] A missing painting... Everything is so\vague.
+[Kojiroh] But where the hell am I supposed to start\looking?
+　Look/Investigate
+　Move
+　Think
+　Use
+　Make a phone call
+　Save/Load
+　Save
+　Load
+　Glen
+　Katsuragi Offices
+　Kou
+[Kojiroh] I already called Glen... Weren't you\paying attention?
+[Kojiroh] I gotta move fast. Otherwise I'll never\get there on time.
+[Kojiroh] Yeah, I'll call Glen.
+[Kojiroh] Maybe I'll get some new information from\my secret contact...
+[Kojiroh] Here goes...
+I'm dialing...
+It's ringing...
+Someone picks up...
+[Glen] ...
+[Kojiroh] ...
+[Glen] ...
+[Kojiroh] Hey, it's me.
+[Glen] Who the hell are you...
+[Kojiroh] I just told you. It's me.
+[Glen] ...
+[Kojiroh] Aren't you listening?
+[Glen] Who is this.
+[Kojiroh] ME, dammit! The one who got you out of\prison!
+[Glen] Oh, Kojiroh... It took a while to check the\voiceprint.
+[Kojiroh] Try to remember my voice, okay?
+[Glen] How could I ever forget your voice, toots? I\just thought someone might have been using a copy.
+[Kojiroh] And that's why you checked my voiceprint.
+[Glen] Correct.
+[Kojiroh] But what would anyone do with a recording\of my voice?
+[Glen] They could put a　Speaker next to the phone,\imitating your voice. With a little sampling, they\could completely reproduce your natural voice.
+[Kojiroh] You know your technology, Glen.
+[Glen] That's what I'm paid to do... What was it\you wanted?
+[Kojiroh] I just want to ask you something...
+[Glen] Sorry toots... Not over the phone.
+[Kojiroh] Why not?
+[Glen] Your case shouldn't be discussed over the\phone. It could be bugged.
+[Kojiroh] Oh, really?
+[Glen] Yeah, toots...
+[Kojiroh] Will you please stop calling me\"toots"?!?
+[Glen] Whatever you say, Kojiroh...
+[Kojiroh] So, where should I go?
+[Glen] Meet me at the cocktail lounge...
+[Kojiroh] In the hotel?
+[Glen] Yeah.
+[Kojiroh] Choose a time.
+[Glen] Meet me in the cocktail lounge, at two\o'clock.
+[Kojiroh] Two o'clock? I'll have to hurry.
+[Glen] I'm changing my schedule for you as well...
+[Kojiroh] Fine. I'll be there.
+[Glen] See ya then, toots...
+[Kojiroh] Shut up with the "toots" stuff.
+[Glen] Your thing... It's all done.
+[Kojiroh] Good. I'll get it from you.
+[Glen] Be here at two.
+Click.
+[Kojiroh] Hmm...
+[Kojiroh] I better get moving.
+[Kojiroh] The cocktail lounge is below the lobby of\the Princess Hotel.
+[Kojiroh] I can see the Princess Hotel from my\office.
+[Kojiroh] I don't want to be killed by Yayoi. She's\a ball-buster.
+[Kojiroh] Okay... I'll make one more call.
+I'm dialing.
+It's ringing.
+Someone picks up...
+[Woman's voice] Hello, Katsuragi Private Detective\Offices.
+[Kojiroh] Hey Keiko, how about you and I take a\walk on the---
+[Woman's voice] Keiko?! This is the boss, Yayoi\Katsuragi...
+Click.
+[Kojiroh] Oh, man! That was a close one...
+[Kojiroh] She'd kill me if she knew it was me.
+[Kojiroh] You want me to call Katsuragi Private\Detective Offices?
+[Kojiroh] Here goes...
+I'm dialing...
+It's ringing...
+Someone picks up...
+[Woman's voice] Hello, Katsuragi Private Detective\Offices.
+[Kojiroh] (Oh! It's Keiko, the rookie!)
+[Kojiroh] Hey, sweetie...
+[Woman's voice] I'll kill you, if you perverts call\one more time!
+Click!
+[Kojiroh] Oh boy...
+[Kojiroh] I think I'm deaf...
+[Kojiroh] He wasn't there when I called a second\ago...
+[Kojiroh] Kou, huh...? Well, his number should be\written on the fax...
+[Kojiroh] I'm dialing...
+I wonder if he's home...
+It's ringing...
+Still no answer.
+[Kojiroh] I don't think he's in...
+Click.
+　Missing painting
+　Kou
+　Katsuragi Offices
+　Akane
+[Kojiroh] Maybe Glen knows what's going on.
+[Kojiroh] I'll call him right away.
+[Kojiroh] I wonder if his house has a burglar\alarm...
+[Kojiroh] Such big houses usually have those\systems installed.
+[Kojiroh] But still... The painting seems to have\been ripped off.
+[Kojiroh] But a pro would consider an underground\passage as a possibility.
+[Kojiroh] My contacts would definitely hear about\any of that critical information.
+[Kojiroh] I'll give Glen a call.
+[Kojiroh] He's my main source of info. He has the\best contacts.
+[Kojiroh] Anything's a possibility. I've got to\establish a firm groundwork.
+[Kojiroh] Time is of the essence. I'll call Glen\now.
+[Kojiroh] It's my job to find that painting...
+[Kojiroh] And it's not good being this clueless.
+[Kojiroh] Who would steal such a small painting?
+[Kojiroh] I think the painting's for a memorial\service... It's actually a picture, I guess.
+I shuffle around for the painting.
+[Kojiroh] Here it is.
+s10
+[Kojiroh] This is what all the fuss is about.
+[Kojiroh] I can't believe anyone could paint\something the size of a matchstick.
+[Kojiroh] He said it was Islamic...
+[Kojiroh] Oh yeah! I was given a document...
+I look for the paper.
+[Kojiroh] Well, well... The birthdate is unknown...\Sir Lastma Gurrita Lachal...
+[Kojiroh] What the hell kind of a name is that!?!\He paints very impressionistic backgrounds, heavily\based on the theme of the spirit's comfort.
+[Kojiroh] The spirit's comfort?
+[Kojiroh] ...
+[Kojiroh] Well at least the painting appears to\have some history to it...
+[Kojiroh] Basically, this useless data teaches me\nothing special.
+001
+[Kojiroh] And this character, Kou...
+[Kojiroh] He's not exactly suspicious, but there's\something weird about him.
+[Kojiroh] According to Akane, he's from China...
+[Kojiroh] He was rather polite, and was an\excellent host when I visited him.
+[Kojiroh] I feel bad for suspecting him of tax\evasion.
+[Kojiroh] An acquaintance wanted to borrow the\painting for a memorial service, and that's when he\noticed it was missing.
+[Kojiroh] There's a strong possibility it was\stolen.
+[Kojiroh] He may be telling the truth about the\third anniversary of his wife's death.
+[Kojiroh] Well, I'm glad he hired a detective\instead of the cops. It's understandable he'd want\to keep this a secret.
+[Kojiroh] Whatever happens, I won't lose to Yayoi's\people...
+[Kojiroh] ...I'd better get back to Nikaido's data.
+[Kojiroh] This guy's an idiot... He just let vital\information fall through his hands.
+[Kojiroh] Well, maybe he's not such an idiot if\he's getting laid. It's a crazy world out there...
+[Kojiroh] He's been preying on women ever since I\was at Katsuragi Private Detective Offices...
+[Kojiroh] He's probably still in love with Yayoi...
+[Kojiroh] ...
+[Kojiroh] Shit. Why the hell am I so frustrated?
+[Kojiroh] It's been over between us for a long\time...
+[Kojiroh] I wonder how far into the investigation\she's gotten.
+[Kojiroh] I can't help but wonder...
+[Kojiroh] I hate working on cases in competition\with other detective offices.
+[Kojiroh] I've heard of fast-food chains competing\with one another, but this is the first time I've\seen detective offices compete.
+[Kojiroh] And Katsuragi Private Detective Offices\are professionals.
+[Kojiroh] I only wish Yayoi wasn't so cold to me\today.
+[Kojiroh] Whether I solve this case or not, this is\gonna be tough...
+[Kojiroh] Akane likes sadism and masochism...
+[Kojiroh] I don't know what the hell that entails.
+[Kojiroh] She said she would give the case to\Katsuragi, if I didn't want it.
+[Kojiroh] She knew Katsuragi could do it, but she\gave the case to me.
+[Kojiroh] But then, there is that five thousand\dollars at stake.
+[Kojiroh] She oughtta come here again... I'll show\her some sadism and masochism of my own.
+[Kojiroh] What kind of punishment is that?
+[Kojiroh] Ah, who the hell cares.
+　Terminal
+0290
+[Kojiroh] There's no need to use it now.
+[Kojiroh] I'm just about to see Glen.
+001
+[Kojiroh] Okay, everything here is all set.
+[Kojiroh] I'll take this electronic organizer and\return it to Nikaido.
+0290
+[Kojiroh] Good... The data has been forwarded.
+[Kojiroh] I'll just disconnect this cable, and...
+Click.
+[Kojiroh] This should do it.
+001
+[Kojiroh] I've got the electronic organizer. I'll\give it back to Nikaido.
+[Kojiroh] You want to use the terminal again?
+[Kojiroh] I don't think it's done processing yet.
+0290
+[Kojiroh] ...
+[Kojiroh] It's not finished yet.
+001
+[Kojiroh] Why don't we think a little longer?
+[Kojiroh] Oh yeah... I swiped some interesting\stuff from Nikaido...
+[Kojiroh] I'll enter his data into the terminal.
+0290
+[Kojiroh] First I have to turn on the switch.
+The terminal spatters out sounds as it comes to\life.
+[Kojiroh] ...
+[Kojiroh] This damn thing takes forever to boot up.
+Now it's beeping.
+[Kojiroh] Now I'll just connect the electronic\organizer to this cable...
+[Kojiroh] Then I'll connect the terminal interface\with the forwarding address.
+[Kojiroh] And now it's activated!
+The terminal continues spattering about.
+[Kojiroh] Transmitting speed, 300BPS... This is\some slow shit.
+[Kojiroh] Maybe Nikaido's organizer is to blame for\the slow speed.
+[Kojiroh] This may take some time.
+[Kojiroh] I'll do some more thinking over there...
+001
+　Surroundings
+　Lamp
+　Table
+　Work desk
+[Kojiroh] This place is dark and messy, but it's a\formal office.
+[Kojiroh] I know what I'm talking about... I'm the\owner.
+[Kojiroh] This is my private detective office...
+[Kojiroh] I renovated this warehouse myself... The\location could be better. It's just a port.
+[Kojiroh] The good news is, rent is dirt cheap...\The bad news is, it's hard to find clients here.
+[Kojiroh] Ha, ha... How do you like that?
+[Kojiroh] The lights are a bit dim. I'll take care\of it someday...
+[Kojiroh] ...If I ever get the cash.
+[Kojiroh] The lights are dim...
+[Kojiroh] These lights came with this place when I\got it...
+[Kojiroh] Pretty soon it'll be time for a change.
+[Kojiroh] But I can't afford it now. Oh, well...
+[Kojiroh] Now I use it as a dinner table.
+[Kojiroh] It's pretty convenient, you know.
+[Kojiroh] It looks like a small table...
+[Kojiroh] But it's all-purpose. I can read the\paper, eat dinner, and type documents on this\thing.
+[Kojiroh] I can even stack a mountain of magazines\on it.
+[Kojiroh] ...
+[Kojiroh] Geez... I'm getting carried away.
+[Kojiroh] It's finished processing... I can return\this thing to it's owner.
+[Kojiroh] Jesus, this is slow... It's still being\entered.
+[Kojiroh] I have to hurry up and input my stuff\into this thing.
+[Kojiroh] Right now, my computer is on the table.\It's packed with information.
+[Kojiroh] I haven't been using it very much\lately...
+[Kojiroh] This device was custom made for me only.\If anyone else uses it, the little light flashes.
+[Kojiroh] Of course, they could use it all they\want if they stole it. Ha, ha...
+[Kojiroh] The light isn't blinking, of course...
+[Kojiroh] I don't know if this stuff is important,\but at least it's information.
+[Kojiroh] I'll enter that into the terminal.
+[Kojiroh] Is it about what's in the middle of the\screen in the second floor?
+[Kojiroh] What the hell's a screen? I care about\the details, you know.
+[Kojiroh] The terminal's on the desk, set up in a\real mess... This thing can do just about anything.
+[Kojiroh] My equipment is all set up to send and\receive data.
+[Kojiroh] I can access the internet without even\going through a provider.
+[Kojiroh] Information is the most important thing\in the world, you see.
+　Go outside
+[Kojiroh] Okay, let's take a walk.
+a002
+[Kojiroh] I'll take Nikaido's electric pocket\organizer with me.
+[Kojiroh] I'll return it to him the next time I see\him.
+[Kojiroh] Oh yeah, I almost forgot about my meeting\with Glen.
+[Kojiroh] It's off to the cocktail lounge I go.
+[Kojiroh] Hey, wasn't I just entering the data from\the electronic organizer?
+[Kojiroh] It should be finished forwarding.
+[Kojiroh] I'd like to think things over just a bit\more...
+[Kojiroh] Uhh, I'd like to think things over just a\bit more...
+[Kojiroh] Why don't I go outside a little later?
+[Kojiroh] This is my private detective office...
+[Kojiroh] Let's go to Kou's house ASAP.
+　Look/Investigate
+　Move
+　Save/Load
+　Save
+　Load
+　Surroundings
+　Lamp
+　Table
+　Work desk
+[Kojiroh] This place is dark and messy, but it's a\formal office.
+[Kojiroh] I know what I'm talking about... I'm the\owner.
+[Kojiroh] This is my private detective office...
+[Kojiroh] I renovated this warehouse myself... The\location could be better. It's just a port.
+[Kojiroh] Rent hardly costs a dime, but clients are\a pretty penny... No one comes around here...
+[Kojiroh] Kou is my first client since I set up my\own private detective office.
+[Kojiroh] The lights are a bit dim. I'll take care\of it someday...
+[Kojiroh] ...If I ever get the cash.
+[Kojiroh] The lights are dim...
+[Kojiroh] These lights came with this place when I\got it...
+[Kojiroh] Pretty soon it'll be time for a change.
+[Kojiroh] But I can't afford it now. Oh, well...
+[Kojiroh] Now I use it as a dinner table.
+[Kojiroh] It's pretty convenient, you know.
+[Kojiroh] It looks like a small table...
+[Kojiroh] But it's all-purpose. I can read the\paper, eat dinner, and type documents on this\thing.
+[Kojiroh] I can even stack a mountain of magazines\on it.
+[Kojiroh] ...
+[Kojiroh] Geez... I'm getting carried away.
+[Kojiroh] Right now, my computer is on the table.\It's packed with information.
+[Kojiroh] I haven't been using it very much\lately...
+[Kojiroh] Somebody please give me a job.
+[Kojiroh] Oh, it's in the middle of the screen on\the second floor.
+[Kojiroh] What the hell's a screen? I care about\the details, you know.
+[Kojiroh] The terminal's on the desk, set up in a\real mess... This thing can do just about anything.
+[Kojiroh] My equipment is all set up to send and\receive data.
+[Kojiroh] I can access the internet without even\going through a provider.
+[Kojiroh] Information is the most important thing\in the world, you see.
+　Go outside
+[Kojiroh] Oh yeah... I was going to Kou's house.
+[Kojiroh] It's been a long time since I worked on a\case. Let's rock and roll!
+a002

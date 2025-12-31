@@ -1,0 +1,1118 @@
+011
+011b
+eve_21
+[Kou] Mr. Amagi! Long time no see... Well, not\exactly...
+[Kojiroh] May I come in?
+[Kou] Please do. Make yourself at home. Don't lie\on the table, though...
+011
+011b
+eve_08
+[Kou] Did you forget something?
+[Kojiroh] (Why the hell did I come back here?)
+[Kou] Is there something I can do for you?
+[Kojiroh] No, not really. A little bird just told\me to come back.
+[Kou] You know, I'm counting on you, Mr. Amagi.
+[Kojiroh] It feels good to be needed. See ya.
+a010
+011
+011b
+eve_21
+[Kou] Have you found it!?... Where are you going?
+[Kojiroh] I didn't find it yet.
+[Kou] Please, sit down.
+[Kojiroh] (Christ... It's the same damn thing every\time I come...)
+011
+011b
+eve_06
+[Kou] So, you're back. What's on your mind?
+[Kojiroh] Oh, nothing. I just like sitting on your\couch...
+[Kou] I'm flattered.
+[Kojiroh] ...
+[Kou] ...
+[Kojiroh] ...
+[Kou] ...
+[Kojiroh] Well, I guess I'll be going now.
+[Kou] Thank you for your help in trying to find the\painting.
+a010
+011
+011b
+eve_06
+[Kou] How is the investigation going? Have you\found it?
+[Kojiroh] Not yet.
+[Kou] Any clues?
+[Kojiroh] Not yet.
+[Kou] Then what have you found?
+[Kojiroh] Nothing. Nothing at all.
+[Kou] I see...
+011
+011b
+eve_06
+[Kou] You again? You're a hard working man.
+[Kojiroh] (What the hell am I doing here?)
+[Kou] I can see that I'm in good hands with you.
+[Kojiroh] ...
+[Kou] I trust it is safe to assume you are getting\closer to finding my painting. Am I right?
+[Kojiroh] Don't make me laugh. See ya later.
+a010
+011
+011b
+eve_06
+[Kou] Thank you very much for coming.
+[Kojiroh] ...
+[Kojiroh] (Why did I come here...?)
+[Kou] Did you forget something?
+[Kojiroh] No. I was just following the smell of\pork...
+[Kou] I'm not sure I know what you mean...
+[Kojiroh] Me neither. I'll see you.
+[Kou] Yes. Goodbye then.
+a010
+011
+Kojiroh] This is a pretty impressive entryway...
+[Kojiroh] The hallway is huge, although it could\use a couple statues of naked ladies...
+[Kojiroh] There's a door open... I wonder if I'm\supposed to go in that room...
+[Kojiroh] ...Hello?
+eve_21
+[Kojiroh] ...
+[Kojiroh] Nice room...
+[Kojiroh] I thought it might be a little gaudier.
+[Kojiroh] But it's actually very pleasant. I feel\relaxed already.
+[Kojiroh] I'm not sure I agree with the choice of\wallpaper, though...
+[Man's voice] Sorry to keep you waiting.
+011b
+[Kojiroh] (So this guy's... Mr. Cock?)
+[Kojiroh] (He sure is fat!)
+[Kou] Thank you so much for coming.
+[Kojiroh] Fatass.
+[Kou] I beg your pardon.
+[Kojiroh] I said "fantastic." Your place is really\fantastic.
+[Kou] Oh, why thank you. In any event I apologize\for keeping you waiting... I was with another\guest.
+[Kojiroh] Don't sweat it. Let's cut the bullshit\and get down to business.
+[Kou] Right you are. Allow me to introduce\myself...
+[Kou] I am Kou, the owner of this house. It's a\pleasure to meet you.
+[Kojiroh] Nice to meet you too. I'm the president\of Amagi Detective Offices...
+[Man's voice] Amagi Detective Offices...!?
+[Kojiroh] Huh?
+[Kou] The exit is that way, sir...
+b06
+[Man's voice] I knew it!!
+[Kojiroh] You?!
+[Man] Son of a... Son of a...!
+[Kojiroh] Cat got your tongue?
+[Man] Kojiroh Amagi! You son of a bitch!
+[Kojiroh] How's it going, Nympho?
+[Man] My name is Nikaido!
+[Kojiroh] Just kidding, Nerdo.
+[Nikaido] ...
+[Kou] I see you gentlemen know each other...
+[Nikaido] Oh, we know each other all right. This\is...
+[Kojiroh] The world's handsomest, nicest guy!
+[Nikaido] You're the farthest thing there is from a\nice guy!
+[Kojiroh] No. That would be you.
+[Nikaido] ...
+　Look/Investigate
+　Move
+　Speak
+　Kou
+[Kojiroh] Sorry to bother you, but can I check this\room out again?
+[Kou] Of course you may. Unfortunately so many\people have been in and out of here that the room\is hardly in the exact condition it was...
+[Kojiroh] I'll take what I can get. Thanks for your\concern.
+[Kou] Should I get up?
+[Kojiroh] That's not necessary...
+[Kou] No, I think I'll wait in the other room.\Search to your heart's content.
+011
+[Kojiroh] ...
+[Kojiroh] You know you're very cooperative...
+[Kojiroh] Anyway, let's see what I can find.
+[Kojiroh] I want to confirm some things... And\hopefully find some new things, too.
+eve_38
+a011_2
+[Kou] What sort of things?
+[Kojiroh] Things about Sir so-and-so.
+[Kou] Excuse me?
+[Kojiroh] You know, the guy who painted your damn\painting.
+[Kou] Oh, you mean Sir Lachal.
+[Kojiroh] That's the guy.
+[Kou] Is there something in particular about him?
+[Kojiroh] I hear he's dead.
+[Kou] Indeed he is. I believe it was about a\hundred years ago.
+[Kojiroh] Do you know how he died?
+[Kou] ...
+[Kojiroh] He sliced his own neck.
+[Kou] You certainly know a lot about him.
+[Kojiroh] Incidentally, I'm also interested in the\legends surrounding that painting.
+[Kou] Ahh, you learned of those as well.
+[Kojiroh] Why didn't you give me that information\yourself?
+[Kou] I didn't think that would help you find the\painting.
+[Kojiroh] I'm the one who decides what's important\to know and what's not. Okay?
+i[Kou] I stand corrected. Forgive me.
+[Kojiroh] ...
+[Kou] What brings you here today?
+[Kojiroh] Returning to the scene of the crime. It's\the basis of my investigation.
+[Kou] I appreciate your favor.
+[Kojiroh] You weren't here this morning.
+[Kou] Yes, I went to school... Not for work, but to\meet with an acquaintance.
+[Kojiroh] What a coincidence. I was there myself\today doing research in the library.
+[Kou] What a shame we didn't see each other.
+[Kojiroh] I found out some very interesting things\there.
+[Kou] What sort of things?
+[Kojiroh] Well...
+　Surroundings
+　Kou
+　Stomach
+[Kojiroh] All alone in this big house...
+[Kojiroh] Must get pretty lonely sometimes...
+[Kojiroh] Your drawing room... No one else is here.
+[Kojiroh] Huh? Don't you have a family?
+[Kou] Indeed I do not. Since my wife passed on I've\been left completely alone.
+[Kojiroh] That's too bad...
+[Kojiroh] Kou, Kou, Kou... You're not really that\fat. You should go out and get laid sometime.
+[Kou] I have feelings, sir. Please try not to hurt\them.
+[Kojiroh] The master of this big, fat house...
+[Kojiroh] A big, fat guy in control of a big, fat\house. You must have a lot of power.
+[Kou] I'm just a dedicated but humble worker.
+[Kojiroh] I'll bet you'd last a long time if\suddenly all food disappeared from the planet...
+[Kojiroh] You've got a month's supply of ham\wrapped around your waist.
+[Kojiroh] You've got thick muscles... I bet you\could bench press my Aunt Aretha (Or at least an\ant's urethra...).
+[Kou] I've heard it all before, Mr. Amagi. That's\just a friendly way of calling me Chubby Peckers,\the rolly-polly fatass.
+[Kojiroh] Hey, all I said was you've got big\muscles, don't get all defensive.
+[Kou] ...
+　Go outside
+[Kojiroh] I should talk to Kou a little more\first...
+　Look/Investigate
+　Move
+　Speak
+　Kou
+[Kou] Spare no effort in your investigation, Mr.\Amagi. I'm more than happy to reimburse all\expenses.
+[Kojiroh] You'd better be.
+[Kou] I'm counting on you, Mr. Amagi.
+[Kojiroh] ...
+[Kojiroh] That reminds me. I hear you're the\president of the international school.
+[Kou] Who told you that?
+[Kojiroh] No one in particular. I just came from\there...
+[Kou] One of my female students told you?
+[Kojiroh] You could say that, yes.
+[Kou] They told you about the vacation?
+[Kojiroh] Yes.
+[Kou] Many people mistakenly assume that being a\Principal is an easy job. It's actually quite\exhausting.
+[Kojiroh] ...
+[Kou] Consequently, I have saved up my vacation\hours and am taking the entire week off.
+[Kojiroh] I didn't realize Principals made so much\money.
+[Kou] Interesting observation, but I don't like\thinking about money very much.
+[Kojiroh] (This guy's full of more hot air than a\blow-dryer.)
+[Kojiroh] Would you rather I not go to your work\place?
+[Kou] At the soonest I'll be back to work in three\days. It would be wonderful if you could find the\painting before that.
+[Kojiroh] So what you're saying is that you're not\going back to work until I find the painting?
+[Kou] I suppose it ends up being that way, yes.
+[Kojiroh] I don't know what Nikaido's telling you,\but I'm well on my way to solving this thing.
+[Kou] Is that so? What can you tell me now?
+[Kojiroh] ...
+[Kou] I assure you I won't divulge any information\to Mr. Nikaido.
+[Kojiroh] I'm not worried about that... It's\just... Aw, what the hell.
+[Kou] I'm all ears.
+[Kojiroh] This isn't the work of thieves.
+[Kou] That's the exact opposite of what Nikaido\says.
+[Kojiroh] Oh yeah?
+[Kou] If thieves aren't behind this, who could it\be?
+[Kojiroh] Good question. It could have just been\lost. But definitely not stolen.
+[Kou] You sound quite sure of yourself.
+[Kojiroh] My hunches are always right.
+[Kou] This is only a hunch?
+[Kojiroh] Yes. But what I call "a hunch" is a\combination of the deductive powers and experience\of the best detective this side of the Nile. It's\not a guess, if you catch my drift.
+[Kou] I see...
+[Kojiroh] Anyway, it may not be much right now, but\at least it's a hunch.
+[Kojiroh] ...Of course, I have no idea where it is\yet.
+[Kou] Is that so?...
+[Kojiroh] Unfortunately.
+[Kou] Mr. Nikaido, on the other hand, just informed\me that he has a good idea where to find it\already...
+[Kojiroh] I could give a rat's ass what Nikaido\said. All I know is that I haven't found it yet.
+[Kou] In other words, Mr. Nikaido is further along\in his investigation?
+[Kojiroh] (Quit rubbing it in, you fat son of a\bitch!...)
+[Kojiroh] I guess you could put it that way. But\after all, this business is about delivering\results.
+[Kou] Quite so, Mr. Amagi, and results are what I\desire.
+[Kojiroh] ...
+[Kojiroh] (Is it just me, or is fatass being a\little hateful?...)
+　Surroundings
+　Kou
+　Stomach
+[Kojiroh] All alone in this big house...
+[Kojiroh] Must get pretty lonely sometimes...
+[Kojiroh] Your drawing room... No one else is here.
+[Kojiroh] Huh? Don't you have a family?
+[Kou] Indeed I do not. Since my wife passed on I've\been left completely alone.
+[Kojiroh] That's too bad...
+[Kojiroh] Kou, Kou, Kou... You're not really that\fat. You should go out and get laid sometime.
+[Kou] I have feelings, sir. Please don't hurt them.
+[Kojiroh] The master of this big, fat house...
+[Kojiroh] A big, fat guy in control of a big, fat\house. You must have a lot of power.
+[Kou] I'm just a dedicated but humble worker.
+[Kojiroh] I'll bet you'd last a long time if\suddenly all food disappeared from the planet...
+[Kojiroh] You've got a month's supply of ham\wrapped around your waist.
+[Kojiroh] I mean... You've got thick muscles...\I'll bet you could bench press my Aunt Aretha (Or\at least an ant's urethra...).
+[Kou] I've heard it all before, Mr. Amagi. That's\just a friendly way of calling me Chubby Peckers,\the rolly-polly fatass.
+[Kojiroh] Hey, all I said was you've got big\muscles, so don't get all defensive.
+[Kou] ...
+　Go outside
+[Kojiroh] Well, I should probably get going. It's\dark already.
+[Kou] Yes, you're quite right. And, Mr. Amagi,\please find that painting. I'm in your hands.
+[Kojiroh] I'll do everything I can to help you.
+[Kou] That's all I could ever ask for...
+[Kojiroh] Okay, then. See you later.
+[Kou] Oh, and one more thing, Mr. Amagi.
+[Kojiroh] What is it?
+[Kou] Tonight I have to meet with some people from\work.
+[Kojiroh] Why are you telling me this?
+[Kou] I shall be leaving presently, so if you have\any more business we shall have to take care of it\tomorrow.
+[Kojiroh] Fine with me. I'll be back tomorrow with\bells on.
+[Kou] Wonderful.
+a010
+[Kojiroh] I should talk with Kou a little more...
+　Look/Investigate
+　Move
+　Speak
+　孔
+[Kou] As long as I'm here, please feel free to drop\by any time.
+[Kojiroh] That helps a lot. Thanks.
+[Kou] What brings you here this time?
+[Kojiroh] Nothing.
+[Kou] Pardon me?
+[Kojiroh] Nothing.
+[Kou] Nothing...
+[Kojiroh] I just sort of wanted to come by.
+[Kou] ...
+[Kojiroh] ...
+[Kou] ...
+[Kojiroh] Sorry.
+[Kojiroh] Oh, now I remember.
+[Kou] What could it be?
+[Kojiroh] Hey, crybaby, whether or not you give me\that sad look I've gotta be honest with you up\front. I still haven't found it.
+[Kou] I'm not a crybaby...
+[Kojiroh] I just had something I wanted to ask you.
+[Kou] I asked a moment ago, and I will ask again.\What could it be?...
+[Kojiroh] I forgot to ask you this last time, but\is this place wired with an alarm system?
+[Kou] Yes it is. Why do you ask?
+[Kojiroh] You know. I'm just trying to see this\thing from every possible angle.
+[Kou] A true professional.
+[Kojiroh] Are there any signs that the alarm system\went off?
+[Kou] No signs at all... The thieves must have been\professionals as well.
+[Kojiroh] (...)
+[Kojiroh] (I can't make heads or tails of this\hot-dog.)
+[Kou] I'm relieved to have a man who takes his work\as seriously as you do on my team.
+[Kojiroh] ...
+[Kou] I trust, then, that it is safe to assume you\are close to finding the painting?
+[Kojiroh] Don't make me laugh, butterball.
+[Kou] Then what brings you here today? I'm sure it\wasn't simply to ask about my alarm system, was it?
+[Kojiroh] Ummm... (Actually it was, smart-ass...)
+　Surroundings
+　Kou
+　Chandelier
+[Kojiroh] I'd like to swing from that chandelier.
+[Kou] Please refrain.
+[Kojiroh] Whenever I see something shaking in front\of me I just want to grab on to it and dangle.
+[Kojiroh] How 'bout it, man? Mind if I dangle?
+[Kou] I mind a great deal.
+[Kojiroh] No matter how much I look at it, this\place doesn't change. It's Cock's drawing room.\Period.
+[Kojiroh] He probably doesn't want me to take any\of his nice shit home.
+[Kojiroh] Kou's drawing room...
+[Kojiroh] This is where that damn painting\disappeared from...
+[Kojiroh] But there's still a lot of expensive\looking shit in here.
+[Kojiroh] He probably wouldn't notice if I took\some home...
+[Kou] Please stop that.
+[Kojiroh] You heard that?
+[Kojiroh] Kou, Kou, Kou... You're not really that\fat. You should go get laid sometime.
+[Kou] I have feelings, sir. Try not to be such an\idiot.
+[Kojiroh] The master of this big, fat house...
+[Kojiroh] A big, fat guy in control of a big, fat\house. You must have a lot of power.
+[Kou] I'm just a dedicated but humble worker.
+　Go outside
+[Kojiroh] There's no point in my sticking around\here...
+[Kou] Good luck, Mr. Amagi. You are my only hope.
+[Kojiroh] (Do you really mean that?...)
+a010
+[Kojiroh] I want to talk to fatass a little more.
+[Kou] You have a very direct way of speaking...
+　Look/Investigate
+　Move
+　Speak
+　Kou
+[Kojiroh] There's nothing left to talk with this\guy about.
+[Kojiroh] That's enough for today.
+[Kou] But still...
+[Kojiroh] What?
+[Kou] You're rather impressive, Mr. Amagi.
+[Kojiroh] Hold the compliments until after I find\the painting.
+[Kou] Sorry. By the way, I couldn't help but notice\the fact that Ms. Yayoi and Mr. Nikaido seem to\harbor a serious grudge against you.
+[Kojiroh] Why don't you tell me something I don't\know?
+[Kou] You didn't let me finish. I was going to say\that, even so, they hold your skill in very high\regard.
+[Kojiroh] Now you're exaggerating.
+[Kou] I believe someday you will all reconcile your\differences.
+[Kojiroh] Who knows. Whatever happens, you can bet\that I'll be the one to find the painting.
+[Kou] I hope you do, sir.
+[Kojiroh] There is one thing I wanted to ask you.
+[Kou] Go ahead.
+[Kojiroh] The lady who brought me this case said\I'm just supposed to find the painting, not\actually bring it to you...
+[Kou] That is correct. No matter what happens, even\if you find it in the middle of the street under a\dog's hind quarters...\[Kou] ...I simply want you to tell me where it is.
+[Kojiroh] I suppose you wouldn't tell me why even\if I asked?
+[Kou] I'm very sorry. Please understand. I hope\that the fee for solving the case is sufficient to\pay for whatever inconvenience this causes you.
+[Kojiroh] If you say so. I guess that's all for\now.
+[Kou] Thank you so very much...
+[Kou] But that means...
+[Kojiroh] Exactly. It means that there shouldn't be\so many minor mistakes. Something's fishy.
+[Kou] I see...
+[Kojiroh] And another thing... This room doesn't\look like it was ransacked at all.
+[Kou] I feel I was very lucky.
+[Kojiroh] Mr. Kou, you go ahead and feel however\you want to. I'm saying that something's not right\when a thief leaves so much behind.
+[Kou] I suppose you have a point.
+[Kojiroh] Why would they ignore all of these\priceless paintings, vases, the chandelier and your\antique desk?
+[Kou] I have no idea.
+[Kojiroh] Not to mention the path of the\footprints...
+[Kou] Oh?
+[Kojiroh] They lead right to the door in a straight\line.
+[Kou] What's so strange about that?
+[Kojiroh] I don't know how valuable that missing\painting is... But I've never heard of a thief\taking one thing and heading straight for the door.
+[Kou] What have you concluded from all this, Mr.\Amagi?
+[Kojiroh] I'm not sure yet.
+[Kou] Oh?
+[Kojiroh] I've just added this to my already long\list of things that don't line up. I don't have the\evidence I need to make any conclusions yet.
+[Kou] I'm sorry to hear that...
+[Kojiroh] Hey, I've got three days, don't I? I just\need a little more time to think to solve it.
+[Kou] I only hope you're right...
+[Kou] If you had to surmise a guess at this point,\what would you say?
+[Kojiroh] Well, Nikaido disagrees with what I just\said. Right?
+[Kou] Correct.
+[Kojiroh] Well, I suppose Nikaido could be right,\but...
+[Kou] But?
+[Kojiroh] But there are too many problems with that\theory.
+[Kou] For example?
+[Kojiroh] For example... There's too many to count.\For example...
+[Kou] Yes?
+[Kojiroh] The dirt on the window frame. It\shouldn't be there.
+[Kou] Isn't that evidence that it was a burglar?
+[Kojiroh] No way. Why would he mess up something so\simple? He could have just taken off his shoes.
+[Kou] ...
+[Kojiroh] Besides, the lock on the window looks\completely untampered with.
+[Kou] What would that suggest?
+[Kojiroh] In other words...
+[Kou] Yes?
+[Kojiroh] A burglar would try to open the lock\using trial and error. Beating it with a board, or\wrapping wires around it.
+[Kou] Is that how they do it?
+[Kojiroh] Yes. But this lock doesn't show any signs\of such attempts.
+[Kou] How odd.
+[Kojiroh] Odd indeed. Even if it was a pro, they\might spend less time doing it, but still...
+[Kou] ...
+[Kojiroh] ...And there's another thing.
+[Kou] Yes?
+[Kojiroh] That window.
+[Kou] Window?
+[Kojiroh] Yeah, I was just checking it out... Look\at this.
+011e
+[Kojiroh] There's dirt on the window sill, right?
+[Kou] Yes.
+[Kojiroh] I was wondering if you could tell me why.
+[Kou] ...
+011
+011b
+[Kojiroh] You said you'd returned from your trip.
+[Kou] That's right.
+[Kojiroh] Since returning have you done any\cleaning or redecorating?
+[Kou] No. It's exactly as I found it upon my\return.
+[Kojiroh] I see. Then that pretty much settles it.
+[Kou] Settles what?
+[Kojiroh] It was probably a burglar. The evidence\all points to that, and I'm sure that's what the\police will decide, too.
+[Kou] ...
+[Kojiroh] What do you think of that?
+[Kou] Impressive, Mr. Amagi.
+[Kojiroh] Not really.
+[Kou] In order to be fair, I was keeping a little\information from you...
+[Kojiroh] ...
+[Kou] But I don't mind telling you now that\Katsuragi Detective Offices have come to the same\conclusion.
+[Kojiroh] Really?
+[Kou] Which would seem to point even further to the\truth of your conclusion...
+[Kojiroh] Not necessarily...
+[Kou] Oh?
+　Surroundings
+　Kou
+　Window
+[Kojiroh] No matter how hard I try to look at\what's around me, fatass is about the only thing I\can see.
+[Kou] Admittedly I cover a large area...
+[Kojiroh] The drawing room. It seemed pretty big\before Mr. Big walked into the room.
+[Kou] My apologies...
+[Kojiroh] It's Kou. I guess he left the other room\and came back here.
+[Kojiroh] I just wish he wouldn't surprise me like\that...
+[Kou] At your service.
+[Kojiroh] Suddenly you appeared on the sofa...\How'd you get there?
+[Kou] It was easy. I just jumped from over there.
+[Kojiroh] Yeah, like you can jump!
+[Kou] Just joking.
+[Kojiroh] ...
+[Kojiroh] The window... There was dirt on the\window...
+[Kojiroh] There's no need to investigate anything\now. I should talk with Kou.
+[Kojiroh] I'll talk to him about the dirt on the\window frame.
+[Kojiroh] I need to confirm it...
+　Go outside
+[Kojiroh] I guess I should be going now.
+[Kou] Thank you so much for coming by.
+[Kojiroh] I may drop in unannounced over the next\few days. Is that alright?
+[Kou] Of course. As long as I'm here I will do all\I can to help.
+[Kojiroh] Then I'll see you later.
+[Kou] Before you go let me give you a copy of the\painting. I got it out of an art book. Have you\heard of those?
+[Kojiroh] No. But thanks for the picture. Hasta la\vista, baby.
+a010
+[Kojiroh] Maybe I should talk with Kou a little\more.
+[Kojiroh] It's a little too soon to leave...
+[Kojiroh] How about talking with Kou a little more?
+　Look/Investigate
+　Move
+　Leave cupboard
+[Kojiroh] Nothing... I guess it could be worse,\though.
+[Kojiroh] The day's almost over. Yayoi and\Company's investigation is probably getting\someplace.
+[Kojiroh] But I wonder why it's empty...
+011
+[Kojiroh] As long as I'm looking, I might as well\check out the cupboard, too...
+　Upper left
+　Lower left
+　Upper middle
+　Lower middle
+　Upper right
+　Lower right
+[Kojiroh] The top-left?
+0005b
+[Kojiroh] Nothing's in there.
+0005
+[Kojiroh] Here's the top-left.
+0005b
+[Kojiroh] ...
+[Kojiroh] What the hell? Nothing's there...
+[Kojiroh] You can't say I didn't try.
+0005
+0005e
+[Kojiroh] Nothing at all...
+0005
+[Kojiroh] I'll open the lower left one.
+0005e
+[Kojiroh] Nothing at all...
+[Kojiroh] I guess I'll shut it back up.
+0005
+[Kojiroh] What's in the upper center one?
+0005c
+[Kojiroh] ...
+[Kojiroh] I'm closing it.
+0005
+[Kojiroh] The top middle...
+0005c
+[Kojiroh] Why would it be empty?
+[Kojiroh] I guess I'll shut it.
+0005
+[Kojiroh] There's a memo pad in the bottom center\cupboard.
+0005f
+0005h
+[Kojiroh] Although it doesn't look like anything's\written on it...
+[Kojiroh] I guess I'll put it back.
+0005
+[Kojiroh] The bottom center...
+0005f
+[Kojiroh] I doubt there's anything special about\this one...
+[Kojiroh] Huh? There's something in here...
+0005h
+eve_59
+[Kojiroh] A memo pad...
+eve_38
+I'll flip through the pages.
+[Kojiroh] Looks like it's totally blank...
+[Kojiroh] Oh well. I'll put it back.
+0005
+0005d
+[Kojiroh] ...
+0005
+[Kojiroh] The upper right drawer...
+0005d
+[Kojiroh] Nothing's inside.
+[Kojiroh] Another dead end.
+0005
+0005g
+[Kojiroh] Nothing's inside...
+0005
+[Kojiroh] The lower right drawer...
+0005g
+[Kojiroh] Bingo!
+[Kojiroh] This one's full of air! For Christ's\sake, this is frustrating.
+0005
+　Look/Investigate
+　Move
+　Think
+　About the painting
+　About Yayoi et al
+s10
+[Kojiroh] It's a pretty small painting...
+[Kojiroh] Of no real artistic value, but it seems\pretty damn important to Kou.
+[Kojiroh] I wish I knew what was going on...
+011
+s10
+[Kojiroh] This case bothers me...
+[Kojiroh] I still think that fatass probably just\started some tax evasion scheme in a flurry to\balance his books...
+[Kojiroh] On the other hand, what if all this\really is for the third anniversary of his wife's\death?
+[Kojiroh] I don't really know what goes on in the\minds of rich people.
+[Kojiroh] That Kou sure is slippery.
+[Kojiroh] He's fat as Texas, too...
+[Kojiroh] Whether it's tax evasion, or for the\memory of his wife, the important thing is that I\get my reward for finding it.
+[Kojiroh] It's probably a good idea for me to stop\wasting my time and look for the damn thing.
+011
+[Kojiroh] In any event, I've got to find it before\Yayoi and Nympho.
+[Kojiroh] But Yayoi's damn good...
+[Kojiroh] I'd better get my ass moving.
+[Kojiroh] It's a race against the clock. Forget\about the three days. I need to find it today or\tomorrow.
+[Kojiroh] I'll check every goddamn nook and\cranny... And I might just check out a few grannies\for fun...
+[Kojiroh] Yayoi said her investigation's going\well...
+[Kojiroh] Of course I know she was lying. She\always closes her eyes and sucks on her cigarette\when she lies.
+[Kojiroh] She's sweet like chocolate... That's her\secret charm...
+[Kojiroh] It sounds stranger to come up empty\handed after a full day of investigating.
+[Kojiroh] And Nikaido, while he ain't much of a\star, he ain't so stupid either. Yayoi knows he's\not that bad.
+[Kojiroh] So the two of them have come across some\clues, but they still don't have any hard evidence.
+[Kojiroh] Since I came after they did, I'm at an\overwhelming disadvantage.
+[Kojiroh] I wonder what line of investigation\they're following...
+　Surroundings
+　Picture
+　Cabinet
+　Desk
+　Paintings
+　Window
+[Kojiroh] I'll have another look.
+s10
+[Kojiroh] So this is the painting that's causing so\much fuss.
+[Kojiroh] It might be in this room...
+011
+[Kojiroh] I'll have a look at the picture.
+s10
+[Kojiroh] So this is the painting.
+[Kojiroh] It's my job to find this thing...
+[Kojiroh] The line on the right isn't a sperm, it's\a match-stick.
+[Kojiroh] Is it that obvious?
+011
+[Kojiroh] There's no use in looking vaguely around\the room.
+[Kojiroh] I need to pay attention to the details.
+[Kojiroh] Kou's in the next room. I'm alone now.
+[Kojiroh] At least fatass is out of my hair for\now.
+[Kojiroh] It's just me, myself, and I in here...
+[Kojiroh] There's nothing in the cabinet.
+[Kojiroh] Cabinets...
+0005
+[Kojiroh] I think this is where Kou was keeping\that picture.
+[Kojiroh] There's nothing more to look for in the\desk.
+[Kojiroh] It's an expensive looking antique...
+[Kojiroh] I can't believe this skinny chair can\support fatass' fat ass.
+[Kojiroh] It looks like it'd be crushed to\smithereens the moment he sits down.
+[Kojiroh] Why not check out what's on top of the\desk?
+[Kojiroh] On top of the desk there's a mountain of\books, a lamp, a pen holder, and a memo pad.
+[Kojiroh] Inside the desk... Although I'm sure\Yayoi's already searched it.
+I open the drawer.
+I ruffle through the papers.
+[Kojiroh] Nothing seems out of order.
+[Kojiroh] Nothing particularly strange here. Just\your average painting.
+[Kojiroh] I don't know who drew this stupid thing,\but it's a lousy painting.
+[Kojiroh] Nothing strange... No hidden safe behind\it.
+[Kojiroh] Just your average painting.
+[Kojiroh] ...
+[Kojiroh] But I don't understand art at all...
+[Kojiroh] What's so great about hanging this shit\on the wall?
+[Kojiroh] Come to think of it, Yayoi once told me\she wanted to leave me because I was an\"ignoramus," whatever that means.
+[Kojiroh] Baby, please come back...
+[Kojiroh] There's nothing special about this...
+011b
+[Kou] Find anything?
+[Kojiroh] Holy balls!
+[Kou] Have you collected your thoughts?
+[Kojiroh] I guess so.
+[Kou] Excellent.
+[Kojiroh] ...
+[Kojiroh] The dirt on the window sill and the\footprints leading straight to the door...
+[Kojiroh] No matter how you look at it, it's gotta\be...
+011e
+[Kojiroh] There's dirt on the window frame...
+[Kojiroh] This has gotta be...
+There's noise.
+[Kojiroh] That was the sound of my stomach\growling.
+[Kojiroh] ...
+[Kojiroh] If you look closely you can faintly see\footprints.
+[Kojiroh] Evil walks among us... There are tiny\fallen fibers, too...
+[Kojiroh] Leading in a straight line to that\door...
+[Kojiroh] Interesting...
+011
+[Kojiroh] The window is exactly behind me.
+[Kojiroh] I'll check it out...
+[Kojiroh] ...
+[Kojiroh] Nothing seems out of order...
+[Kojiroh] What's this?
+011e
+[Kojiroh] ...
+[Kojiroh] It's very faint, but there's some dirt on\the window sill...
+[Kojiroh] Outside the window are... plants. This\dirt must have come from outside.
+[Kojiroh] If I had to guess how this dirt got on\the window sill, I'd say...
+[Kojiroh] Kou must have been playing a drinking\game here... Or maybe...
+[Kojiroh] I got it! He was cleaning his shoes by\the window... No...
+[Kojiroh] I know. Someone must have come in with\their shoes on.
+[Kojiroh] Who that someone is... That's the\question.
+[Kojiroh] Interesting...
+011
+　Go outside
+[Kojiroh] I should stay here a little longer.
+[Kojiroh] It's too early to go home.
+[Kojiroh] I need to collect my thoughts...
+　Look/Investigate
+　Move
+　Speak
+　Kou
+[Kou] Can I get you to look at this?
+[Kojiroh] What is it?
+s10
+[Kou] This is the missing painting.
+[Kojiroh] This picture?
+[Kou] I made a color copy from an art book.
+[Kojiroh] It's pretty small...
+[Kou] The thing on the right is for size\comparison...
+[Kojiroh] I see... It's a sperm. God, that's a\small painting.
+[Kou] What?
+[Kojiroh] How impressive. This thing's microscopic.\I'm always amazed at how fast micro-technology is\advancing...
+[Kou] I don't want to disappoint you, Mr. Amagi,\but it's a matchstick.
+[Kojiroh] (What?!) I knew that! Of course... I was\just kidding.
+[Kou] You have a strange sense of humor.
+[Kojiroh] I love telling jokes about semen.\Hah-ha-ha!
+[Kou] ...
+[Kojiroh] ...
+[Kou] It is a fairly small painting... About 5 cm\by 10 cm.
+[Kojiroh] That makes 50 square centimeters.
+[Kou] Is something significant about that?
+[Kojiroh] No. I was just showing off.
+[Kou] I see.
+011
+011b
+[Kojiroh] Keep talking.
+[Kou] Uh, yes. Anyway, this is the painting I'd\like you to find...
+[Kojiroh] Wouldn't it be faster to just search this\room?
+[Kou] Of course it would, if it were still here.
+[Kojiroh] ...
+[Kojiroh] I know. I was just thinking that it would\be a shame if the thing was just hiding under one\of your million books...
+[Kou] It's hard to see in the picture, but there's\a metal plate attached to the painting.
+[Kojiroh] All right, but don't say I didn't try to\save you time. It's a pretty strange pattern.
+[Kou] This is Islamic art...
+[Kojiroh] Islamic art?
+[Kou] That is correct. Islamic art consists of\geometrical patterns and mosques. The man who\painted this was...
+[Kojiroh] Hey, Teach! Spare me the lesson in art\history. I'll worry about that later.
+[Kou] As you wish.
+[Kojiroh] So, Mr. Corn, where was the painting\before you and your friend or whoever went on\vacation?
+[Kou] My acquaintance tells me that it was in a\cabinet drawer.
+[Kojiroh] That thing in the back on the left...
+[Kou] That's correct.
+[Kojiroh] Interesting...
+[Kojiroh] ...
+[Kou] Is something the matter?
+[Kojiroh] Can I have a minute to think about this?
+[Kou] Of course, of course... I shall leave you\alone to mull things over.
+[Kojiroh] Thanks.
+011
+[Kojiroh] Well then...
+eve_38
+[Kojiroh] Do you have any enemies?
+[Kou] I don't think so.
+[Kojiroh] So you're telling me to search for this\thing?
+[Kou] Yes please... Where are you going?
+[Kojiroh] Sorry, but I'm gonna get the police to do\this.
+[Kou] Are you aware of the workings of the police\system? Even if they know it's a crime...
+[Kojiroh] But you can depend on them more than you\can a private eye like me.
+[Kou] And let me say one more thing.
+[Kojiroh] There's more?
+[Kou] I have a social image to protect. I cannot\have too much gossip circulating about me.
+[Kojiroh] That's a good point.
+[Kou] You're not completely sure you want to take\the case?
+[Kojiroh] You could say that.
+[Kou] In that case, let me speak frankly of my true\motives.
+[Kojiroh] (This should be interesting...)
+[Kou] It's up to you whether to believe me or not.\But I need a top-notch investigator to find this\painting.
+[Kojiroh] I thought you already got one of those.
+[Kou] Of course I'm not saying that the Katsuragi\offices aren't top-notch. They just don't seem to\be as top-notch as you are.
+[Kojiroh] (What the hell is this guy talking\about?)
+[Kou] I'm willing to pay well. I'll even raise the\price 10% if you succeed.
+[Kojiroh] ...
+[Kou] It seems to me like it would be a very good\case for you, Mr. Amagi.
+[Kojiroh] (I don't do this job for the money... Aw,\hell, who am I foolin'?)
+[Kou] You have some doubts. I just hope that the\fee will be enough to make you overlook them.
+[Kojiroh] All right. I'll do you the favor. But\you'll have to raise the fee 20%.
+[Kou] Agreed.
+[Kojiroh] I'll look, but I can't promise you I'll\find it, you know.
+[Kou] Thank you so very much.
+[Kojiroh] It's too early to thank me. I haven't\even started looking yet.
+[Kou] It may possibly have been a theft.
+[Kojiroh] Possibly?
+[Kou] Yes.
+[Kojiroh] You mean you're not sure if it was\stolen?
+[Kou] Just a few days ago, I was on vacation with\an acquaintance. I only just returned.
+[Kojiroh] Was anyone here while you were away?
+[Kou] Not that I know of.
+[Kojiroh] So it must have been a burglary.
+[Kou] The problem is that the painting in question\wasn't actually valuable.
+[Kojiroh] So it was a piece of crap?!
+[Kou] The value of all things depends upon who is\judging them, Mr. Amagi.
+[Kojiroh] So you're saying that it's important to\you. But everyone else thinks it's crap.
+[Kou] I couldn't have said it better myself.
+[Kojiroh] So this is a case of betrayal.
+[Kou] Betrayal?
+[Kojiroh] I hate to put it like this, Mr. Kou.\Perhaps somone who doesn't want your fat ass to\mourn...?
+[Kou] I suppose it's possible.
+[Kojiroh] ...So you have no idea what happened to\this piece of crap and you want me to find it in\the next three days.
+[Kou] That is correct.
+[Kojiroh] Okay...
+[Kojiroh] ...But can I ask you something?
+[Kou] Go right ahead.
+[Kojiroh] How the hell did you lose it?
+[Kou] I'm not sure I follow you.
+[Kojiroh] In other words, did you misplace it in a\move? Or did you lose it while remodeling the room?\Or...
+[Kou] Or?
+[Kojiroh] Was it a robbery?
+[Kou] Honestly, I've been incredibly busy lately...
+[Kojiroh] I wish I could say the same.
+[Kou] As soon as I returned from my trip it was\time for the memorial service.\\[Kou] In the confusion I thought I should have an\acquaintance look after the important items for\the ceremony.
+[Kojiroh] But, unlike dogs, people aren't always so\loyal.
+[Kou] My acquaintance tells me that it was kept in\that cabinet.
+[Kojiroh] Which cabinet?
+[Kou] The one in back on the left... That one.
+[Kojiroh] Which means that the painting might turn\up if we search this house.
+[Kou] I suppose that it's conceivable.
+[Kojiroh] Then what you need is a mover, not a\detective...
+[Kou] Wait! Please!
+[Kojiroh] What now?
+[Kou] I haven't told you the main thing yet...
+[Kojiroh] (I don't like the sound of this...)
+[Kojiroh] Alright then. Tell me the specifics. And\no more bullshit, please.
+[Kou] As you wish. You know about searching for the\missing painting?
+[Kojiroh] Yeah.
+[Kou] I need you to find this very important piece\of artwork. You have three days including today.
+[Kojiroh] Three days!? That's crazy!
+[Kou] That is the reason why I also contacted the\Katsuragi offices. I'm offering a very high reward.
+[Kojiroh] Can you tell me why you need it within\the next three days?
+[Kou] Of course. I was letting my acquaintance use\this study...
+[Kojiroh] ...
+[Kou] And the artwork my acquaintance was\protecting is now missing.
+[Kojiroh] Where's this jerk now?
+[Kou] Overseas on business. He claims that he put\it in the cabinet. But when I looked...
+[Kojiroh] It wasn't there.
+[Kou] Correct. Nothing was there at all.
+[Kojiroh] Is it expensive?
+[Kou] I don't know about that.
+[Kojiroh] What do you mean, you "don't know"?
+[Kou] I was just telling Mr. Nikaido about this. I\need to use it for the third anniversary of my\wife's death.
+[Kojiroh] You need this thing to mourn?
+[Kou] You may think it strange, but it is a\ceremony necessary for consoling the spirit of the\deceased.
+[Kojiroh] I see...
+[Kou] If I have the painting there at the ceremony,\my wife, may Allah bless her soul, may find more\comfort in the afterworld.
+[Kojiroh] I'm not gonna stand here and watch you\cry. See ya...
+[Kou] Mr. Amichi!
+[Kojiroh] The name's Amagi. I'm Japanese, not\Italian...
+[Kou] Please, sir. For my poor wife...
+[Kojiroh] Are you for real?
+[Kou] 100%.
+[Kojiroh] (This is the most pathetic person I've\seen since I shaved this morning...)
+[Kou] I had no idea you were acquainted with Ms.\Katsuragi...
+[Kojiroh] ...
+[Kou] I was just trying to find someone to take\this case. It doesn't matter who.
+[Kojiroh] It's a free country. You're the client.\You can choose whoever you want to.
+[Kou] I'm glad you feel that way.
+[Kojiroh] In the end the one who should get the\money is the one who delivers the results.
+[Kou] Thank you for understanding.
+[Kojiroh] (Of course I can say that...)
+[Kojiroh] (But the emotions involved are more\complicated...)
+　Surroundings
+　Kou
+　Chandelier
+[Kojiroh] (This place is pretty chic.)
+[Kojiroh] (He's got a good mix of art and\nature...)
+[Kojiroh] So this is your reception room. A whole\apartment could easily fit into this place.
+[Kou] There are many other rooms in this house. I\just saw my last guest in the reception room over\there.
+[Kojiroh] All alone in this huge place?
+[Kou] That is correct.
+[Kojiroh] How do you clean it?
+[Kou] I have a maid and many other helpers to keep\the place up.
+[Kojiroh] Wow...
+[Kojiroh] (This place is like a palace.)
+[Kojiroh] (Look at fatass over there on the\couch...)
+[Kojiroh] You're a very big man... Must weigh 300\pounds or more.
+[Kou] Actually I've been on a diet and I dropped to\293 pounds.
+[Kojiroh] Are you trying to tell me there's a\noticeable difference between 293 and 300 pounds?
+[Kou] There's a world of difference.
+[Kojiroh] Like being in your 20's as opposed to\being in your 30's...
+[Kojiroh] (The master of the house. "Kou.")
+[Kojiroh] (He talks classy and acts real polite...)
+[Kojiroh] (But I can't be fooled by the surface. I\have to pierce his fat exterior and see what he's\thinking.)
+[Kojiroh] Your average, everyday, million-dollar\chandelier.
+[Kojiroh] There's nothing really to look at.
+[Kojiroh] An expensive chandelier...
+[Kojiroh] I'd love to sit on that thing and use it\like a swing.
+[Kou] Please refrain from doing so.
+[Kojiroh] Shit...
+　Go outside
+[Kojiroh] Just relax and talk with Kou a little\more.
+[Kou] Is there any particular reason you want to\climb onto my chandelier?
+[Kojiroh] No reason at all. It has nothing to do\with anything. It just looks fun.
+[Kou] I see...
+[Kou] What on earth are you doing beneath the desk?
+[Kojiroh] You never know what kind of clues you'll\find or where you'll find them. They could be tiny\or huge. Sometimes even as huge as you.
+[Kou] You certainly know your trade.
+[Kou] That's the bedroom, you know...
+[Kojiroh] Understanding the layout of the house is\very important for an investigation.
+[Kou] I see...
+　Look/Investigate
+　Move
+　Speak
+　Grab
+　Electronic appointment book
+b06
+Bang!
+[Kojiroh] Huh!???!
+Before me is...
+[Nikaido] ...
+[Nikaido] Hey, pecker-breath! Watch where you're\going.
+[Kojiroh] Well lookie what we have here. A talking\vagina with a neck and shoulders.
+[Nikaido] Don't be such a sicko! When will you stop\making fun of me?
+[Kojiroh] Sorry. I'll never do it again.
+[Nikaido] You'd better not!
+[Kojiroh] (I should have known this idiot would've\been here...)
+[Kojiroh] (It's not so bad.)
+[Kojiroh] (Basically I have a one day handicap. I\should still be able to do it.)
+[Nikaido] Quit looking at me like a little girl.
+[Kojiroh] But you're so cute.
+[Nikaido] Cut that out!
+b05
+[Yayoi] Leave him alone, Nikaido.
+[Nikaido] Yes, Ms. Katsuragi...
+011
+011b
+b05
+　Nikaido
+Kou
+　Yayoi
+[Yayoi] I wouldn't have thought you'd hear about\this case.
+[Kojiroh] I'm as surprised as you are. What should\we do? I'll happily give up the case if you want me\to.
+[Yayoi] I could care less what you decide to do.\I'll doubt you'll be of much help if you take the\case, though.
+[Kojiroh] You haven't changed a bit, baby.
+[Yayoi] You're wrong. I've changed... I've had to.
+[Kojiroh] ...
+[Yayoi] Are you growing your hair?
+[Kojiroh] I've been praying.
+[Yayoi] For what?
+[Kojiroh] Praying that I can reduce your pain since\you've been hanging around with this pile of shit.
+[Nikaido] Is "this pile of shit" me?
+[Kojiroh] Oh, you heard me?
+[Nikaido] You said it right in front of me.\Pecker-breath!
+[Yayoi] Cut it out, Nikaido. You'll provoke\Kojiroh.
+[Kojiroh] Hey!
+[Nikaido] You're right, Ms. Katsuragi. We don't\have the time to waste on this idiot... Besides,\there was the call...
+[Yayoi] I know...
+[Kojiroh] You guys look nice and busy.
+[Yayoi] ...We'll be going now.
+[Kojiroh] See ya.
+011
+011b
+b06
+[Nikaido] Kojiroh, do us a favor and don't run\around messing up the evidence.
+[Kojiroh] Sounds good. And you make sure you don't\aggravate your ulcers.
+[Nikaido] I don't have an ulcer!
+[Yayoi] Let's go, Nikaido.
+[Nikaido] Yes, Ms. Katsuragi... Kojiroh's a jerk!\Look! He's giving me the bird!
+[Kojiroh] Get lost, Nikaido. Your husband's waiting\for you.
+[Nikaido] My...??!!
+011
+011b
+[Kojiroh] What a day!
+[Kou] What an incredible shock to find that you all\know each other.
+[Kojiroh] For Christ's sake...
+[Yayoi] Don't be so familiar with me.
+[Kojiroh] You're beautiful when you get that\defiant look on your face.
+[Yayoi] ...!!
+[Kojiroh] (She's mad...)
+[Yayoi] We haven't gotten anywhere with our\investigation yet, but we'll beat you to the finish\line.
+[Kojiroh] I'm looking forward to it.
+[Yayoi] The best man and woman will win, and you\will lose.
+[Kojiroh] Don't try to be so tough.
+[Yayoi] I just hope I don't have to see you again.
+[Kojiroh] Is that right? (She's one cold mama.)
+[Kojiroh] You on your period?
+[Yayoi] You say it like it excites you.
+[Kojiroh] You're just imagining things. So the two\of you are involved in this case?
+[Yayoi] Yes, since a few days ago...
+[Kojiroh] Have you come up with much?
+[Yayoi] Nothing yet. That's why Nikaido and I\decided to search together.
+[Nikaido] But, Ms. Katsuragi, my investigation's\going rather well...
+[Yayoi] Keep your crap in your pants, honey. Wait\until you get results before you start bragging.
+[Kojiroh] You let her treat you like that?
+[Nikaido] It's none of your business!
+[Yayoi] Cut it out, boys.
+[Nikaido] I have nothing to say to you,\pecker-breath.
+[Kojiroh] How rude...
+[Kojiroh] That reminds me, Nikaido. You still doing\those I.D. investigations?
+[Nikaido] Of course I am. Important Data\investigations are the best!
+[Kojiroh] Wow.
+[Nikaido] The most important thing in life is to\get the case solved.
+[Kojiroh] That's right.
+[Nikaido] What's with that look on your face?
+[Kojiroh] Oh, nothing...
+[Kojiroh] (This nerd's always inputting case\details into his electronic appointment book.)
+[Kojiroh] (Isn't it a little early for that?)
+[Nikaido] I have nothing to say to you.
+[Kojiroh] As soon as your master calls, you get to\runnin'.
+[Nikaido] You jerk!
+[Yayoi] Stop it, Nikaido!
+[Nikaido] ...
+[Kojiroh] What you're saying is right, though.
+[Nikaido] Of course I'm right. You can never tell\when a traitor will betray you. Mr. Kou, please\allow us to...
+[Kojiroh] Hey, Nicrappo.
+[Nikaido] It's "Nikaido"!
+[Kojiroh] Let me tell you one thing.
+[Nikaido] I'm all ears, big mouth.
+[Kojiroh] Your nostril hairs seriously need to be\trimmed.
+[Nikaido] ...
+[Kojiroh] Don't shake your head like that. I'm\telling you, you've gotta shave your nose.
+[Nikaido] Quit trying to make a fool out of me!
+[Kojiroh] I'm not. I'm just having a little\friendly fun.
+[Nikaido] You're no friend!
+[Kojiroh] Just now your voice sounded like Lucifer.
+[Nikaido] My patience is about to run out,\pecker-breath...
+[Woman's voice] That's enough, Nikaido.
+[Nikaido] Ms. Katsuragi...
+011
+011b
+b05
+[Kojiroh] Yayoi...
+[Yayoi] Long time, no see, Kojiroh.
+[Kojiroh] You still talk real tough.
+[Yayoi] Shut up about the way I talk.
+[Kojiroh] Sorry.
+[Kou] You mean you also know Ms. Katsuragi?
+[Kou] You must have worked together with Katsuragi\Detective Offices.
+[Kojiroh] That's right. You're pretty sharp,\Sherlock.
+[Kou] You flatter me.
+[Kojiroh] I know.
+[Kou and Kojiroh together] Ah-hah-hah-hah-hah!
+[Yayoi and Nikaido] ...
+[Kojiroh] The slave shuts up pretty quickly when\his master's around.
+[Nikaido] Are you calling me a slave?
+[Yayoi] Shut up, Nikaido. Don't give him the\satisfaction.
+[Nikaido] Yes, Ms. Katsuragi...
+[Kojiroh] (But if Katsuragi Detective offices are\here, that means...)
+[Kojiroh] (So this is what Akane meant when she\said she felt a little guilty.)
+[Kojiroh] (That lying little bitch...)
+[Nikaido] Mr. Kou, you're not planning on hiring\another detective, are you?
+[Kou] As a matter of fact, I am. When I heard of\Mr. Amagi's talents I...
+[Nikaido] Let me give you a piece of advice, Mr.\Kou.
+[Kojiroh] Nobody wants to hear your advice.
+[Nikaido] ...This man is certainly a professional.
+[Kojiroh] That's true.
+[Nikaido] A professional liar, a traitor and a\cheat!
+[Kojiroh] My reputation as an honest, fair man\Speaks for itself.
+[Nikaido] You? Honest and fair!?
+[Kojiroh] At your service.
+[Nikaido] ...
+[Kojiroh] Can't you say anything to that?
+[Nikaido] Do you see what I'm talking about, Mr.\Kou?
+[Kojiroh] Don't ignore me.
+[Nikaido] If you put the investigation in this\man's hands... The ceremony of the third\anniversary of your wife's passing will be ruined.\[Nikaido] Completely ruined.
+[Kojiroh] You've got a big mouth, Nympho.
+[Nikaido] It's Nikaido! Besides, Mr. Kou, this\man's license as a detective is suspended!
+[Kojiroh] ...
+[Kojiroh] (I'm up against a crazed idiot who\doesn't know when to stop.)
+[Kojiroh] Your point? Why the hell are you here?!
+[Nikaido] ...
+[Kojiroh] Play fair, idiot. I answered you.
+[Nikaido] You said you were here to make fun of me!
+[Kojiroh] At least it's an answer.
+[Nikaido] No, it's not!
+[Nikaido] Why did you come here, pecker-breath? Why\are you here? What's your purpose?
+[Kojiroh] My answer to your first question is that\I came to make fun of you. My answer to your second\question is that I'm here to make fun of you.\[Kojiroh] My answer to your third question is that\I intend to make fun of you.
+[Nikaido] Why, I oughtta...
+[Kojiroh] You oughtta shut up.
+[Nikaido] Get outta my face!
+[Kojiroh] How long has it been since we last saw\each other? Three months?
+[Nikaido] About that.
+[Kojiroh] I used to work with you as your superior.\Don't you think you're being a little cold?
+[Nikaido] You used to be a lot of things. Now\you're nothing.
+[Kojiroh] You may have a point...
+[Kou] Do you mean to say that you used to work for\the same agency?
+[Nikaido] Unfortunately, yes.
+[Kou] Well I'll be damned... It's a small world!
+[Nikaido] ...
+[Kojiroh] (I'm starting to like this guy Kou.)
+[Kou] It really is a small world.
+[Kojiroh] Tell me about it. I'm still a little\surprised.
+[Kou] I had no idea that you knew each other.
+[Kojiroh] Neither did I.
+[Kou] It's so...
+[Kojiroh] ...Unexpected.
+[Kou and Kojiroh] Ah-hah-hah-hah-hah...
+[Nikaido] What are you laughing at?!
+　Surroundings
+　Nikaido
+　Kou
+　Yayoi
+　Cigarette
+[Kojiroh] You look sexy sucking on that\cancer-stick.
+[Kojiroh] Suck harder baby!...
+[Yayoi] Shut up.
+[Kojiroh] Whatever you say.
+[Kojiroh] You still smoke like a chimney.
+[Yayoi] Life's too short not to.
+[Kojiroh] I see you still only smoke Vagina Slims.\I bet your teeth are pretty stained.
+[Yayoi] Since when did you become a dentist?
+[Kojiroh] I didn't. I can see the stains with my\own eyes every time you open your mouth.
+[Yayoi] I'd rather marry a shit-fly than have you\looking into my mouth.
+[Kojiroh] I'd like to see you married to a\shit-fly.
+[Yayoi] Why are you so stupid?
+[Kojiroh] ...
+[Kojiroh] (He is so fat that I can still see him\even when he is behind Yayoi.)
+[Kojiroh] (I thought Nikaido had left, only to find\out he's hiding behind Yayoi.)
+[Kojiroh] (Bastard. He gets to look at the back of\her perfect neck.)
+[Yayoi] I feel something itching at my waist...
+[Kojiroh] (There's no need to look at Kou now...)
+[Kojiroh] (I can't see too well 'cuz Nikaido's in\the way...)
+[Nikaido] Don't push me! What do you think you're\doing?
+[Kojiroh] I just wanted to get a look at Kou...
+[Kou] You needn't be so thoughtful.
+[Kojiroh] But I must.
+[Kou] No you mustn't.
+[Kou and Kojiroh] Ahh-hah-hah-hah-hah...!
+[Kojiroh] The president of Katsuragi Detective\Agency. She's one scary lady.
+[Kojiroh] The female detective in charge of\Katsuragi Detective Agency.
+[Kojiroh] We used to be colleagues...
+[Yayoi] But you had to go and screw it all up.
+[Kojiroh] Do you have to keep reminding me?
+[Kojiroh] Suddenly this room is full of people...
+[Kojiroh] One, two, three... four of us including\me.
+[Kou] I am, however, as big as two people. So\perhaps we should say that there are five of us.
+[Kojiroh] We couldn't.
+[Kou] Oh, but we could.
+[Kou and Kojiroh] Ahh-hah-hah-hah-hah...!
+[Yayoi and Nikaido] ...
+[Kojiroh] Before me I see a noisy oddball.
+[Nikaido] I won't stoop to your level, Kojiroh.
+[Kojiroh] This is supposed to be Mr. Kou's\reception room...
+[Kojiroh] But all I see in front of me is an\impotent freak.
+[Nikaido] Don't call me that!
+[Kojiroh] If you say so, Necrophilio.
+[Nikaido] ...
+[Kojiroh] You like having sex with dead animals,\Necrophilio?
+[Nikaido] My name is Nikaido. I am a proud agent at\the Katsuragi Detective Agency.
+[Kojiroh] Aw, what the hell... I'll give you a\break.
+[Kojiroh] Your name is Nikaido, and you like having\anal sex with dead animals.
+[Nikaido] No I don't!
+[Kojiroh] But I could have sworn I saw you on that\"Feces of Death" video.
+[Kou] Is that so, Mr. Nikaido?
+[Nikaido] Mr. Kou, please don't encourage him. I'm\a...
+[Kojiroh] Slave who plays fetch with Red Rover\after he's been run over.
+[Nikaido] No! I'm the second highest agent in the\Katsuragi agency...
+[Kojiroh] And his name is Necrophilio.
+[Nikaido] Nikaido! It's Nikaido!!
+[Kojiroh] You're out of breath. Is it asthma?
+[Nikaido] ...
+　Go outside
+[Kojiroh] I'll stay here a little bit longer.
+[Kojiroh] That'll probably be more interesting.
+[Nikaido] What the hell do you think you're doing\in the window?
+[Kojiroh] I was going to go out, but it looks like\there're plants outside.
+[Nikaido] If you're leaving, use the door. And\hurry up.
+[Kojiroh] Then I think I'll stay.
+[Nikaido] ...

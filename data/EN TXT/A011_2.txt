@@ -1,0 +1,888 @@
+[Kojiroh] I've come this far, I can't just go back\disappointed.
+[Kojiroh] I might as well do what I came to do.
+[Kojiroh] This place is empty... What am I, a\thief?
+I go in.
+[Kojiroh] I'm coming in, Kou.
+[Kojiroh] ...
+[Kojiroh] There's no response.
+[Kojiroh] But it sure is dark in here... There's\not a single light on in there.
+[Kojiroh] What was Nikaido doing here...?
+The floor squeaks as I walk.
+[Kojiroh] I can hear the floor creaking.
+[Kojiroh] Let's go to the reception room.
+My feet touches something.
+[Kojiroh] Oh, here are some slippers.
+[Kojiroh] I'm feeling my way through this, so I'd\better pay close attention.
+I open the door.
+[Kojiroh] This should be the reception room.
+[Kojiroh] ...
+[Kojiroh] Kou? Are you here?
+... 
+[Kojiroh] The least he could do is tell me he ain't\here.
+...
+[Kojiroh] It's so dark I can't see a damned thing.
+[Kojiroh] My eyes are getting used to the dark.
+[Kojiroh] ...
+[Kojiroh] No one seems to be here.
+[Kojiroh] Hey!
+...
+[Kojiroh] No one's here...
+[Kojiroh] Well, hanging around here like this isn't\solving any problems.
+[Kojiroh] Let's go... Wow!
+I slip on the floor and fall on my ass.
+[Kojiroh] Ouch! The damn floor!
+[Kojiroh] ...
+[Kojiroh] This is damp, whatever it is... Like\salad dressing.
+[Kojiroh] No, that's not it. It's more like...
+[Kojiroh] Oh...My...God... It can't be...
+[Kojiroh] ...
+[Kojiroh] I'd...I'd better just stand up.
+[Kojiroh] Who touched me! Who the hell was it!
+0150b
+0150
+[Kojiroh] ...Kou?
+[Kojiroh] Hey, what the hell are you doing...?
+[Kojiroh] Hey, stop joking around!
+0150b
+eve_60
+[Kojiroh] Aaaaack!!!3
+\ 
+eve_20
+[Kojiroh] There's a dead body...
+[Kojiroh] Calm down, calm down... This isn't\necessarily a dead body.
+The body is lifeless.
+[Kojiroh] ...
+[Kojiroh] He's dead... He's REALLY dead!
+[Kojiroh] ...I better stay calm. Got to stay\calm...
+[Kojiroh] I can't panic.
+[Kojiroh] Oh, mommy mommy mommy...
+[Kojiroh] I gotta calm the hell down... Okay, I'm\calm.
+　Look/Investigate
+　Move
+　Speak
+　Shoot
+　Girl in front of you
+[Kojiroh] (To hell with that idea...)
+[Kojiroh] (I'm not in the mood.)
+[Kojiroh] (Let's hear what she has to say...)
+[Kojiroh] BAM!
+[Girl] Ah!
+[Kojiroh] Just kidding...
+[Girl] I'll do whatever you say... Just don't shoot\me!
+[Kojiroh] (Let's stop this.)
+[Kojiroh] BAM!!
+[Girl] Yikes!
+[Kojiroh] If you move an inch I'll blast your\intestines into your nostrils.
+[Girl] Okay...
+[Kojiroh] (Hey, she's trembling...)
+[Kojiroh] (I'm a sinner...)
+　Girl
+[Kojiroh] No point in asking questions here.
+[Girl] ....!?!
+[Kojiroh] Stay like that and face the door.
+[Girl] What are you gonna do to me? I'll beat your\ass if you try something funny.
+[Kojiroh] Idiot! I told you to go outside!
+[Girl] ...
+[Kojiroh] Do it now!!
+[Girl] I'd like to pull up my pants, if you don't\mind.
+[Kojiroh] ...
+[Girl] I'm too embarrassed like this... I'd rather\die.
+[Kojiroh] Fine. Pull up your stupid pants.
+[Girl] Thanks.
+0160
+[Kojiroh] Now, let's go outside... And don't turn\around.
+[Girl] Anything you say.
+[Kojiroh] Did you touch anything besides the\doorknob?
+[Girl] ...?
+[Kojiroh] God dammit!! I asked you a question!!
+[Girl] No... I didn't.
+[Kojiroh] Good. Now, go outside.
+[Girl] ...
+[Kojiroh] Slowly! And don't try anything funny!
+[Kojiroh] (Whew...)
+[Kojiroh] (At least we're finally outside...)
+[Kojiroh] (Things are getting crazier by the\minute...)
+a010_2
+[Kojiroh] What the hell did you come to see Kou\about?
+[Girl] I can't tell you...
+[Kojiroh] Spit it out!
+[Girl] ...
+[Kojiroh] I might be the murderer, and I just might\kill you too!
+[Girl] If you're gonna kill me anyway, then I'm not\talking.
+[Kojiroh] Use your head! I'm only human, and I'm\capable of doing some crazy shit.
+[Girl] Maybe.
+[Kojiroh] (What a bitch.)
+[Kojiroh] Shut up and listen to my next question.
+[Girl] ...
+[Kojiroh] How are you involved with Kou?
+[Girl] I'm a student and he's the Principal.
+[Kojiroh] You must be joking.
+[Girl] No joke. I have a student ID, and my\schedule of classes.
+[Kojiroh] That's not the answer I was expecting.
+[Girl] Did you want to hear that I was his lover?\That I give him head?
+[Kojiroh] Uh... That would've been nice, yes. But I\believe you. You're smart and you have good tits.
+[Girl] That's what I hate about myself. If I'm to\die in my line of work, I'd rather not do it\looking like this.
+[Kojiroh] Die...? Line of work...?
+[Kojiroh] (The situation has taken a strange turn.)
+[Kojiroh] (And we can't just stay here forever...)
+[Kojiroh] (It's just about time...)
+[Kojiroh] Let's get to the point. What are you\doing here?
+[Girl] ...
+[Kojiroh] Hey! I'm a man, you know... Looking at\that cute ass of yours gives me some crazy ideas!
+[Girl] I had to do something for the owner of this\house.
+[Kojiroh] Kou?
+[Girl] Yes.
+[Kojiroh] So why did you come inside?
+[Girl] Because... Well...
+[Kojiroh] Spit it out, dammit!!
+[Girl] I pressed the doorbell on the intercom, but\it didn't ring. I thought it was broken, so I\knocked on the door. And it was open, so...
+[Kojiroh] (Hey, the same thing happened to me!)
+[Girl] What are you going to do with me?
+[Kojiroh] I ask the questions here!
+[Girl] ...
+[Kojiroh] You don't really look like a typical high\school student.
+[Girl] What's the definition of a typical high\school student?
+[Kojiroh] Well, maybe you're right... I'll ask a\different question.
+[Girl] ...
+[Girl] I didn't do anything! I'm just a girl in\high school! Does that bother you? Can I turn\around now?
+[Kojiroh] Shut up! Do high school girls go around\to other people's homes to search dead bodies!?!
+[Girl] That's just a coincidence! What's so strange\about what I did? Huh?
+[Kojiroh] You must be more than just a schoolgirl!\Act cool before I do something illegal!
+[Girl] ...
+[Kojiroh] That's better.
+[Girl] What are you going to do with me?
+[Kojiroh] First, I'll have you take off those nice\pants.
+[Girl] ...!?!
+[Kojiroh] Don't move... My fingers are twitching on\the trigger.
+[Girl] What will you do after I take them off?
+[Kojiroh] I'll let you know when we get to that\point.
+[Girl] ...
+[Kojiroh] Hurry up, before I shoot my load!
+[Girl] Okay, okay! No need to be so violent.
+[Kojiroh] Hey, you don't need to take it all off.\Just pull them down to your knees.
+[Girl] ...?
+0160b
+[Girl] ...Like this?
+[Kojiroh] Yeah. I like that.
+[Girl] Now what are you going to do...?
+[Kojiroh] I don't like fooling around with passive\girls.
+[Girl] ...
+[Kojiroh] So you can relax.
+[Girl] Thanks a lot.
+[Kojiroh] Well, at least you can still speak.
+[Girl] Let me get this straight... You won't hurt a\passive girl, but you'll murder someone with a\knife?
+[Kojiroh] ...
+[Girl] Did you really kill him...?
+[Kojiroh] Why do you suspect this is a murder?
+[Girl] Well...
+[Kojiroh] Answer me!!
+[Girl] I've never known anyone to commit suicide by\slitting their own throat.
+[Kojiroh] I see.
+[Girl] ...Were you after something?
+[Kojiroh] I'll do the asking around here.
+[Girl] ...
+[Kojiroh] Spread your hands out to the sides.
+[Girl] Like this?
+[Kojiroh] Yeah. Just like that...
+[Girl] ...
+[Kojiroh] (Well, what am I gonna do?)
+　Surroundings
+　Girl
+　Hair
+　Ass
+[Kojiroh] (It's just me, the girl, and the corpse.)
+[Kojiroh] (Why the hell was this girl here...?)
+[Kojiroh] (This girl couldn't have...)
+[Kojiroh] (She's one tough little chick.)
+[Kojiroh] (She's not wearing a school uniform, but\an athletic outfit.)
+[Kojiroh] (She's definitely the student from that\international school.)
+[Kojiroh] (What the hell is she doing here...?)
+[Kojiroh] (She's got such long hair...)
+[Kojiroh] (It flows all the way down to her waist.)
+[Kojiroh] (I'd love to see that hair draped across\a pillow...)
+[Kojiroh] (Is this any time to be admiring her\ass?)
+[Kojiroh] (I'd better talk to her for a little\while longer.)
+[Kojiroh] ...
+[Girl] ...Yes?
+[Kojiroh] Ah, nothing.
+[Kojiroh] (She caught me staring at her!)
+　Go outside
+[Kojiroh] (Not now... I should talk to her some\more.)
+[Kojiroh] (I can't just go outside and leave this\fine filly here!)
+[Kojiroh] (Let's actually think before acting.)
+[Kojiroh] There's a dead body right there! What the\hell's going on!?!
+　Look/Investigate
+　Move
+　Speak
+　Touch
+　Hide
+　Save/Load
+　Save
+　Load
+　Behind the curtain
+　Under the corpse
+[Kojiroh] That's about my only option in this\room...
+[Kojiroh] Okay, I'll hide behind the curtain.
+I hear footsteps.
+[Kojiroh] I can hear someone walking down the\hallway in shoes... Is that Kou?
+[Kojiroh] Kou always wears slippers.
+[Kojiroh] Which means... No way...
+The door opens...
+[Kojiroh] (Someone's entering the room...)
+[Kojiroh] (They're holding a flashlight...)
+[Kojiroh] (The person would turn on the lights if\they lived here.)
+[Kojiroh] (Which means... It's an uninvited guest.)
+[Voice] Oh shit!
+[Kojiroh] (They noticed the dead body...)
+[Kojiroh] (If they're surprised at the corpse, they\must not be the killer...)
+[Voice] Yuch!
+[Kojiroh] (It's a woman's voice... Who could it\be?)
+[Kojiroh] (I'll just take a look...)
+0160
+eve_38
+[Kojiroh] (What...! It's that girl...!)
+[Kojiroh] (It's the girl with the ponytail, the one\who called me a pervert!)
+[Kojiroh] (What the hell is she doing here?)
+[Kojiroh] ...
+[Kojiroh] (Yeah, I can't just stand here and\watch...)
+[Kojiroh] Don't move.
+[Girl] Who's there?!
+[Kojiroh] Stay still... Don't turn around! Don't\even move your little finger...
+[Girl] Okay! I'll do whatever you say.
+[Kojiroh] (Shit... Now what do I do?)
+[Kojiroh] There's nowhere to hide in this room...
+[Kojiroh] There's a curtain that reaches the\floor... I can hide behind that.
+[Kojiroh] Maybe I can be a human chair or\something.
+[Kojiroh] I'll be lucky if she sits on my lap.
+[Kojiroh] ...Just kidding.
+　Man's body
+　Jacket
+　Wound
+[Kojiroh] This ain't the time to be touchy-feely...\Someone's coming.
+[Kojiroh] The body is starting to stiffen...
+[Kojiroh] But it's still warm... He wasn't killed\so long ago.
+[Kojiroh] The body's still warm... He was killed\just a while ago.
+[Kojiroh] This ain't the time to be touchy-feely...\Someone's coming.
+[Kojiroh] The jacket is soaked with blood.
+[Kojiroh] There are spots all over, some of them already dry.
+[Kojiroh] The flesh near the wound is a little\warm.
+[Kojiroh] This ain't the time to be touchy-feely...\Someone's might coming.
+[Kojiroh] It's still slightly warm.
+[Kojiroh] It'll start drying pretty soon... The\blood has stopped flowing.
+[Kojiroh] The skin is beginning to harden...
+　Man
+[Kojiroh] This isn't the time to hang around and\shoot the shit, man!
+[Kojiroh] This guy is 100% dead... He's not gonna\talk to me... Idiot...
+[Kojiroh] He's dead.
+[Kojiroh] I guess this means he won't be talking to\me.
+　Surroundings
+　Man
+　Wound
+　Jacket
+　Knife
+[Kojiroh] This ain't the time to stare at it. There\are certain web sites for that.
+[Kojiroh] And the knife lying behind the sofa\bothers me...
+[Kojiroh] If he cut his own throat, the knife\would've fallen at his feet.
+[Kojiroh] It could be that he just threw the knife\away in pain and agony.
+[Kojiroh] But the physics don't make sense... Why\would it be behind the sofa.
+[Kojiroh] This is some weird shit.
+The door opens...
+[Kojiroh] What the...?
+It slams shut...
+[Kojiroh] Holy shit! Someone just shut the front\door!
+I hear foot steps.
+[Kojiroh] Someone's coming!
+[Kojiroh] I'm screwed if anyone catches me like\this...
+[Kojiroh] But even if it was a suicide... There're\a few strange things about it.
+[Kojiroh] People who commit suicide usually use the\most painless methods.
+[Kojiroh] Having your neck slashed is one of the\most painful ways to die...
+[Kojiroh] But it doesn't necessarily make sense as\a murder, either.
+[Kojiroh] Killers don't usually leave their weapons\at the crime scene.
+[Kojiroh] So it's suicide then?
+[Kojiroh] I can't touch it! I'd leave a\fingerprint...
+[Kojiroh] ...
+[Kojiroh] But that's one big-ass knife... Looks\like a survival knife.
+[Kojiroh] This must've been the murder weapon.
+[Kojiroh] Hey! How long do I have to look at this\mess?
+[Kojiroh] The bloodstained knife is right behind\the sofa...
+[Kojiroh] I'll check it out.
+[Kojiroh] There's something on the floor, behind\the sofa.
+[Kojiroh] My eyes must've gotten used to the dark.
+s03
+[Kojiroh] It's a knife.
+[Kojiroh] It's a survival knife.
+[Kojiroh] Could this be the murder weapon?
+[Kojiroh] This doesn't look like a suicide...
+[Kojiroh] But I can't say that it was a murder for\sure.
+[Kojiroh] Where the hell is Kou? I wonder if he\knows this body is lying in his house.
+[Kojiroh] The entire room smells like iron from\blood...
+[Kojiroh] I might have fainted if I'd have come\here during the daylight.
+[Kojiroh] The floor is covered with blood... I can\hear the sticky squishy sounds with each step I\take.
+[Kojiroh] Great. I've ruined my socks...
+[Kojiroh] I think I checked everything out.
+[Kojiroh] I'd better look over everything more\thoroughly.
+[Kojiroh] But who the hell is this guy?
+[Kojiroh] It's too dark for me to see anything\clearly...
+[Kojiroh] There must be a sea of blood.
+[Kojiroh] But I'm glad it's dark... I might have\fainted if I saw the body close and personal.
+[Kojiroh] This place must be a sea of blood.
+[Kojiroh] It's too dark for me to see the\details...
+[Kojiroh] The man is sitting on the sofa, dead...
+[Kojiroh] Hey! How long do I have to look at this\mess?
+[Kojiroh] His eyes are enough proof for me... This\is one dead sucker.
+[Kojiroh] He must've been a handsome guy when he\was alive.
+[Kojiroh] His eyes are dazed; he's off in a world\of death.
+[Kojiroh] He can't close his eyes, rigor mortis has\begun...
+[Kojiroh] He looks like he's in his mid-thirties.
+[Kojiroh] He looks like an ordinary fella.
+[Kojiroh] He's dead...
+[Kojiroh] Gee, he'd look like a zombie if he got up\and went to the fridge.
+[Kojiroh] There's a dead stranger in Kou's house.
+[Kojiroh] What the hell's going on around here...
+[Kojiroh] I've never seen this guy before...
+[Kojiroh] Who the hell could he be?
+[Kojiroh] He's not Kou...
+[Kojiroh] He's wearing glasses and he's slim...
+[Kojiroh] No diet in the world could make Kou look\like this.
+[Kojiroh] Hey! How long do I have to look at this\mess?
+[Kojiroh] I've already looked at it more than\enough.
+[Kojiroh] It's making me sick to my stomach.
+[Kojiroh] His neck looks like a small scale model\of the Grand Canyon.
+[Kojiroh] This is bad...
+[Kojiroh] He could've bled to death...
+[Kojiroh] Or maybe he choked to death on his own\blood...
+[Kojiroh] Either way, it's a shitty way to die.
+[Kojiroh] I think the bleeding has stopped... His\wound is starting to dry.
+[Kojiroh] But it's still a little warm inside his\body.
+[Kojiroh] And that means that he wasn't killed too\long ago.
+[Kojiroh] He might've been killed this evening, or\maybe it was later...
+[Kojiroh] His neck was slashed like a Halloween\pumpkin.
+[Kojiroh] It must've been cut with an incredibly\sharp knife.
+[Kojiroh] Like the one used in my circumcision.
+[Kojiroh] It was definitely cut with a deadly,\sharp blade.
+[Kojiroh] Maybe a sword?
+[Kojiroh] Nah...
+[Kojiroh] There's a horrible wound in the neck\area.
+[Kojiroh] Argh! The neck is sliced like a summer\squash!
+[Kojiroh] This is some bad shit!
+[Kojiroh] Hey! How long do I have to look at this\mess?
+[Kojiroh] There's nothing in the jacket.
+[Kojiroh] Nope... Nothing here.
+[Kojiroh] I'd learn a lot more if I saw his\license.
+[Kojiroh] I mean, it's not like I'm doing anything\sacrilegious.
+[Kojiroh] I'll check his jacket.
+[Kojiroh] Wow... It's stiff from the dried blood.
+I shuffle through his jacket.
+[Kojiroh] Nothing's here.
+[Kojiroh] It's smothered in blood... He bled all\over this thing like a mad girl's tampon.
+[Kojiroh] It's so full of blood I can't tell what\color it was originally.
+[Kojiroh] It's begun to dry... The clothing is\becoming rice crispy treats.
+　Go outside
+[Kojiroh] I can't just go outside now...
+[Kojiroh] I have to hide somewhere.
+[Kojiroh] I'd better check out the area some more.
+[Kojiroh] Not yet... I wanna check this place out\some more.
+　Look/Investigate
+　Move
+　Speak
+　Think
+　About the drawers
+[Kojiroh] (Just as I thought...)
+[Kojiroh] (I'll laugh if I'm wrong with this one.)
+[Kojiroh] (I remember that notepad... Which drawer\was it in again...?)
+0005
+[Kojiroh] (Oh yeah... I remember it was this one.)
+0005f
+[Kojiroh] (It's in the bottom middle drawer...)
+[Kojiroh] (But the lower right one had two levels.)
+0005
+0005g
+[Kojiroh] (That's right! It had two levels to it!)
+[Kojiroh] (Why wasn't it in the lower right...?)
+[Kojiroh] (If there's a clue left...)
+[Kojiroh] ...
+[Kojiroh] (Nothing in the drawer... And one drawer\with a shallow bottom. Search more?)
+[Kojiroh] (Hold on a second... One shallow drawer?)
+[Kojiroh] (Just one?)
+[Kojiroh] (The drawers are all the same. But one\shallow drawer.)
+[Kojiroh] Let's see...
+[Kojiroh] I got it!!
+011
+011b
+b06
+[Nikaido] You got what.
+[Kojiroh] Hold the lower middle drawer, Nikaido.
+[Nikaido] The lower middle?
+[Kojiroh] The one with the notepad inside.
+[Nikaido] ...
+011
+011b
+[Kojiroh] (Unless my reasoning is completely...)
+[Kojiroh] (But I can't think of any other\possibility.)
+[Nikaido] I'm holding it.
+b06
+011f
+[Kojiroh] Is this the lower middle drawer?
+[Nikaido] Yeah...
+[Kojiroh] Peel the bottom off.
+[Nikaido] Why...?
+[Kojiroh] There are two levels.
+[Nikaido] There are!?!
+He shakes the drawer.
+[Nikaido] You're right! There's something inside\it!
+He shakes it again.
+011h
+eve_38
+Nikaido opens the drawer.
+[Kou] Ah...!!
+[Nikaido] What the hell is this!?!
+[Kou] It's the painting!!
+[Kojiroh] ...Thought so.
+[Kou] I can't believe it!
+[Kojiroh] Neither can I.
+[Nikaido] But... Why, Kojiroh?
+[Kojiroh] You want an explanation?
+[Nikaido] Of course!!
+[Kojiroh] (The memo in the drawer.)
+[Kojiroh] ("Search even further!")
+[Kojiroh] ...
+[Kojiroh] (Why the hell was that written there...?)
+[Kojiroh] (To leave a clue about the painting's\whereabouts?)
+[Kojiroh] (But the painting wasn't there...)
+[Kojiroh] (Why would anyone go through all that?)
+[Kojiroh] ...
+[Nikaido] What's the matter, Kojiroh? You're\awfully quiet.
+[Kojiroh] (Wait a minute...)
+[Kojiroh] (I'm not completely wrong... I was right\about the drawer's two levels.
+[Kojiroh] (And the note...the sight of\buglary....the drawers with nothing in there...)
+[Kojiroh] (Dammit! Even though all these pieces\point to my logic!)
+[Kojiroh] (But the painting still isn't here.)
+[Kojiroh] ...
+[Kou] You must remain calm, Kojiroh...
+eve_13
+[Kojiroh] (Was all my reasoning wrong...?)
+[Kojiroh] (And I was so sure of myself.)
+[Kojiroh] (But there really wasn't anything in that\lower level...)
+[Kojiroh] (I guess I was badly mistaken... It\happens.)
+[Kojiroh] ...
+[Nikaido] What happened to all your arrogance?
+　Kou
+　Nikaido
+[Kou] Thank you so much...
+[Kojiroh] I solved the case. Looks like it's all\over, folks. May I collect my reward now?
+[Kou] Of course! Do you accept cash?
+[Kojiroh] Cash? Sure I do!!
+[Kou] It's already prepared.
+He hands me the money.
+[Kojiroh] This is the thickness I like!
+[Kou] Go ahead. Make sure it's the right amount. I\even paid a little extra.
+[Kojiroh] I can tell by the wad... It's the right\amount.
+[Kou] You're very professional.
+[Kojiroh] Yeah, and you're skinny. By the way, Kou.
+[Kou] Yes?
+[Kojiroh] Your friend is pretty tricky, isn't he?
+[Kou] He could give you a better answer than I.
+[Kojiroh] Why did he go through all the trouble?
+[Kou] I believe I've paid you an amount high enough\to shut you up for the time being.
+[Kojiroh] ...Yes, you did.
+[Kou] And once again, I thank you so much for all\your work.
+[Kojiroh] (...Too bad he only hired me for this.\I'd be a rich man if I gave him sexual favors!)
+[Kojiroh] (It's not my business what kind of\friends he got.)
+[Kojiroh] (I'll just have to settle with that.)
+[Kou] I just can't thank you enough!!
+[Kou] Thank you so much, Mr. Amagi!!
+[Kou] My deceased wife may finally rest in peace...
+[Kojiroh] (I wonder how much it would cost to shut\YOU up.)
+[Kou] I expected this...
+[Kojiroh] ...
+[Kojiroh] Then let me continue.
+[Kou] Go right ahead.
+[Kojiroh] There's too much evidence making it look\a theft. And there's a lot of publicity saying it\was a theft.
+[Kou] You're right. The burglar was just trying to\leave his sign.
+[Kojiroh] Wrong... Usually, thieves don't leave\behind any evidence.
+[Kou] And?
+[Kojiroh] Basically, the owners of the house\wouldn't even know there was a theft.
+[Kou] I see...
+[Kojiroh] First I thought it was a work of a pro...\But there was something... Not right.
+[Kou] That's what I was told before.
+[Kojiroh] So I looked at the note again.
+[Kou] Note?
+[Kojiroh] The one I just showed you.
+[Kou] Oh, the one that read, "Search even\further!"... Right?
+[Kojiroh] Yeah. Maybe this is a coincidence, but\the note didn't fit when I tried to close the\drawer.
+[Kou] Well...?
+[Kojiroh] Think about it. Pay attention to the\drawers.
+0005
+0005j
+[Kojiroh] There's a pen clogged in the lower right\drawer.
+[Kojiroh] I'm gonna put the note back into the\lower middle drawer.
+0005
+I slide the drawer.
+[Kou] Whoa, it went in!
+[Nikaido] So what?
+[Kojiroh] I put the drawer back in exactly the same\way.
+[Kou] What are you getting at?
+[Kojiroh] I think all other drawer will fit too.
+[Kojiroh] Let's try it. First the top left.
+0005b
+I slide the drawer.
+0005
+[Kojiroh] It went in. The pen doesn't get hitched.
+[Kojiroh] How about the upper middle one?
+0005c
+I slide the drawer.
+0005
+[Kojiroh] This one is okay too.
+[Kojiroh] And next is the upper right.
+0005d
+I slide the drawer.
+0005
+[Kojiroh] This one's alright. The notepad is in the\drawer.
+[Kojiroh] Now, for the lower left drawer.
+0005e
+I slide the drawer.
+0005
+[Kojiroh] It's in there. Now let's check the first\drawer I put the notepad into.
+0005f
+I slide the drawer.
+0005
+[Kojiroh] And obviously, it's there. But if we\check the lower right one?
+0005g
+I slide the drawer.
+0005
+0005j
+The drawer doesn't go in all the way.
+[Kojiroh] See, the pen gets hitched.
+[Kou and Nikaido] ...
+[Kojiroh] And there you have it.
+011
+011b
+b06
+[Kou] So... What's your point?
+[Nikaido] Yeah. What's your point, Kojiroh.
+[Kojiroh] You don't get it yet?
+[Kou] Not at all.
+[Nikaido] I don't get it.
+[Kojiroh] All the other drawers fit fine, except\for the lower right one.
+[Kou] ...
+[Kojiroh] The drawer on the lower right is\shallower.
+[Nikaido] Oh...
+[Kou] ...
+[Kojiroh] It's about 2 inches shallower.
+[Kou] What's that got to do with anything?
+[Kojiroh] Two inches is enough for that painting to\fit inside.
+[Kou] I see! And that's what the notepad had to do\with it!
+[Nikaido] No way!
+011
+011b
+He shakes the drawer.
+b06
+[Nikaido] Are you saying...it's in here?!?
+011f
+[Kojiroh] Perhaps.
+[Nikaido] Shit...
+Nikaido shakes the drawer
+[Kojiroh] Hey! Be gentle!
+[Nikaido] Shut up!
+Nikaido shakes the drawer some more...
+011g
+He opens the drawer.
+[Kou] Two levels... I see.
+[Kojiroh] ?!?
+[Nikaido] ...
+[Kou] There's nothing inside...
+eve_59
+[Nikaido] Ha ha ha ha ha ha ha!!!
+[Kojiroh] No way...
+[Nikaido] There's nothing inside, Kojiroh! ...Huh?
+[Kojiroh] ...
+[Nikaido] You were right about the two levels, but\there's no painting.
+[Kojiroh] Maybe there's another underneath?
+[Nikaido] Keep on dreaming.
+Nikaido rattles the drawer...
+[Nikaido] There's no more.
+[Kojiroh] Oh...
+[Kou] Well, it was a nice try.
+[Nikaido] You idiot!! Ha ha ha ha ha ha... There's\no sign of the painting!
+[Kojiroh] ...
+[Kojiroh] (I could've sworn I was right.)
+[Kojiroh] (So I was wrong all this time...?)
+[Kou] Are you sure, Kojiroh?
+[Kojiroh] Maybe I was wrong... I don't think so,\but it could happen.
+[Kou] So where is the missing painting!?!
+[Kojiroh] Well...
+[Kou] Yes?
+[Kojiroh] Let's just rethink this thing a bit. I\need to get my thoughts back together again.
+[Kou] Alright.
+[Kojiroh] The Katsuragi Private Detective Offices\think it's a theft, but I disagree.
+[Nikaido] Yeah? So what? Where's the painting then?
+[Kou] Oh, quiet, Nikaido! Can't you let Kojiroh\finish a single sentence?
+[Nikaido] I have nothing to say to you, Kojiroh.
+[Nikaido] How did you know?
+[Kojiroh] Call it a hunch.
+[Nikaido] You son of a bitch!!
+[Kojiroh] I hate to break it to you, but intuitions\come after years of experience and thought...
+[Nikaido] You idiot...
+[Kojiroh] I'll explain it to you. I was actually\just guessing.
+[Nikaido] I... I just don't believe it.
+[Kojiroh] Listen, man. I had a strong feeling there\were two levels. But when the cover is opened,\there wasn't anything in there.
+[Nikaido] Yeah...
+[Kojiroh] Everything appeared to be consistent with\my logic... What more is there to say?
+[Nikaido] ...
+[Kojiroh] That note was there to let us know that\there are two levels.
+[Nikaido] What do you mean?
+[Kojiroh] And there's nothing in the other drawers.
+[Nikaido] ...
+[Kojiroh] It won't fit in the drawer, check it out,\the depths are different, and there are the two\levels!
+[Nikaido] ...
+[Kojiroh] And when I looked at the bottom, nothing\was there. It confused the hell out of me.
+[Nikaido] I can't believe this...
+[Kojiroh] The first drawer is only a decoy to stray\you away from the real one.
+[Nikaido] ...
+[Kojiroh] If you check it once and it's not there,\you don't check it again. This is a trick, you see.
+[Nikaido] God dammit...
+[Nikaido] The drawer with the two levels had\nothing to do with it.
+[Kojiroh] (I could've sworn I was right.)
+[Nikaido] You were right about the two levels, but\there's no painting.
+[Kojiroh] ...
+[Nikaido] It's a bluff! A bluff!
+[Nikaido] You're just shitting us, Kojiroh.
+[Kojiroh] I'm not positive, but I have a hell of a\feeling I'm right.
+[Nikaido] ...
+　Surroundings
+　Nikaido
+　Kou
+[Kojiroh] (They're both looking at me... They\probably want an explanation.)
+[Kojiroh] (There wasn't anything in the drawer...)
+[Kojiroh] (Was my thought process screwed up along\the way...?)
+[Kojiroh] (Kou and Nikaido are both staring at\me...)
+[Kojiroh] (Kou and Nikaido are both staring at\me...)
+[Kojiroh] (They look as if they're waiting for an\explanation...)
+[Kojiroh] (He's staring at me.)
+[Kojiroh] (I know how he feel.)
+[Kojiroh] (Nikaido's looking down on me.)
+[Kojiroh] (Was my reasoning really that far\off...?)
+[Kojiroh] (It looks like he hate my guts.)
+[Kojiroh] (It looks like he hate my guts.)
+[Kojiroh] (I think I can understand how he feel.)
+[Kojiroh) (Kou looks...thrilled.)
+[Kojiroh] (He looks disappointed...)
+[Kojiroh] (Well... I can understand... I did mess\up.)
+[Kojiroh] (Kou... He seems to be waiting for an\explanation.)
+[Kojiroh] (What the hell am I going to tell him?)
+[Kojiroh] (He sure is a weird old bastard.)
+　Go outside
+[Kou] Are you going home already?
+[Kojiroh] Yeah. I've got some things to do.
+[Kou] Thanks a lot.
+[Kojiroh] It was nice doing business with you. Let\me know if you need another case solved.
+[Kou] I'll be sure and do that if the opportunity\arrives.
+[Kojiroh] See you later, Nikaido.
+[Nikaido] ...
+a010
+[Kojiroh] (Stop the jokes, man.)
+[Kojiroh] (Hey, how can I go home after coming this\far?)
+　Look/Investigate
+　Move
+　Step back from drawers
+[Kojiroh] I checked all the drawers...
+　Upper left
+　Lower left
+　Upper middle
+　Lower middle
+　Upper right
+　Lower right
+[Kojiroh] The upper left, right?
+0005b
+[Kojiroh] ...Nothing's inside.
+0005
+[Kojiroh] ...Here's the upper left one.
+0005b
+[Kojiroh] ...
+[Kojiroh] Hey, nothing's in that one.
+[Kojiroh] Oh, well. Better close it.
+0005
+0005e
+[Kojiroh] Nothing at all.
+0005
+[Kojiroh] Okay, I'll open the lower left drawer.
+0005e
+[Kojiroh] Nothing.
+[Kojiroh] I'll just close this up.
+0005
+[Kojiroh] The upper middle one...?
+0005c
+[Kojiroh] ...
+[Kojiroh] Close this shit.
+0005
+[Kojiroh] The upper middle one, eh?
+0005c
+[Kojiroh] There's nothing in this one.
+[Kojiroh] ...Close this crap, man.
+0005
+[Kojiroh] Let's try the lower middle one.
+0005f
+[Kojiroh] There's the notepad.
+0005h
+[Kojiroh] Nothing's written on it.
+[Kojiroh] Oh well... I'll close it up... Huh?
+[Kojiroh] ...
+[Kojiroh] There is some marks on it from being\written on... I didn't notice it yesterday.
+[Kojiroh] That's because it's just a notepad.
+[Kojiroh] When the pen is pushed hard enough, it\leaves grooves in the paper underneath.
+[Kojiroh] ...
+[Kojiroh] Call me crazy, but I think this might be\a clue!
+[Kojiroh] Right now I need a soft pencil...
+[Kojiroh] I'll bring it over from the desk.
+I rummage through the crap on the desk.
+[Kojiroh] Here's a nice fountain pen...
+[Kojiroh] I'll need a soft pencil...
+I keep on searching...
+[Kojiroh] Here's a 2B. It should do the trick.
+0005
+0005h
+[Kojiroh] I'll trace the pencil over the grooves...
+I move the fine lead over the miniature crevices in the paper.
+0005i
+[Kojiroh] Okay, I think I'm making some letters\out...
+[Kojiroh] It's a little hard to read, but it's not\impossible.
+[Kojiroh] It says... to "Search even further!"...?
+[Kojiroh] ...
+[Kojiroh] Say what?
+[Kojiroh] "Search even further!"... Search for my\balls?
+[Kojiroh] I think there's something written beneath\that.
+[Kojiroh] ...It's too hard to read. I'll just think\about this one for now.
+[Kojiroh] I'll ask Kou what it means... I'm sure\one of his acquaintances wrote it.
+[Kojiroh] I'll copy this down.
+[Kojiroh] ...
+[Kojiroh] This should do it.
+[Kojiroh] I'd better put away the notepad.
+0005g
+And that's what I do.
+[Kojiroh] I'll just stick this notepad back in the\drawer.
+0005
+0005j
+I slide the drawer back in.
+[Kojiroh] Ah, shit! The pen's in the way. Hope I\didn't break it.
+I look around.
+[Kojiroh] No one's looking. I'll just pretend that\the pen was broken in the first place.
+[Kojiroh] I'd better put it back the way I found\it.
+I close it.
+[Kojiroh] That's strange, it won't fit.
+I jiggle the damn drawer.
+[Kojiroh] Is this thing off its tracks?
+[Kojiroh] Shoot, I can still see the tip of the\broken pen.
+[Kojiroh] I can see the pen tip...
+[Kojiroh] And the drawer doesn't shut...
+[Kojiroh] ...
+[Voice] Hey, what are you doing!
+[Kojiroh] Who, me?
+011
+b06
+eve_54a
+[Kojiroh] Hey, it's Hokkaido.
+[Nikaido] Nikaido, dammit!!! What are you doing\here, looking like a damn thief!?!
+[Kojiroh] Have you taken your medication this\morning?
+011
+011b
+b06
+eve_13
+[Kou] I'm so sorry... He just barged in.
+[Nikaido] Kou, did you give this punk your case?
+[Kou] Yes... I'd like try out every possibility.
+[Nikaido] But...
+[Kojiroh] ...
+[Nikaido] What are you doing, Kojiroh!?!
+[Kojiroh] Huh? Oh, I was just thinking...
+[Kou] About what?
+[Kojiroh] I was wondering if I could ask you\something... Do you mind?
+[Nikaido] How dare you ignore me!
+[Kojiroh] Just shut your goddamn mouth, you\small-peckered son of a bitch.
+[Nikaido] ...
+[Kojiroh] I'll make it so not even you can\pronounce your name, fartnose. Now, Kou...
+[Kou] What may I help you with?
+[Kojiroh] This. Read it.
+[Kou] It says..."Search even further!" What is it?
+[Kojiroh] It's a note I found in a drawer. I just\copied it down.
+[Nikaido] Liar! You just wrote it down on a piece\of paper.
+[Kojiroh] All I did was trace over it with a\pencil.
+[Nikaido] ...
+[Kou] Well I don't remember writing this.
+[Kojiroh] Did anyone you know write this? Your\secretary or someone?
+[Kou] It may have been an acquaintance...
+[Kojiroh] Do you know what it means?
+[Kou] Hmm...
+[Kojiroh] Well?
+[Nikaido] What the hell are you getting at,\Kojiroh?
+[Kojiroh] What do you think I'm asking Kou for?
+[Nikaido] Maybe it's meaningless! Did that ever\occur to you?
+[Kojiroh] If you insist on being a complete idiot,\just stay out of it.
+[Nikaido] Why, you little...
+[Kojiroh] (There must be a connection to the\case...)
+[Kojiroh] (The missing painting... The empty\drawers... The strange note...)
+[Kojiroh] (There's definitely a connection...)
+[Nikaido] Hey Kojiroh... Put the drawer back to\it's original position.
+[Kojiroh] (An empty drawer... And the room made to\look like a burglary.)
+[Nikaido] Hey, the pen is jammed...
+[Kojiroh] The pen is...jammed?
+[Nikaido] And it's not where it was in the first\place... I remember everything, you know.
+[Kojiroh] !?!
+[Kojiroh] Hey, Fido!
+[Nikaido] It's Nikaido, dammit!
+[Kojiroh] What did you just say??
+[Nikaido] It's Nikaido, dammit!
+[Kojiroh] No! Before that.
+[Nikaido] I said it's not where it was before...
+[Kojiroh] That's it!!
+[Nikaido] What do you mean?
+[Kojiroh] According to my brilliant calculations,\the painting should be right where I think it is.
+[Kou and Nikaido] ...!?
+0005d
+[Kojiroh] ...
+0005
+[Kojiroh] Check the upper right drawer...
+0005d
+[Kojiroh] It's empty.
+[Kojiroh] Oh, well. Better close it.
+0005
+0005g
+[Kojiroh] It's empty.
+0005
+[Kojiroh] How about the lower right drawer?
+0005g
+[Kojiroh] Nothing.
+0005
+　Look/Investigate
+　Move
+　Surroundings
+　Drawers
+　Desk
+　Picture
+　Window
+[Kojiroh] I'm the only one in this room.
+[Kojiroh] Let's look this place over like a\teenager does a girly magazine.
+[Kojiroh] Kou ran off to another room.
+[Kojiroh] He doesn't like talking to me.
+[Kojiroh] According to Kou, the painting was inside\here at one point.
+[Kojiroh] I can't get it out of my head... Why not\check it out one more time?
+0005
+[Kojiroh] Nothing's wrong inside the desk...\Nothing unusual on top, either.
+[Kojiroh] It's just an average desk.
+[Kojiroh] It's an antique desk...
+[Kojiroh] There's a bunch of books, a lamp, a pen\holder, and a notebook on the desk.
+[Kojiroh] I looked at the desk yesterday.
+[Kojiroh] It's a normal picture...
+[Kojiroh] It's an okay painting, but they didn't\put much emotion into it.
+[Kojiroh] It's not unusual, nor is there a safe\behind it.
+[Kojiroh] Okay, I'll repeat myself: IT'S A NORMAL\PICTURE.
+[Kojiroh] There's mud over on the window sill.
+[Kojiroh] I thought that was the most suspicious\place when I looked through this place yesterday.
+[Kojiroh] It's behind me so I can't see.
+011e
+[Kojiroh] Outside the window are bushes... That\must be where the mud came from.
+[Kojiroh] Someone must've climbed in here from\outside... Ya think?
+[Kojiroh] I don't know why they didn't just use the\door...
+011
+　Go outside
+[Kojiroh] Not yet. There's more to see.
+[Kojiroh] I'm here, ain't I? I'd better look around\thoroughly.

@@ -1,0 +1,1012 @@
+007
+007b
+eve_06
+[Kojiroh] As usual, this place is full energy.
+007
+007b
+eve_06
+[Kojiroh] I've come this far, might as well go over\there.
+[Kojiroh] I'm talking about that building right in\front of me.
+b05
+eve_41
+[Yayoi] Hey! ...Kojiroh!?!
+[Kojiroh] Oh, it's you... What's up?
+[Yayoi] It looks like it's about to rain. I came to\get my laundry.
+[Kojiroh] Your laundry...?
+[Yayoi] Well, yours too... Never mind, What's up?
+[Kojiroh] Well, you're right. Never mind.
+[Yayoi] Why you...
+[Kojiroh] What in God's name are you talking about?
+[Yayoi] I get sick to my stomach every time I talk\to you.
+[Kojiroh] I think I know what you're trying to tell\me.
+[Yayoi] What's that key for?
+[Kojiroh] It's the key to your place. Ah, to hell\with it.
+[Yayoi] You don't think you're gonna be forgiven\that easily, do you?
+[Kojiroh] Huh?
+[Yayoi] I'm in a bad mood. I'm going back to work.
+007
+007b
+[Kojiroh] ...
+[Kojiroh] She's gone...
+[Kojiroh] Hey! Is it alright then, if I keep the\key?
+eve_06
+007
+007b
+eve_06
+[Kojiroh] It's Central Avenue...
+007
+007b
+eve_08
+[Kojiroh] Central Avenue... This place is alive\even at night.
+007
+007b
+eve_06
+[Kojiroh] I get goosebumps every time I come here.
+[Kojiroh] This area is crowded with busy people...
+007
+007b
+eve_06
+[Kojiroh] I'm at Central Avenue but...
+007
+007b
+eve_06
+[Kojiroh] This is Central Avenue...
+[Kojiroh] Aqua doesn't seem to be around.
+007
+007b
+eve_06
+[Kojiroh] That so-called Kou was apparently here.
+[Kojiroh] It's impossible to find one guy among all\these people.
+[Woman's voice] Hey, aren't you Kojiroh?
+[Kojiroh] ...What?
+b18
+[Kojiroh] Oh, Aqua!
+[Aqua] This is quite a coincidence.
+[Kojiroh] It sure is.
+[Kojiroh] (Damn, my voice sounds phony...)
+[Aqua] You seemed to be looking for someone. Are\you working now?
+[Kojiroh] Oh, I was looking for you, actually.
+[Aqua] Oh, ha ha... Is that so...?
+[Kojiroh] (This isn't exactly a laughing matter.)
+[Aqua] Sorry, ha ha...you just said that with such\a serious look on your face.
+[Kojiroh] That's not exactly a good excuse.
+[Aqua] Last night was horrible, wasn't it?
+[Kojiroh] Last night...?
+[Aqua] Yes. I was waiting for you at the cocktail\lounge.
+[Kojiroh] Really?
+[Aqua] Yes.
+[Kojiroh] Well, I was just now thinking about how I\wanted to meet you... Maybe God was listening and\answered my wish.
+[Aqua] You're very slick, aren't you...
+[Kojiroh] Well, shall we go somewhere?
+[Aqua] Unfortunately, I have things to do now.
+[Kojiroh] Oh...
+[Aqua] How about tonight?
+[Kojiroh] Sounds great!
+[Aqua] Okay, I'll see you at the usual place.
+[Kojiroh] I'll be there with balls on - I mean,\bells on.
+[Aqua] I'd like to take my mind off of things for a\while. I need a good diversion.
+[Kojiroh] A diversion...?
+[Aqua] See you later...
+007
+007b
+[Kojiroh] ...
+[Kojiroh] That's my kind of gal.
+[Kojiroh] Well, it's a night at the cocktail\lounge!
+007
+007b
+eve_06
+[Kojiroh] Central Avenue... It's such a lively\area.
+007
+007b
+eve_08
+[Kojiroh] It's busy, day and night.
+007
+007b
+b16
+b16b
+eve_08
+[Akane] Oh, Kojiroh...
+[Kojiroh] We run into each other a lot, don't we.
+[Akane] I guess we do.
+[Kojiroh] Well, shall we have a rendezvous at the\hotel?
+[Akane] ...
+007
+007b
+[Kojiroh] ...
+[Kojiroh] That bitch...
+007
+007b
+eve_08
+[Kojiroh] This place is busy, day and night...
+007
+007b
+eve_06
+[Kojiroh] It's Central Avenue.
+[Kojiroh] This place is as crowded as always...
+007
+007b
+eve_16
+[Kojiroh] Okay, I'm at Central Avenue.
+[Purin] This place is just full of people!
+[Kojiroh] That's because this place has the most\shops...
+[Purin] Oh.
+[Kojiroh] Hmm... I wonder where they sell bathing\suits.
+[Purin] Wow! Look at all these little shops!
+[Kojiroh] Don't run around so much...
+[Purin] Oh! Look at how beautiful that outfit is!
+[Kojiroh] Oh, for Christ's sake.
+[Purin] Look, see? It's so cute!
+[Kojiroh] Ha ha ha...
+[Purin] Hurry! Come over here!
+[Kojiroh] Over...here?
+[Kojiroh] (She's got such quick eyes.)
+[Kojiroh] (I think she already found the place\selling swimsuits...)
+0080
+[Salesclerk] You're welcome to try something on, if\you'd like.
+[Purin] Thank you.
+007
+007b
+eve_06
+[Kojiroh] It's Central Avenue...
+[Kojiroh] Now that I got some dough, I can walk\around here without feeling out of place.
+007
+eve_06
+[Kojiroh] It's still early in the morning. That's\probably why almost no one is out.
+007
+007b
+eve_08
+[Kojiroh] Central Avenue is even crowded after\dark.
+007
+007b
+b16
+eve_08
+[Kojiroh] Akane! What are you doing here tonight?
+[Akane] I, uh...well, you see... I, um...
+[Kojiroh] Has your menstruation affected your\speech patterns?
+[Akane] Kojiroh! What are you doing here?
+[Kojiroh] I asked you first. Are you here to\improve your private life again?
+[Akane] I'm here on an assignment.
+007
+007b
+[Kojiroh] ...
+[Kojiroh] Strange girl...
+[Kojiroh] What the hell was the matter with her?
+007
+007b
+eve_08
+[Kojiroh] Central Avenue is even crowded after\dark.
+007
+007b
+eve_08
+[Kojiroh] As usual, this place is full of energy.
+[Kojiroh] Oh yeah... I've come all this way; I\might as well get some headache medicine.
+[Kojiroh] But the real reason for coming was to get\some supplies for the office. The medicine's just\extra.
+007
+007b
+eve_08
+[Kojiroh] This place is lively, even at night.
+007
+007b
+eve_08
+[Kojiroh] Oh, man... It's gotten pretty dark out.
+[Kojiroh] Time flies when your around pieces of ass\all your life.
+007
+007b
+eve_06
+[Kojiroh] This area is always so exciting...
+007
+007b
+eve_06
+[Kojiroh] This is Central Avenue.
+[Kojiroh] Development along the coast has been\skyrocketing. Tons of shops and new office\buildings are going up.
+[Kojiroh] And the Katsuragi Private Detective\Offices are here as well. It's a far cry from where\my office is located.
+　Look/Investigate
+　Move
+　Speak
+　Couple
+　Businessman
+[Girl] You sure approach lots of people...
+[Girl] I don't know any girl named Jelly.
+[Girl] Yes. Fruit cocktail.
+[Man] Hello... You know, I need to get a better\role. This is boring.
+[Girl] Did you just ask me if I saw a girl named\Purin?
+[Girl] Okay, my boyfriend is a fruit cocktail.
+[Girl] That's what your saying, though, right?
+[Girl] I'm confused...
+[Girl] Things are a little dangerous around here\lately.
+[Girl] Well, I'll tell you what's dangerous.
+[Girl] Yesterday, someone was murdered in a\neighborhood not too far from here.
+[Girl] And there was a gunfight right on Central\Avenue.
+[Girl] A gunfight? It was probably a scuffle within\the Mafia.
+[Girl] I'm too scared to even walk home at night.
+[Businessman] Things are getting insane around\here...
+[Businessman] Well, actually...
+[Businessman] Yesterday there was a battle here\that looked like a scene out of an action film.
+[Businessman] I heard it was a fight between Mafia\rivals, but that's not it.
+[Businessman] It was a couple of girls, and some\foreign guys involved in a gunfight. A goddamn\gunfight of all things.
+[Businessman] I was sleeping right on that bench,\and it scared the hell out of me.
+[Businessman] What? Why was I sleeping on the\bench, you ask?
+[Businessman] Well, I was at this whorehouse, you\see, and by the time I was done, I'd missed the\last train.
+[Businessman] So that's why I spent the entire\night on the bench.
+[Businessman] Achhoooo!!! Excuse me...
+[Businessman] I caught a light sneeze...
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] It looks like a bustling area...
+[Kojiroh] Everyone has some destination in mind,\they're all busy... There isn't a single person\standing around relaxing.
+[Kojiroh] ...
+[Kojiroh] Not a single person.
+[Kojiroh] Nikaido actually killed himself... Could\that be true?
+[Kojiroh] Just what did he have his hands on?
+[Kojiroh] It's the Princess Hotel.
+[Kojiroh] That's where Nikaido allegedly slit his\own throat, yesterday.
+[Kojiroh] ...
+[Kojiroh] I'll use that phone booth when I feel\like making a call.
+[Kojiroh] But I don't need to make any calls right\now.
+[Kojiroh] It's a nice sculpture, but it's got\nothing to do with my case.
+[Kojiroh] The world keeps changing...
+[Kojiroh] But that damn sculpture's always the\same.
+[Kojiroh] Wow... That was deep.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] Her place? ...I don't have anything to do\there.
+a023
+[Kojiroh] Yayoi's apartment, eh? ...Okay, let's go.
+a023
+[Kojiroh] We came all this way... You want to go\home already?
+[Kojiroh] Fine. You're the boss...
+a002_2
+[Kojiroh] I want to go home...
+[Kojiroh] Let's get back to the warehouse.
+a002_2
+[Kojiroh] The hotel...? Sure, let's go.
+a008
+[Kojiroh] Yeah, Kou should be waiting for me in the\lobby.
+[Kojiroh] I have more than enough questions to ask\him.
+[Kojiroh] It's off to the Princess Hotel!
+a008
+[Kojiroh] The hotel? Okay, let's go.
+a008
+[Kojiroh] Katsuragi Private Detective Offices?\Hmm...
+[Kojiroh] That doesn't sound like such a great\idea.
+a003
+　Look/Investigate
+　Move
+　Speak
+　Couple
+　Businessman
+[Girl] You like talking to strangers, don't you...\Well, you'll never get my phone number!
+[Girl] If you enjoy talking to couples, talk to\this guy as well.
+[Boy] Hey, I've been trying to get in her pants for\six months.
+[Girl] What? Have I seen a man named Nikaido?
+[Girl] He looks like a low down, garbage stinking,\piece scrum of the earth?
+[Girl] I can't imagine what sort of person he is.
+[Girl] Sitting here, I can meet tons of people...\Man or woman, young or old.
+[Girl] This is Central Avenue, the heart of the\city... Everyone passes through here.
+[Businessman] This place has gotten out of hand,\lately.
+[Businessman] Last night there was a murder not too\far from here. Pretty scary, isn't it?
+[Businessman] I have a job, you see... And after\work I got drunk and ended up falling asleep.
+[Businessman] I wonder where the best massage\parlor in town is... I'm in dire need of a good\whorehouse.
+[Businessman] Have I seen a short blonde girl, you\ask?
+[Businessman] Wow... Which massage parlor can I\find her in!?
+Smash!0
+\ 
+[Businessman] Sorry...
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] A lot of people here.
+[Kojiroh] This place is so lively, even at night...
+[Kojiroh] I love this town.
+[Kojiroh] It's an amazing, giant hotel... But so is\the price.
+[Kojiroh] The Princess Hotel...
+[Kojiroh] The top floor is a circular restaurant,\giving diners a panoramic view.
+[Kojiroh] I went there with Yayoi to have dinner\once.
+[Kojiroh] Nope, this one doesn't come with a dining\room.
+[Kojiroh] The latest ones have a small side table,\and even a mirror.
+[Kojiroh] Man, if it came with a TV and food, these\will replace hotels.
+[Kojiroh] That thing is called "art" by some\people.
+[Kojiroh] It appears to be the symbol of this town.
+[Kojiroh] To me, it's just a stupid sculpture.
+[Kojiroh] It's crap. I have no idea what the artist\was trying to convey.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] Yayoi's place? But there's nothing for me\to do there...
+a023
+[Kojiroh] Yeah, I kinda want to go home...
+a002
+[Kojiroh] There's nothing lonelier than going to a\hotel at night by myself.
+[Kojiroh] Okay, let's just go.
+a008
+[Kojiroh] Katsuragi Private Detective Offices...?\Let's go.
+a003
+[Kojiroh] Katsuragi Private Detective Offices?...\This might be bad timing.
+[Kojiroh] Okay, fine... But just for a little\while.
+a003
+　Look/Investigate
+　Move
+　Speak
+　Couple
+　Businessman
+[Girl] You like talking to strangers, don't you...\Well, you'll never get my phone number!
+[Girl] If you enjoy talking to couples, talk to\this guy as well.
+[Boy] Hey, I've been trying to get in her pants for\six months.
+[Girl] What? Have I seen a man named Nikaido?
+[Girl] He looks like a low down, garbage stinking,\piece scrum of the earth?
+[Girl] I can't imagine what sort of person he is.
+[Girl] Sitting here, I can meet tons of people...\Man or woman, young or old.
+[Girl] This is Central Avenue, the heart of the\city... Everyone passes through here.
+[Businessman] There must be somewhere for me to\work...
+[Businessman] Lately, this place has become quite\dangerous.
+[Businessman] I have to find a job as fast as I\can...
+[Businessman] But, I guess that's not your\concern...
+[Businessman] I always run into you here.
+[Businessman] Last night there was a murder not too\far from here. Pretty scary, isn't it?
+[Businessman] I have a job, you see... And after\work I got drunk and ended up falling asleep.
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] After leaving the financial district, the\surrounding area has considerably less people.
+[Kojiroh] There are just scores of people here...
+[Kojiroh] The population in the warehouse district\is nothing compared to this place.
+[Kojiroh] There is the cocktail lounge where Aqua\frequently goes.
+[Kojiroh] I wonder if I'll ever see her there\again.
+[Kojiroh] I think I can hear the voices of\passionate lovers...
+[Kojiroh] ...
+[Kojiroh] Nope, it's not that kind of a hotel.
+[Kojiroh] The Princess Hotel is the biggest hotel\in town.
+[Kojiroh] Oh yeah, I didn't see Aqua there\yesterday...
+[Kojiroh] I wouldn't mind meeting her one more\time...
+[Kojiroh] If I need to make a call, I'll go back to\my office and use the phone there...
+[Kojiroh] Then again, it'll cost the same no matter\where I call from.
+[Kojiroh] I don't want to use the phone...
+[Kojiroh] Come on, man... How many times do you\want me to look at it!
+[Kojiroh] No matter how many times you see it, a\sculpture is a sculpture.
+[Kojiroh] It's crap. I have no idea what the artist\was trying to convey.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] You want to go there? Again?
+[Kojiroh] I'm not too thrilled about the idea.
+a023
+[Kojiroh] Yeah, I kinda want to go home...
+a002
+[Kojiroh] It doesn't cost anything just to go\there.
+[Kojiroh] Let's go to the hotel!
+a008
+[Kojiroh] You want to go to the Katsuragi offices?
+a003
+[Kojiroh] Katsuragi Private Detective Offices?...\This might be bad timing.
+[Kojiroh] Okay, let's go. But only for a little\while.
+a003
+　Look/Investigate
+　Move
+　Speak
+　Couple
+　Businessman
+[Boy] Finally... I get a chance to speak.
+[Boy] I've been hard as a rock all night long...
+[Girl] Islam? You should've told me that in the\very beginning!
+[Girl] I'm Hindu myself. Everyday, to increase\sexual stimulation, I drink the blood of a chicken.
+[Girl] Hey, wait! You mean, a foreigner?
+[Girl] Until recently, I use to have different guys\over, EVERY night.
+[Girl] You know the girl they call the "Taxi"?\That's me... Hey, where are you going?
+[Girl] What? You're asking me if I've seen a blonde\girl with tan skin?
+[Girl] Hey, I totally used to be like that.
+[Girl] I used to be a total surfer... Hey, where\are you going...?
+[Businessman] A blonde girl with tan skin, a white\parka, and a green jacket...?
+[Businessman] Haven't seen her.
+[Businessman] But it does give me an image to\fantasize about.
+Smack!0
+\　
+[Businessman] I was only kidding, really... I was\only admiring the beauty...
+Smack!0
+\　
+[Businessman] I mean, she'd be a wonderful woman to\date...
+Smack!0
+\　
+[Businessman] Great. Now my face is distorted...
+[Businessman] The economy is down, you see, so the\prostitutes are worried about money.
+[Businessman] A blonde girl with tan skin? Well, is\she 18?
+[Businessman] She's an energetic gal named Purin?
+[Businessman] Sounds like a foxy little bitch...\Which massage parlor is she in?
+Smack!0
+\　
+[Businessman] I was only joking! Please don't\distort my face anymore...
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] This area is always so exciting...
+[Kojiroh] The streets are lined with lots of\buildings and shops...
+[Kojiroh] The financial district is just a bit\further.
+[Kojiroh] It's the Princess Hotel...
+[Kojiroh] It costs an arm and a leg just to stay\one night.
+[Kojiroh] That gigantic building before my eyes is\the Princess Hotel...
+[Kojiroh] Leading figures of the government stay\there a lot.
+[Kojiroh] I hear that young couples sometimes come\in to have a "romantic" evening.
+[Kojiroh] It's just a normal phone booth... Maybe a\little small to make out in.
+[Kojiroh] That's quite a clean phone booth.
+[Kojiroh] It's not plastered with advertisements\like phone booths in other towns.
+[Kojiroh] No matter how many times you see it, that\sculpture isn't getting any prettier.
+[Kojiroh] That sculpture is a piece of shit.
+[Kojiroh] It's a piece of shit, I say!
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] As always, the idea doesn't impress me...
+[Kojiroh] Fine... But only for a little while.
+a023
+[Kojiroh] You want to go back to the office\already?
+a002
+[Kojiroh] Well, it doesn't cost anything to just go\there.
+[Kojiroh] Okay, off to the hotel!
+a008
+[Kojiroh] Katsuragi Private Detective Offices...?\Okay, let's go.
+a003
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Save
+　Load
+　Purin
+　Salesclerk
+[Purin] How do you like it, Kojiroh?
+[Kojiroh] ?
+0080
+0080b
+0080c
+[Kojiroh] Well, it's not too bad...
+[Salesclerk] That's not a very nice way to say it.
+[Kojiroh] What the hell?
+[Salesclerk] You must tell her you think it looks\fabulous.
+[Kojiroh] Fine... I think it looks simply smashing,\darling.
+[Purin] You really think so?
+[Kojiroh] You look hot.
+[Salesclerk] Please, do try to use compassion in\your speech.
+[Kojiroh] Why should I?
+[Purin] It doesn't look...good on me?
+[Kojiroh] Hmm...
+[Salesclerk] Come on, say it.
+[Kojiroh] (Oh, well. Here goes nothing.)
+[Kojiroh] Yes, it really does look good on you.
+[Purin] Really?
+[Kojiroh] Anything you wear looks good on you.\Especially the one you have on hand right now.
+[Purin] Okay, I'll take it!
+[Salesclerk] Good choice.
+[Kojiroh] (Oh, brother...)
+[Kojiroh] (It's only one swimsuit, how long could\this possibly take?)
+[Kojiroh] (Why do women take so long to perform\such trivial tasks?)
+a014
+[Purin] Really? This is the latest fashion?
+[Salesclerk] Yes...
+[Purin] I just can't make up my mind.
+[Salesclerk] How is this one?
+0080b
+[Purin] Oh, it's wonderful...
+[Salesclerk] Do you feel good about it?
+[Purin] Yes...
+[Purin] I love the color, but I think it's a bit\skimpy.
+[Salesclerk] That's the fashion these days.
+[Purin] It is?
+[Salesclerk] It is.
+[Purin] There are just so many options... I can't\decide!
+[Kojiroh] Get whatever you like.
+[Purin] Oh, I can't make up my mind...
+[Salesclerk] I think this would look great on you.
+[Purin] Oh! Look how risque it is!
+[Salesclerk] That's nothing nowadays... Just make\sure you shave yourself before putting it on.
+[Purin] Shave myself?
+[Kojiroh] Uhh... She means, uhh...
+[Purin] I know what she means.
+[Salesclerk] He he he.
+[Salesclerk] Your man must inspect you to make sure\it's okay to wear it.
+[Kojiroh] Oh, Jesus...
+[Salesclerk] Your companion is quite cute, isn't\she...
+[Kojiroh] Yeah, she is.
+[Salesclerk] And her eyes are different colors...\Are they color contacts?
+[Kojiroh] Contacts? I don't know about that... They\might be.
+[Salesclerk] And she wears men's clothing... Is\that your taste?
+[Kojiroh] I guess you could say that.
+[Salesclerk] You're very lucky to have such a\beautiful woman as your girlfriend...
+[Kojiroh] Well, she's actually not my...
+[Purin] I sure am his girlfriend...
+[Kojiroh] (Forget it...)
+[Kojiroh] Could you just help her find something\she wants?
+[Purin] Kojiroh... Are you here?
+[Kojiroh] Right here... Pick out whatever you like.
+[Salesclerk] You should learn to be more sensitive\to a woman's heart.
+[Kojiroh] ...
+[Salesclerk] A woman loves to hear her lover tell\her "You look fantastic in that."
+　Surroundings
+　Purin
+　Bathing suit
+　Salesclerk
+[Kojiroh] This shop has lots of bathing suits and\bikinis.
+[Kojiroh] Purin looks so happy.
+[Kojiroh] Something tells me I don't belong in this\place.
+[Salesclerk] Couples often come here, the men walk\around with bulges in their pants.
+[Kojiroh] I've never been in a store that only\sells swimsuits...
+[Kojiroh] ...But that's all I see in this one.
+[Kojiroh] Jesus... That one's got hardly any fabric\at all.
+[Purin] Do you like that one, Kojiroh?
+[Kojiroh] No way!
+[Purin] Hmm... How about this one?
+[Salesclerk] He he he... Why don't you ask your\boyfriend?
+[Purin] Okay.
+[Purin] There are so many nice ones... I just can't\decide.
+[Salesclerk] Don't worry. I'm sure there are\several that look great on you.
+[Purin] This one! And this one! And this one too!!
+[Salesclerk] There are still many more... Take your\time.
+[Purin] Okay.
+[Kojiroh] The Salesclerk is bringing many more over\here.
+[Kojiroh] I don't know whether to be happy or\sad...
+[Kojiroh] Hey, are you sure it's alright to wear\that one made of thread?
+[Salesclerk] Oh my, you sure are a protective\boyfriend, aren't you!
+[Purin] Don't worry, Kojiroh. Don't let these\bikinis shock you.
+[Kojiroh] I hope you know what you're talking\about.
+[Kojiroh] These are all so skimpy!
+[Kojiroh] Can you even swim in that thing?
+[Salesclerk] That's typical of a man to say...
+[Kojiroh] Gimme a break.
+[Salesclerk] These bathing suits are meant to\reveal the woman's body... Not to help her improve\swimming.
+[Purin] Yeah, Kojiroh.
+[Salesclerk] The girls want to attract their men...\Don't you feel lucky they want to wear these?
+[Kojiroh] You're right. I mean, personality alone\doesn't go very far these days.
+[Kojiroh] Look at you, for example.
+[Kojiroh] I like your haircut.
+[Kojiroh] Look at you, for example...
+[Kojiroh] Giving Purin all this damn advice...
+[Salesclerk] Here, how do you like this one?
+[Purin] Hmm...
+　Leave the shop
+[Purin] Oh...
+[Kojiroh] I know.
+[Purin] Umm...
+[Kojiroh] All I'm doing is standing next to the\doorway...
+[Purin] Hey, where are you going?
+[Kojiroh] Don't look sad... I'm not going anywhere.
+　Look/Investigate
+　Move
+　Speak
+　Buy
+　Something
+[Kojiroh] Okay, I have to get my thoughts back\together again.
+[Kojiroh] What should I get...
+[Kojiroh] I'll get something that Akane will hate.
+[Kojiroh] But what would that be...?
+[Kojiroh] Parts for the camera? Nah... She'll like\it.
+[Kojiroh] I need something that'll make her hair\stand.
+[Kojiroh] Wait, I got it!
+[Kojiroh] Something small, for a girl... This!!
+[Kojiroh] Some jewelry would be good... She'll hate\it!
+[Kojiroh] But I'll get her something incredibly\embarrassing...
+[Kojiroh] Heh heh heh... She'll never forget this.
+eve_16
+[Kojiroh] Hey, Clerk!
+[Salesclerk] Yes, sir...
+[Kojiroh] (Nothing beats good old customer\service.)
+[Salesclerk] What can I do for you?
+[Kojiroh] I'd like some cute jewelry for a little\girl.
+[Salesclerk] What sort of jewelry?
+[Kojiroh] Hmm...
+[Kojiroh] (Akane's so... Boyish.)
+[Salesclerk] May I help you?
+[Kojiroh] I want something feminine to show to a\masculine woman... What do you think would be good?
+[Salesclerk] Okay... It'd be better to emphasize\the features from the neck up.
+[Kojiroh] From the neck up.
+[Salesclerk] Don't waste your time with rings,\ankle bracelets, or other body items.
+[Kojiroh] I see...
+[Salesclerk] You see, the first thing you notice on\a person is their face.
+[Kojiroh] How do you know so much?
+[Salesclerk] Well, I'm very insecure and I spent my\entire life worrying about how to look good.
+[Kojiroh] I see.
+[Salesclerk] Anyway, consider buying lipstick, eye\shadow, hair ribbons... That sort of thing.
+[Kojiroh] How about rouge? Give me a really cute\color...
+[Salesclerk] Rouge, coming right up!
+[Kojiroh] That's the spirit!
+007
+007b
+[Kojiroh] ...
+[Kojiroh] I'll give this to Akane, and she'll look\like a whore!
+[Kojiroh] I hope I'm not wasting my time...
+eve_06
+[Kojiroh] I'll get my thoughts back together\again...
+[Kojiroh] And now, to get a surprise for Akane...
+[Kojiroh] What about some hemorrhoid medicine?
+[Kojiroh] Yeah, suppositories will do. She'll be\shocked, alright.
+eve_16
+[Kojiroh] Hey, clerk!
+[Salesclerk] How may I help you?
+[Kojiroh] ...This stuff better be reasonably\priced.
+[Salesclerk] I don't know about others, but this\one is as good as it gets.
+[Kojiroh] Stop speaking in movie titles.
+[Salesclerk] Okay, consider my habit gone with the\wind. What can I do for you?
+[Kojiroh] Give me some suppositories. The biggest,\fattest ones you have.
+[Salesclerk] The biggest, fattest ones we have?
+[Kojiroh] Yeah. Ones that'll rip the anus to shreds\upon entrance.
+[Salesclerk] I don't think such medicinal\suppositories exist...
+[Kojiroh] Well just check if you have them!!
+[Salesclerk] Okay, okay!
+[Kojiroh] ...
+[Salesclerk] We do carry some very large\suppositories, but this is it.
+[Kojiroh] This? My little finger is bigger than\this!
+[Salesclerk] Perhaps you should do the right thing\and try the S&M shop down the street.
+[Kojiroh] Shit.
+[Salesclerk] What do you need them for?
+[Kojiroh] Are you a complete idiot?? I need them to\stick in my ass!
+[Salesclerk] Oh, I see.
+[Kojiroh] Sorry to take your time. Jeez...
+007
+007b
+[Kojiroh] ...
+[Kojiroh] Well, they don't sell gigantic\suppositories...
+eve_06
+[Kojiroh] Is there anything I want to buy? Oh\yeah!!!
+[Kojiroh] It's Akane's birthday!!! I'll have to get\her something...
+[Kojiroh] I'll buy her some chopsticks. Better yet,\I'll only get her one.
+[Kojiroh] Okay, where can I buy a chopstick...
+eve_16
+[Kojiroh] Clerk!
+[Salesclerk] Yes, sir?
+[Kojiroh] I have a strange request.
+[Salesclerk] What might that be?
+[Kojiroh] Give me one chopstick.
+[Salesclerk] Just one?
+[Kojiroh] Yeah. And it's a birthday present, so put\a nice ribbon on it.
+[Salesclerk] I'm sorry, we only sell them in\packages.
+[Kojiroh] You don't sell just one?!
+[Salesclerk] I have a fork...
+[Kojiroh] No, no... It has to be a chopstick.\Later.
+[Salesclerk] Please come again.
+[Kojiroh] ...
+[Kojiroh] Okay, so that idea went down the drain.
+007
+007b
+eve_06
+[Kojiroh] What should I do?
+[Kojiroh] Don't spend too much, just because you're\richer. Okay!?
+　Couple
+　Businessman
+[Girl] Well, do you have the cash?
+[Girl] What! You used 300 bucks in one day? And now\you're broke?
+[Girl] I can't believe it.
+[Girl] Go away.
+[Girl] What? You want me to do it for free?
+[Girl] Fine. Give me some cash for free and I'll\consider it.
+[Boy] Uh, excuse me, but...
+[Girl] 100 by hand, 200 for a blow job, 300 for\intercourse, and 400 for intercourse plus anal.
+[Boy] But... I've never even done it with her\before! Not a thing!
+[Girl] Well, do you have the cash?
+[Girl] Okay, give me 300 and I'll show you an\amazing time...
+[Girl] I'll do it so you'll never be able to forget\me.
+[Boy] Would you mind holding negotiations\elsewhere? Please?
+[Businessman] Huh? You had money this afternoon,\but not now?
+[Businessman] I know just how you feel...
+[Businessman] I feel so close to you...
+[Businessman] Yeah, baby! My crotch is hot!!
+Smack!0
+\ 
+[Businessman] I'm sorry...
+[Businessman] Huh? Your wallet is bulging?
+[Businessman] Forget that... What I want is a red\Porsche.
+Smack!0
+\ 
+[Businessman] I'm sorry...
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] It's a lively area...
+[Kojiroh] This is Central Avenue...
+[Kojiroh] I've never even stayed here. Not once.
+[Kojiroh] And don't ask me the reason.
+[Kojiroh] That gigantic building before my eyes is\the Princess Hotel.
+[Kojiroh] And the cocktail lounge is on the bottom\floor.
+[Kojiroh] That's where I always see that lady,\Aqua.
+[Kojiroh] It's a phone booth...
+[Kojiroh] That phone booth is so clean; not covered\in advertisements.
+[Kojiroh] It's that confusing sculpture... What a\piece of crap!
+[Kojiroh] I just can't get interested in bad art.
+[Kojiroh] It's boring. I'm sick of looking at it.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] You wanna go to Yayoi's place?
+[Kojiroh] I'm not crazy about going there, you\know...
+a023
+[Kojiroh] You want to go back to the office?
+a002
+[Kojiroh] I'd like to pay a visit to the Princess\Hotel...
+a008
+[Kojiroh] Oh yeah... Glen should be waiting for me\in the cocktail lounge.
+[Kojiroh] I wonder what the new info is on that\painting...
+a008
+[Kojiroh] Let's go to the Princess Hotel.
+a008
+[Kojiroh] Katsuragi Private Detective Offices...?\Okay, let's go.
+a003
+　Look/Investigate
+　Move
+　Speak
+　Talk to myself
+[Kojiroh] Enough of this crap...
+[Kojiroh] ...
+[Kojiroh] ...
+[Kojiroh] ...
+[Kojiroh] ...
+[Kojiroh] I can't think of anything to say to\myself.
+【小次郎】今は誰もいないようだからな‥‥。
+[Kojiroh] Gee, what fine weather we're having...
+[Kojiroh] Oh, man. This is hopeless.
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] This area is packed, even at night...
+[Kojiroh] Perhaps at night I'll see the city's\other "personality."
+[Kojiroh] This is Central Avenue...
+[Kojiroh] I've never even stayed here. Not once.
+[Kojiroh] And don't ask me the reason.
+[Kojiroh] That gigantic building before my eyes is\the Princess Hotel.
+[Kojiroh] And the cocktail lounge is on the bottom\floor.
+[Kojiroh] That's where I always see that lady,\Aqua.
+[Kojiroh] It's a phone booth...
+[Kojiroh] That phone booth is so clean; not covered\in advertisements.
+[Kojiroh] It's that confusing sculpture... What a\piece of crap!
+[Kojiroh] I just can't get interested in bad art.
+[Kojiroh] It's boring. I'm sick of looking at it.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] You want to go to Yayoi's place?
+[Kojiroh] I'm not crazy about going there, you\know...
+a023
+[Kojiroh] You want to go back to the office?
+a002
+[Kojiroh] The Princess Hotel, eh?
+[Kojiroh] Yeah, I'd like to stop by there for a\bit...
+a008
+[Kojiroh] Katsuragi Private Detective Offices...?\Okay, let's go.
+a003
+　Look/Investigate
+　Move
+　Speak
+　Buy
+　Headache medicine
+　Street girl
+[Kojiroh] Hey, toots!
+[Kojiroh] Where would I find one of them?
+[Kojiroh] Hey, toots!
+[Kojiroh] Two bottles? Three?
+[Kojiroh] Two will do. It says here that... Hey! It\even takes care of herpes!
+[Kojiroh] Great! I've done my shopping!
+[Kojiroh] There aren't any women like that around.
+[Kojiroh] I already bought the headache medicine.
+[Kojiroh] I no longer need to go to the drugstore.
+[Kojiroh] Well, maybe I should get some extra\medicine... Just in case.
+[Kojiroh] There's a 24 hour drugstore on Central\Avenue.
+[Kojiroh] Okay, time to go inside the drugstore
+eve_16
+[Pharmacist] How may I help you?
+[Kojiroh] What is this, a damn vegetable shop?
+[Pharmacist] What are you looking for?
+[Kojiroh] This is one energetic old fart.
+[Kojiroh] Headache medicine... Headache medicine...
+[Kojiroh] Hmm.... Oh, it's on the shelf.
+[Kojiroh] I can't reach it... I might need a\ladder.
+[Pharmacist] What'll it be today...
+[Kojiroh] I'll take that.
+[Pharmacist] Okay, this?
+[Kojiroh] Um, no.
+[Pharmacist] Oh, you mean this. Your wife must\really love you if she let's you play with this.
+[Kojiroh] Um, I'm single.
+[Pharmacist] Single? Oh, you shouldn't cheat on\your girlfriend!
+[Kojiroh] What the hell's the matter with you?
+[Pharmacist] You wanna take a dozen?
+[Kojiroh] Why would I need that?
+[Pharmacist] Oh, you're still young... You'll\probably use it all up in a week... There you go.
+[Kojiroh] Damn... I bought it...
+[Kojiroh] Oh well...
+[Kojiroh] But this isn't what I came here for. I\want THAT.
+[Pharmacist] You want that, too? Those are for\older couples... You're pretty kinky, huh?
+[Kojiroh] What are you talking about? ...Anyway,\I'm taking these pain killers. Here's the money.
+[Pharmacist] Thank you.
+007
+007b
+[Kojiroh] What the hell's up with that old man...
+Smash!
+[Kojiroh] Ouch...
+b09
+eve_39
+[Woman] Excuse me, I'm in a hurry...
+[Kojiroh] Sure thing...
+[Woman] Sorry... Bye.
+007
+007b
+[Kojiroh] ...
+[Kojiroh] That woman looks familiar...
+[Kojiroh] ...
+[Kojiroh] Where have I seen her before?
+[Kojiroh] ...
+[Kojiroh] Oh yeah! At the international school.
+[Kojiroh] I saw her come out of the school's\entrance. She was following another student, some\girl.
+[Kojiroh] Her enormous tits are what made such a\lasting impression on me.
+[Kojiroh] I wonder what she's up to this time...
+[Kojiroh] She was rushing off to somewhere...
+　Couple
+　Businessman
+[Girl] And when I make a demand on a man... Hey,\where are you going!!
+[Girl] When I bitch or nag at a man, that's not a\problem, is it?
+[Girl] If a man doesn't permit that, he's merely a\boy.
+[Girl] What? The guy beside me? Oh, he's not my\man. He's like a pet.
+[Girl] I was wondering... Could you put down the\model gun?
+[Girl] You're awful pushy...
+[Girl] Fine. I'll judge you on your appearance, how\attractive you are.
+[Girl] Your cock is more than 12 inches, isn't it?
+[Girl] I'd have to stick it in me several times a\day, everyday of the week...
+[Girl] Hey, what's gotten into you? Your eyes look\so wide.
+[Boy] Uh, according to my opinion...
+[Girl] Who asked your opinion? ...You have long\hair, like a glam rock band member.
+[Girl] What?! You want me to marry you?
+[Girl] Okay, but you have to pump me REAL good.
+[Girl] And you have to earn enough to buy me a\Ferrari along with my implants. You have to be\taller than 6 feet, and have graduated from a good\university.
+[Girl] I can see you shaking your model gun, you\weirdo.
+[Boy] Um, I enjoy shaking my own model gun...
+[Businessman] Okay, I'm off to buy a pedometer.
+[Businessman] I'll attach the pedometer to my\waist, and then I'll know how far I've walked in a\day.
+[Businessman] A pedometer is a machine that\displays how many steps I've taken.
+[Businessman] Oh, you know? Oops. Sorry.
+[Businessman] I'd probably feel great having it\attached to my prick.
+[Businessman] I had so much fun doing it, it was\dark when I noticed.
+[Businessman] I worked so hard... And this is the\life I lead...
+[Businessman] What's that? You want to know what I\do for a living?
+[Businessman] My job is to walk around aimlessly.
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] There's something suspicious about this\place. It's totally different than the area around\my office.
+[Kojiroh] Even at night, this place is thriving.
+[Kojiroh] That's why this place was given the name,\"The town that never sleeps."
+[Kojiroh] That damn place has 50 rooms, and if a\couple is in each room...
+[Kojiroh] ...That means there are 100 people in\there working towards producing offspring!!!
+[Kojiroh] It's a wild, crazy, mixed up world out\there.
+[Kojiroh] It's the Princess Hotel...
+[Kojiroh] That place is used for a meeting place on\dates...
+[Kojiroh] All those couple playing their brains\out... Jeez.
+[Kojiroh] Day or night, a phone booth is a phone\booth.
+[Kojiroh] Occasionally, a freak goes in there\wearing a suit and comes out in blue tights and a\cape.
+[Kojiroh] A phone booth at night is...
+[Kojiroh] ...
+[Kojiroh] ...Yup. Still a phone booth.
+[Kojiroh] It looks so different at night.
+[Kojiroh] The sculpture has a certain elegance at\night that it doesn't have during the day.
+[Kojiroh] I respect artistic geniuses.
+[Kojiroh] It's pretty good.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] There's something I'd like to do before\going to Yayoi's place.
+[Kojiroh] I don't really want to go there, to tell\you the truth.
+[Kojiroh] Fine. Let's go to Yayoi's.
+a023
+[Kojiroh] No, I don't want to go back to the office\yet.
+[Kojiroh] Okay, back to the office...
+a002
+[Kojiroh] You want to go to the hotel?
+a008
+[Kojiroh] That's right! The foxy lady was headed\towards the Princess Hotel.
+[Kojiroh] I can't get her out of my mind... I\wonder why?
+[Kojiroh] I've always followed my intuitions about\these things...
+[Kojiroh] Good or bad, I trust my hunches.
+[Kojiroh] Let's go after her.
+a008
+[Kojiroh] I came all this way, man... Shouldn't I\buy it?
+[Kojiroh] The Princess Hotel...
+[Kojiroh] Let's see... What to do, what to do...
+[Kojiroh] Decisions, decisions...
+[Kojiroh] Okay, let's go.
+a008
+[Kojiroh] Nah, I'd rather deal with the Katsuragi\Private Detective Offices later on.
+[Kojiroh] The Katsuragi Private Detective Offices?
+[Kojiroh] I'd prefer not to go there...
+a003
+　Look/Investigate
+　Move
+　Speak
+　Couple
+　Businessman
+[Kojiroh] I think I'm being ignored.
+[Kojiroh] I hate it when that happens.
+[Kojiroh] Hey, baby!
+[Girl] ...
+[Kojiroh] The bitch ignored me.
+[Kojiroh] Come on, baby! Let's get together and\talk about intercourse!
+[Girl] You look like a poor bastard in that outfit!
+[Kojiroh] I was just trying to discuss my social\discourse!
+[Boy] Don't ignore me...
+[Kojiroh] Hey, baby! Let's talk about blow jobs for\a while!
+[Girl] How dare you...
+[Kojiroh] Okay, let's skip the talking and get to\the action.
+[Girl] ...
+[Boy] Please... Don't ignore me.
+[Kojiroh] Ah, shaddap.
+[Businessman] Heh, heh...
+[Businessman] I just got paid today, and I'm off to\have some fun.
+[Businessman] There's a stripper I met last week.\She said she'd sit on my lap if I paid her a\hundred bucks.
+[Businessman] I'm too busy right now... I gotta go.
+[Businessman] Huh? Am I busy with work, you ask?
+[Businessman] No way. I'm just busy with all this\free time I have.
+[Businessman] I used to be busy. I had a year when\I worked 24 hours a day, everyday. Boy, was I a\sucker.
+　Surroundings
+　Princess Hotel
+　Phone booth
+　Sculpture
+[Kojiroh] This area is jumping, even in the\evening.
+[Kojiroh] Perhaps at night I'll see the city's\other "personality."
+[Kojiroh] It's so peaceful.
+[Kojiroh] Occasionally, you can see couples\screwing each other in alleyways, but other than\that, there's nothing strange at all.
+[Kojiroh] ...
+[Kojiroh] What's that? You find it strange?
+[Kojiroh] Actually, I've never stayed there. Not\once.
+[Kojiroh] And don't ask me why.
+[Kojiroh] That gigantic building before my eyes is\the Princess Hotel.
+[Kojiroh] It's known for charging outrageous\prices.
+[Kojiroh] Only government officials, and other rich\professionals can afford to stay there.
+[Kojiroh] That's quite a clean phone booth.
+[Kojiroh] ...And I find that strange.
+[Kojiroh] Pimps usually advertise their whores by\hanging flyers in phone booths.
+[Kojiroh] Sometimes they cover the entire glass\with advertisements. I plan to do the same to my\room someday.
+[Kojiroh] But this phone booth is spotless.
+[Kojiroh] I kinda liked it better filthy.
+[Kojiroh] That's a weird sculpture... Just a\goddamn sculpture!!
+[Kojiroh] It's one of those impressionist's or\something.
+[Kojiroh] All these artists trying to make a name\for themselves.
+[Kojiroh] The hell with it... I don't get it\anyway.
+[Kojiroh] I'll be sure to destroy it, when no one's\looking.
+　Warehouse district
+　Princess Hotel
+　Katsuragi Offices
+　Yayoi's apartment
+[Kojiroh] You wanna go to Yayoi's place?
+[Kojiroh] There's nothing to do there...
+a023
+[Kojiroh] Shit, you really want to go over to\Yayoi's?
+[Kojiroh] We'd better forget about that idea...
+[Kojiroh] If you say so... But you'll regret it.
+a023
+[Kojiroh] You want to go back to the office?
+a002
+[Kojiroh] The Princess Hotel?
+[Kojiroh] Let's see... What should I do...
+[Kojiroh] Decisions, decisions...
+[Kojiroh] Okay, let's go.
+a008
+[Kojiroh] Yeah... Glen is there waiting for me.
+[Kojiroh] Okay. It's off to the Princess Hotel.
+a008
+[Kojiroh] You want to go there? Again?
+[Kojiroh] I can't say I too excited about this...
+a003
+[Kojiroh] I'm not really up to it.
+[Kojiroh] Oh well, I have to return this electronic\organizer anyway.
+[Kojiroh] Okay, fine. Have it your way. Let's go to\the Katsuragi office.
+a003
+[Kojiroh] There's no reason to go there now.
+[Kojiroh] The Katsuragi Private Detective\Offices...? There's no use in going there.
+[Kojiroh] I'd better see Glen in the cocktail\lounge, first.

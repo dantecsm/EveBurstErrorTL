@@ -1,0 +1,671 @@
+0450
+[Purin] Over here, Kojiroh!
+[Kojiroh] (I guess she's excited.)
+[Kojiroh] Hey, you'll fall if you keep going this\fast...
+Purin trips.
+[Purin] Ouch... I fell over...
+[Kojiroh] Just calm down.
+[Purin] I'm so happy to finally be able to meet\this person.
+[Kojiroh] Good for you.
+[Kojiroh] (I wonder what kinda person this is...)
+[Kojiroh] (I hear they're to be the next successor\to the throne.)
+[Kojiroh] (It could be a prince, or maybe a\princess... Or something else.)
+[Kojiroh] ...
+[Kojiroh] (I should stand up straight and adjust my\collar.)
+[Kojiroh] (Nah, I'll just relax and be myself...)
+[Purin] This way, Kojiroh.
+[Kojiroh] Gotcha.
+Knock, knock.
+[Kojiroh] ...
+[Purin] ...
+[Kojiroh] What is it?
+[Purin] That's strange...
+Knock, knock.
+[Kojiroh] Why don't you use the key?
+[Purin] It's much more polite to knock before\entering.
+[Kojiroh] Whatever...
+[Kojiroh] (Hey...)
+[Kojiroh] (How was Purin able to get the key...)
+[Purin] Oh, well... Let's go in.
+[Kojiroh] Okay.
+We open the door...
+0450
+[Kojiroh] (Whoa...)
+[Kojiroh] ...
+[Kojiroh] Sorry, we didn't mean to disturb you.
+[Kojiroh] ...
+[Kojiroh] (What the...?)
+eve_40
+　Shoot
+　Hide
+　Kamikaze Attack
+[Kojiroh] (Kamikaze attacking isn't exactly one of\my hobbies.)
+[Kojiroh] (I can take one down with my gun... And\maybe two fighting...)
+[Kojiroh] (But it looks like there are five of\them...)
+[Kojiroh] (Damn...)
+[Kojiroh] (Yayoi...)
+[Voice] Shoot!
+[Kojiroh] Whooooooaaaaaaaaaa!0
+a026
+[Kojiroh] (It's useless to attack from a\barricade.)
+[Kojiroh] (I only have one shot left.)
+Bam, bam!
+[Kojiroh] (Shit, I'm screwed. Better hide.)
+[Kojiroh] Purin...
+[Prisia] Yes?
+[Kojiroh] Are your motor skills good?
+[Prisia] Well, yes... I was champion of the\breaststroke in high school.
+[Kojiroh] Okay, listen to me Purin...
+[Prisia] Yes?
+[Kojiroh] The next time I shoot, I want you to go\downstairs through that window.
+[Prisia] What?! But...
+[Kojiroh] Don't worry, there's usually only one guy\that comes through the window. If there was a\second, he would've come in already.
+[Prisia] So there's no more, right?
+[Kojiroh] Hopefully.
+[Prisia] ...
+[Kojiroh] If you could, go down about two floors...
+[Prisia] But, I... This is crazy...
+[Kojiroh] Sometimes survival requires a little\insanity. We're doing it.
+[Prisia] What about you though?
+[Kojiroh] I'll stay here and try to stop them.
+[Prisia] No!
+[Kojiroh] Hey, that's our only choice! We'll both\be killed otherwise...
+[Prisia] But...
+[Kojiroh] If I wanted to hear any buts, I'd put my\head next to your ass.
+[Prisia] Kojiroh!
+[Kojiroh] Yeah?
+0475
+eve_19b
+[Kojiroh] (Gulp.)
+[Prisia] I'm sorry I got you involved in this whole\mess...
+[Kojiroh] Don't worry, I'm enjoying it.
+[Prisia] Oh, Kojiroh...
+[Kojiroh] Come on, you'd better hurry.
+[Prisia] Kojiroh...
+[Kojiroh] What...?
+[Prisia] You're quite an order giver...
+[Kojiroh] Uh-oh... This means I've been bossing the\future queen around.
+[Prisia] I'll forgive you.
+0475b
+She kisses me.
+[Kojiroh] (Whoa baby!!!)
+[Prisia] ...
+[Kojiroh] ...
+0475
+[Prisia] You must stay alive...
+[Kojiroh] I will. Don't worry.
+[Prisia] ...
+[Kojiroh] Dying isn't one of my skills. Trust me.
+[Prisia] ...
+[Kojiroh] If you get away, run over to the\Katsuragi Private Detective Offices.
+[Prisia] Katsuragi...?
+[Kojiroh] Look for a scary bitch named Yayoi.\She'll be smoking a cigarette.
+[Prisia] Is she your woman...?
+[Kojiroh] Not quite... But we were close in the\past.
+[Prisia] ...
+[Kojiroh] She's someone I trust. That's all.
+[Prisia] If you trust her, I'll trust her.
+[Kojiroh] Good. I'll tell you her address, so pay\attention.
+[Prisia] Okay.
+[Kojiroh] If you get lost, ask someone in the area.\It's a well-known office.
+[Prisia] Okay.
+[Kojiroh] But whatever you do, don't mention my\name.
+[Prisia] Why not?
+[Kojiroh] Could you make it sound like you,\yourself, sought for her help?
+[Prisia] ...Okay.
+0450
+0450e
+Bammmm!0
+\ 
+[Kojiroh] Go!
+[Prisia] ...
+[Kojiroh] Hurry!!
+[Prisia] I'll see you again, Kojiroh! I'll be\waiting on the Tristan!!
+BAM!0
+0450
+\ 
+[Kojiroh] Gotcha!
+BAM!!! BAM!!!
+[Kojiroh] Dammit...
+eve_20
+BAM!0
+\ 
+[Prisia] Kojiroh!!
+[Kojiroh] Wait!!
+BAM!0
+0450
+\ 
+[Kojiroh] Come on!
+[Prisia] Kojiroh! Over at the window, behind you!
+[Kojiroh] Shit!
+BAM!0
+\ 
+0470
+[Kojiroh] Whew...
+[Prisia] What should I do...?
+[Kojiroh] (I was just about to ask the same\thing...)
+[Kojiroh] The gunfire has ceased... Now's my\chance.
+0450
+0450d
+BAM!0
+\BAM!0
+\\ 
+[Kojiroh] Did I miss...?
+[Kojiroh] Dammit!
+[Kojiroh] (I can't even twitch a muscle with all\these bullets flying around.)
+BAM! BAM!
+[Kojiroh] (See?)
+[Kojiroh] Bullets are flying everywhere...
+[Kojiroh] Only thing left to do is hide!
+[Kojiroh] Come on, dammit...
+[Kojiroh] I have to move my legs as fast as I can.
+BAM!0
+0450
+\ 
+[Kojiroh] Did it!!
+0450d
+BAM!! BAM!!!!
+[Kojiroh] Not another one!?!
+BAM!0
+\ 
+[Kojiroh] Damn, I missed...
+[Kojiroh] This is what I get for not practicing\lately...
+[Kojiroh] (Hiding won't do me any good.)
+[Kojiroh] (The next one'll have to be right on\target.)
+0470
+0470b
+BAM!
+[Kojiroh] Whew...
+[Kojiroh] I still have to polish up on my skills.
+[Kojiroh] The bastards are still coming.
+BAM!
+[Kojiroh] ...
+[Kojiroh] Uh-oh... I've only got one bullet left.
+[Kojiroh] Damn!
+BAM!
+[Voice] Over here. Step on it!
+[Voice] Hurry up and seize him!
+[Voice] But he's got a gun... And he's got a pretty\good aim.
+[Voice] He's one man against the three of us.
+[Voice] We have the advantage in firepower.
+[Voice] Use the machine gun!
+[Kojiroh] ...
+[Kojiroh] A what?! Shit... I'll be Swiss cheese!
+[Kojiroh] Kojiroh Amagi... Dies like Swiss\cheese... Yeah, right!
+[Kojiroh] There're things I still have to do in my\life.
+[Voice] Here's the machine gun...
+[Voice] Good. Blast him.
+[Kojiroh] ...
+[Kojiroh] (I'm already hiding...)
+[Kojiroh] (But this sofa isn't exactly holding up\so great.)
+[Kojiroh] (The gunfire has let up. Now's my\chance.)
+[Kojiroh] (I love the adrenaline rush in these\situations...)
+[Kojiroh] I'll just use myself as bait.
+[Prisia] NO!
+[Kojiroh] We can't just stay here...
+BAM!BAM!
+[Kojiroh] ...See?
+[Prisia] Let me be the bait...
+[Kojiroh] Stop talking crazy, woman... They're\after YOU...
+[Prisia] But...
+[Kojiroh] No buts.
+[Prisia] But still...
+[Kojiroh] No still butts. I like mine jiggly.
+[Prisia] Please listen!
+BAM!
+[Kojiroh] (God damn, they're annoying.)
+[Kojiroh] This gunfire is too heavy to be dicking\around like this.
+0470
+[Kojiroh] Hmm...
+[Prisia] How are you doing, Kojiroh?
+[Kojiroh] I've had better days, but I'm doing okay.
+[Prisia] ...
+[Kojiroh] (The truth is, I can't remember anything\worse...)
+[Kojiroh] (Damn, they just keep on coming.)
+[Kojiroh] (We're in deep shit...)
+[Prisia] ...
+BAM!BAM! BAM!
+[Kojiroh] (Dammit! Shoot! They're not firing right\now!)
+[Kojiroh] Hey.
+[Prisia] Yes?
+[Kojiroh] What words do I use to tell the future\queen that I want to hold her close to me?
+[Prisia] What...?
+0465
+eve_19a
+HUG...
+[Prisia] Whoa...
+[Kojiroh] I just wanted to feel a queen's body next\to mine.
+[Prisia] Kojiroh...
+[Kojiroh] Yeah, Purin?
+[Prisia] ...
+[Kojiroh] Don't try to be brave... You'll get tired\quickly.
+[Prisia] But...
+[Kojiroh] Just act casual, you know? Hang loose.
+[Prisia] How... How irresponsible!
+[Kojiroh] Call me what you want... But I think\you'll do much better that way.
+[Prisia] But...
+HUG...
+[Prisia] Whoa...
+[Kojiroh] I've seen people just ruined by stress...\I don't want you doing that.
+[Prisia] All you're doing is bossing me around,\right?
+[Kojiroh] I enjoy telling a future queen what to\do.
+[Prisia] Shut up...
+0465b
+eve_19b
+[Prisia] I'm scared... I'm so scared!!
+[Kojiroh] It's all right.
+[Prisia] The political world isn't a place for\normal people... It's a place for selfish, hateful\old farts.
+[Kojiroh] You'll be just fine, Purin.
+[Prisia] Why do you say so?
+[Kojiroh] I can just tell.
+[Prisia] How?
+[Kojiroh] I just can.
+[Prisia] ...
+[Kojiroh] ...
+[Prisia] Kojiroh...
+[Kojiroh] Yeah?
+[Prisia] Are you sure?
+[Kojiroh] About what?
+[Prisia] I'll be okay?
+[Kojiroh] Definitely.
+[Prisia] You think so?
+[Kojiroh] I know so.
+[Prisia] Do you swear to Allah?
+[Kojiroh] I swear to Allah.
+[Prisia] Kojiroh...
+[Kojiroh] Yeah?
+[Prisia] I have something to tell you.
+[Kojiroh] Spit it out, woman!
+BAM!0
+\ 
+[Prisia] What's happening?!
+[Kojiroh] It was a gunshot... It came from over by\the door.
+BAM!!
+The door opens.
+eve_20
+[Kojiroh] (Shit! Someone came in through the door!)
+[Voice] There they are, over there!
+[Voice] Take the woman alive!
+[Kojiroh] Purin! Get behind the sofa!!
+[Prisia] Okay!
+BAM!!
+0470
+[Prisia] What are you going to do, Kojiroh?
+[Kojiroh] I'll think of something...
+[Voice] Here! In the shadow of the sofa!
+[Voice] Block the stairs!
+[Kojiroh] Shit...
+[Prisia] Now what'll we do?
+[Kojiroh] The shooting has stopped... Cover your\ears, Purin.
+[Prisia] Okay.
+0450
+0450c
+　Look/Investigate
+　Move
+　Speak
+　Hug
+　Save/Load
+　Save
+　Load
+　Prisia
+　Prisia
+[Prisia] I... I...
+[Kojiroh] Purin...
+[Prisia] Stoleman told me to go to you, if anything\happens.
+[Kojiroh] Kou?
+[Prisia] Yes. And he was right.
+[Kojiroh] (But why?? Kou and I aren't acquainted at\all...)
+[Prisia] Kojiroh, you did so much for me... I don't\know how I can repay you.
+[Kojiroh] Nah, I just had you do some chores.
+[Prisia] And it was so fun when we went to the\pool.
+[Kojiroh] I remember it well.
+[Prisia] Me too.
+[Kojiroh] So you know everything about Purin being\at my office...
+[Prisia] I remember it completely.
+[Kojiroh] And about cooking meals.
+[Prisia] Everything.
+[Kojiroh] And the housecleaning and laundry.
+[Prisia] Of course.
+[Kojiroh] And the time we took a bath together?
+[Prisia] ...
+[Kojiroh] (She's turning bright red...)
+[Prisia] ...
+[Kojiroh] ...
+[Prisia] I...
+[Kojiroh] Yes?
+[Prisia] I must partake in the commemoration for\the Eldian Republic...
+[Kojiroh] I see...
+[Prisia] Stoleman was like a father to me. He was\very kind, but...
+[Kojiroh] ...
+[Prisia] But now... Stoleman's dead...
+[Kojiroh] Purin...
+[Kojiroh] (Is she shaking...?)
+[Prisia] If I said that I was scared, I'd probably\fail as Queen.
+[Kojiroh] Listen, even a queen is human.
+[Prisia] But the public won't see me as the same.
+[Kojiroh] They think you're special, right?
+[Prisia] Yes, and my job is to meet their\expectation.
+[Kojiroh] ...
+[Kojiroh] (This is ridiculous.)
+[Prisia] I was supposed to receive something from\Stoleman.
+[Kojiroh] I heard.
+[Prisia] He was to give me the original plate for a\silkscreen.
+[Kojiroh] ...A plate? A silkscreen?
+[Prisia] Yes, I was going to get the original\printing plate from him.
+[Kojiroh] By any chance, is it in two pieces?
+[Prisia] That's the one. It's useless without both\of the pieces.
+[Kojiroh] So what's the secret behind that little\piece of artwork?
+[Prisia] That little picture happens to be our\National Seal.
+[Kojiroh] That thing is your...National Seal?!
+[Prisia] Yes, it's the one and only symbol of the\Eldian Republic.
+[Kojiroh] So it's like the national stamp or\something, right?
+[Prisia] Yes. I need that symbol to take the\throne. It's our national tradition.
+[Kojiroh] You can't become royalty without it?
+[Prisia] That's correct.
+[Kojiroh] What if someone else comes up with it?
+[Prisia] That's a situation we'd like to avoid at\all costs.
+[Kojiroh] So let me get this straight. If I had\that National Seal, I can be the King?
+[Prisia] A little extreme, but yes.
+[Kojiroh] The National Seal...
+[Prisia] Our country has fought for the National\Seal countless times.
+[Kojiroh] Fought...?
+[Prisia] Yes... Blood flowed into every river on\the continent.
+[Kojiroh] Wow... So that's the curse...
+[Prisia] It may be called a curse. Everyone who has\carried that seal has met death...
+[Kojiroh] So that's why...
+[Prisia] Lachal served the royalty for years, but\after creating the National Seal, he took his own\life.
+[Kojiroh] I get it... He couldn't live with himself\anymore...
+[Kojiroh] (So that fat bastard was trying to get\the National Seal...)
+[Kojiroh] (What the hell was he up to...)
+[Kojiroh] Do you happen to know a fat Chinese dude?
+[Prisia] A fat Chinese dude?
+[Kojiroh] ...
+[Prisia] I don't know.
+[Kojiroh] So, you don't know who has the damn\thing...
+[Prisia] It could be anyone.
+[Kojiroh] I'm sure that's why Kou was killed...\There's no doubt about it.
+[Prisia] He died protecting the National Seal...
+[Kojiroh] Should I call you Purin or Prisia?
+[Prisia] Either one will do. Whatever you prefer...
+[Kojiroh] Mind if I call you Purin?
+[Prisia] Not at all.
+[Kojiroh] Who do you think killed Kou? Well,\"Terror" is the assassin who killed him... But who\hired the assassin?
+[Prisia] It was undoubtedly a member of the reform\party.
+[Kojiroh] ...
+[Prisia] Stoleman knew that he was in a dangerous\situation. We were trying to come up with an\imitation, and that's when we lost contact with\him.
+[Kojiroh] ...
+[Prisia] There are some radical reforms occurring\in the Eldian Republic.
+[Kojiroh] I heard.
+[Prisia] After the previous king passed away, our\nation is rapidly incorporating democracy.
+[Prisia] Prime Minister Lloyd has taken leadership,\and wants to end the monarchy. She plans to govern\under the command of the cabinet.
+[Kojiroh] So, the nation is swaying towards a\democratic government.
+[Prisia] That could very well be, if the people\want that.
+[Kojiroh] What do you think?
+[Prisia] Once the wave of democracy begins, there\is no stopping it. But the people need to be\properly educated about the advantages and\disadvantages.
+[Kojiroh] ...
+[Prisia] If they don't... The people will be ruled\by the government.
+[Kojiroh] What does the Prime Minister - I mean,\the reform party plan to do?
+[Prisia] The reform party wants to sell Eldia to\other countries to be controlled.
+[Kojiroh] Sell the country?
+[Prisia] That is correct. Some politicians are\trying to make money by sacrificing their\countrymen.
+[Kojiroh] But those bastards need Eldia to maintain\their power, right? If Eldia is controlled by some\other country then...
+[Prisia] Eldia will survive as another country's\territory.
+[Kojiroh] ...
+[Prisia] I hope to avoid that. I can't stop the\people from wanting democracy... But I think\they're moving too fast... I don't think they're\ready for it.
+[Kojiroh] But if you become the Queen...
+[Prisia] That's right. That's why they want to stop\my commemoration ceremony at all costs.
+[Kojiroh] Are you the King's daughter?
+[Prisia] No, the King didn't leave any heirs. I am\his niece.
+[Kojiroh] I see... So you're blood relatives.
+[Prisia] It's an old method... But that's the way\it is.
+[Kojiroh] Okay, so the reform party is gonna try to\interrupt the commemoration tomorrow?
+[Prisia] I don't think so. I think they're going to\let someone else take the Queen's position with the\National Seal.
+[Kojiroh] Who?
+[Prisia] According to Stoleman, the person is\Ambassador Mido's daughter.
+[Kojiroh] What!?!
+[Kojiroh] (That would be Mayako Mido...)
+[Kojiroh] (She's going to be the Queen...?)
+[Prisia] I am to become the next Queen of Eldia.
+[Kojiroh] The next queen?
+[Prisia] But it's top secret. It will be announced\during tomorrow's commemoration.
+[Kojiroh] Tomorrow? Then what the hell are you\doing here...?
+[Prisia] The commemoration will take place on the\Tristan.
+[Kojiroh] The what...?
+[Prisia] Tristan. It's the boat you can see from\your office.
+[Kojiroh] You mean that ship's an Eldian cruiser?
+[Prisia] I gave the boat its name.
+[Kojiroh] What does Tristan mean?
+[Prisia] It's a character's name in a classic.
+[Kojiroh] You're such a romantic.
+[Prisia] I do my best.
+[Kojiroh] Why is everyone so secretive about you\becoming the next queen?
+[Prisia] Because if I become the Queen, there would\be an internal conflict within the government.
+[Kojiroh] You mean, like a domestic dispute?
+[Prisia] I guess you can call it a simple struggle\for power.
+[Kojiroh] I see.
+[Prisia] The only ones who knew this was Stoleman\and those who work for the royal family.
+[Kojiroh] ...
+[Prisia] Stoleman used a drug on me when I arrived\in Japan, about one week before the commemoration.
+[Kojiroh] Drug?
+[Prisia] A drug that his father made. It puts the\person under a heavy hypnosis of some kind.
+[Kojiroh] His father was the Chief of the Science\Ministry...right?
+[Prisia] That's right.
+[Kojiroh] What sort of drug was it?
+[Prisia] I don't know the actual, technical name...\But if you use them, you can cover up your real\personality.
+[Kojiroh] So it is hypnosis...
+[Prisia] It's stronger than hypnosis, though. It\can work on anyone.
+[Kojiroh] I see... And this is what's happened with\you and Purin.
+[Prisia] Therefore, I became Purin rather than\Prisia. And instead of the queen, I'm became a\servant to the queen.
+[Kojiroh] I see... So this way, no one knows where\the future queen is.
+[Prisia] When you take this drug, you also\incorporate a keyword which acts as a switch to\come out of the hypnotic state.
+[Kojiroh] Could it be a stanza from that poem?
+[Prisia] Yes... My mother read me that stanza to me\when I was a child.
+[Kojiroh] But nothing happened when I showed you\the note that time.
+[Prisia] Merely looking at it has no effect. I have\to hear it.
+[Kojiroh] Oh... That's why.
+[Prisia] Yes... I put the poem around the doll's\neck for someone to read.
+[Kojiroh] What if no one read the stanza...
+[Prisia] I would forever be Purin...
+[Kojiroh] Wow...
+[Prisia] ...
+[Kojiroh] And you said, it affects anyone?
+[Prisia] Yes.
+[Kojiroh] That's some dangerous shit...
+[Prisia] That's right.
+[Kojiroh] So there are others who think the same?
+[Prisia] We first thought it might be useful in the\medical field. But the former Intelligence Sector\wanted to use it during interrogations.
+[Kojiroh] You said that it was created by the\Ministry of Science.
+[Prisia] That's right. Stoleman's father was the\creator.
+[Kojiroh] Could that possibly be the Project C?
+[Prisia] What's that?
+[Kojiroh] Haven't you heard it?
+[Prisia] No.
+[Kojiroh] Oh.
+[Prisia] ...
+[Kojiroh] You said your name was Prisia... Didn't\you?
+[Prisia] Yes.
+[Kojiroh] Are you sure you're not... Purin?
+[Prisia] Purin and I are the same person. Purin is\just one of the personalities that I was given.
+[Kojiroh] You were given a personality?
+[Prisia] I should probably start explaining things\from the beginning.
+[Kojiroh] You know who I am, don't you...
+[Prisia] Yes. Purin's memories are mine as well.\Everything she remembers, I remember.
+[Kojiroh] ...
+　Prisia
+　Eyes
+　Hair
+　Clothing
+[Kojiroh] (The girl in front of me is definitely\Purin.)
+[Kojiroh] (It couldn't possibly be anyone else.)
+[Kojiroh] (It's just gotta be Purin.)
+[Kojiroh] (She said that she's also Purin...)
+[Kojiroh] (She's staring at me...)
+[Kojiroh] (Those eyes... The left one's blue, the\right one's gold.)
+[Kojiroh] (It's just gotta be Purin...)
+[Kojiroh] (She must be Purin... There's no one else\who looks like that.)
+[Kojiroh] (Her hair's like golden silk...)
+[Kojiroh] (It's Purins hair.)
+[Kojiroh] (That's the outfit I lent to Purin.)
+[Kojiroh] (Wait a minute...)
+[Kojiroh] (Clothes Purin was wearing...)
+[Kojiroh] (Why is this woman wearing them...?)
+　Leave the room
+[Kojiroh] (Maybe I'd better ask Prisia what's going\on...)
+[Kojiroh] (Wait a minute...)
+[Kojiroh] (Shouldn't I ask Prisia what the hell is\going on?)
+0450b
+[Kojiroh] Is this some sort of joke...?
+[Kojiroh] It's a doll, and she's on that chair\wearing a wig!
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Leave the room
+[Kojiroh] Hey, wait a minute...
+[Kojiroh] Just what the hell's going on...?!?!
+　Save
+　Load
+　Purin
+　Doll
+[Kojiroh] Dolls don't respond.
+[Kojiroh] Hey...
+[Kojiroh] ...For Christ's sake, it's a doll! It\can't respond.
+[Purin] ...
+[Kojiroh] (Purins awfully quiet...)
+[Kojiroh] Hey, Purin!
+[Purin] Yes.
+[Kojiroh] What kind of a joke is this...
+[Purin] What's the matter?
+[Kojiroh] Nothing's the matter... There's a doll\sitting here.
+[Purin] A doll?
+[Kojiroh] What's going on here?
+[Purin] ...
+[Kojiroh] Purin...
+[Purin] ...
+[Kojiroh] Hey, tell me. What's going on here?
+[Purin] ...
+[Kojiroh] (What the hell is going on here!)
+　Doll
+　Hair
+　Purin
+[Kojiroh] Hey, there's a plaque there...
+[Kojiroh] And there's something written on it.
+Hmm...
+[Purin] What does it say?
+[Kojiroh] Let's see... It looks like a stanza from\that poem.
+[Purin] That poem?
+[Kojiroh] Yeah, the one on the note I showed you.
+[Purin] ...
+[Kojiroh] "The moon will be full, the oasis will\flourish, and green shall return to the desert."
+[Kojiroh] I still don't understand what this damn\thing means.
+[Kojiroh] ...
+[Kojiroh] ...Purin?
+[Voice] "The moon will be full, the oasis will\flourish, and green shall return to the desert."
+[Kojiroh] Say what?
+[Voice] It's an ancient poem, kept within our royal\family.
+[Kojiroh] What...?!
+0460
+[Kojiroh] ...Purin?
+[Woman] You've come very far...
+[Kojiroh] Aren't you Purin?
+[Woman] Yes and no.
+[Kojiroh] What have you done with Purin?
+[Woman] Perhaps I should introduce myself.
+[Kojiroh] Who the hell are you...
+[Woman] I am, or Purin, is a member of the royal\family.
+[Kojiroh] Royal family?
+[Woman] My name is Prisia Lem Clime, the next\successor to the throne.
+eve_08
+[Kojiroh] Prisia? Don't you mean, Purin?
+[Prisia] I'm Prisia, but I'm also Purin...
+[Kojiroh] Maybe you've had a little too much to\drink...
+[Prisia] I know this is hard for you to grasp...\Let me explain from the very beginning.
+[Kojiroh] ...
+[Kojiroh] (This girl is Purin AND Prisia??)
+[Kojiroh] (This is crazy...)
+[Kojiroh] (It's just a normal doll...)
+[Kojiroh] (It's just a normal, everyday doll... No\special features or anything.)
+[Kojiroh] (But why the hell is it sitting right\here...?)
+[Kojiroh] (The light reflects off it... It shines\gold.)
+[Kojiroh] (It's a blonde wig...)
+[Kojiroh] (I don't get it. Why do dolls need\hairpieces?)
+[Kojiroh] (Purin is stone silent...)
+[Kojiroh] (She looks flabbergasted...)
+[Kojiroh] (Her blue and gold eyes are looking\straight at me.)
+　Look/Investigate
+　Move
+　Speak
+　Approach
+　Save/Load
+　Save
+　Load
+　Chair in the middle
+[Kojiroh] Sure, let's have a closer look.
+[Purin] Kojiroh... I feel something strange.
+[Kojiroh] (She's right. There's something fishy\about this.)
+[Kojiroh] Excuse me, but...
+[Kojiroh] ...
+[Kojiroh] Oh shit!0
+0450b
+eve_52
+eve_15
+\ 
+　Purin
+　Girl on chair
+[Purin] I'm scared...
+[Kojiroh] Purin...
+[Purin] I feel so... Strange...
+[Kojiroh] Hey, what's the matter...
+[Purin] I don't know... I'm scared!
+[Kojiroh] We do have the right room, right?
+[Purin] Yes... Um, No... Uh, yes...
+[Kojiroh] Make up your mind.
+[Purin] I just don't know... I feel weird. I just\don't know!!
+[Kojiroh] (What the hell is going on?)
+[Kojiroh] So that's her, huh?
+[Purin] ...
+[Kojiroh] Come on, what's wrong?
+[Purin] I'm sorry... I just can't explain it. I\feel so bizarre...
+[Kojiroh] ...
+[Kojiroh] (Something's not right here...)
+[Woman] ...
+[Kojiroh] (She's not responding...)
+[Kojiroh] Hey...!
+[Woman] ...
+[Kojiroh] Fire!!
+[Woman] ...
+[Kojiroh] Are you listening to me!?
+[Woman] ...
+[Kojiroh] Maybe she's sleeping...
+[Kojiroh] Sorry, but I was wondering...
+[Woman] ...
+[Kojiroh] Pardon me, but...
+[Woman] ...
+[Kojiroh] Purins back.
+[Woman] ...
+[Kojiroh] (Dammit! What the hell is going on here!)
+　Surroundings
+　Chair in the middle
+　Purin
+　Lights
+[Kojiroh] (It's quite relaxing and comfortable...)
+[Kojiroh] (It's not very spacious, but it's\relaxing and comfortable.)
+[Kojiroh] (A rather chic room.)
+[Kojiroh] (But is someone sitting on that chair...)
+[Kojiroh] (She must be sleeping.)
+[Kojiroh] (What could she be doing?)
+[Kojiroh] (Why doesn't she respond to me...?)
+[Kojiroh] (Someone's there...)
+[Kojiroh] (Long blonde hair... Could that be the\high-class, noble person?)
+[Kojiroh] (It looks like a woman from here...)
+[Kojiroh] (Purin is silent.)
+[Kojiroh] (What's Purin so afraid of...?)
+[Kojiroh] (This isn't that scary...)
+[Kojiroh] (She's frozen stiff...)
+[Kojiroh] (The lights are burning dim.)
+[Kojiroh] (The lights sure aren't very bright.)
+[Kojiroh] (It's the living room.)
+　Go outside
+[Kojiroh] (What are you doing?)
+[Kojiroh] (We just got here...)
+[Kojiroh] (But something's strange about this whole\thing.)

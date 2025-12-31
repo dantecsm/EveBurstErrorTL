@@ -1,0 +1,329 @@
+009
+eve_09
+[Kojiroh] So this is the cocktail lounge...
+[Kojiroh] There's no chance I'd find Kou here.
+009
+eve_09
+[Kojiroh] It's the cocktail lounge...
+[Kojiroh] That waitress is here again.
+009
+eve_09
+[Kojiroh] I'm at the cocktail lounge again...
+I look around the place...
+b20
+[Waitress] Hi, what brings you here honey...?
+[Kojiroh] I'm here to taste your honey.
+[Waitress] Hey now.
+[Kojiroh] ...
+[Waitress] Lemme know if you need anything, honey.
+009
+[Kojiroh] I'll order something on a night she's off.
+009
+eve_09
+[Kojiroh] I'm at the cocktail lounge...
+009
+eve_09
+[Kojiroh] I'm back in the cocktail lounge...
+[Kojiroh] That waitress... She's not here.
+[Kojiroh] She said she was only here in the afternoon... I guess it's already evening.
+[Kojiroh] Well I'm glad she's gone. I can enjoy myself now.
+[Woman's voice] Kojiroh.
+[Kojiroh] ...?
+b18
+[Kojiroh] Well, whadda ya know... It's Aqua.
+[Aqua] Hello.
+[Kojiroh] What brings you here?
+[Aqua] Hey, this is my spot right here.
+[Kojiroh] But it's still during the day... or not evening at least.
+[Aqua] Sometimes I like dropping by whenever I feel like it.
+[Kojiroh] ...
+[Kojiroh] (She looks slightly nervous...)
+[Aqua] This place feels a bit strange today...
+[Kojiroh] Huh?
+[Aqua] I met a cop wandering around the lobby... He asked me some questions.
+[Kojiroh] These hotels are filled with pretentious bastards.
+[Aqua] ...
+[Aqua] Hey, didn't I hear you say that you could enjoy yourself because someone wasn't here?
+[Kojiroh] Huh?
+[Aqua] Am I bothering you...?
+[Kojiroh] No, no... It has nothing to do with you.
+[Aqua] ...
+[Kojiroh] If you want proof, look into my eyes!
+[Aqua] Stop looking at me like a baboon. Ha, ha...
+[Kojiroh] Yeah, yeah... Let's have a drink. That's what you came for, right?
+[Aqua] Sure.
+[Kojiroh] It's on me.
+[Aqua] What a strange gentleman you are...
+[Kojiroh] What's strange?
+[Aqua] It's like you can just forget about all your troubles... So easily.
+[Kojiroh] (At least she looks a little happier now.)
+009
+009c
+[Aqua] Have a seat too, Kojiroh.
+[Kojiroh] Thanks.
+　Look/Investigate
+　Move
+　Order
+　Bourbon
+　Whisky
+　Wine
+　Beef
+[Kojiroh] I don't feel like ordering anymore...
+[Kojiroh] I'll have a bourbon.
+[Kojiroh] But then again, I might regret it later...
+[Kojiroh] I'll pass for now.
+[Kojiroh] Dammit, I said I didn't feel like ordering...
+[Kojiroh] I wonder if they have any whiskey...
+[Kojiroh] That's odd... They don't have whiskey here.
+[Kojiroh] That gives me the blues...
+[Kojiroh] I don't want to order.
+[Kojiroh] Though I'd like some wine.
+[Kojiroh] That bitch will return if I order anything.
+[Kojiroh] How many times do I have to say it - I don't want to order!
+[Kojiroh] Beef!?!
+[Kojiroh] The last thing I need is that pig to come sniffing around me...
+[Kojiroh] Forget about it.
+　Surroundings
+　Sake
+　Ceiling fans
+　Lights
+[Kojiroh] I'd like to meet Aqua again sometime...
+[Kojiroh] I think about her every time I come here...
+[Kojiroh] There's hardly anyone in this cocktail lounge...
+[Kojiroh] But I like the quiet atmosphere here...
+[Kojiroh] I don't want to order anything.
+[Kojiroh] You understand the reason, don't you?
+[Kojiroh] I'm not up for drinking right now...
+[Kojiroh] And that stupid waitress is here...
+[Kojiroh] Nice interior... The ceiling fans aren't moving.
+[Kojiroh] It's an old-fashioned interior.
+[Kojiroh] But for some reason, I feel very comfortable...
+[Kojiroh] It's not too bright, not too dark... It's just right.
+[Kojiroh] I like my bars to be dim.
+[Kojiroh] This place suits me just fine.
+　Go outside
+　Hotel lobby
+[Kojiroh] Yeah, let's get out of this hotel.
+a007
+[Kojiroh] To the hotel lobby...
+a008
+　Look/Investigate
+　Move
+　Order
+　Bourbon
+　Whiskey
+　Wine
+　Beef
+[Kojiroh] I don't want to order anything.
+[Kojiroh] I'll have a bourbon.
+Looks tasty...
+[Kojiroh] Can't wait to drain the glass...
+[Kojiroh] Everything's perfect. It'd be even better if that bitch was gone.
+[Kojiroh] I don't feel like ordering now...
+[Kojiroh] I wonder if they have whiskey...
+[Kojiroh] I don't get it... Why doesn't this place have any whiskey?
+[Kojiroh] It's enough to make a man sad...
+[Kojiroh] I don't feel like ordering now...
+[Kojiroh] Oh yeah, I wanted some wine.
+[Kojiroh] I'll take some of the good stuff, made in 2101!
+[Kojiroh] ...
+[Kojiroh] Don't even think of ignoring me...
+[Kojiroh] I don't feel like ordering anything now...
+[Kojiroh] Beef!
+How scrumptious...
+I gobble it down.
+[Kojiroh] Check please!
+　Surroundings
+　Sake
+　Ceiling fans
+　Lights
+[Kojiroh] This cocktail lounge suits me just fine...
+[Kojiroh] If only that damn waitress was gone...
+[Kojiroh] I wonder if I'll ever see Aqua again...
+[Kojiroh] Maybe I'll see her if I come here at night.
+[Kojiroh] Let's not order anything right now.
+[Kojiroh] You do understand the reason, don't you?
+[Kojiroh] There seems to be a good selection of alcohol here...
+[Kojiroh] But it looks like they don't have the certain gin I like.
+[Kojiroh] It's supposed to get rid of the cold too.
+[Kojiroh] Nice interior... The ceiling fans aren't moving.
+[Kojiroh] But they're a hell of a lot more useful than that damn waitress.
+[Kojiroh] This is definitely an old-fashioned interior.
+[Kojiroh] It's not too light, not too dark... It's just right.
+[Kojiroh] I like my bars to be dim.
+[Kojiroh] This place suits me just fine.
+　Go outside
+　Hotel lobby
+[Kojiroh] Yeah, let's get out of this hotel.
+a007
+[Kojiroh] Either way, there's nothing to do now...
+[Kojiroh] Fine. Let's go.
+a008
+　Look/Investigate
+　Move
+　Speak
+　Order
+　Alcohol
+　Aqua
+　Call Girl
+[Kojiroh] I already have... For now, let's listen to what Aqua has to say.
+[Kojiroh] I already ordered another glass of whiskey...
+[Kojiroh] I can't get wasted this early in the afternoon. Right?
+[Aqua] You must have high tolerance for booze...
+[Aqua] Aren't you going to order anything?
+[Kojiroh] Okay, I'll have a glass of whiskey.
+[Aqua] Phew, now what if we get wasted together at this time of day?
+[Kojiroh] I'll take you up to your room.
+[Aqua] Then you'll try to get me into bed with you, aren't you?
+[Kojiroh] No one trusts me these days...
+[Kojiroh] I want you...
+[Aqua] Excuse me...?
+[Kojiroh] ...
+[Kojiroh] This stuff is good, but the egg is loaded with cholesterol.
+[Aqua] Yes, it is... I'm trying not to eat that part.
+[Kojiroh] (What the hell are we talking about?)
+[Kojiroh] I want you, Aqua...
+[Aqua] Is this about the egg...?
+[Kojiroh] (Okay, now I'm sure she's avoiding the issue...)
+[Kojiroh] Dammit, I want you...
+[Aqua] You want me to eat the egg? Well, I really shouldn't...
+[Kojiroh] Jesus...
+[Kojiroh] (Her face looked pretty scary just a minute ago...)
+[Kojiroh] (Damn it. I'd better stop this before I humiliate myself even worse.)
+[Kojiroh] Hey bartender, can you hook me up with a cute call girl?
+[Aqua] ...
+[Kojiroh] Sorry... I was just, you know, joking...
+[Kojiroh] (Uh-oh... She doesn't look happy...)
+　Aqua
+[Aqua] You're not asking me the right questions.
+[Kojiroh] Say what?
+[Aqua] Haven't you noticed that I look a bit down today?
+[Kojiroh] Yeah. Actually I have.
+[Aqua] ...
+[Kojiroh] Will you answer me if I ask you?
+[Aqua] Um...
+[Kojiroh] See what I mean?
+[Aqua] Listen, I know you've been trying to cheer me up today...
+[Kojiroh] I haven't really tried, yet.
+[Aqua] And I thank you for that...
+[Kojiroh] Like I said, you don't need to thank me, yet.
+[Aqua] Oh, you're right. It's just that there's some trouble I'm having at work.
+[Kojiroh] With work, eh?
+[Aqua] I work in the service business.
+[Kojiroh] Service...business?
+[Kojiroh] (She couldn't mean like a call girl...could she?)
+[Kojiroh] (I wonder if it's okay to ask her about it...)
+Aqua giggles...
+[Kojiroh] ...
+[Aqua] You're nice. I like people who understand.
+[Kojiroh] (Uh-oh.)
+[Aqua] Well, I'd better be going...
+[Kojiroh] Already?
+[Aqua] Yes... I have several customers to attend to.
+[Kojiroh] You think we might be able to meet again?
+[Aqua] I'm sure we could work something out...
+009
+[Kojiroh] ...
+[Kojiroh] She's gone...
+[Kojiroh] I'd love to work something out with her... I'll come here more often.
+[Kojiroh] By the way...
+[Aqua] Yes?
+[Kojiroh] How's your daughter?
+[Aqua] What...?
+[Kojiroh] Well, the day before yesterday you told me you had a daughter.
+[Aqua] Oh... She's doing just fine. Only, I haven't seen her for a little while.
+[Kojiroh] Is she in Japan?
+[Aqua] No, she's overseas...
+[Kojiroh] Wow... If she's anything like you, I'm sure she's gorgeous.
+[Aqua] I guess you could say that...
+[Kojiroh] (Okay... I only tried to change to a happy subject.)
+[Aqua] Let's not talk about my daughter right now.
+[Kojiroh] Why not?
+[Aqua] I'm not so fond of kids, in general.
+[Kojiroh] (She sure has changed since the day before yesterday.)
+[Kojiroh] (Yeah, she's definitely depressed about something...)
+[Aqua] How's your work coming along?
+[Kojiroh] I just finished a big job yesterday.
+[Aqua] Congratulations...should I say.
+[Kojiroh] But it's only the beginning...
+[Aqua] ...Is it a difficult case?
+[Kojiroh] It's weird. I'm making good progress on it, but there are still things that confuse me...
+[Aqua] Would you mind telling me the story?
+[Kojiroh] Um, let's see...
+[Aqua] Only if you don't mind.
+[Kojiroh] Let's say you have this precious ring, and you want to find it.
+[Aqua] Sounds interesting already.
+[Kojiroh] But you don't want anyone to find out it's you who's looking. What would you do?
+[Aqua] I'd look for it myself.
+[Kojiroh] And what if the task is too big for you?
+[Aqua] I'd ask someone else... But then they'd know about it, huh.
+[Kojiroh] Exactly.
+[Aqua] Well, couldn't I just use an alias?
+[Kojiroh] That's what I'm figuring...
+[Aqua] ...
+[Kojiroh] That's the kind of case I was working on.
+[Aqua] But even if you use an alias, you can't just choose any old name... right?
+[Kojiroh] ...
+[Kojiroh] (She's got a point there...)
+[Kojiroh] (There must've been a reason Kou chose that name...)
+[Kojiroh] ...
+[Aqua] Long time no see... It's been two days already.
+[Kojiroh] If that feels like a long time, we must have a strong bond together.
+[Aqua] You're an interesting man, Kojiroh. I'm never bored around you.
+[Kojiroh] I'll take it as a compliment.
+[Aqua] Anytime, Kojiroh...
+[Kojiroh] How long are you staying in Japan?
+[Aqua] A little bit more...
+[Kojiroh] You have to leave soon?
+[Aqua] Maybe...
+[Kojiroh] ...
+[Aqua] At least, that's my plan.
+[Kojiroh] Did you take yourself around town?
+[Aqua] Yeah, pretty much...
+[Kojiroh] I could show you around, if you'd like.
+[Aqua] Ha, ha... Don't you have work to do?
+[Kojiroh] Sometimes I do, sometimes I don't...
+[Aqua] ...
+　Surroundings
+　Aqua
+　Alcohol
+　Hair
+[Aqua] This place has a nice atmosphere...
+[Aqua] Do you come here a lot, too Kojiroh?
+[Kojiroh] Every once in a while, to drink alone... Lately it's been my meeting spot.
+[Aqua] Meeting women?
+[Kojiroh] Men, unfortunately. Burly ones.
+[Aqua] Okay...
+[Kojiroh] But let it be known I'm a lady's man.
+[Aqua] Don't worry, I know.
+[Aqua] This place has a nice atmosphere... I fell in love with it.
+[Kojiroh] How long have you been here?
+[Aqua] I got here a few days ago.
+[Kojiroh] (She must be referring to her stay in Japan.)
+[Kojiroh] (I shouldn't go on staring at her...)
+[Aqua] What's the matter, never seen a woman before?
+[Kojiroh] Sorry... Just not one quite like you...
+[Aqua] ...
+[Kojiroh] (I know she's a foreigner, but where could she be from?)
+[Kojiroh] (I've never been good with telling nationalities.)
+[Aqua] Would you like this lime?
+[Kojiroh] You're always drinking that...
+[Aqua] I like it... How about you?
+[Kojiroh] I'm a whiskey man, myself.
+[Aqua] How about one more round of glasses...?
+[Kojiroh] I'd rather have your round ass.
+[Aqua] What?
+[Kojiroh] Nothing...
+[Kojiroh] (Whew...)
+[Kojiroh] (She probably only lets her lover feel her...)
+[Kojiroh] (Or I wonder if she even has a lover.)
+[Kojiroh] You have such beautiful hair... It begs me to touch it.
+[Aqua] Sorry, my boyfriend's the only one who has that honor...
+[Kojiroh] ...
+[Kojiroh] It's a magnificent brown... How exquisite.
+[Aqua] You're the first man to ever tell me such things...
+　Go outside
+[Kojiroh] (I'd rather stick around here for a little while longer.)
+[Aqua] Are you leaving already?
+[Kojiroh] No, I was just readjusting my chair.
+[Kojiroh] (When she gives me those eyes, I feel there's still hope.)

@@ -1,0 +1,1415 @@
+001
+[Voice] Don't move!
+[Kojiroh] !?
+eve_10
+[Voice] That's right... Stay still.
+[Kojiroh] You're that chick that was in the next\warehouse.
+[Voice] ...
+[Kojiroh] So what's the pointy thing in my back?
+[Voice] A sharp knife, that's all.
+[Kojiroh] (Is it that survival knife...?)
+[Kojiroh] (An assassin!?)
+[Kojiroh] Damn, I'm meeting a lot of unwanted\people today.
+[Voice] ...
+[Kojiroh] You're that chick with big tits, right?
+[Woman] How can you tell?
+[Kojiroh] Because you're pressing them against my\back.
+[Woman] ...
+[Kojiroh] (A wild guess... But a bulls-eye.)
+[Kojiroh] (It's that woman who was looking for\Purin.)
+[Woman] ... Where is she?
+[Kojiroh] What do you mean?
+[Woman] I said, where is she!?
+[Kojiroh] Who's she?
+[Woman] That blonde! ... Now, where is she!?
+[Kojiroh] (So she IS looking for Purin.)
+[Woman] Don't play dumb with me! I saw her hat and\red clothes a minute ago.
+[Kojiroh] (How does she know about Purins hat and\red clothes?)
+[Woman] Come on, spit it out. Where is she?
+She nudges me with the knife...
+[Kojiroh] Wow. Wow . You don't wanna kill me before\I can tell you, right?
+[Woman] So spill it.
+[Kojiroh] ... Are you some kind of a bounty hunter?
+[Woman] ...
+[Kojiroh] If you are, then you're a bit too late. I\already... Ouch!
+[Woman] Don't tell me you already sold her!?
+[Kojiroh] Ouch! Damn it!
+[Woman] God damn you!
+[Kojiroh] What are you talking about? I didn't sell\her. I was going to say I already let her go...
+[Woman] ...
+[Kojiroh] Well, more like she left...
+[Woman] I don't believe you.
+[Kojiroh] Then how can I get you to believe me?\Should I kiss your feet, or what?
+[Woman] You got guts, I'll give you that much.
+[Kojiroh] Thanks.
+[Woman] But definitely not smarts. That attitude's\gonna get you into a lot of trouble.
+[Kojiroh] Fine, I give up... Since you put it THAT\way...
+[Woman] That's a good boy. So, where is she?
+[Kojiroh] If you're looking for Purin, she's right\there. Hey, you can come out now!
+[Woman] Where!?
+[Kojiroh] Oops, sorry. I lied.
+ドシッ！0
+0300
+\　
+eve_42
+カチャッ‥‥。
+[Kojiroh] Now... The tables are turned. How do you\like it?
+[Woman] Shit...
+[Kojiroh] Yeah, I had a tough teacher who taught me\how to deal with situations like this.
+[Woman] He taught you well...
+[Kojiroh] ...?
+[Woman] So what are you gonna do now?
+[Kojiroh] Wow, this is a very nice looking knife.
+I throw the knife as far as I can.
+[Kojiroh] Too bad I don't like them very much.
+[Woman] ...
+[Kojiroh] Now, you probably wouldn't tell me who\you are if I ever ask, right?
+[Woman] ...
+[Kojiroh] Oh, don't worry. I know a few ways to\make you want to tell me.
+[Woman] Torturing me won't work. I've been trained.
+[Kojiroh] Hell no, I'm not gonna torture you. I\have something else in my mind. Please stand up.
+[Woman] ...
+[Kojiroh] I said, "Please stand up."
+0310
+[Woman] ...
+[Kojiroh] Is that what you wear normally?
+[Woman] ...
+[Kojiroh] It's okay, I understand. You don't wanna\talk to me. But if you don't talk, you'll never\know where Purin is.
+[Woman] So you do know...
+[Kojiroh] Maybe...
+[Woman] ...
+[Kojiroh] So, what's your name?
+[Woman] Siria.
+[Kojiroh] Well, that was easy.
+[Woman] It's a false name, I use it for my own\convenience.
+[Kojiroh] Siria... It's your real name, huh?
+[Woman] ...
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Kojiroh] I guess Purin isn't back yet.
+001
+[Kojiroh] ...
+[Kojiroh] Someone's at the terminal...
+0290
+0290b
+eve_10
+[Kojiroh] (It's Akane...)
+[Kojiroh] (What the hell is she doing at the\terminal?)
+Akane types something in and looks at the screen.
+[Akane] Just as I thought...
+[Akane] So Kojiroh think Mido is suspicious too.
+[Akane] I should jot this down.
+[Kojiroh] ...
+[Kojiroh] Hey Akane.
+Akane turns around in surprise.
+001
+b16
+b16b
+[Akane] Kojiroh...
+[Kojiroh] Please tell me you've got a good\explanation.
+[Akane] ...
+[Kojiroh] Not even an explanation, huh?
+[Akane] I'm... Sorry...
+[Kojiroh] If you're sorry, then why did you do it?
+[Akane] ...
+[Kojiroh] Akane.
+[Akane] Yeah?
+[Kojiroh] I always knew you were a sneaky one...\But that was because you're a reporter...
+[Akane] ...
+[Kojiroh] If you wanted to see my files, I would've\shown them to you... All you have to do was ask.\But why go behind my back?
+[Akane] ...
+[Kojiroh] And this isn't the first time you've done\this.
+[Akane] ...
+[Kojiroh] Nevermind... Just go.
+[Akane] You're letting me go...?
+[Kojiroh] What!? You want me to force you or\something!?
+[Akane] No... But...
+[Kojiroh] Are you involved in something dangerous?
+[Akane] Why...?
+[Kojiroh] Because if you are, be careful. If\something happens to you, I don't think I'll be\able to sleep well.
+[Akane] You're worried about me?
+[Kojiroh] Of course... Just stay out of trouble,\okay?
+[Akane] ...
+[Kojiroh] What?
+[Akane] Did you know that Nikaido committed a\suicide.
+[Kojiroh] ...!?
+[Akane] It wasn't suicide.
+[Kojiroh] Excuse me?
+[Akane] I can't tell you anything more... But when\I get the confirmation on this, I'll tell you more,\okay?
+[Kojiroh] ...
+[Akane] And I won't do it again...
+[Kojiroh] I'm sorry too... I shouldn't have\yelled...
+[Akane] Kojiroh...?
+[Kojiroh] What?
+[Akane] ... It's nothing. I'm gonna go now...
+001
+[Kojiroh] ...
+[Kojiroh] What the hell did she get herself\involved in?
+[Kojiroh] What's that?
+[Kojiroh] There's something on the table.
+s15
+[Kojiroh] Oh, she forgot her camera...
+[Kojiroh] Wait, why didn't she take it with her...?
+[Kojiroh] I thought it's suppose to be really\valuable, or something.
+[Kojiroh] ...
+[Kojiroh] I'll just return it to her next time I\see her.
+001
+[Kojiroh] ...
+[Kojiroh] Now...
+eve_03
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Kojiroh] I wonder where Yayoi called me from?
+001
+[Kojiroh] Purin doesn't seem to be around.
+[Kojiroh] Where could she be at this time of the\hour.
+The phone rings.
+[Kojiroh] Who could that be...?
+The phone keeps ringing.
+I pick up the phone.
+[Voice] Hey stupid!
+[Kojiroh] Excuse me?
+[Voice] Surprised!?
+eve_16
+[Kojiroh] Who the hell is this?
+[Voice] Oh, don't tell me you already forgot me?
+[Kojiroh] (Who is this?)
+[Voice] After all that happened?
+[Kojiroh] Yayoi?
+[Voice] I'm not Yayoi!
+[Kojiroh] Then who is it?
+[Voice] It's Lovely Yayoi.
+[Kojiroh] (Yeah, whatever.)
+[Voice] You don't sound too happy. That's good, it\makes me feel better.
+[Kojiroh] What do you want?
+[Voice] Kojiroh!
+[Kojiroh] What?
+[Voice] You're stupid!
+*click*
+I'm left with repeating tones.
+[Kojiroh] Shoot, she hung up on me.
+I put the phone down.
+[Kojiroh] I wonder where she called me from?
+[Kojiroh] She sounded really... High pitched.
+[Kojiroh] ...
+eve_03
+001
+eve_03
+[Kojiroh] Purin doesn't seem to be around.
+[Kojiroh] Where could she be at this time of the\hour?
+001
+eve_03
+[Kojiroh] ...
+[Kojiroh] She's not back yet.
+[Kojiroh] Maybe she's not coming back at all...
+[Kojiroh] ...
+[Kojiroh] Why am I sounding so depressed?
+[Kojiroh] (Okay fine, maybe I do like her company.)
+001
+eve_03
+[Kojiroh] ... She's not back yet.
+[Kojiroh] I wonder what she was doing at Kou's\place.
+[Kojiroh] ...
+001
+eve_03
+[Kojiroh] Purin doesn't seem to be back yet.
+001
+eve_03
+[Kojiroh] Hey Purin! Are you back!?
+[Kojiroh] ...
+[Kojiroh] ... Shoot... Just when I need her.
+[Kojiroh] ...
+001
+eve_03
+[Kojiroh] Purin doesn't seem to be back yet.
+[Kojiroh] She's probably just wandering around the\city.
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Purin] Kojiroh...
+b03
+[Kojiroh] What?
+[Purin] There's a person here to see you.
+[Kojiroh] Who?
+[Purin] I don't know, but she said she needs to\talk to you.
+[Kojiroh] She didn't say who she was?
+[Purin] No.
+[Kojiroh] (Who could it be?)
+[Purin] Would you like to see her?
+[Kojiroh] Sure, where is she?
+[Voice] Right here.
+001
+b07
+eve_39
+[Kojiroh] You're... Kyoko, right?
+[Kyoko] That's right. Kyoko Himuro.
+[Kojiroh] So what did you want to see me about?
+[Kyoko] You're Kojiroh Amagi, right?
+[Kojiroh] That's right.
+[Kyoko] Good.
+[Purin] Would you like some tea?
+[Kyoko] No thank you.
+[Purin] Well, if you need anything, just call for\me.
+Purin leaves.
+[Kojiroh] ...
+[Kyoko] Who is that girl?
+[Purin] I'm his wife!
+[Kojiroh] Hell no! She just works for me.
+[Kyoko] Sure...
+[Kojiroh] It's true... She just calls me that.
+ Kyoko gives me that look...
+[Kojiroh] What?
+[Kyoko] Her eyes... They're different colors...
+[Kojiroh] Don't mention that in front of Purin,\okay?
+[Kyoko] Why not?
+[Kojiroh] Just don't...
+[Kyoko] She's not Japanese... Is she an illegal\alien?
+[Kojiroh] Did you come all the way down here to ask\me about Purin?
+[Kyoko] Well... No.
+[Kojiroh] So what do you want?
+[Kyoko] I just wanted to... Chat.
+[Kojiroh] Chat about?
+[Kyoko] A lot of things.
+[Kojiroh] ...
+[Kojiroh] (I guess she wants to talk... Why not?)
+[Kojiroh] (Just be on guard... Alright?)
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Kojiroh] Purin still cleaning up.
+001
+eve_03
+[Kojiroh] Well, I'm back in my office...
+[Kojiroh] There are too many unexpected events...
+[Kojiroh] Nikaido's on the wanted list, there's a\phony claiming to be Kou, and what's the real\reason he wants the painting?
+[Kojiroh] I knew there was something wrong but...
+[Kojiroh] ...
+b03
+[Purin] You're back...
+[Kojiroh] ...
+[Purin] Is there something wrong?
+[Kojiroh] Why?
+[Purin] You have that look on your face when you're\upset...
+[Kojiroh] I'm just thinking, that's all.
+[Purin] Is it about me?
+[Kojiroh] No, don't worry. It's not you. It has to\do with the investigation.
+[Purin] Oh... By the way, there was a phone call.
+[Kojiroh] Who was it from?
+[Purin] Before I could pick up the phone, the\answering machine picked it up...
+[Kojiroh] And?
+[Purin] They didn't leave any messages.
+[Kojiroh] Alright... Thanks anyway.
+[Purin] I'm gonna go back to cleaning...
+[Kojiroh] Alright.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] I guess it showed on my face...
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Kojiroh] Purin still cleaning up.
+001
+eve_03
+[Kojiroh] Well, I'm back in my office.
+b03
+[Purin] You're back. Oh, and no one called or\visited today.
+[Kojiroh] Alright. Thanks.
+[Purin] I'll just be cleaning up so if you need\anything, just call for me.
+001
+Purin leaves.
+[Kojiroh] No, no... I'm not gonna get used to\having her around... No, no...
+[Kojiroh] ...
+　Ask for the favor
+　Speak
+　Save/Load
+　Save
+　Load
+[Siria] What?
+[Kojiroh] You said that you're going to return my\favor, right?
+[Siria] Yeah...
+[Kojiroh] Well, I'm pretty serious about Purin...
+[Siria] ...
+[Kojiroh] Why don't you do me a favor now...
+I force myself on Siria.
+Siria struggles a little.
+0345
+eve_42
+【シリア】な、なにを！
+【小次郎】賭けたろう？
+俺は唇をつけると、舌を無理矢理シリアの唇の中へとねじ込んだ。
+【シリア】んっ‥‥んんん‥‥。
+意に反して柔らかい唇だった。甘酸っぱい匂いがする。熟れた女の香りというやつだろうか。
+【シリア】やめ‥‥んっ‥‥やめて。
+【小次郎】本気で言えよ。
+【シリア】ほ、本気よ‥‥んっ。
+シリアはかたくなに歯をそろえて、俺の舌の侵入をこばんでいる。
+意味のない抵抗だ。なーに、すぐに落ちるさ。俺が本気になればな‥‥。
+不法侵入、恐喝、殺人未遂、銃宝刀不法所持で、全身武器みたいなとんでもないこの女を、イイと言わせるのが俺の目的だ。
+もっとよ、噛んで、しぼって、なぶって、犯してと言わせれば、賭けは俺の勝ちだ。
+だが、言わせられなければ、俺の負け。
+プリンのヤツが、尋常ならざることに巻き込まれてるのは明白だった。俺はそれを確かめる必要がある。
+ゆっくりと舌で、彼女のかたくなに閉じられた歯茎をなぞってみた。
+【シリア】ん‥‥んんん‥‥。
+たっぷりと量感あるバストを片手で揉みながら、俺はなおも彼女の歯茎を舌でなぞる。
+【シリア】んん‥‥んあ。
+口が割れたと思ったら、ねっとりとした舌が出てきた。俺のに絡み付くと、夢中で自分の口腔へと引き込んでいく。
+俺は唇をシリアにあずけながら、服のボタンを乱暴に外した。中からはヒモのように細いブラが顔を出す。
+男に見せるためのブラだ。わざと付けてやがる。
+【小次郎】すごい胸だな‥‥天然か？
+【シリア】む、胸のことは‥‥言わないで！
+むぎゅっ！
+【シリア】痛っ‥‥な、何を！
+【小次郎】賭けさ、だが優しくするぜ。
+今度は一転して、優しくゆっくりと乳房を揉みはじめた。たっぷりと量感あるバストを、思うように変形させる快感はこたえられない。
+シリアの鼻息は次第に荒くなっていく。こんな状況で‥‥いや、こんな状況だからこそ、俺も平静ではいられない。
+たっぷりとシリアの口内を堪能した俺の舌は、首筋から胸へと降りていった。
+【小次郎】おっきな乳首だな‥‥そそられる。
+【シリア】そ、そんなこと‥‥。
+乳首のまわりに舌をゆっくりとはわせる。次第に隆起してくる中心部に、あつい吐息を吹きかけた。
+【シリア】あぅ‥‥んん‥‥。
+みるみる乳首はしこってきた。こいつ、こんな状況で感じてやがる。
+硬くツンと上を向いたそれに、俺は少し強めに歯をたててみた。
+カリッ。
+【シリア】んあっ！
+【小次郎】痛かったか？
+【シリア】痛いわ‥‥すごく‥‥。
+涙を目にうかべながら、しかし抵抗しようとしないシリアをそっと抱きしめた。
+かたくなに閉じられていた膝頭が、ガクガクと震えているようだ。手をそっと、間に入れてみた。
+0345b
+【シリア】そ、そんなに‥‥み、見ないで‥‥。
+俺はわざと股間を凝視してやった。彼女の鼻息が荒くなっていくのがわかる。
+細いショーツだった。股間に食い込んでやがる。そこはむっとするような肉の圧力が広がっていた。
+俺はシリアの両脚を持ち上げた。彼女はされるがままだ。
+ふと、太ももの包帯に目がいく。
+【シリア】ん‥‥。
+少し苦しそうなシリアを見ながら、俺は太ももの傷に、そっと口づけをした。ビクンとシリアの身体が痙攣する。
+【小次郎】まだ、痛むか？
+少し恥ずかしそうにシリアは頷く。
+俺はさっきよりも優しくいたわるよう、太ももから股間に舌を這わせていく。シリアは震えながら、ああ、と呻き声をあげた。
+【シリア】そ、そこは‥‥ダメよ‥‥。
+湿った下着の上から、ざらっと舐めてみる。硬い感触が舌を通り過ぎていく。そこを重点的に、舌先でねぶる。ヒッという鋭い悲鳴が聞こえてきた。
+【シリア】ああ‥‥こ、こんなことって‥‥。
+シリアはせつな気に、喘ぎ声を洩らした。布地の少ない下着は濡れそぼって、もう変色している。俺の唾液だけじゃあないぜ。
+俺はついに股間の細い布地をずらしてみた。むっとした女の匂いが俺の鼻こうをつく。
+まさに大人の女性器だった。しっとりと濡れそぼったそれは、生き物のように息づき、俺を引き込もうとしていた。
+【シリア】ダメよ‥‥そこは‥‥見ないで‥‥。
+たっぷりとある尻の肉を両手で開く。しっとりと濡れたそこは、俺の目の前で、みるみる収縮していく。
+俺は夢中で舌を差し込んでいた。あぅっという嗚咽がシリアの口から洩れる。俺の舌先は、シリアの秘肉によって強烈に締め付けられた、
+【シリア】あっ、あああぁぁっ！　も、もう‥‥！！
+シリアは足を突っ張らせると、ビクッビクッと身体を痙攣させた。
+濡れそぼったアソコからは、むっとした匂いと共に白くにごった液体が流れ出てくる。
+アヌスの方にも流れたそれを、俺は舌で丹念に舐め取っていった。
+【シリア】ん‥‥くっ‥‥あっ‥‥。
+【小次郎】イったな。
+【シリア】ま、まだまだ‥‥よ‥‥。
+【小次郎】意外にがんばる。だが、これからはどうかな。
+俺は手早く服を脱いだ。股間の怒張した俺のモノを見て、シリアは息を呑む。視線が釘付けだ。
+【シリア】ど、どうするの‥‥。
+不安と期待の半々という感情でシリアは質問をしてきた。
+口では答えず、俺は行動で示した。ソフトに、だが有無を言わせず、シリアの服も全部脱がせる。
+ゴクっと彼女の喉元で音が聞こえてきた。こいつ、待ってやがるな‥‥。
+【小次郎】尻をこっちに向けな‥‥。
+【シリア】‥‥ら、乱暴はしないで。
+全身武器みたいなこの女の口から、乱暴しないでとは恐れ入る。
+俺の怒張したモノを、シリアの膣口にこすりつけた。ああ、と呻き声が聞こえてくる。
+シリアはたまらなくなっているはずだ。何とか俺のモノを納めようと、盛んに尻をふっている。
+【シリア】お、お願い‥‥じらさないで。
+【小次郎】どうだ、欲しいか？
+はっとしたようにシリアが息を呑む。
+【シリア】き、気に入ってなんか！
+【小次郎】お前のこいつは、欲しくてしょうがないみたいだぜ‥‥。
+パシッ！
+【シリア】んっ！
+尻を一回平手打ちをすると、いい音が鳴り響いた。ブヨブヨの尻じゃこうはいかない。
+【小次郎】欲しいって、言ってみろよ。
+【シリア】だ、誰が‥‥んあっ！
+俺がシリアの大きな豆粒を指で弾くと、電撃を受けたようにシリアの身体が痙攣した。
+【シリア】あふぅ‥‥はぁ‥‥はぁ‥‥。
+パンパンにはれ上がった股間の芽を、俺はゆっくりとさすりだした。それにあわせて、俺のモノを膣口に擦り付ける。
+【シリア】んっ‥‥じ、じらさないで‥‥。
+【小次郎】欲しいって、言え！
+【シリア】ん‥‥くぅ‥‥あはぁ、はぁ、はぁ‥‥。
+【小次郎】言え！
+【シリア】ほ、ほし‥‥ぃ‥‥。
+【小次郎】聞こえねーな。
+パシッ！
+【シリア】んっ！
+【小次郎】こんなにイヤらしい尻をしやがって‥‥早く言え！
+【シリア】ほ‥‥欲しい！
+【小次郎】言ったな！
+0350
+ずりゅぅ！！
+【シリア】んあぁぁぁぁぁっ！！
+一挙に奥まで突き入れた。たっぷりと濡れているそこは、俺のモノを難なく奥まで呑み込む。
+熟れた肉ヒダが俺のモノを包み込み、微妙な圧力をかける。ビクビクと痙攣する秘肉の快感は凄すぎる。
+【シリア】あくっ‥‥ん‥‥あぁ‥‥ダメ！　う、動かしちゃ‥‥。
+【小次郎】聞けねーな。
+俺はゆっくりと腰を前後に動かし出した。凄い膣圧で、ぎゅうぎゅう締め付けてくる。
+【シリア】おぉ、おぉぉっ‥‥す、凄っ‥‥あぅっ！
+口元を指で撫でてみる。すぐに舌が出てきて俺の指を捉える。俺は２本の指で舌をはさみこみ、しごいてやった。
+【シリア】はぁぁ‥‥ひぃいの、ひゃめはいへ‥‥。
+俺は腰を動かしながら、愛液でたっぷり湿らされた小さなアヌスに、彼女の唾液で濡れた人差し指を浅く入れてみた。
+【シリア】んっ‥‥そ、そこは‥‥うっ。
+指がキツく締めつけれられる。それに同調してアソコも俺のモノに絡みつき、ギュッと締め上げる。中は火傷をしそうなほど熱い。
+俺はもう片方の手で、たっぷりと重いバストを後ろから持ち上げた。ゆっくりと力強く揉んでいく。
+【シリア】んっ、あっ‥‥そこ‥‥あっ‥‥いっ‥‥んっ。
+リズミカルな腰のグラインドに呼応して、シリアは鋭い声を上げ続ける。
+俺はもう片方の手で黒々とした茂みを探ってみる。あった。俺は指で、堅く充血しているその突起物を弾いてみた。
+【シリア】ひぃっ！
+シリアの声が、今までよりも一段と跳ね上がった。同時に膣圧も一挙に跳ね上がり、痛いくらいに締め付けてくる。
+【シリア】もう‥‥うっ‥‥凄い‥‥。
+今度は俺が口を近づけただけで、シリアは進んで口をあけた。舌が俺の口腔に入ってきて、内部をなぞりまくる。
+たっぷりと唾液を流し込むと、シリアは躊躇なくそれを飲み込んだ。ごくっという喉の音が部屋に響きわたる。
+【シリア】もう‥‥あぅっ！　だ、だめ‥‥うっ！
+【小次郎】くっ‥‥い、いきそうだ。
+【シリア】いいわ‥‥イって！　イって！
+【小次郎】どこに‥‥出して欲しい？
+【シリア】あぁぁ‥‥そんなこと‥‥。
+【小次郎】言え！
+【シリア】顔よ！　顔にかけて！　白くてドロドロしたのを、顔に！！
+0355
+限界にまで膨れ上がった肉棒を、シリアの膣内からズルリと引きに抜いた。
+彼女はさっと俺の股間の前にひざまずき、恍惚とした表情で肉棒をしごきだす。
+0355b
+【シリア】あぁぁ‥‥こ、こんなにパンパンに‥‥。
+【シリア】いいわ、出して‥‥私の顔に染みがつくくらい、熱くてドロドロしたのを、たっぷり！
+ドクン！
+【シリア】んあっ‥‥。
+0355c
+ドク、ドク、ドク‥‥。
+熱い精液を顔に受けながら、シリアはなおも身体を痙攣させている。白濁した液体はたっぷりと、彼女の顔にかかった。
+【シリア】あふぅ‥‥ん‥‥すご‥‥口に含んでいい？
+まだ怒張し痙攣しているモノを、シリアは愛しそうに握り、そっと口腔に含む。
+彼女の量感ある乳房を揉みながら、俺はもう一度、残った精液を彼女の口内に吐き出した。
+ドクン！
+最後の一滴までしぼりとろうと、シリアは頬をすぼめ、舌をねっとりと這わしてくる。
+恍惚とした表情で精液を呑み込むシリアをみて、俺はこの賭けに勝ったと確信した‥‥。
+ピンポーン‥‥。2
+\ 
+[Kojiroh] Who is that?
+[Siria] ...?
+[Kojiroh] Purin?
+[Siria] Purin!?
+[Yayoi] It's me, Yayoi.
+[Kojiroh] Oh shit!
+[Yayoi] I know you're in there.
+[Kojiroh] This is not good...
+[Yayoi] I thought I'd make you breakfast. I will\make your favorite dish, stew.
+[Kojiroh] No... It's not what you think!
+Yayoi opens the door.
+waku
+0357
+eve_52
+！！！！！！！！！！2
+\ 
+0357b
+eve_52
+？？？？？！！！！！2
+\ 
+0357
+0357
+0357b
+0357c
+eve_16
+[Yayoi] ...
+[Yayoi] What the...?
+[Kojiroh] Yayoi, listen to me! This isn't what it\looks like!
+[Yayoi] ...
+[Kojiroh] I'm trying to protect Purin.
+[Yayoi] ...
+[Kojiroh] Yayoi, are you listening?
+[Yayoi] I just...
+[Kojiroh] You just what?
+[Yayoi] I just came over to make breakfast...
+[Kojiroh] Oh, thanks.
+[Yayoi] But...
+[Kojiroh] But?
+[Yayoi] I guess I came at a bad time... I'm sorry.
+[Kojiroh] No, Yayoi! Don't...!
+The door slams shut.0
+001
+b05
+【弥生】下半身むき出しで、言う言葉か！
+[Kojiroh] You didn't have to punch me, did you!?
+[Yayoi] Don't touch me, and don't come any closer!
+[Kojiroh] Why not?
+[Yayoi] Listen, you bastard!
+[Kojiroh] What?
+[Yayoi] Forget about last night! It was a mistake!
+[Kojiroh] ...
+[Yayoi] I don't need you, or anyone! I can go on by\myself, and I'm definitely not gonna get beaten by\you!
+[Kojiroh] But Yayoi...
+[Yayoi] I said, "Don't touch me!"
+Here comes another one...
+001
+\ 
+[Kojiroh] ...
+[Kojiroh] Ouch...
+[Kojiroh] Yayoi, you gotta believe me... This isn't\what it looks like!
+[Kojiroh] ...
+[Kojiroh] Shit...
+Siria laughs out loud.
+[Kojiroh] Shut up! What's so funny!?
+0360
+[Siria] This is great...! I don't think I laughed\this much since... I don't know.
+[Kojiroh] Well, I feel like crying...
+[Siria] Don't you think you should go after her?
+[Kojiroh] That's not your business! We have a deep\understanding... Little things like this don't get\in the way of our relationship.
+[Siria] Oh, really? Then why was she crying when\she banged the door shut?
+[Kojiroh] ...
+[Kojiroh] (Damn, she didn't have to cry... Man...)
+[Kojiroh] (I guess I should go see her at the\office later...)
+[Siria] You're so much alike...
+[Kojiroh] To whom?
+[Siria] To my father...
+[Kojiroh] The pervert that dumped your mom?
+[Siria] Yes.
+[Kojiroh] (What the hell is with her and her\father?)
+[Kojiroh] (That's all she talks about... Did she\have an affair with him or something?)
+[Kojiroh] So...
+[Siria] What?
+[Kojiroh] I guess I win.
+[Siria] That's fine... I enjoyed it, especially the\ending... You win.
+[Kojiroh] ...
+[Siria] I'll try to answer your questions... Shoot.
+[Kojiroh] Good.
+[Siria] You were concerned with Purin safety...\That's why I agreed the bet.
+[Kojiroh] ...
+[Siria] I had fun...
+[Kojiroh] (God, I hate her...)
+[Kojiroh] (But that's fine... Let's get on with\it.)
+a001_5
+[Kojiroh] (So the woman doesn't wanna talk...)
+[Kojiroh] (We'll see about that...)
+[Kojiroh] Are you sure you don't wanna tell me who\you are?
+[Siria] ...
+[Kojiroh] What do you want with Purin?
+[Siria] ...
+[Kojiroh] Why are you looking for her?
+[Siria] ...
+[Kojiroh] That survival knife, is that yours?
+[Siria] ...
+[Kojiroh] That's fine, if you don't wanna say\anything. It just means more fun for me later.
+　Look/Investigate
+　Move
+　Speak
+　Disarm
+　Siria
+[Kojiroh] Now... Ms. Big Tits... May I call you\that?
+[Siria] NO!
+[Kojiroh] Fine, geez... Anyway, tell me more about\what you were talking about.
+[Siria] What was I talking about?
+[Kojiroh] The stuff about selling off Purin and\getting pissed off at me.
+[Siria] ...
+[Kojiroh] To tell you the truth, I didn't sell her\off. And what are you to Purin? Why do you concern\yourself with her safety so much?
+[Siria] So she's safe?
+[Kojiroh] What's it to you?
+[Siria] ...
+[Kojiroh] Hey! What's wrong!?
+[Siria] I... Can't...
+[Kojiroh] What, what?
+Siria drops.
+0330
+[Kojiroh] Hey, Siria!
+[Siria] ...
+[Kojiroh] Oh shit, she's bleeding.
+[Kojiroh] Oh damn, she's lost a lot of blood. Why\didn't you go to a hospital...
+[Kojiroh] ...
+[Kojiroh] First things first. I need to take care\of this wound.
+[Kojiroh] Not here... You can't die here, damn it!
+[Kojiroh] What a woman... She threatens me, then\she falls unconscious...
+[Kojiroh] But great breasts... I wonder if they're\100% natural?
+[Siria] Don't... Breasts...
+[Kojiroh] Don't talk.
+[Siria] ...
+[Kojiroh] You know, if you didn't care about\Purin...
+[Kojiroh] I'd leave you for the dead...
+[Kojiroh] Now, let's stop the bleeding.
+[Kojiroh] Man, what a day...
+eve_14
+...
+001
+b05
+[Yayoi] Hey, Kojiroh...
+[Yayoi] Let's live together again...
+[Yayoi] I can't handle it anymore...
+[Yayoi] After dad died... You're the only one I can\count on now...
+b06
+[Nikaido] Kojiroh...
+[Nikaido] You have to finish this now...
+[Nikaido] It's Mr. M... He holds the key to\everything.
+b15
+[Matsuno] Kojiroh...
+[Matsuno] The Director use to work for the Eldian\royal family...
+b16
+[Akane] I'm sorry Kojiroh...
+[Akane] I'm gonna get a big scoop this time...
+[Akane] He said that if I just keep my eyes on the\consulate...
+b08
+[Kyoko] I think we can help each other...
+[Kyoko] This case has more than meets the eye...
+[Kyoko] My pride is on the stake...
+b09
+[Siria] There's something I like to give her...
+[Siria] Do you know where she is?
+b03
+[Purin] Kojiroh!
+[Purin] Would you like to take a bath first, or eat\first?
+[Purin] I like to do cleaning. I'm gonna clean up\your office!
+[Purin] But Kojiroh...
+[Purin] There's something I have to tell you...
+[Purin] I'm...
+0490
+0490b
+[Glen] You know...
+[Glen] There's a lot of money on her...
+[Kojiroh] Just stop it! Stop it!
+waku
+...
+Slap... Slap...
+[Kojiroh] ...
+[Kojiroh] (What the...?)
+[Kojiroh] (What is that...?)
+...
+Slap... Slap...
+[Kojiroh] ...
+[Kojiroh] (What is that noise?)
+[Kojiroh] (It's different from yesterday's...)
+[Kojiroh] (Slap... Slap...?)
+[Kojiroh] (I feel a minor pain...)
+[Kojiroh] (A noise turning into a physical pain?)
+I feel something soft.
+[Kojiroh] ...
+[Kojiroh] (What the hell was THAT?)
+[Kojiroh] (It was like a balloon...)
+...
+Slap... Slap...
+[Kojiroh] ...?
+[Kojiroh] (Slap, slap and then something soft...?)
+[Kojiroh] (A little painful, but it feels good...)
+[Kojiroh] (Make a theory Kojiroh...)
+[Kojiroh] (What slaps me and feels good?)
+[Kojiroh] (Dominatrix...?)
+[Kojiroh] (What the hell would a dominatrix be\doing in my office?)
+Slap... Slap...
+[Kojiroh] God damn... What!?
+0340
+[Siria] Finally...
+[Kojiroh] ...
+[Siria] Are you awake?
+Slap!
+eve_29
+Ｄｅｃｅｍｂｅｒ　６\  - 9* / 12 / 06 -0
+waku
+0340
+eve_39
+[Kojiroh] Do you have something against me?
+[Siria] Watching you sleep so peacefully's starting\to piss me off... That's all.
+[Kojiroh] huh?
+[Siria] How could you sleep like that with someone\who might wanna kill you nearby?
+[Kojiroh] Well...
+[Siria] Jesus...
+[Kojiroh] Sorry, my name is Kojiroh.
+[Siria] You don't look so happy.
+[Kojiroh] You're right. I'm not so happy.
+[Siria] ...
+[Kojiroh] Do you know what time it is?
+[Siria] About... Little past noon.
+[Kojiroh] Oh...
+[Kojiroh] (Damn, and I had to take care of her\until this morning...)
+Siria gives me a stare.
+[Kojiroh] What?
+[Siria] It looks like you nursed my wounds.
+[Kojiroh] I just stopped your bleeding.
+[Siria] And I guess you looked after me until this\morning...
+[Kojiroh] Yeah right, you're dreaming.
+[Siria] ...
+[Kojiroh] ...
+[Siria] So why did you help me out?
+[Kojiroh] Simple, you had big tits.
+[Siria] ...
+[Kojiroh] Well, that's only half of it.
+[Siria] A half of it?
+[Kojiroh] Yeah.
+[Siria] Hey, and don't talk about my breasts\anymore.
+[Kojiroh] Why not?
+[Siria] Because I hate them.
+[Kojiroh] Oh... (Why, they look perfectly fine to\me...)
+[Siria] So what's the other reason?
+[Kojiroh] The other reason?
+[Siria] You said that my... Boobs were only half of\the reason...
+[Kojiroh] What the hell are you talking about? What\do your breasts have to do with me saving your ass?
+[Siria] You... You said it!
+[Kojiroh] I don't remember...
+[Siria] ...
+[Kojiroh] Well, I didn't want anyone dying in my\office, that's all.
+[Siria] ...
+[Kojiroh] Don't worry, if it were anywhere else, I\would've left you alone.
+[Siria] Oh...
+[Kojiroh] Thats a bullet wound on your thigh. Who\shot you?
+[Siria] ...
+[Kojiroh] Someone took out the bullet already. Did\you do that?
+[Siria] Yes.
+[Kojiroh] You were starting to get an infection.\You should take care of yourself more... Next time,\you might not be so lucky.
+[Siria] ...
+[Kojiroh] Well, I didn't do all that out of pure\goodness. I expect you to return the favor someday.
+[Siria] I'll return the favor... Someday...
+[Kojiroh] Good. Well, you look like you're starting\to get better. Even your boobs look good now.
+[Siria] I told you to not talk about my boobs!
+[Kojiroh] Geez...
+[Siria] You know, I think I'm well enough to kill\you now...
+[Kojiroh] You know, I have to tell you something...\You got great looking breasts... Oh man...
+[Siria] Are you listening to me? I said, "I think\I'm well enough to kill you now!"
+[Kojiroh] Oh, that's good to hear.
+[Siria] ...
+[Kojiroh] What?
+[Siria] You don't think I can, do you?
+[Kojiroh] Well, if you really wanted to... You\would've done it while I was asleep.
+[Siria] You're so much alike...
+[Kojiroh] To whom?
+[Siria] To my father...
+[Kojiroh] How so?
+[Siria] My father was a pervert. And he dumped my\mother... He was cruel.
+[Kojiroh] And we're alike? ... Great...
+[Siria] And great martial art skills...
+[Kojiroh] ...?
+[Siria] ...
+[Kojiroh] Who are you?
+[Siria] ...
+[Kojiroh] I guess I wouldn't answer that question\if I were in your shoes too.
+[Siria] You're not my ally.
+[Kojiroh] Well, I'm not your enemy, either.
+[Siria] ...
+[Kojiroh] How about a bet?
+[Siria] A bet?
+[Kojiroh] If you start to like me... Then you tell\me what I wanna know.
+[Siria] ...
+[Kojiroh] If I can't make you like me, then I'll\tell you everything that I know.
+[Siria] What kind of a bet is that?
+[Kojiroh] A generous one, under the circumstances.
+[Siria] So what are you gonna do?
+[Kojiroh] Good, then it's a bet?
+[Kojiroh] (Damn... She's like a lethal weapon.)
+[Kojiroh] (Well... Let's do what must be done.)
+[Kojiroh] Hey, Siria...
+[Siria] What?
+[Kojiroh] Who the hell are you?
+[Siria] ...
+[Kojiroh] Do you see what I'm holding?
+[Siria] A customized Glock... I guess you're not an\amateur...
+[Kojiroh] Wrong... I'm sorry to disappoint you but\I AM an amateur...
+[Siria] An amateur takes me down and threatens me\with a gun?
+[Kojiroh] That's right.
+[Siria] ...
+[Kojiroh] Now, answer the question? Who are you?
+[Siria] I'm an earthling. I'm from the planet\Earth.
+[Kojiroh] ...
+[Siria] It's the truth.
+[Kojiroh] You know, I like you.
+[Siria] ...
+　Disarm Siria
+[Kojiroh] (Okay, I disarmed her.)
+[Kojiroh] (I can't be too careful, you know.)
+[Kojiroh] Let's do this again.
+[Siria] What?
+[Kojiroh] Your red protector... Looks pretty tight.
+[Siria] ...
+[Kojiroh] Why don't we take it off.
+[Siria] I rather die than to embarrass myself.
+[Kojiroh] Oh really? And not complete your mission?
+[Siria] ...
+[Kojiroh] Come on. I'm not gonna repeat it again.
+[Siria] Fine.
+[Kojiroh] And if you could, could you do it really\sexy?
+[Siria] ...
+0310c
+Siria takes it off.
+[Kojiroh] Hey, nice body you got there.
+0310d
+Siria gives me that look.
+[Kojiroh] Oh, come on. It's a compliment. You got\nice boobs.
+[Siria] Shut up.
+[Kojiroh] ...
+I cock the gun.
+[Siria] !?
+[Kojiroh] Can we take off that girdle?
+[Siria] Do you always take girls' clothes off this\way?
+[Kojiroh] Clothes? Yours are more like armor man...
+[Siria] ...
+[Kojiroh] Hurry up... I don't like shoot at\people...
+[Siria] And you won't.
+[Kojiroh] You wanna test that?
+[Siria] ...
+[Kojiroh] Come on.
+Siria gives me a stare.
+0310b
+[Kojiroh] ...
+[Siria] It's off.
+[Kojiroh] Your leg... Is it injured?
+[Siria] It's no big deal. And plus, it's none of\your business.
+[Kojiroh] (Talk about an attitude problem...)
+　Surroundings
+　Siria
+　Clothes
+　Breasts
+[Kojiroh] (What the hell is wrong with her?)
+[Kojiroh] (There's something wrong here...)
+[Kojiroh] (Why is she sweating so much...? It's\like she's about to fall or something...)
+[Kojiroh] (She's got me locked on with those\eyes...)
+[Kojiroh] (You never know when she's gonna make her\move...)
+[Kojiroh] (She's fast... And that makes her\dangerous.)
+[Kojiroh] (She's got muscles... But only enough so\that she can still move fast.)
+[Kojiroh] (A really dangerous woman... No, don't\think of her as a woman... That kind of thinking\could cost me big.)
+[Kojiroh] (You can't be too careful.)
+[Siria] Oh, don't step back... It's lonely back\here.
+[Kojiroh] Don't worry, I'm not going far.
+[Siria] ...
+[Kojiroh] (There's only me and Siria here.)
+[Kojiroh] (There's no one else here.)
+[Kojiroh] (What did she come here to do?)
+[Kojiroh] (There's a woman named Siria in front of\me.)
+[Kojiroh] (Let's talk to her a little bit.)
+[Kojiroh] (They're like clothes made for combat.)
+[Kojiroh] (I guess you could call it combat\clothes.)
+[Siria] It'll bounce off small knives.
+[Kojiroh] But I don't think you can bounce off\40S&W from this Glock.
+[Siria] ...
+[Kojiroh] Your clothes... They don't cover much...\Is it a service or something?
+[Siria] It's combat clothes. There's a see-through\polymer protecting the exposed skin.
+[Kojiroh] Oh... Impressive.
+[Kojiroh] (But damn, it looks good. I need a closer\look...)
+[Kojiroh] (Wait. No, not a good idea...)
+[Siria] What the hell's the matter with you. You've\been stepping away and getting closer repeatedly.
+[Kojiroh] Don't they get in your way in combat?
+[Siria] Leave my breasts alone!
+[Kojiroh] Boy, aren't we sensitive...
+[Siria] ...
+[Kojiroh] (Scary, isn't she?)
+[Kojiroh] Are they natural?
+[Siria] What are?
+[Kojiroh] Oh, nothing...
+　Go outside
+[Kojiroh] (No, this has to be dealt with first.)
+[Kojiroh] (I can't go outside now.)
+[Kojiroh] (I have to retrieve some information from\her.)
+[Kojiroh] Now what?
+　Look/Investigate
+　Move
+　Equipment
+　Save/Load
+　Save
+　Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] A weird art.
+001
+s10
+[Kojiroh] Glen's still trying to get more\information on it.
+001
+s07
+[Kojiroh] It's something that protects me.
+001
+s07
+[Kojiroh] I have to look at it at least once a\day... It's my baby.
+[Kojiroh] A customized Glock 22...
+001
+[Kojiroh] I don't have much right now.
+[Kojiroh] ...
+[Kojiroh] Actually, I got none.
+[Kojiroh] If I said that I do, Akane would be here\in seconds to collect her money.
+[Kojiroh] Come on, I almost lost my manhood.
+[Kojiroh] Let's not.
+[Kojiroh] I don't feel like doing it right now.
+[Kojiroh] I nipped it with my zipper, remember? It\still hurts a little.
+[Kojiroh] Gimme a break...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Kojiroh] The office is getting cleaner.
+[Kojiroh] It kinda feels weird to be in a room\that's all clean.
+[Kojiroh] It's all thanks to Purin. I can almost\say that this place is my sweet home.
+[Kojiroh] It's starting to get darker.
+[Kojiroh] Like my heart... I'm so romantic...
+[Kojiroh] Maybe it's time to change the light bulb.
+[Kojiroh] I eat on it, read books on it, and I can\put my feet up on it.
+[Kojiroh] It's a table, okay?
+[Kojiroh] I eat on it, read books on it, and I can\put my feet up on it.
+[Kojiroh] Now that I think of it, I don't eat much,\do I?
+[Kojiroh] The terminal's on that desk. I don't need\to use it right now.
+[Kojiroh] All my data are in the terminal.
+[Kojiroh] If someone tries to use it without\authorizations, the light on the side turn on.
+[Kojiroh] And it was on last night...
+　Go outside
+[Kojiroh] Hey Purin! I'm going out.
+[Kojiroh] Oh wait, she's not here right now.
+[Kojiroh] Alright, let's go.
+a002
+[Kojiroh] Glen's probably waiting.
+[Kojiroh] Hey Purin!
+[Kojiroh] ...
+[Kojiroh] Oh, Purin?
+[Kojiroh] Where'd she go?
+[Kojiroh] Maybe she just went shopping or\something.
+[Kojiroh] Anyway, let's go.
+a002
+　Look/Investigate
+　Move
+　Speak
+　Invite
+　Think
+　Agree or reject
+[Kojiroh] (My mind is already made up.)
+[Kojiroh] (I was fooled by that fake.)
+[Kojiroh] (I want any information that has to do\with it.)
+[Kojiroh] ...
+[Kojiroh] (But think...)
+[Kojiroh] (Why am I doing this?)
+[Kojiroh] (What's in it for me?)
+[Kojiroh] (No one's gonna pay me...)
+[Kojiroh] (I'm almost flat broke... What the hell\can I do?)
+[Kojiroh] (Plus...)
+[Kojiroh] (How do I know that she isn't just going\to use me?)
+[Kojiroh] (She must be a public servant, but can I\trust her?)
+[Kojiroh] (It's a damn homicide... Am I gonna risk\sticking my head in it?)
+[Kojiroh] Shit...
+[Kyoko] So?
+[Kojiroh] ...
+[Kojiroh] (I should just tell her what I'm\thinking.)
+　Ask on a date
+　Hades
+[Kojiroh] I guess you just don't understand...
+[Kyoko] Who can...?
+[Kojiroh] She just don't get my point...
+[Kyoko] Of course.
+[Kyoko] What?
+[Kyoko] Why are you holding my hand?
+[Kyoko] You're really strange...
+[Kyoko] No.
+[Kojiroh] Fine...
+[Kojiroh] Come on... Wow...
+[Kyoko] Are you okay?
+[Kojiroh] Hey girl!
+[Kojiroh] ... Nothing...
+[Kyoko] What's wrong with you?
+[Kojiroh] How about me and you go somewhere?
+[Kyoko] No thanks.
+[Kojiroh] Oh...
+[Kojiroh] Come on, lets sit down and have a chat.
+[Kyoko] We are...
+[Kojiroh] Oh, that's right...
+　Kyoko
+[Kyoko] I'm gonna do this, with or without your\help.
+[Kojiroh] Can I give you a word of advice?
+[Kyoko] Sure.
+[Kojiroh] Don't. You're just going to waste the tax\payers' money.
+[Kyoko] ...
+[Kojiroh] We got cops, remember? That's what\they're here for.
+[Kyoko] I'll tell you a secret.
+[Kojiroh] I thought it was one of those top secret\things...
+[Kyoko] I don't care... My pride is on stake\here...
+[Kojiroh] ...
+[Kyoko] I was transferred because of some stupid\administrators... And I'm gonna show them...
+[Kojiroh] Show them that they made a big mistake?
+[Kyoko] Yeah.
+[Kojiroh] ...
+[Kyoko] You think I'm a bitch, huh?
+[Kojiroh] No, not at all. On the contrary, I like\to see some backbones...
+[Kyoko] Thanks.
+[Kojiroh] No problem.
+[Kyoko] ...
+[Kojiroh] ...
+[Kyoko] I'm gonna go now.
+[Kojiroh] Sorry I can't be of help.
+[Kyoko] Don't worry... Do you have some paper and a\pen?
+[Kojiroh] Yeah...
+[Kyoko] Here...
+Kyoko writes something down on the paper.
+[Kojiroh] ...
+[Kyoko] There...
+[Kojiroh] Who's address is this?
+[Kyoko] If you change your mind, that's my address.
+[Kojiroh] My mind is set.
+[Kyoko] It's just in case. But don't bother coming\over if it's for other reasons...
+[Kojiroh] Like what?
+[Kyoko] What do you think, playboy?
+[Kojiroh] ...
+[Kyoko] Now, if you'll excuse me.
+001
+[Kojiroh] See ya.
+[Kojiroh] Well, she's gone.
+[Kojiroh] ...
+[Kojiroh] I know, I know...
+[Kojiroh] I wanna pursue this further too...
+[Kojiroh] But...
+[Kojiroh] Damn it!
+The phone rings.
+I take a deep breath.
+The phone rings again.
+I pick up the phone.
+[Kojiroh] Hello, this is Amagi Detective Offices.
+[Glen] Hello.
+[Kojiroh] Oh it's you.
+[Glen] Congratulations.
+[Kojiroh] On what?
+[Glen] I read the newspapers...
+[Kojiroh] ...
+[Glen] I've got some information you might want.
+[Kojiroh] I don't need any more on that painting...
+[Glen] No, no. This concerns the murder...
+[Kojiroh] !?
+[Glen] So...?
+[Kojiroh] What about it?
+[Glen] You know I can't tell you that over the\phone.
+[Kojiroh] ...
+[Glen] So how about it? I think you'll want this\information.
+[Kojiroh] Fine, the usual place?
+[Glen] I'll be waiting.
+I put down the phone.
+[Kojiroh] ...
+[Kojiroh] Damn, and I just told Kyoko that I'm not\interested in this case...
+[Kojiroh] Why am I getting myself involved?
+[Kojiroh] ...
+[Kojiroh] Anyway, let's just see what Glen has to\say.
+[Kojiroh] I'm just gonna hear him out, that's all.
+eve_03
+[Kyoko] So?
+[Kojiroh] No thanks.
+[Kyoko] Why not?
+[Kojiroh] Because I'm a pro.
+[Kyoko] Because you're a pro?
+[Kojiroh] I don't take on cases for free.
+[Kyoko] So it all comes down to money.
+[Kojiroh] That's right.
+[Kyoko] ...
+[Kojiroh] Let me tell you something.
+[Kyoko] What?
+[Kojiroh] You're fine... You got a stable job...\And you've got a stable income.
+[Kyoko] Do I hear a bit of scorn in your voice?
+[Kojiroh] Yes, you should.
+[Kyoko] ...
+[Kojiroh] But me, I can't do anything unless I get\paid. It's how I earn my living.
+[Kyoko] But don't you wanna get to the bottom of\this?
+[Kojiroh] Of course I do!
+[Kyoko] Then why...?
+[Kojiroh] But I can't just make my moves because I\want to... I can't let my interest take over my\job.
+[Kyoko] ...
+[Kojiroh] Now, it would be a different story if you\wanted to hire me.
+[Kyoko] And I thought you were different.
+[Kojiroh] You can think whatever you want. But I\don't have to live up to it.
+[Kyoko] I guess you don't...
+[Kojiroh] ...
+[Kyoko] And I'm not gonna force you to this... If\you don't want to do it, then you don't have to.
+[Kojiroh] ... I'm sorry.
+[Kojiroh] (Let's think about this for a moment.)
+[Kojiroh] (Well...)
+[Kyoko] So?
+[Kojiroh] Hold on... Let me think.
+[Kyoko] Fine...
+[Kyoko] So...?
+[Kojiroh] So what?
+[Kyoko] Are you in?
+[Kojiroh] I don't know...
+[Kyoko] Don't know what?
+[Kojiroh] Why do you need me?
+[Kyoko] You were checking up on the Director right?
+[Kojiroh] Something like that...
+[Kyoko] I have information that you want, and...
+[Kojiroh] I have information that you want, right?
+[Kyoko] Right.
+[Kojiroh] ...
+[Kyoko] Plus, I've... come to a dead stop... I\don't know what to do from here.
+[Kojiroh] Then go to your headquarters and get some\help.
+[Kyoko] ...
+[Kojiroh] Oh, I get it.
+[Kyoko] What?
+[Kojiroh] You're doing some illegal investigations\on your own...
+[Kyoko] No way... I don't do anything that breaks\the law.
+[Kojiroh] Fine, you're "bending" the rules a\little, right?
+[Kyoko] No...
+[Kojiroh] Okay, about to bend them... How's that.
+[Kyoko] ...
+[Kojiroh] Bulls eye.
+[Kyoko] So how about it. Are you in or out?
+[Kojiroh] (Shit...)
+[Kojiroh] (What am I gonna do?)
+[Kyoko] I did some checking up on you.
+[Kojiroh] Oh, really. I guess now you know that I'm\really a nice guy.
+[Kyoko] They say that you're the best.
+[Kojiroh] Well, I use to work for a very famous\detective office.
+[Kyoko] Modest, I like that.
+[Kojiroh] So now that you know about me. How about\telling me something about yourself.
+[Kyoko] Fine, but you have to remember... This is\classified information.
+[Kojiroh] Fine.
+[Kyoko] ...
+[Kojiroh] So what's up?
+[Kyoko] Don't you feel a little excited that you'll\get to hear classified information?
+[Kojiroh] Look, I don't care if it's classified or\not... Are you gonna tell me?
+[Kyoko] I work for a certain agency in the\government...
+[Kojiroh] A certain agency...?
+[Kyoko] For now, you just have to know that there\is a certain agency...
+[Kojiroh] Okay, and...?
+[Kyoko] The agency specializes in schools... My job\is to go undercover and investigate...
+[Kojiroh] Never heard of it.
+[Kyoko] Of course not. This agency is still in its\test phase. As you might probably know... Schools\are really hard to penetrate...
+[Kojiroh] So they send in people like you as\students...
+[Kyoko] Right. We don't make arrests but we work\closely with the police.
+[Kojiroh] So you're an undercover agent.
+[Kyoko] Right. I was investigating...
+[Kojiroh] Kou.
+[Kyoko] That's right. But now, he's dead...
+Something breaks in the kitchen.
+[Kyoko] What was that!?
+[Kojiroh] Really good timing, Purin...
+[Purin] I'm so sorry... I dropped a mug...
+[Kojiroh] Just be careful cleaning it up.
+[Purin] Okay.
+[Kojiroh] ...
+[Kojiroh] (Well...)
+[Kojiroh] So what does a school girl want with me?
+[Kyoko] ...
+[Kojiroh] Did you cut your class?
+[Kyoko] Didn't you know who I really am already?
+[Kojiroh] Some cop in a skirt.
+[Kyoko] ...
+[Kojiroh] I'm just joking... Damn...
+[Kyoko] I'm just tired of it.
+[Kojiroh] So what does a public servant want with\me?
+[Kyoko] I thought we could work together.
+[Kojiroh] Work together?
+[Kyoko] I think we can both benefit...
+[Kojiroh] I don't even know who you are.
+[Kyoko] If you're going to help me, I tell you who\I am.
+[Kojiroh] You gotta do a lot better than that.
+[Kyoko] I'm a public servant... I'm obliged to\protect classified information.
+[Kojiroh] But understand the circumstances, you can\bend a little... Is that what you're saying?
+[Kyoko] Uh-huh.
+[Kojiroh] (I wonder what she's got to say...?)
+　Surroundings
+　Hair
+　Breasts
+　Uniform
+[Kyoko] You need to clean this place up.
+[Kojiroh] (Yeah, yeah...)
+[Kyoko] That girl was cleaning this place up until\you came back.
+[Kojiroh] It's her hobby.
+[Kyoko] But it's messy...
+[Kojiroh] (Tell me something new...)
+[Kyoko] You need to clean this place up.
+[Kojiroh] Yeah, yeah.
+[Kyoko] You call this place your office?
+[Kojiroh] ...
+[Kojiroh] Well, they aren't flat...
+[Kyoko] ...
+[Kyoko] You're pretty straight forward.
+[Kojiroh] People tell me that...
+[Kyoko] Did you know that it's rude to stare at\women's breasts?
+[Kojiroh] I just wanted to compliment you...
+[Kyoko] ...
+[Kojiroh] Really... You got a nice set of\breasts...
+[Kojiroh] Damn, she's got nice tits...
+[Kojiroh] She probably doesn't even know that I'm\thinking about her breasts...
+[Kyoko] ... I can hear you loud and clear...
+[Kojiroh] She has it in a ponytail...
+[Kojiroh] It's long enough that you can probably\jump rope.
+[Kyoko] Shut up.
+[Kyoko] What's wrong with a ponytail?
+[Kojiroh] Nothing, it looks really good.
+[Kyoko] ...
+[Kojiroh] It's probably the uniform worn at the\international school.
+[Kyoko] You can't have it.
+[Kojiroh] Then what else are you going to give me?
+[Kyoko] ... Nothing...
+[Kojiroh] Are you on your way to sell them to\perverts?
+[Kyoko] ...
+[Kojiroh] Come on. How much? I'll take them.
+[Kyoko] ...
+　Bath
+[Kojiroh] Please?
+[Kyoko] I don't get you...
+[Kyoko] No.
+[Kojiroh] But I haven't said anything.
+[Kojiroh] Okay.
+[Kyoko] No.
+[Kojiroh] Oh...
+[Kojiroh] Then let's take a bath.
+[Kyoko] Excuse me?
+[Kojiroh] Oh, come on. It'll be great.
+[Kyoko] ...
+[Kojiroh] (Damn, it's only a joke...)
+[Kojiroh] Nikaido on the wanted list...?
+[Kojiroh] What the hell's going on?
+　Look/Investigate
+　Move
+　Speak
+　Equipment
+　Think
+　Save/Load
+　Kou
+[Kojiroh] Maybe if I find that fake, I'll know\what's going on.
+[Kojiroh] Man, this is all Akane's fault.
+[Kojiroh] And she wants a share of the profit for\getting me the job?
+[Kojiroh] Wait a minute...?
+[Kojiroh] Did Akane mention something about Kou\this morning?
+[Kojiroh] She said that she saw him at Central\Avenue.
+[Kojiroh] Nikaido wouldn't say something like\that...
+[Kojiroh] And the real Kou's already dead...
+[Kojiroh] That means she hasn't read the papers\yet... So she didn't know that he was a fake.
+[Kojiroh] So that means the fake is walking around\Central Avenue?
+eve_03
+[Kojiroh] The phone... That was the real Kou?
+[Kojiroh] No... How would he know about me?
+[Kojiroh] He doesn't have a reason to call me...
+[Kojiroh] Hold on a second... He was about to tell\me the reason and then...
+[Kojiroh] But what's the reason?
+[Kojiroh] ...
+[Kojiroh] The phone... The message...
+[Kojiroh] Wait a minute, Kou called me yesterday.
+[Kojiroh] The real Kou died after that...
+[Kojiroh] I think I still have the message, let's\listen to it.
+[Kojiroh] The answering machine...
+I find the answering machine.
+I press the rewind button.
+[Kojiroh] Come on, where is it.
+The answering machine starts playing back the messages.
+[Kojiroh] Alright! Here it is...
+[Voice] Hello, Mr. Amagi?
+[Kojiroh] Who is this?
+[Voice] My name is Kou.
+[Kojiroh] Oh, I hope your wife's mourning ceremony\went well...
+[Voice] Listen to me carefully... There's a...
+The answering machine stops.
+[Kojiroh] ...
+[Kojiroh] There's something odd about that message.
+[Kojiroh] Yesterday, I was only interested in that\last part but...
+I rewind the tape again.
+The message starts playing again.
+[Kojiroh] Who is this?
+[Voice] My name is Kou.
+I stop the tape.
+[Kojiroh] "My name is Kou." That doesn't make any\sense...
+[Kojiroh] He sounds like he doesn't know me...
+[Kojiroh] Like as if he was talking to me for the\first time.
+[Kojiroh] There's something wrong here...
+[Kojiroh] ...
+eve_10
+[Kojiroh] Let's think about this...
+[Kojiroh] That fake... He wasn't the real Kou.
+[Kojiroh] So why did he have to impersonate him?
+[Kojiroh] ...
+[Kojiroh] What was the real reason I was hired?
+[Kojiroh] Damn, everything's a dead end.
+[Kojiroh] ...
+[Kojiroh] Didn't Purin mention something about a\phone call?
+[Kojiroh] Leave a message if you're going to\call...
+[Kojiroh] ...
+　Save
+　Load
+　Purin
+[Kojiroh] Don't be a meanie...
+[Purin] Yes?
+[Kojiroh] You don't have to come.
+[Purin] Okay.
+[Kojiroh] ...
+[Kojiroh] Come on, give her a break.
+[Kojiroh] (And she still comes...)
+b03
+[Purin] Yes?
+[Kojiroh] I... I haven't called for you yet.
+[Purin] I know, but I had a feeling you wanted\to...
+[Kojiroh] You can go now.
+[Purin] Okay.
+001
+Purin leaves.
+[Kojiroh] Is she a psychic or something?
+[Kojiroh] (Again...?)
+[Kojiroh] Hey Purin.
+b03
+[Purin] Yes?
+[Kojiroh] Nothing, I just wanted to call you over.
+Purin stares at me...
+[Kojiroh] (Oh-oh...)
+[Kojiroh] It's a joke... I'm sorry...
+[Purin] Okay...
+001
+Purin leaves.
+[Kojiroh] She's not very bright, is she?
+[Kojiroh] Hey Purin.
+b03
+[Purin] Yes?
+[Kojiroh] Nothing.
+[Purin] You just wanted to see me, right? Purin\blushes...
+001
+Purin leaves.
+[Kojiroh] Great... Good going Kojiroh...
+　Photograph
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] It's a weird art.
+001
+s10
+[Kojiroh] Glen's looking for more information on\it.
+001
+s07
+[Kojiroh] I protect myself with it.
+001
+s07
+[Kojiroh] I have to look at it at least once a\day... It's a baby...
+[Kojiroh] It's a customized Glock 22.
+001
+[Kojiroh] I don't have much...
+[Kojiroh] Or rather...
+[Kojiroh] I have none.
+[Kojiroh] That way, Akane won't be buggin' me about\her share...
+[Kojiroh] I almost lost my manhood.
+[Kojiroh] Let's not.
+[Kojiroh] Every single day... I must be still\young.
+[Kojiroh] Alright, here it comes, Mr. Propeller!
+b03
+[Purin] Kojiroh... Where are the plates?
+[Kojiroh] Oh shit!
+[Purin] Excuse me?
+[Kojiroh] Ouch... I nipped it with a zipper.
+[Purin] The plate...
+[Kojiroh] Put it where ever you want.
+[Purin] Okay.
+001
+[Kojiroh] ...
+[Kojiroh] Damn, that was close. I almost lost my\manhood there...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Kojiroh] Purins been cleaning this place up.
+[Kojiroh] What did I get myself into...
+[Kojiroh] She's still cleaning up in the other\room...
+[Kojiroh] She's like a real housekeeper now...
+[Kojiroh] It's getting darker...
+[Kojiroh] It's like my heart... I'm such a\romanticist...
+[Kojiroh] It's almost time to change the light\bulb.
+[Kojiroh] It's a table.
+[Kojiroh] I eat on it, read books on it, put my\feet up on it, and I can have sex on it.
+[Kojiroh] Which I haven't done it in about three\months...
+[Kojiroh] The terminal's on the desk. I don't need\to use it right now.
+[Kojiroh] All of my data is in that terminal.
+[Kojiroh] If someone logs on without authorization,\the light on the side turns on.
+[Kojiroh] And it was on last night.
+　Go outside
+[Kojiroh] Let's go outside.
+a002
+[Kojiroh] Yeah, thinking won't help much. I have to\go find clues.
+[Kojiroh] Yeah, let's go get some clues!
+a002
+[Kojiroh] Wait, let's think about it for a moment.
+[Kojiroh] There's something not right...
+[Kojiroh] Hey Purin, I'm going out!
+[Purin] Okay!
+a002

@@ -1,0 +1,1164 @@
+008
+008b
+eve_08
+[Kojiroh] We've arrived at the hotel lobby...
+b03
+[Purin] I'll go talk to the person at the front\desk and get a key.
+008
+eve_06
+[Kojiroh] I'm in the lobby...
+[Kojiroh] But that son of a bitch Kou's nowhere in\sight.
+008
+eve_10
+[Kojiroh] I've arrived in the lobby...
+[Kojiroh] Where the hell is fatass?
+[Kojiroh] I can't see him anywhere...
+[Kojiroh] ...
+[Kojiroh] Looks like he's not here...
+[Kojiroh] He's probably stuck in traffic...
+008
+eve_06
+[Kojiroh] The hotel lobby... I don't remember it\ever being so crowded.
+008
+008b
+eve_10
+[Kojiroh] The hotel lobby...
+[Kojiroh] I don't see that cop who was here this\afternoon...
+008
+eve_06
+[Kojiroh] The hotel lobby. It's like there's a\bunch of cops around...
+[Kojiroh] ...
+008
+Someone bumps into me.
+b02
+[Marina] Oh! Excuse me... Huh?!
+[Kojiroh] You...
+[Marina] ...
+[Kojiroh] (This has got to be that broad Marina\Hojo...)
+[Kojiroh] (What the hell is she doing here?...)
+[Marina] What are you doing here?
+[Kojiroh] I was about to ask you the same thing...
+[Marina] ...
+[Voice] Hurry up, Marina!
+[Marina] I know, I know. I coming.
+008
+b19
+[Man] Excuse us.
+[Kojiroh] ...
+008
+[Kojiroh] That dude was one cool guy...
+[Kojiroh] What're they doing in a place like\this... Ohh. It's a hotel...
+[Kojiroh] A piece of ass like Marina would show up\with a slick papa in a fancy hotel like this.
+[Kojiroh] But why would there be so many cops...?
+[Kojiroh] ...Maybe I'm just imagining things.
+[Kojiroh] ...
+eve_06
+008
+eve_06
+[Kojiroh] The hotel lobby... There sure are a bunch\of people...
+008
+b16
+b16b
+eve_06
+[Akane] Kojiroh?!
+008
+[Kojiroh] Akane! Hey, come here!
+b16
+b16b
+[Akane] What do you want?
+[Kojiroh] Your cheeks are awfully red, my dear.
+[Akane] What do you mean?
+[Kojiroh] Looks like someone slapped you around.
+[Akane] I don't know what you're talking about. I\just fell down.
+[Kojiroh] (She's a terrible liar...)
+[Akane] ...
+[Kojiroh] I'll tell you what I think.
+[Akane] Huh?
+[Kojiroh] First of all, you're in this hotel.
+[Akane] Gulp...
+[Kojiroh] You knock on the door. The door opens and\you talk to Mr. A in the hallway...
+[Akane] What are you saying?...
+[Kojiroh] Maybe it's because you're late... I don't\know. But Mr. A gets madder and madder and SMACK!!
+[Akane] ...
+[Kojiroh] Sound pretty close?
+[Akane] Not at all... And quit acting like you saw\what happened!
+[Kojiroh] (I did see it...)
+[Akane] ...
+[Kojiroh] I'm all ears if you've got something you\want to talk about.
+[Akane] There's nothing... Honestly.
+008
+[Kojiroh] ...
+[Kojiroh] That dame is one lousy liar...
+[Kojiroh] ...
+[Kojiroh] But who the hell is Mr. A?
+008
+eve_06
+[Kojiroh] I'm in the hotel lobby...
+008
+eve_06
+[Kojiroh] I'm in the hotel lobby...
+[Kojiroh] Glen should be waiting in the cocktail\lounge.
+Someone bumps into me.
+[Voice] Ahh!
+b16
+b16b
+[Akane] Kojiroh...!
+[Kojiroh] Is that you, Akane? I see you...
+008
+[Kojiroh] ...A lot here... Hey!
+[Kojiroh] She's gone up the stairs...
+[Kojiroh] Maybe she's renting a room here or\something... She didn't look happy to see me...
+[Kojiroh] ...
+008
+eve_06
+[Kojiroh] I came all the way here and have nothing\to do...
+[Kojiroh] This lobby's always empty...
+008
+008b
+eve_08
+[Kojiroh] The hotel lobby...
+[Kojiroh] The light from the chandelier is\reflected in the window... Beautiful.
+008
+eve_06
+[Kojiroh] The hotel lobby... Not too many people.
+008
+b16
+b16b
+eve_06
+[Akane] Oh, Kojiroh?
+[Kojiroh] Well, well, well. I sure see you here a\lot.
+[Akane] Yeah...
+[Kojiroh] (What's gotten into her?)
+[Akane] What?
+[Kojiroh] What do you mean what?
+[Akane] Ha ha, I guess so...
+[Kojiroh] You're a spaz.
+[Akane] Yeah...
+[Kojiroh] (What the hell's up with her...?)
+[Akane] What's that girl doing?
+[Kojiroh] That girl?
+[Akane] You know, the one you took a shower with...
+[Kojiroh] Whoa! Do me a favor and keep that big\mouth shut in front of Yayoi, alright?
+[Akane] I'm not that dumb! It's a misunderstanding\anyway, right?
+[Kojiroh] What? You don't believe me?
+[Akane] Well, you're not all that trustworthy.
+[Kojiroh] Gimme a break, girl!
+[Akane] ...
+[Kojiroh] Purin asked me to apologize to you.
+[Akane] For what?
+[Kojiroh] You know, for slapping you around. She\says you crossed her pilgrimage to Mecca.
+[Akane] Mecca?
+[Kojiroh] She's Muslim, you know.
+[Akane] Really...
+[Kojiroh] (Akane seems strange...)
+[Akane] Hey, Kojiroh...
+[Kojiroh] What do you want now?
+[Akane] Do you want my camera?
+[Kojiroh] What? What's gotten into you anyway?
+[Akane] I don't know. I just sort of think you\should have it.
+[Kojiroh] I thought you valued it more than life\itself.
+[Akane] Yeah, you're right... Ha-ha-ha... What was\I thinking?
+[Kojiroh] Lately a lot of people are acting\strange... Like that butthead Nikaido.
+[Akane] Did he do something strange?
+[Kojiroh] Well, you know, that pecker's strange to\begin with.
+[Akane] ...
+[Kojiroh] What's it to you anyway?
+[Akane] I... I could care less about that pecker!
+008
+[Kojiroh] (Could have fooled me...)
+[Kojiroh] What the hell's wrong with her?
+008
+eve_06
+[Kojiroh] The hotel lobby...
+[Kojiroh] It doesn't look like Nikaido's here.
+008
+b06
+eve_39
+[Kojiroh] Yikes!!
+[Nikaido] I haven't gotten that reaction before.
+[Kojiroh] Aww, umm... It's not you. I just have the\crabs...
+[Nikaido] ...
+[Kojiroh] (He seems like a cool cat more than\ever...)
+008
+eve_06
+[Kojiroh] The hotel lobby...
+008
+eve_06
+[Kojiroh] Open all hours of the morning...
+008
+008b
+eve_08
+[Kojiroh] A 24-hour hotel lobby...
+[Kojiroh] Working hard into the night.
+008
+008b
+b06
+eve_39
+[Nikaido] Oh!
+[Kojiroh] ...humanity!
+[Nikaido] Hey, where are you off to without me?
+[Kojiroh] Oh no! I'm hearing voices now... I must\be really tired.
+[Nikaido] It's me, you idiot! Here, get a good look\at my handsome visage.
+[Kojiroh] Don't make me puke, Nikaido.
+[Nikaido] You can see me though right?
+[Kojiroh] I was ignoring you, duh.
+[Nikaido] Heh-heh-heh. You know, I came across an\incredible clue.
+[Kojiroh] I'm not listening...
+[Nikaido] Don't you want to know what it is?
+[Kojiroh] Nope. Not at all.
+[Nikaido] Come on. It's a vital clue.
+[Kojiroh] I couldn't care less. You can leave now.
+[Nikaido] Hey! You don't wanna know? I have a very\important piece of information!
+[Kojiroh] If I said I wanted to hear it, would you\even tell me?
+[Nikaido] You stupid idiot. What kind of fool would\give out information to a rival detective?
+[Kojiroh] That's exactly why I told you I don't\give a flying hoot.
+[Nikaido] Let me see that you want to... Just a\little bit.
+[Kojiroh] What's with you, anyway?
+[Nikaido] It's a big mistake to keep concentrating\on Kou's house.
+[Kojiroh] Is this guy talking to himself?
+[Nikaido] I'm looking at this investigation from a\more global perspective.
+[Kojiroh] You mean like the other people mixed up\in this?
+[Nikaido] What?
+[Kojiroh] Like Mr. M?
+[Nikaido] How do you know about him!?
+[Kojiroh] (I read it in your appointment book,\fool.)
+[Nikaido] Don't you dare steal my leads!
+008
+008b
+[Kojiroh] You don't know your ass from your ear, do\you? One minute you call me a rival and then you\tell me not to steal your leads?
+[Kojiroh] I don't know what the hell's going on in\that guy's head.
+eve_08
+008
+008b
+eve_08
+[Kojiroh] The hotel lobby... It's open even in the\middle of the night.
+008
+008b
+[Kojiroh] I came all the way to the lobby...
+[Kojiroh] Shit! I don't see her. Did she figure me\out?
+[Kojiroh] I was tailing her and I lost her... I'm\losing my touch.
+[Kojiroh] Either that or...
+[Kojiroh] ...
+[Kojiroh] Aww who cares. It doesn't help anything\to think too much...
+eve_08
+008
+008b
+eve_08
+[Kojiroh] The hotel lobby... It's open even in the\middle of the night.
+008
+eve_06
+[Kojiroh] Here I am in the Princess Hotel lobby...\This place is always so pleasant.
+008
+b16
+eve_06
+[Akane] Kojiroh!
+[Kojiroh] Akane? What are you up to in a place like\this?
+[Akane] I have a private life too, you know.
+[Kojiroh] Carrying your camera? After setting that\inferno, you're here to attack some poor VIP now?
+[Akane] No comment!
+008
+eve_06
+[Kojiroh] Here I am in the Princess Hotel lobby...\This place is always so pleasant.
+008
+eve_06
+[Kojiroh] Here I am in the Princess Hotel lobby...\This place is always so nice and pleasant.
+[Kojiroh] I guess it has to be with all the movie\stars and politicians coming through...
+[Kojiroh] The cocktail lounge is beneath the lobby.
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] I already gave out the key...
+[Front desk] You, one stud player!
+[Kojiroh] ...
+008
+008b
+[Front desk] Oh, it's you again?
+[Front desk] You come here a lot, don't you...\Huh?
+[Purin] Good evening.
+[Front desk] Oh, thank you...
+[Purin] I'd like the room key, please.
+[Front desk] Certainly. One moment please.
+[Kojiroh] ...
+[Kojiroh] (Do they know each other?)
+[Kojiroh] (Why is she getting a room key?)
+[Kojiroh] ...
+08b_03__
+[Purin] Let's go to the room.
+[Kojiroh] Which room is it?
+[Purin] VIP room number 1420.
+[Kojiroh] (VIP room...)
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] Don't look around so much!...
+[Kojiroh] I guess a lot of incidents happened...
+[Kojiroh] But right now things seem calm.
+[Purin] You're right.
+[Kojiroh] That's a big huge chandelier... It ain't\a Chinese lantern, that's for sure.
+[Kojiroh] Once a chandelier, always a chandelier...
+[Kojiroh] It'd be pretty hilarious if it turned\into a paper lantern.
+[Purin] That would be too funny.
+[Kojiroh] More fliers saying no more fliers...
+[Kojiroh] I used to like looking at them...
+[Kojiroh] Hey, the flier's changed since yesterday.
+[Kojiroh] What's this?... 'No more fliers are\permitted in this lobby'.
+[Kojiroh] So they put up a flier to tell us we\can't put up fliers...
+[Purin] How deep...
+[Kojiroh] You can look at it all you want, but you\can't take it home.
+[Kojiroh] That's a damn big window... You can't\take it home with you.
+[Purin] But I want it...
+[Kojiroh] No way.
+　Go outside
+　Cocktail lounge
+　Room 1420
+[Kojiroh] Good idea. Let's go to room 1420 and meet\Mr. Fancy-pants.
+[Purin] It's this way.
+[Kojiroh] You know where it is?
+[Purin] You bet.
+a008_2
+[Kojiroh] Hey, you're not going to Fancy-pants'\room?
+[Kojiroh] There's no time for that now...
+　Look/Investigate
+　Move
+　Speak
+　Wait
+　Phony Kou
+[Kojiroh] There's no sign of Fatass coming... Shit!
+[Kojiroh] I'm getting irritated...
+[Kojiroh] Son of a bitch. How dare he make me wait\this long.
+[Kojiroh] Hey! FATAAAASSSS!!!
+[Kojiroh] ...
+[Kojiroh] A bunch of people just looked my way.\Oops!
+[Kojiroh] No...
+[Kojiroh] This is pissing me off.
+[Kojiroh] What could have happened?... Shit.
+[Kojiroh] He's the one who asked to meet me. Why\not show himself?
+[Kojiroh] ...
+[Kojiroh] Maybe there's a reason why he can't\come...
+[Kojiroh] Or maybe he was involved in an\accident...
+[Kojiroh] ...
+[Kojiroh] He couldn't be hiding behind the\counter...
+I look behind the counter.
+[Kojiroh] Nothing.
+[Kojiroh] ...
+[Kojiroh] What kind of idiot asks to meet someone\and doesn't show up?
+[Kojiroh] He still doesn't come...
+...
+[Kojiroh] What could have happened?...
+[Kojiroh] There's no sign at all that he's coming.
+[Kojiroh] What about under this table... Nope, not\here.
+[Kojiroh] Strange... I can't believe he's still not\here.
+[Kojiroh] ...
+[Kojiroh] Maybe he's behind that plant... Nope.
+　Front desk
+[Front desk] I haven't seen any big Chinese-looking\gentlemen.
+[Front desk] You're looking for this person?
+[Front desk] What's that? You mean the fatass?
+[Front desk] Sob... I'm on the Ginny Crepes diet\program, you know!
+[Front desk] Oh, you weren't referring to me?
+[Front desk] Hmmm, Chinese, fat, tall, rich...
+[Front desk] And who would that be?
+[Front desk] Oh, you're asking me if I've seen him?
+[Front desk] I haven't.
+[Front desk] Please give us a break...
+[Front desk] The hotel is losing customers...
+[Front desk] I thought I told you no more\interviews!
+[Front desk] You again... Great. Just what I\need...
+[Front desk] It's just out of control... A murder\suspect killed himself in one of our rooms.
+[Front desk] We're getting more than a mouthful of\reporters...
+[Front desk] You're not a reporter, are you?
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] I don't see anyone who looks like him...
+[Kojiroh] It doesn't look like phony Kou is\anywhere around.
+[Kojiroh] Son of a bitch, telling me he'll be\here...
+[Kojiroh] Where the hell is he?
+[Kojiroh] That's a big huge chandelier... It ain't\a Chinese lantern, that's for sure.
+[Kojiroh] Once a chandelier, always a chandelier...
+[Kojiroh] It'd be pretty hilarious if it turned\into a paper lantern.
+[Kojiroh] So many damn fliers saying no more\fliers.
+[Kojiroh] I used to like looking at them...
+[Kojiroh] Hey, the flier's changed since yesterday.
+[Kojiroh] What's this?... 'No more fliers are\permitted in this lobby.'
+[Kojiroh] So they put up a flier to tell us we\can't put up fliers...
+[Kojiroh] Look at it all you want, but you can't\take it home.
+[Kojiroh] Pretty big window... Can't take it home.
+　Go outside
+　Cocktail lounge
+[Kojiroh] He ain't coming... What a waste of time.
+[Kojiroh] I'm going out...
+a007
+[Kojiroh] That phony Kou should be coming...
+[Kojiroh] Why not wait just a little bit more?
+[Kojiroh] He ain't coming... What a waste of time.
+[Kojiroh] I'll go down and check out the cocktail\lounge...
+a009_2
+[Kojiroh] No. I have to wait for him...
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] Please give us a break...
+[Front desk] The hotel is losing customers...
+[Front desk] I thought I told you no more\interviews!
+[Front desk] You again... Great. Just what I\need...
+[Front desk] It's just out of control... A murder\suspect killed himself in one of our rooms.
+[Front desk] And then there was the uproar over\that night's explosion...
+[Front desk] You didn't know about it? It was an\explosion! Explosion!
+[Front desk] What a mess... Sob...
+[Front desk] I've already told everything to the\reporters...
+[Front desk] You're not a reporter, are you?
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] It looks like there are swarms of\reporters.
+[Kojiroh] What a pain in the ass for the hotel\people...
+[Kojiroh] There are a lot more people than usual...
+[Kojiroh] It must be because of the suicide...
+[Kojiroh] That's a big huge chandelier... It ain't\a Chinese lantern, that's for sure.
+[Kojiroh] Once a chandelier, always a chandelier...
+[Kojiroh] It'd be pretty hilarious if it turned\into a paper lantern.
+[Kojiroh] So many damn fliers.
+[Kojiroh] I used to like looking at them...
+[Kojiroh] Hey, the flier's changed since yesterday.
+[Kojiroh] What's this?... 'No more fliers are\permitted in this lobby.'
+[Kojiroh] So they put up a flier to tell us we\can't put up fliers...
+[Kojiroh] Look at it all you want, but you can't\take it home.
+[Kojiroh] Pretty big window... Can't take it home.
+　Go outside
+　Cocktail lounge
+[Kojiroh] Outside... Yeah, sounds good.
+a007
+[Kojiroh] I'd sort of like to go...
+[Kojiroh] I'll go check out the cocktail lounge.
+a009_2
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] If you've come to get busy between the\sheets, please check in here.
+[Front desk] If you're here to mess around, please\get the hell out of here.
+[Front desk] You again... You really come here a\LOT lately.
+[Front desk] Quit standing around like a jerk-off\and go take care of your reproductive action\between male and female.
+[Front desk] Did I just say that?...
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Front desk] If you're going to fall down, then do\it by the exit.
+[Kojiroh] Don't be cold...
+[Kojiroh] Whenever I come to a fancy, quiet hotel\like this one, I want to roll around the floor like\a dog.
+[Front desk] Excuse me, sir, please.
+[Kojiroh] That's Sir Loins to you, my love.
+[Front desk] I see. Please go away, Sir Loins.
+[Kojiroh] Them's the breaks...
+[Kojiroh] That's one big-ass chandelier.
+[Kojiroh] It perfectly reflects in the outside\windows...
+[Kojiroh] What a splendid chandelier... It looks\like it could shatter easily.
+[Kojiroh] The receptionist is giving me a stare...\I was just noting that it looks fragile.
+[Kojiroh] I already read the fliers...
+[Kojiroh] Look at the fliers again?
+[Kojiroh] What have we here... 'Thank you for going\through the trouble to look here.'
+[Kojiroh] 'As a reward for your troubles, you will\now learn the secret password that will transfer\you to the last disc'.
+[Kojiroh] 'Of course there's no such thing, so\you're out of luck. Please enjoy the rest of the\game.'
+[Kojiroh] ...What on God's earth does this shit\mean?
+[Kojiroh] I must love looking at these fliers...
+[Kojiroh] Alright, I'll check 'em out. What do we\have here...
+[Kojiroh] 'Not there! Uhh, Ah, That's my\belly-button...'
+[Kojiroh] Good old freedom of speech.
+[Kojiroh] That's what it actually says.
+[Kojiroh] Look again?
+[Kojiroh] 'Please don't look anymore... Stop\punishing me.'
+[Kojiroh] What the hell is that supposed to mean?
+[Kojiroh] Fliers... Let's see what they say.
+【小次郎】『喉の奥深くまで挿入され、順子は吐き気をもよおした。』
+【小次郎】『しかし頭を固定されているので、肉棒を口腔から吐き出すこともできない。』
+【小次郎】『口腔を、限界まで硬くなった肉棒が出入りしながら、熱い粘液が喉にあびせかけられる。』
+【小次郎】『むせかえりそうになりながら、順子は濃く粘りけのある精液を、黙って嚥下するしかなかった。ごくっ、ごくっ。』
+[Kojiroh] This shit's making me impatient.
+[Kojiroh] But it was exciting...
+[Kojiroh] This is different from what was written\before.
+[Kojiroh] 'I'll teach you a special secret for\looking here. If you lock the KANA key the dialogue\in the game will speed along quickly.'
+[Kojiroh] ...
+[Kojiroh] I have no idea what this means.
+[Kojiroh] It looks like the fliers have changed\again...
+【小次郎】『いたいたわあ、ソたレ、とぉったてもふたとくたて‥‥モグたモたグしたちゃうっ。たぬきより』
+[Kojiroh] ...Sounds familiar.
+[Kojiroh] It's changed again... What next?
+【小次郎】『へいベイベー、ジュテーム、ウォアイニィ、アイラヴユゥ！』
+[Kojiroh] ...
+【小次郎】そういえば日本の歌い手さんは、なんで「ベイベー」って発音するんだろうか。
+【小次郎】正確には「ベイビー」が正しいんだぞ。
+[Kojiroh] The fliers have some new information.\Let's see...
+[Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
+[Kojiroh] ...
+[Kojiroh] How dare they put detectives in the same\class as gangsters.
+[Kojiroh] This one says... "My friend, ever think\about working as a hotel receptionist and rule the\world?"
+[Kojiroh] ...
+[Kojiroh] I seriously doubt that.
+[Kojiroh] No matter how many times you look at it\you can't take it home.
+[Kojiroh] That's one big damn window... Can't take\it home, though.
+　Go outside
+　Cocktail lounge
+[Kojiroh] Go outside... Sounds good.
+a007
+[Kojiroh] I'm in the mood to get out of here...
+[Kojiroh] I'll go check out the cocktail lounge.
+a009_2
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] It's a little strange for me to not\know...
+[Front desk] I'll probably find out what happened\after tomorrow.
+[Front desk] There sure are a lot of police\officers about...
+[Front desk] The Manager was talking with the\police about something a minute ago...
+[Front desk] The Manager looked like something was\wrong. I wonder what on earth could have\happened...
+[Front desk] But I guess I shouldn't be telling\this to a guest.
+[Front desk] If you've come to get busy between the\sheets, then please check in here.
+[Front desk] If you're here to mess around, please\get the hell out of here.
+[Front desk] You again... You really come here a\LOT lately.
+[Front desk] Quit standing around like a jerk-off\and take care of reproductive actions between male\and female.
+[Front desk] Did I just say that?...
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Front desk] If you're going to fall down, then do\it by the exit.
+[Kojiroh] Don't be cruel baby...
+[Kojiroh] Whenever I come to a fancy, quiet hotel\like this one, I want to roll around on the floor\like a dog.
+[Front desk] Excuse me, sir, please.
+[Kojiroh] That's Sir Loins to you, my love.
+[Front desk] I see. Please go away, Sir Loins.
+[Kojiroh] Them's the breaks...
+[Kojiroh] Ah, the chandelier...
+[Kojiroh] It's turned on even in the day...
+[Kojiroh] What a splendid chandelier... It looks\like it could shatter easily.
+[Kojiroh] The receptionist is giving me the\stare... I was just noting that it looks fragile.
+[Kojiroh] I already read the fliers...
+[Kojiroh] Look at the fliers again?
+[Kojiroh] What have we here... 'Thank you for going\through the trouble to look here.'
+[Kojiroh] 'As a reward for your troubles, you will\now learn the secret password that will transfer\you to the last disc'.
+[Kojiroh] 'Of course there's no such thing, so\you're out of luck. Please enjoy the rest of the\game.'
+[Kojiroh] ...What on God's earth does this shit\mean?
+[Kojiroh] I love looking at these fliers...
+[Kojiroh] Alright, I'll check 'em out. What do we\have here...
+[Kojiroh] 'Not there! Uh, Ah, That's my\belly-button...'
+[Kojiroh] Good old freedom of speech.
+[Kojiroh] That's what it actually says.
+[Kojiroh] Look again?
+[Kojiroh] 'Please don't look anymore... Stop\punishing me.'
+[Kojiroh] What the hell is that supposed to mean?
+[Kojiroh] Fliers... Let's see what they say.
+【小次郎】『喉の奥深くまで挿入され、順子は吐き気をもよおした。』
+【小次郎】『しかし頭を固定されているので、肉棒を口腔から吐き出すこともできない。』
+【小次郎】『口腔を、限界まで硬くなった肉棒が出入りしながら、熱い粘液が喉にあびせかけられる。』
+【小次郎】『むせかえりそうになりなが、順子は濃く粘りけのある精液を、黙って嚥下するしかなかった。ごくっ、ごくっ。』
+[Kojiroh] This shit's making me impatient.
+[Kojiroh] But it was exciting...
+[Kojiroh] This is different from what was written\before.
+[Kojiroh] 'I'll teach you a special secret for\looking here. If you lock the KANA key the dialogue\in the game will speed along quickly.'
+[Kojiroh] ...
+[Kojiroh] I have no idea what this means.
+[Kojiroh] It looks like the fliers have changed\again...
+【小次郎】『いたいたわあ、ソたレ、とぉったてもふたとくたて‥‥モグたモたグしたちゃうっ。たぬきより』
+[Kojiroh] ...Sounds familiar.
+[Kojiroh] It's changed again... What next?
+【小次郎】『へいベイベー、ジュテーム、ウォアイニィ、アイラヴユゥ！』
+[Kojiroh] ...
+【小次郎】そういえば日本の歌い手さんは、なんで「ベイベー」って発音するんだろうか。
+【小次郎】正確には「ベイビー」が正しいんだぞ。
+[Kojiroh] The fliers have some new information.\Let's see...
+[Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
+[Kojiroh] ...
+[Kojiroh] How dare they put detectives in the same\class as gangsters.
+[Kojiroh] This one says... "My friend, ever think\about working as a hotel receptionist and rule the\world?"
+[Kojiroh] ...
+[Kojiroh] I seriously doubt that.
+[Kojiroh] No matter how many times you look at it\you can't take it home.
+[Kojiroh] That's one big damn window... Can't take\it home, though.
+　Go outside
+　Cocktail lounge
+　Follow Akane
+[Kojiroh] Akane seemed strange... I'd better see\what she's up to.
+[Kojiroh] She seemed like she was really nervous...
+[Kojiroh] I'll go after Akane!
+eve_38
+[Kojiroh] (I'm getting tired...)
+[Kojiroh] (I need more exercise...)
+[Kojiroh] (Use the dang elevator! What is she\thinking running up four flights of stairs...)
+[Kojiroh] (She's tougher than I thought...)
+[Kojiroh] (It's like she's trying to shake a\tail...)
+[Kojiroh] ...
+[Kojiroh] (She's walking in the hallway... Checking\the room numbers.)
+[Kojiroh] (Which means she's meeting someone... A\secret rendezvous?)
+[Kojiroh] ...
+[Kojiroh] (She stopped!... Room 410.)
+Knock! Knock!
+[Akane] It's me...
+[Kojiroh] (She sounds so timid... That's not like\her...)
+[Kojiroh] (Could she be meeting with the\President?)
+The door opens.
+...
+[Akane] I know... But...
+[Kojiroh] (She's whispering... I can't really make\it out.)
+[Akane] Please forgive me... I bumped into someone\I know down in the lobby and...
+Smack!
+[Akane] Ouch!
+0190
+[Kojiroh] ...!?
+[Akane] I'm sorry... Please, please forgive me...
+[Kojiroh] (Son of a bitch! He hit her!)
+[Kojiroh] (But I can't help her now...)
+[Akane] I'm so sorry... You're right... It's my own\fault...
+[Kojiroh] (What is going on?)
+[Akane] ...Forgive me. May I come in?
+...
+The door closes.
+[Kojiroh] (They closed the door.)
+[Kojiroh] ...
+[Kojiroh] ...I'd better get back to the lobby.
+008
+[Kojiroh] ...
+[Kojiroh] It's none of my business who Akane meets\with or what scoop she gets anyway...
+[Kojiroh] ...
+[Kojiroh] I just hope she's not getting herself\into anything dangerous...
+[Kojiroh] ...Damn! I just can't let things be, can\I?!
+[Kojiroh] ...
+eve_06
+[Kojiroh] Outside, huh?... Sounds good.
+a007
+[Kojiroh] You want to go outside?
+[Kojiroh] I have this feeling I was supposed to be\somewhere...
+a007
+[Kojiroh] Hold on!...
+[Kojiroh] Akane was acting strange...
+[Kojiroh] Should I go outside?...
+a007
+[Kojiroh] It's probably a good idea. I feel like\getting out of here.
+[Kojiroh] I'll go check out the cocktail lounge.
+a009_2
+[Kojiroh] There's a waitress there right now...
+[Kojiroh] I guess I have no choice...
+a009
+[Kojiroh] Glen should be waiting for me.
+[Kojiroh] Look out, cocktail lounge! Here I come!
+a009
+[Kojiroh] It's not cool to make Glen wait...
+[Kojiroh] But I can't shake this feeling.
+[Kojiroh] Cocktail lounge... You gotta love it.
+a009
+[Kojiroh] It's closed in the morning.
+[Kojiroh] Right now it looks... open. So it must\not be morning.
+[Kojiroh] I'll go check it out...
+a009
+　Look/Investigate
+　Move
+　Speak
+　Punch
+　Nikaido
+　Chandelier
+　Front desk
+[Kojiroh] Whatever. You'll have to excuse me now.
+[Nikaido] You don't make any sense, shithead.
+POW!
+[Kojiroh] God, I'd love to punch your lights out...
+[Nikaido] So? What the hell are you doing?
+[Kojiroh] Playing "Fatal Relations" with you.
+[Nikaido] ...
+[Kojiroh] I can't quit.
+[Kojiroh] It's the option I always choose whenever\I see this idiot...
+[Nikaido] What the hell are you talking about?
+[Kojiroh] I'm not Dhalsim, the fighter.
+[Kojiroh] I can't hit the chandelier from here...
+[Kojiroh] Not unless I turn into Mr. Plastic from\the Terrific Five.
+[Kojiroh] Forget it. I'm not a bed wetter like you.
+[Nikaido] Hey! What are you saying?
+[Kojiroh] If you can hit the chandelier from here,\I'll give you a picture of Yayoi in bondage.
+[Kojiroh] Hey, Nikaido! Why are you swinging at the\chandelier?
+[Front desk] Please stop it sir.
+[Nikaido] Don't worry about it. He's just a fool.
+[Front desk] Please cut it out.
+[Kojiroh] I got told first...
+[Nikaido] You're an idiot.
+　Nikaido
+[Nikaido] Ha ha ha.
+[Kojiroh] You okay Nikaido?
+[Nikaido] I'll give credit where credit is due. You\win. I lose
+[Kojiroh] That's a very commendable attitude.
+[Nikaido] But!
+[Kojiroh] But what?
+[Nikaido] But it's a minor setback on the way to a\greater victory. You should enjoy your two minutes\of glory, pecker-breath.
+[Kojiroh] Are you sure you're all right? You're not\losing your mind from shock or anything, are you?
+[Nikaido] And my boss will congratulate me for not\being poopy like you.
+[Kojiroh] Poopy? (This guy's lost his marbles!)
+[Nikaido] Because a case from him is worth much\more.
+[Kojiroh] Him?
+[Nikaido] Woops. I said too much.
+[Kojiroh] You mean Mr. M?
+[Nikaido] You son of a bitch! Why should you know\who Mr. Mido is!
+[Kojiroh] Mido?
+[Nikaido] Uh-oh!
+008
+[Kojiroh] ...
+[Kojiroh] He ran away...
+[Kojiroh] Mido...? Who is that?
+eve_06
+[Nikaido] My boss despises you from the bottom of\her heart.
+[Kojiroh] Don't change the subject.
+[Nikaido] Her heart is full of so much hatred for\you, there's no room for me to get in!
+[Kojiroh] Tough break, pal.
+[Nikaido] But just you watch, you worthless piece\of shit. Watch as her hatred for you transforms\into her love for me.
+[Kojiroh] I'll keep my eyes peeled. (I can't stand\this idiot.)
+[Nikaido] What's with that 'I can't stand this\idiot' look on your face?
+[Kojiroh] It's just that I really can't stand you,\idiot.
+[Nikaido] This case isn't just about a missing\painting.
+[Kojiroh] What's it about then?
+[Nikaido] I'm not telling you any more...
+[Kojiroh] I bet you're not allowed to anyhow?
+[Nikaido] Say whatever you like. I'll be happy if I\can just solve the other case...
+[Kojiroh] Another case?
+[Nikaido] You don't have any idea what's going on,\do you? There's a whole other side to all this.\You're a damn fool if you don't see it.
+[Kojiroh] Another side...
+[Nikaido] Kojiroh, you did a good job. If only you\were smart like me you could see what's going on.
+[Kojiroh] You're just a sore loser. Figures.
+[Nikaido] Go ahead and think that.
+[Kojiroh] ...
+[Kojiroh] We meet a lot, Nikaido.
+[Nikaido] You're a stuck up pig, Kojiroh.
+[Kojiroh] I deserve to be proud of myself right\about now.
+[Nikaido] Don't be so cocky just because you found\the stupid painting.
+[Kojiroh] I solved the case, didn't I?
+[Nikaido] Yes, you solved a part of it.
+[Kojiroh] Huh?
+[Nikaido] Huh, a worthless like you wouldn't know,\but I'll let you in on something. Hidden within\that painting is a deadly secret.
+[Kojiroh] Like the curse?
+[Nikaido] Gimme a break.
+[Kojiroh] What then?
+[Nikaido] Ha ha, your ignorance is bliss.
+[Kojiroh] Are you sure you're okay?
+　Surroundings
+　Nikaido
+　Clothes
+[Nikaido] I'm Nikaido with the gorgeous gonads.
+[Kojiroh] I don't know what you're talking about.
+[Kojiroh] All I see in front of me is Nikaido with\the hemorrhoid-cream mustache.
+[Nikaido] You've never even seen my glorious\gonads. They sparkle like shining stars.
+[Kojiroh] You're such a pervert.
+[Kojiroh] It's a train...
+[Nikaido] Who are you calling a train?... Don't\point!
+[Kojiroh] You're uncircumcised, annoying, dirtier\than all heck, and a big pain in the arse.
+[Nikaido] You've got balls to say that to my face.
+[Kojiroh] It's not that. I just can't help but tell\the truth.
+[Nikaido] ...
+[Kojiroh] I could care less what kind of clothes\this prick wears.
+[Nikaido] You're starting to piss me off.
+[Kojiroh] What a miserable son of a bitch...\Wearing the same clothes as you wore yesterday.
+[Nikaido] I hate to disappoint you, but I have\multiples of the same suit.
+[Kojiroh] You are still wearing those '3 for $39'\suits...
+[Nikaido] I feel sorry for you that you have\absolutely no sense of style.
+　Go outside
+　Cocktail lounge
+[Nikaido] Don't make me laugh.
+[Kojiroh] I'm right here.
+[Nikaido] Son of a b...
+[Nikaido] Go on. Get the hell out of here.
+[Kojiroh] No, I'll just stay here.
+[Nikaido] Son of a b... b...
+[Kojiroh] Bitch?
+[Nikaido] It's no cocktail lounge for a butt-picker\like you.
+[Kojiroh] God, you're annoying...
+[Nikaido] Look at you. You're going to that\cocktail lounge dressed like that?
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] What can I do for you?
+[Front desk] Oh, it's you again...
+[Front desk] I see you a lot lately. What brings\you here today?
+[Front desk] Excuse me? Nothing really?
+[Front desk] Please don't play games with me, sir.
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] There aren't many people...
+[Kojiroh] This place is pretty empty right now...
+[Kojiroh] But, then again, is it ever not empty?
+[Kojiroh] Save electricity.
+[Kojiroh] But this chandelier is always on.
+[Kojiroh] They'd better watch out. The fat, crusty\hippie army of energy conservationists might come\attacking...
+[Kojiroh] I already read the fliers...
+[Kojiroh] Look at the fliers again?
+[Kojiroh] What have we here... 'Thank you for going\through the trouble to look here.'
+[Kojiroh] 'As a reward for your troubles, you will\now learn the secret password that will transfer\you to the last disc'.
+[Kojiroh] 'Of course there's no such thing, so\you're out of luck. Please enjoy the rest of the\game.'
+[Kojiroh] ...What on God's earth does this shit\mean?
+[Kojiroh] I love looking at these fliers...
+[Kojiroh] Alright, I'll check 'em out. What do we\have here...
+[Kojiroh] 'Not there! Uh, Ah, That's my\belly-button...'
+[Kojiroh] Good old freedom of speech.
+[Kojiroh] That's what it actually says.
+[Kojiroh] Look again?
+[Kojiroh] 'Please don't look anymore... Stop\punishing me.'
+[Kojiroh] What the hell is that supposed to mean?
+[Kojiroh] Fliers... Let's see what they say.
+【小次郎】『喉の奥深くまで挿入され、順子は吐き気をもよおした。』
+【小次郎】『しかし頭を固定されているので、肉棒を口腔から吐き出すこともできない。』
+【小次郎】『口腔を、限界まで硬くなった肉棒が出入りしながら、熱い粘液が喉にあびせかけられる。』
+【小次郎】『むせかえりそうになりなが、順子は濃く粘りけのある精液を、黙って嚥下するしかなかった。ごくっ、ごくっ。』
+[Kojiroh] This shit's making me impatient.
+[Kojiroh] But it was exciting...
+[Kojiroh] This is different from what was written\before.
+[Kojiroh] 'I'll teach you a special secret for\looking here. If you lock the KANA key the dialogue\in the game will speed along quickly.'
+[Kojiroh] ...
+[Kojiroh] I have no idea what this means.
+[Kojiroh] It looks like the fliers have changed\again...
+【小次郎】『いたいたわあ、ソたレ、とぉったてもふたとくたて‥‥モグたモたグしたちゃうっ。たぬきより』
+[Kojiroh] ...Sounds familiar.
+[Kojiroh] It's changed again... What next?
+【小次郎】『へいベイベー、ジュテーム、ウォアイニィ、アイラヴユゥ！』
+[Kojiroh] ...
+【小次郎】そういえば日本の歌い手さんは、なんで「ベイベー」って発音するんだろうか。
+【小次郎】正確には「ベイビー」が正しいんだぞ。
+[Kojiroh] The fliers have some new information.\Let's see...
+[Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
+[Kojiroh] ...
+[Kojiroh] How dare they put detectives in the same\class as gangsters.
+[Kojiroh] This one says... "My friend, ever think\about working as a hotel receptionist and rule the\world?"
+[Kojiroh] ...
+[Kojiroh] I seriously doubt that.
+[Kojiroh] That's a big-ass window... Bigger than my\office.
+[Kojiroh] That window's so damn big... It's two\stories high!
+[Kojiroh] At night you can see the beautiful\reflection of the chandelier in it.。
+　Go outside
+　Cocktail lounge
+[Kojiroh] Going outside sounds good. I'm in the\mood for some fresh air.
+a007
+[Kojiroh] It looks open right now...
+[Kojiroh] This cocktail lounge is closed in the\morning...
+[Kojiroh] I'm off to the cocktail lounge!
+a009
+[Kojiroh] It's right to the bottom of the\escalator.
+[Kojiroh] I'll go check it out.
+a009
+[Kojiroh] I can't go to the cocktail lounge unless\it's in the evening.
+[Kojiroh] I'll come back later.
+[Kojiroh] The cocktail lounge should be right here\at the bottom of the escalator... Huh?
+[Kojiroh] What's this sign about...? 'The cocktail\lounge opens in the afternoon'.
+[Kojiroh] That's bullshit! It should be open 24\hours.
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] I personally like thin, perky girls in\sailor outfits.
+[Front desk] I already told you.
+[Kojiroh] You didn't see a big-titty mama?
+[Front desk] Forgive me, sir, but I go for thin,\perky gals.
+[Kojiroh] Fine. Then did you see a girl in a red\jacket?
+[Front desk] Nothing reaches me except the sailor\outfits, sir.
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] She's nowhere. Shit! How could I let her\get away?
+[Kojiroh] She isn't here...
+[Kojiroh] I wish I knew why.
+[Kojiroh] No one's hanging from the chandelier.
+[Kojiroh] Maybe she's hanging from the\chandelier...
+[Kojiroh] Or maybe not.
+[Kojiroh] Behind the fliers... not there.
+[Kojiroh] Of course. Don't be stupid...
+[Kojiroh] Maybe she's behind these fliers...
+I look.
+[Kojiroh] Nope.
+[Kojiroh] Look all you want but you can't take it\home.
+[Kojiroh] Pretty big damn window... I can't take it\home with me.
+　Go outside
+　Cocktail Lounge
+[Kojiroh] I'll go outside. I'm sick of hanging\around in here.
+a007
+[Kojiroh] The cocktail lounge sounds good right\now.
+a009
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] To get to the cocktail lounge just go\down the escalator on your right.
+[Front desk] Do you have a reservation?
+[Front desk] Every night we fill completely up with\naughty boys and girls.
+[Front desk] The VIP room is open, however. It\costs $1200 a night.
+[Front desk] I see.
+[Front desk] Please come again.
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] The lobby's pretty empty...
+[Kojiroh] Everyone's pumping in their rooms...\Shit!
+[Kojiroh] This place is like a 24-hour convenience\store.
+[Kojiroh] You can rent a room in the middle of the\night if one's available.
+[Kojiroh] Which means this is a great date spot...
+[Kojiroh] It looks even shinier at night...
+[Kojiroh] If you look at it from outside at night\it shines like a jewel...
+[Kojiroh] This hotel is a classy place.
+[Kojiroh] I already read the fliers...
+[Kojiroh] Look at the fliers again?
+[Kojiroh] What have we here... 'Thank you for going\through the trouble to look here.'
+[Kojiroh] 'As a reward for your troubles, you will\now learn the secret password that will transfer\you to the last disc'.
+[Kojiroh] 'Of course there's no such thing, so\you're out of luck. Please enjoy the rest of the\game.'
+[Kojiroh] ...What on God's earth does this shit\mean?
+[Kojiroh] I love looking at these fliers...
+[Kojiroh] Alright, I'll check 'em out. What do we\have here...
+[Kojiroh] 'Not there! Uh, Ah, That's my\belly-button...'
+[Kojiroh] Good old freedom of speech.
+[Kojiroh] That's what it actually says.
+[Kojiroh] Look again?
+[Kojiroh] 'Please don't look anymore... Stop\punishing me.'
+[Kojiroh] What the hell is that supposed to mean?
+[Kojiroh] Fliers... Let's see what they say.
+【小次郎】『喉の奥深くまで挿入され、順子は吐き気をもよおした。』
+【小次郎】『しかし頭を固定されているので、肉棒を口腔から吐き出すこともできない。』
+【小次郎】『口腔を、限界まで硬くなった肉棒が出入りしながら、熱い粘液が喉にあびせかけられる。』
+【小次郎】『むせかえりそうになりなが、順子は濃く粘りけのある精液を、黙って嚥下するしかなかった。ごくっ、ごくっ。』
+[Kojiroh] This shit's making me impatient.
+[Kojiroh] But it was exciting...
+[Kojiroh] This is different from what was written\before.
+[Kojiroh] 'I'll teach you a special secret for\looking here. If you lock the KANA key the dialogue\in the game will speed along quickly.'
+[Kojiroh] ...
+[Kojiroh] I have no idea what this means.
+[Kojiroh] It looks like the fliers have changed\again...
+【小次郎】『いたいたわあ、ソたレ、とぉったてもふたとくたて‥‥モグたモたグしたちゃうっ。たぬきより』
+[Kojiroh] ...Sounds familiar.
+[Kojiroh] It's changed again... What next?
+【小次郎】『へいベイベー、ジュテーム、ウォアイニィ、アイラヴユゥ！』
+[Kojiroh] ...
+【小次郎】そういえば日本の歌い手さんは、なんで「ベイベー」って発音するんだろうか。
+【小次郎】正確には「ベイビー」が正しいんだぞ。
+[Kojiroh] The fliers have some new information.\Let's see...
+[Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
+[Kojiroh] ...
+[Kojiroh] How dare they put detectives in the same\class as gangsters.
+[Kojiroh] This one says... "My friend, ever think\about working as a hotel receptionist and rule the\world?"
+[Kojiroh] ...
+[Kojiroh] I seriously doubt that.
+[Kojiroh] That's a big window... It makes me want\to dirty it up with my grimy finger prints.
+[Kojiroh] At night you can't see the scenery\outside...
+[Kojiroh] Looking at the window I can see what's\going on in the lobby.
+　Go outside
+　Cocktail lounge
+[Kojiroh] Going out sounds good right now.
+a007
+[Kojiroh] It's right at the bottom of the escalator\on the right.
+[Kojiroh] I'll go check it out.
+a009
+　Look/Investigate
+　Move
+　Speak
+　Lick
+　Face
+　Camera
+[Kojiroh] I guess I won't lick you this time.
+[Akane] Of course you won't!
+[Kojiroh] Akane's face?!
+[Kojiroh] If you say so...
+[Kojiroh] Hey, Akane.
+[Akane] What?
+[Kojiroh] Let me lick your face.
+[Akane] Never in a million years would I never,\EVER let you lick my face!
+[Kojiroh] A nice, hard lick...
+[Kojiroh] A real wet one.
+[Kojiroh] I can lick my own nose, you know.
+[Akane] What do you think you're doing.
+[Kojiroh] Come on, Akane.
+[Akane] Get lost!
+[Kojiroh] Women...
+[Kojiroh] Lick lick lick.
+[Kojiroh] She'd probably complain that her camera\would rust and rot or something.
+[Kojiroh] Forget about licking the camera.
+[Kojiroh] I get pissed off just thinking about her\reaction.
+　Akane
+[Akane] If you find the painting, you ARE going to\take the money, right?
+[Kojiroh] Yeah, I guess so.
+[Akane] Well?
+[Kojiroh] What are you doing with your hand?
+[Akane] Oh, you...! My five thousand bucks!
+[Kojiroh] What? I haven't even completed the case\yet. So none for me, none for you, yet.
+[Akane] You better watch yourself, buster!
+[Kojiroh] Hey, I wonder. You probably also asked\Yayoi for some commission, right?
+[Akane] I'm not that hard, Kojiroh. I may not look\it, but I'm still pretty naive.
+[Kojiroh] (Yeah, right! She's naive...)
+[Kojiroh] That reminds me...
+[Akane] Of what?
+[Kojiroh] I met Kou.
+[Akane] Yeah?
+[Kojiroh] Incidentally, I also met with some of the\Katsuragi Detective offices fellows.
+[Akane] Oh.
+[Kojiroh] Is that all you have to say?
+[Akane] Yep.
+[Kojiroh] You didn't say anything about Yayoi\getting involved.
+[Akane] I never said anything about her not getting\involved.
+[Kojiroh] What?
+[Akane] All I said was that I was thinking about\taking the case to her. I didn't lie.
+[Kojiroh] ...
+b16
+[Akane] That shut you up.
+[Kojiroh] You're despicable...
+[Kojiroh] (At least she's smiling again...)
+[Kojiroh] What the hell are you doing here anyway?
+[Akane] I already told you. I have a private life,\too.
+[Kojiroh] Private, huh? I'd like to see your\privates, if you know what I mean... What's that\smell?
+[Akane] What smell?
+[Kojiroh] Scent of soap... It's nice.
+[Akane] Gulp...
+[Kojiroh] Let's see... A beautiful woman with a\private life, soapy smell in a hotel... There's\only one conclusion.
+[Akane] Keep your nose out of my business!
+[Kojiroh] You're back for a secret rendezvous with\Mr. Wrong.
+[Akane] Quit while you're ahead, Kojiroh...
+b16b
+[Kojiroh] (Whoa! She's not smiling anymore...)
+[Akane] My personal life has nothing to do with\you.
+[Kojiroh] (Woops. I went too far again.)
+[Kojiroh] ...
+[Kojiroh] (But I still don't understand it. She\should be happy if she's meeting her lover...)
+[Kojiroh] (They must have fought...)
+[Kojiroh] (I'd better change the subject...)
+　Surroundings
+　Akane
+　Camera
+[Kojiroh] The more I look at this place, the more I\want to destroy it... I'd better look at something\else.
+[Kojiroh] This is a damn fine lobby... I guess I\should expect that from the biggest hotel in town.
+[Kojiroh] Whenever I come to a fancy-schmancy place\like this, I just want to take a baseball bat to\the whole thing and destroy the place!
+[Akane] You're the only person who does that kind\of thing.
+[Kojiroh] You'll have a good time with that camera,\Akane. Bringing to life the wildest fantasies of\whatever hot-shot you're rolling with tonight.
+[Akane] Don't be such a pervert.
+[Kojiroh] I'm just telling it like it is... Private\life, camera, hotel...
+[Kojiroh] ...
+[Kojiroh] Incredible!
+[Akane] Wipe that look off your face!
+[Kojiroh] Oh, get over it. I was just imagining the\pictures of you writhing and squealing with lover\boy.
+[Akane] Kojiroh, do me a favor and don't say such\blasphemy about my camera.
+[Akane] Stop looking at it. You'll wreck it!
+[Kojiroh] I'm not gonna wreck it just by looking at\it.
+[Akane] You keep looking at it like you want it,\but I'll never give it to you!
+[Kojiroh] Nobody wants your stupid camera.
+[Akane] You couldn't buy this camera even if you\saved your petty salary for 17 years!
+[Kojiroh] How'd you come up with that figure?
+[Akane] I can't believe you say you don't want\this... You're sick!
+[Kojiroh] Okay then. I want it. Give it to me.
+[Akane] No!
+[Kojiroh] Then what does it matter whether or not I\want it?
+　Go outside
+　Cocktail Lounge
+[Kojiroh] I still have some things to take care of.\See you later.
+[Akane] Good luck. I'm rooting for you...
+[Kojiroh] Oh, yeah?
+[Akane] Yeah. If you find any clues, be sure to\tell me about them... I might be able to help.
+[Kojiroh] You, help?
+[Akane] Yeah.
+[Kojiroh] Okay. I'll tell you if I find anything.
+[Akane] Thanks.
+[Kojiroh] (Do the five thousand clams mean that\much to her?)
+[Kojiroh] (Aw, who cares. I'm going outside.)
+a007
+[Kojiroh] How about talking to Akane first?
+[Kojiroh] Bye... But before that, I have something\I need to tell Akane.
+[Akane] I'm very busy right now...
+[Kojiroh] I still have some things to take care of.\See you later.
+[Akane] Good luck. I'm rooting for you...
+[Kojiroh] Oh, yeah?
+[Akane] Yeah. If you find any clues, be sure to\tell me about them... I might be able to help.
+[Kojiroh] You, help?
+[Akane] Yeah.
+[Kojiroh] Okay. I'll tell you if I find anything.
+[Akane] Thanks.
+[Kojiroh] (Do the five thousand clams mean that\much to her?)
+[Kojiroh] (Who cares... I'm going to the cocktail\lounge.)
+a009
+[Kojiroh] I'll go to the cocktail lounge later. Now\I should talk to Akane.
+[Kojiroh] I'm going to take you to the cocktail\lounge, get you drunk on screwdrivers, and take you\straight to bed!
+[Kojiroh] Yeah, right! Then you'll be on my wallet\for the rest of my life.
+[Akane] Hey, what are you tryin' to say?
+　Look/Investigate
+　Move
+　Speak
+　Front desk
+[Front desk] To get to the cocktail lounge, just go\down the escalator on your right, please.
+[Front desk] Do you have a reservation?
+[Front desk] In addition to economy rooms here, we\also have first and second class rooms and a VIP\suite.
+[Front desk] The VIP suites alone have 4-digit room\numbers, the rest are 3 digits.
+[Front desk] I see. You're not a registered guest?
+[Front desk] In that case, please make like a\tree...
+　Surroundings
+　Chandelier
+　Fliers
+　Window
+[Kojiroh] When I look around, I feel like I want to\break things. I'd better not look.
+[Kojiroh] This is the biggest hotel in town... I\shouldn't be surprised that the lobby is so nice.
+[Kojiroh] Whenever I'm surrounded by so much\beautiful stuff, I start to feel like I want to\break it!
+[Front desk] Please refrain from breaking things,\sir.
+[Kojiroh] ...What can I do to rile this guy up?
+[Kojiroh] It's a big chandelier all the same.
+[Kojiroh] It's a shame I can't take it home with me\the way I always do the towels and shower caps.
+[Kojiroh] If I hung that chandelier in my office,\there'd be no space left to live in.
+[Kojiroh] Oh, quit sounding so pathetic.
+[Kojiroh] I already read the fliers...
+[Kojiroh] Look at the fliers again?
+[Kojiroh] What have we here... 'Thank you for going\through the trouble to look here.'
+[Kojiroh] 'As a reward for your troubles, you will\now learn the secret password that will transfer\you to the last disc'.
+[Kojiroh] 'Of course there's no such thing, so\you're out of luck. Please enjoy the rest of the\game.'
+[Kojiroh] ...What on God's earth does this shit\mean?
+[Kojiroh] I love looking at these fliers...
+[Kojiroh] Alright, I'll check 'em out. What do we\have here...
+[Kojiroh] 'Not there! Uh, Ah, That's my\belly-button...'
+[Kojiroh] Good old freedom of speech.
+[Kojiroh] That's what it actually says.
+[Kojiroh] Look again?
+[Kojiroh] 'Please don't look anymore... Stop\punishing me.'
+[Kojiroh] What the hell is that supposed to mean?
+[Kojiroh] Fliers... Let's see what they say.
+【小次郎】『喉の奥深くまで挿入され、順子は吐き気をもよおした。』
+【小次郎】『しかし頭を固定されているので、肉棒を口腔から吐き出すこともできない。』
+【小次郎】『口腔を、限界まで硬くなった肉棒が出入りしながら、熱い粘液が喉にあびせかけられる。』
+【小次郎】『むせかえりそうになりなが、順子は濃く粘りけのある精液を、黙って嚥下するしかなかった。ごくっ、ごくっ。』
+[Kojiroh] This shit's making me impatient.
+[Kojiroh] But it was exciting...
+[Kojiroh] This is different from what was written\before.
+[Kojiroh] 'I'll teach you a special secret for\looking here. If you lock the KANA key the dialogue\in the game will speed along quickly.'
+[Kojiroh] ...
+[Kojiroh] I have no idea what this means.
+[Kojiroh] It looks like the fliers have changed\again...
+【小次郎】『いたいたわあ、ソたレ、とぉったてもふたとくたて‥‥モグたモたグしたちゃうっ。たぬきより』
+[Kojiroh] ...Sounds familiar.
+[Kojiroh] It's changed again... What next?
+【小次郎】『へいベイベー、ジュテーム、ウォアイニィ、アイラヴユゥ！』
+[Kojiroh] ...
+【小次郎】そういえば日本の歌い手さんは、なんで「ベイベー」って発音するんだろうか。
+【小次郎】正確には「ベイビー」が正しいんだぞ。
+[Kojiroh] The fliers have some new information.\Let's see...
+[Kojiroh] 'Gangsters and detectives are asked to\please leave the premises.'
+[Kojiroh] ...
+[Kojiroh] How dare they put detectives in the same\class as gangsters.
+[Kojiroh] This one says... "My friend, ever think\about working as a hotel receptionist and rule the\world?"
+[Kojiroh] ...
+[Kojiroh] I seriously doubt that.
+[Kojiroh] Looks about 300 feet high...
+[Kojiroh] There's no reason for it, but I gotta\hand it to this place. It's a mighty big window.
+[Kojiroh] God, that window's big. The lobby's two\stories high, for Christ's sake.
+[Kojiroh] The window goes all the way to the\ceiling. Bigger than momma's ass.
+　Go outside
+　Cocktail lounge
+[Kojiroh] Should I go out?
+[Kojiroh] I guess so. I'm in the mood for some\fresh air.
+a007
+[Kojiroh] It's right at the bottom of the\escalator.
+[Kojiroh] I'm off to the cocktail lounge.
+a009
+[Kojiroh] Glen should be waiting there for me.
+[Kojiroh] Look out, cocktail lounge, here I come.
+a009

@@ -1,0 +1,731 @@
+002
+eve_04
+[Kojiroh] ...
+[Kojiroh] It's already daybreak...
+[Kojiroh] The sky is gradually whitening into\morning...
+[Kojiroh] ...
+[Kojiroh] The sea blossoms into dim morning light.
+[Kojiroh] I can feel the wind blowing in from far\away.
+[Kojiroh] It's a little chilly.
+[Kojiroh] ...
+[Kojiroh] I have to go now...
+[Kojiroh] ...Over there.
+[Kojiroh] ...
+[Akane] Kojiroh! Where are you!
+[Kojiroh] Hey, Akane! I'm outside!
+[Akane] ...
+b26
+[Akane] Are you alright, Kojiroh?
+[Kojiroh] I'm alright...
+[Akane] Oh...
+[Kojiroh] What's the matter?
+[Akane] There's something different about your\face...
+[Kojiroh] Oh... It must look pretty bad.
+[Akane] No, you just look skinnier... I think it's\nice.
+[Kojiroh] Thanks.
+[Akane] ...
+[Kojiroh] ...Go on and take a hot shower.
+[Akane] But I'm glad you're okay now.
+[Kojiroh] You looked after me all last night...
+[Akane] But you looked like you were dying! What\did you expect?
+[Kojiroh] Yeah... It was a living nightmare.
+[Akane] At least you're feeling better.
+[Kojiroh] I owe you one, Akane.
+[Akane] Don't mention it.
+[Kojiroh] Well, thanks anyway. I'm gonna get goin'.
+[Akane] Why...?
+[Kojiroh] I must go.
+[Akane] You shouldn't have to work this much!
+[Kojiroh] You're right. I don't have to.
+[Akane] So then, why...?
+[Kojiroh] Do you only do things when you have to?
+[Akane] ...
+[Kojiroh] When I uncover this whole case, I'll let\you know first thing.
+[Akane] Don't worry about that... Just be careful.
+[Kojiroh] Hey, you're not yourself today, are you?
+[Akane] You bastard!
+[Kojiroh] Come on, Akane...
+[Akane] Sorry.
+[Kojiroh] Did I ever tell you what great tits you\have?
+[Akane] Shut up... Take care of yourself, okay?
+[Kojiroh] I'll be just fine.
+[Akane] By the way, I think they delivered you the\paper by mistake.
+[Kojiroh] Was there anything interesting in it?
+[Akane] Well, Katsuragi Private Detective Offices\has the next Eldian Queen in protective custody.
+[Kojiroh] Hey, Yayoi ain't doin' so bad.
+[Akane] You mean, with Purin?
+[Kojiroh] Yeah.
+[Akane] Why?
+[Kojiroh] I don't need any reputation, you know.
+[Akane] You just want Yayoi, right?
+[Kojiroh] Maybe...
+[Akane] I guess I'm getting jealous.
+[Kojiroh] Don't worry... I've got special eyes just\for you.
+[Akane] Don't expect anything... I'll be waiting.
+[Kojiroh] Good. I'll return... I promise.
+002
+002e
+[Kojiroh] I'm back at the office, but... Huh?
+[Kojiroh] Who's that sitting over there...?
+[Kojiroh] See? Over by the boxes... It's...!?!?!
+0295
+eve_17
+[Kojiroh] Hey, Purin!
+0295b
+[Purin] Kojiroh!
+[Kojiroh] Where the hell were you!?! I was worried\sick!
+[Purin] Oh, Kojiroh...0
+0295
+0295d
+\ 
+[Kojiroh] What's the matter?
+[Purin] I was so...scared... I missed\you...Kojiroh... I was so scared...!
+[Kojiroh] Calm down... Everything's okay.
+Purin cries...
+[Kojiroh] Here, take my handkerchief... There's no\need to cry like this...
+[Purin] Sorry... Whaaa!
+[Kojiroh] Now, now... No more tears...
+[Purin] What should I do...?
+[Kojiroh] What do you mean?
+[Purin] There's this person... I can't go see that\person like this!
+[Kojiroh] Well, who's that "person"?
+nPurin cries and cries...
+[Kojiroh] Come on...
+[Purin] ...I can't stop...
+[Kojiroh] Tell me what happened.
+[Purin] ...
+[Kojiroh] Just calm down and you'll be back to\normal again.
+[Purin] Why do you care so much for me...?
+[Kojiroh] I'll never let you go, Purin.
+[Purin] ...
+0295
+[Purin] Kojiroh... I...
+[Kojiroh] ...
+002
+eve_06
+[Kojiroh] Whew... It's still bright outside.
+002
+eve_06
+[Kojiroh] I'm back at the warehouse district.
+002
+eve_06
+[Kojiroh] The sunlight glitters in my eyes.
+[Kojiroh] That's because I was in front of the\monitor for such a long time.
+[Kojiroh] ...
+[Kojiroh] I'm supposed to meet Kyoko at the\international school.
+[Kojiroh] But there's a slim chance I'll be able to\meet the fat Kou.
+[Kojiroh] ...
+002
+eve_06
+[Kojiroh] The fresh air out here is so nice.
+[Kojiroh] Kyoko sure is hard at work.
+002
+eve_06
+[Kojiroh] I'm back at the warehouse district...
+[Kojiroh] I wonder if there are any new\developments...
+002
+eve_06
+[Kojiroh] I'm finally back.
+[Kojiroh] I wonder if Kyoko got back before me.
+002
+eve_06
+[Kojiroh] It's still afternoon, but it's pretty\cold.
+002
+eve_06
+[Kojiroh] I'm back at the warehouse district.
+002
+eve_06
+[Kojiroh] There's a reward out for you, Purin...
+[Kojiroh] Where the hell could she have gone...?
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Save
+　Load
+　Person on boat
+[Kojiroh] Let's stop this...
+[Kojiroh] Hey!
+[Kojiroh] Hey, didn't I say we shouldn't do this?
+[Kojiroh] It's not very crowded right now, you\know?
+[Kojiroh] Let's go quietly... And I mean quietly.
+[Kojiroh] Hey!
+[Kojiroh] Like I said... Let's stop this.
+　Surroundings
+　Cruise liner
+　Ocean
+　Rope
+[Kojiroh] I'll be screwed if I don't do my best to\find it.
+[Kojiroh] It's pretty empty around this port at\dawn.
+[Kojiroh] Or so I thought... More and more people\show up, but they aren't fishermen.
+[Kojiroh] It's quiet up on the boat... Just the way\I like it.
+[Kojiroh] That's a big cruise ship.
+[Kojiroh] They'd never know if I sneaked in\there...
+[Kojiroh] It's smaller than I thought.
+[Kojiroh] A luxury liner would be about 500 meters\long...
+[Kojiroh] ...But then again, maybe not.
+[Kojiroh] The ocean is so magnificent, so grand.
+[Kojiroh] I know there's all the crap about water\pollution, but this ocean is cleaner than crystal.
+[Kojiroh] I wouldn't recommend drinking it, but it\looks pretty.
+[Kojiroh] This is a rope... I could have some fun\in bed with this.
+[Kojiroh] It's tight...
+[Kojiroh] This could definitely hold a person...
+[Kojiroh] ...
+[Kojiroh] This thing is more of a steel wire than a\rope.
+[Kojiroh] I guess it's necessary to hold a boat\with that much weight.
+[Kojiroh] They're all over the boat...
+[Kojiroh] The anchor is dropped to keep the boat\from floating away.
+　Warehouse district
+　Boat
+　Connect the rope
+[Kojiroh] This seems to be the only way.
+[Kojiroh] I can get up there in a minute.
+[Kojiroh] Okay... Let's connect the rope.
+The rope slides through my hands...
+[Kojiroh] Alright...
+[Kojiroh] This isn't going...so...
+[Kojiroh] Just don't fall between the ship and the\wall.
+[Kojiroh] And if that happens, I'll be crushed like\a pancake.
+[Kojiroh] ...
+I slide the rope through my hands.
+[Kojiroh] Here goes... It's all over if I fall now.
+[Kojiroh] Just a little more.
+The rope feels hot inside my hands.
+[Kojiroh] Great, now I can go inside.
+[Voice] Hey! What's going on there!
+[Kojiroh] Uh-oh... Someone on shore saw me.
+[Voice] Hey someone's going in the boat!
+[Kojiroh] Gotta move fast...
+a029
+[Kojiroh] I'll go back to the warehouse after I\settle everything.
+[Kojiroh] I just got here.
+[Kojiroh] First of all, what the hell did I come\here for?
+[Kojiroh] There's no way up but using the rope.
+[Kojiroh] ...
+[Kojiroh] How should I sneak into the boat...
+[Kojiroh] Hmm...
+b26
+　Look/Investigate
+　Move
+　Speak
+　Akane
+[Akane] Good luck.
+[Kojiroh] Hey, it's not like I'm going into Vietnam\with the Green Berets...
+[Akane] But...
+[Akane] It's a little dangerous...
+[Kojiroh] I'll be alright.
+[Akane] You always come out alright, Kojiroh.
+[Kojiroh] I like the way you're talkin', sugar!
+[Akane] ...
+　Surroundings
+　Detective office
+　Boat
+　Buildings
+[Kojiroh] I can hear the waves and the birds...
+[Kojiroh] It's already daybreak... The sky is\fading into white.
+[Akane] I'm cold...
+[Kojiroh] It's my private detective office... I'll\be back there in a while.
+[Kojiroh] There's my private detective office.
+[Kojiroh] It's like I'm taking one last look at\it... Goodbye!
+[Kojiroh] It's a boat belonging to the Republic of\Eldia.
+[Kojiroh] Today, the commemoration will take place\on the boat.
+[Kojiroh] The ship is called "Tristan," and Purins\on it.
+[Kojiroh] I have to give her the fragments of the\National Seal...
+[Kojiroh] I don't have anything to do there now.
+[Kojiroh] Central Avrenue...
+　Inside the office
+　Central Avenue
+　Ko's house
+　International school
+　Tristan
+[Akane] You're going, aren't you?
+[Kojiroh] Yeah.
+[Akane] Mind if I wait here...?
+[Kojiroh] I'm not restricting you from anything. If\I'm not back, feel free to take whatever you like.
+[Akane] Don't talk like that!
+[Kojiroh] I was only pulling your leg.
+[Akane] ...
+[Kojiroh] Don't give me that look. Even if I was\serious, there's not much of mine to take!
+[Akane] I'll throw everything away in the dump if\you don't come back.
+[Kojiroh] I'll be back.
+[Akane] ...
+[Kojiroh] Oh yeah... An assistant of mine might\come by today.
+[Akane] An assistant...?
+[Kojiroh] A girl with a ponytail. We might end up\partners, so listen to what she has to say.
+[Akane] A...girl?
+[Kojiroh] It ain't what you're thinking. Just\listen to what information she has.
+[Akane] ...Fine.
+[Kojiroh] See ya.
+[Akane] ...
+[Kojiroh] ...
+[Kojiroh] At least I left on a good note.
+[Kojiroh] ...
+[Kojiroh] I gotta be cool about doing this stuff. I\can't just walk around here nonchalantly.
+[Kojiroh] I'm using illegal means to get what I\want, you know?
+[Kojiroh] ...
+[Kojiroh] The Tristan belongs to the Republic of\Eldia. Once it reaches international seas, it's out\of Japanese jurisdiction.
+[Kojiroh] Which means, if I'm caught, I'll be\punished under Eldian law.
+[Kojiroh] ...
+[Kojiroh] But there's no way I could get the death\penalty for being a stowaway.
+[Kojiroh] At least, I hope not.
+[Kojiroh] ...
+[Kojiroh] I can see it.
+036
+[Kojiroh] ...
+[Kojiroh] It sure is big... Whoa.
+[Kojiroh] So, this is Tristan.
+eve_29
+Ｄｅｃｅｍｂｅｒ　７\  - 9* / 12 / 07 -0
+waku
+036
+eve_04
+[Kojiroh] I can't lose another minute.
+[Kojiroh] I'm supposed to go to another place.
+[Kojiroh] There's no need to go there now.
+[Kojiroh] My destination is...
+[Kojiroh] Kou is already dead.
+[Kojiroh] I don't have any reason to go to his\house.
+[Kojiroh] The international school is closed....
+[Kojiroh] I don't have time to go there right now.
+　Look/Investigate
+　Move
+　Speak
+　Attack
+　Ask
+　Save/Load
+　Save
+　Load
+　Purin
+[Kojiroh] (I can't do that...)
+[Kojiroh] (I can't.)
+[Kojiroh] (I'd ruin everything if I attacked the\girl I care about.)
+[Kojiroh] (I just can't do that...)
+[Kojiroh] (Purin seems worried about something...\I'll hear what she has to say.)
+　About the embassy
+　About "person"
+　About the note
+　About "Terror"
+[Purin] The ones at the embassy have taken me in.\They protect me.
+[Kojiroh] Oh...
+[Kojiroh] (I must've read Mido all wrong.)
+[Kojiroh] Do you know about the Eldian embassy?
+[Purin] Yes.
+[Kojiroh] They have your jacket there... The one I\gave you.
+0295
+0295e
+[Purin] Yes, that's where I've been all this time.
+[Kojiroh] I knew it!
+[Purin] Why did you go there, Kojiroh?
+[Kojiroh] I went there to rescue you... It was\dangerous, but I could handle it.
+[Purin] The ones at the embassy have taken me in.\They protect me.
+[Kojiroh] Protect you?
+[Purin] Yes... Seeing as how there's a price on my\head, they figured it would be best for me to stay\with them for a while.
+[Kojiroh] ...
+[Purin] They said to call the "person" so that I\can be picked up. But I can't...
+[Kojiroh] Why not...?
+[Purin] I've been told not to come back until I get\something from Kou.
+[Kojiroh] So that's what they call\"protection"!?!?!
+[Purin] No! I volunteered for this.
+[Kojiroh] ...On your own?
+[Purin] Yes...
+[Kojiroh] ...
+[Purin] I wanted to contact you, but I didn't know\your telephone number.
+[Kojiroh] Did you run away?
+[Purin] I felt terribly sorry for Ambassador Mido,\but I couldn't tell him about you.
+[Kojiroh] Oh yeah!
+[Purin] Excuse me?
+[Kojiroh] I know it's off the subject, but what\happened to my cash?
+[Purin] Oh, that...
+[Kojiroh] Ah, shit... Well, it happens.
+0295
+0295c
+[Purin] Ha ha... It's right here!
+She flings out the money.
+[Kojiroh] Hey! It's a pile of dough!
+[Purin] I remembered to check all the pockets when\I took off my clothes.
+[Kojiroh] Good job!
+[Purin] Oh, it was nothing...
+[Kojiroh] Well, now I don't have to worry about\money for a while.
+0295
+0295e
+[Purin] I apologize... I forgot the jacket.
+[Kojiroh] Ah, it was cheap shit anyway.
+[Kojiroh] (So that's what all the commotion at the\embassy was last night...)
+[Kojiroh] (But my thoughts about Mido were totally\wrong.)
+[Purin] ...Someone will be the successor to the\Eldian throne.
+[Kojiroh] The successor to the throne...
+[Kojiroh] What kind of person will it be?
+0295
+0295e
+[Purin] A noble person of the Eldian royal family.
+[Kojiroh] No, no... I mean, what kind of\personality does the person have?
+[Purin] Oh, very pure and kind. A person who can\relate to the common people.
+[Kojiroh] ...But a dangerous someone still has\their eyes on you.
+[Purin] I volunteered to be here...
+[Kojiroh] ...
+[Purin] Is that strange?
+[Kojiroh] Listen, Purin... I don't know whether or\not this was a good decision...
+[Purin] I see...
+[Kojiroh] What would you do if you had a brother or\sister who got involved in a dangerous situation?
+[Purin] I would stop them.
+[Kojiroh] Exactly... But would you stop them even\if they wanted to be in the situation?
+[Purin] Yes.
+[Kojiroh] Who's the person?
+[Purin] ...
+[Kojiroh] See, that person should do this on their\own.
+[Purin] ...
+[Kojiroh] The person stays in a safe place, and\uses another to do their dirty work... They're the\worst kind.
+0295d
+Purin gives me a hard look.
+[Kojiroh] What's wrong?
+[Purin] Please don't talk bad things about that\person.
+[Kojiroh] You don't have to cry... Jeez.
+[Purin] I like both of you just as much.
+[Kojiroh] ...
+0295
+0295e
+[Purin] Please?
+[Kojiroh] Alright, I won't.
+[Purin] I'm sorry for making all kinds of requests.
+[Kojiroh] I would feel the same way if someone\talks bad about a person I like, too.
+Purin nods.
+[Kojiroh] So what position do they hold in society?
+[Purin] I guess I can tell you... The successor to\the throne.
+[Kojiroh] What! So, on a higher level than just the\royal family? You mean, the next ruler?
+[Purin] Yes...
+0295
+[Kojiroh] ...
+[Kojiroh] (I can't believe this is happening.)
+[Purin] I'm sorry... I can't explain it very well.
+[Kojiroh] I see...
+[Kojiroh] There's something I want to show you,\Purin.
+0295
+0295e
+[Purin] What could that be...?
+[Kojiroh] It's the note Siria gave me... Do you\know her?
+[Purin] No, I don't.
+[Kojiroh] You don't?? Her hair is cut pretty short,\and she's got a great body with huge tits.
+[Purin] Sorry, I've never seen her.
+[Kojiroh] Hey, no reason to apologize... Where'd\the note go?
+I scrounge around, looking for the note.
+[Kojiroh] Here! It's just like a short poem.
+[Purin] May I see it?
+[Kojiroh] Here.
+[Purin] ...
+[Kojiroh] (I think it's some secret code...)
+[Kojiroh] (The moon will be full, the oasis will\moisten, and green shall return to the desert.)
+[Kojiroh] (Other than some secret code, what else\could it be?)
+[Purin] Hmm...
+[Kojiroh] Do you get it?
+[Purin] Not at all.
+[Kojiroh] Huh?!?!
+[Purin] What does this mean?
+[Kojiroh] Wait a minute... That's what I wanted to\ask you.
+[Purin] Oh. Well, I don't understand this at all.
+[Kojiroh] But...Kou wanted to give this to you. He\wanted you to have it.
+[Purin] Kou?
+[Kojiroh] (What the hell is she trying to pull\here?)
+[Purin] ...
+[Kojiroh] You don't understand this, eh?
+[Purin] Nope. No matter how many times I read it, I\don't get it.
+[Kojiroh] Don't be so disappointed... Maybe there's\a mistake somewhere.
+[Purin] Yes...
+[Kojiroh] (There's something fishy going on\here...)
+[Kojiroh] (I don't think Siria was lying to me...)
+[Kojiroh] (But why would Purin have to lie about\it...?)
+[Kojiroh] (There must've been a mistake somewhere\along the way...)
+[Kojiroh] (Purin doesn't seem to know about\"Terror.")
+[Kojiroh] Does the name "Terror" ring a bell?
+[Purin] I should hope not! No, I've never heard of\anyone like that.
+[Kojiroh] No one at all?
+[Purin] You mean, someone actually named their kid\"Terror"???
+[Kojiroh] Ah, just forget I mentioned it.
+[Purin] ...
+　Purin
+[Purin] Aren't you going to enter your office?
+[Kojiroh] Why don't we take a trip somewhere...
+0295
+0295e
+[Purin] Where?
+[Kojiroh] To where the successor is...
+[Purin] I can't. I was told not to.
+[Kojiroh] Think logically. You don't even know what\you were suppose to get from Kou. And Kou, the\essential person here, doesn't even exist anymore.
+[Purin] ...
+[Kojiroh] You'll never be able to return to that\person.
+[Purin] Yes... If this body rots away...
+[Kojiroh] Now you just listen to me...
+[Purin] Yes?
+[Kojiroh] The successor to the throne needs you. Am\I right?
+[Purin] You're right... They need me very badly.
+[Kojiroh] So basically, if you just hang around\here doing nothing... you're royally screwing the\successor. They need you!
+[Purin] I wouldn't say that I'm doing nothing...
+[Kojiroh] The important thing here is that there's\a result.
+[Purin] ...
+[Kojiroh] No one ever said you weren't cooperating,\Purin. But you can't do any of this on your own.
+[Purin] Yes...
+[Kojiroh] Come on... Go in the direction of the\successor, and find out who she is. I'm trying to\help, can't you see?
+[Purin] Well, that may be...
+[Kojiroh] This mission requires your cooperation,\Purin. The world is calling for you. Be the best\you can be.
+[Purin] ...
+[Kojiroh] You may affect the course of a nation's\fate... I don't think it's wise to go against fate.\Trust me.
+[Purin] Okay... You're right.
+[Kojiroh] (I'm good. Damn good.)
+[Kojiroh] (Well, I seemed to have persuaded her.)
+[Purin] Will you please come with me, Kojiroh?
+[Kojiroh] Of course. I'd love to meet your\guardians, the ones who protect you.
+[Purin] Sure. I think you'll become great friends.
+[Kojiroh] So where is it?
+[Purin] The Princess Hotel. Room 1420.
+[Kojiroh] Hold on...
+[Purin] Yes?
+[Kojiroh] Let's make sure no bounty hunters are\looking for you.
+[Purin] Okay... But how...?
+[Kojiroh] Spreading information. We'll say you were\captured, and then they won't be looking for you\anymore.
+[Purin] Oh.
+[Kojiroh] So we might have to make a phone call.
+[Purin] A phone call?
+[Kojiroh] Let's just go into my office for now.
+[Purin] Okay.
+[Purin] Please listen.
+[Kojiroh] Alright.
+[Purin] I'm forbidden to discuss this... You must\forget it as soon as I tell you about it.
+[Kojiroh] Sure thing...
+eve_05
+[Purin] I'm serving the noble one who will succeed\to the throne.
+[Kojiroh] The royal family member, right?
+0295b
+[Purin] You mean, you knew?
+[Kojiroh] Sorry, I guess I'm good at spoiling a\good story. Go on.
+0295
+0295e
+[Purin] And then... I was supposed to get some\goods from a man named Kou.
+[Kojiroh] What kind of goods...?
+[Purin] They won't tell me. I'm just supposed to\get them from Kou, and give them to the successor.
+[Kojiroh] I see... So that's what your special job\is...
+[Purin] And Kou chose this wharf as the place to\hand over the goods. But on the day we were to\meet, he didn't show up...
+[Kojiroh] ...
+[Purin] I was at my wits' end. There was no sign of\Kou, and without the goods, I couldn't see the\successor... I had nowhere to go.
+[Kojiroh] Now it's all making sense...
+[Purin] So, I ultimately ended up using you... I\expect you to punish me any way you wish.
+[Kojiroh] Hey, I could never do that...
+0295
+0295b
+[Purin] You mean, you forgive me?
+[Kojiroh] I'd never get angry at you for a thing\like that.
+0295
+0295d
+[Purin] Oh, Kojiroh...
+[Kojiroh] Oh, not again... Don't cry.
+[Purin] Thank you so much! Thank you!
+[Kojiroh] (Whew...)
+0295
+0295e
+[Purin] My heart nearly stopped beating when I\heard that Kou died... I was in your room that\time.
+[Kojiroh] ...
+[Purin] I was told never to go to Kou's house, but\I had to make sure it was true...
+[Kojiroh] So that's when I saw you talking to the\cops.
+[Purin] Yes... Kou was already dead.
+[Kojiroh] I remember.
+[Purin] ...
+[Kojiroh] You wouldn't mind if I asked you a few\questions, would you?
+0295
+[Purin] Go ahead.
+[Kojiroh] Don't answer if you don't want to... Just\answer whatever you can.
+[Purin] I'll consider the questions very carefully.
+[Purin] ...I want to go back...
+[Kojiroh] ...
+[Purin] I long for my old home...
+[Kojiroh] Well, can you go back?
+[Purin] Yes... But ever since meeting you, I have\never wanted to leave.
+[Kojiroh] It doesn't have anything to do with\money, does it?
+0295e
+[Purin] No, nothing with money.
+[Kojiroh] ...
+[Purin] There aren't words to describe the\gratitude I feel towards you.
+[Kojiroh] Hey, you're embarrassing me! By the way,\what are your protective guardians doing for you?
+[Purin] The successor...
+[Kojiroh] The...successor?
+0295
+[Purin] ...
+[Kojiroh] (What the hell is she trying to tell me?)
+[Purin] I am...
+[Kojiroh] Come on, spit it out...
+0295
+0295d
+[Purin] Oh, Kojiroh... What should I do?
+[Kojiroh] I can't help you unless you tell me\what's going on...
+[Purin] Oh... How can I ever leave this sadness...
+0295
+[Kojiroh] (Purin...)
+[Purin] ...
+[Kojiroh] Come on!
+[Purin] Excuse me?
+[Kojiroh] Go for it! You can do it.
+[Purin] You think so?
+[Kojiroh] People have to go out and grab their\happiness.
+Purin nods.
+[Kojiroh] I know you can do it. You can be happy.
+[Purin] Oh, Kojiroh.
+[Kojiroh] Are you feeling better now?
+0295c
+[Purin] Yes!
+[Kojiroh] Mind if I ask a question?
+[Purin] Sure...
+[Kojiroh] Do you trust me?
+[Purin] Of course... You rescued me from those\dirty punks that time.
+[Kojiroh] ...
+[Purin] And you gave me a place to stay when I had\nowhere to go... I can never thank you enough...
+[Kojiroh] I see.
+[Purin] I know... I know what you want to say...
+[Kojiroh] Oh...
+0295
+[Purin] I already know.
+[Kojiroh] ...
+[Kojiroh] (Damn... And I had a mountain of\questions ready to ask.)
+[Kojiroh] (I can't say anything when the person is\standing right in front of me.)
+[Kojiroh] (Where should I begin the conversation\from...?)
+[Purin] But it's such a beautiful place.
+[Kojiroh] Hm..?
+[Purin] The place, it's quite splendid.
+[Kojiroh] Where is?
+[Purin] Here.
+[Kojiroh] You're the first one to ever call this\place splendid.
+[Purin] It reminds me of my hometown...
+[Kojiroh] It does...?
+[Purin] Yes... My birthplace.
+[Kojiroh] So, you could see the ocean.
+[Purin] Well, yes... An ocean of desert.
+[Kojiroh] Desert?
+[Purin] The nights were blue... I could hear the\sound of waves off in the distance.
+[Kojiroh] ...
+[Purin] The place gave me an understanding of all\things... The depth and pureness of eternity...
+[Kojiroh] ...
+[Purin] I must sound crazy to you...
+[Kojiroh] It takes me a few joints to reach that\level of understanding, but I don't think you're\crazy...
+[Purin] ...
+[Kojiroh] (Purin...)
+　Surroundings
+　Purin
+　Hair
+　Ocean
+[Kojiroh] (It's such a nice, quiet wharf...)
+[Kojiroh] (I can hear her breathing...)
+[Purin] It's so still, and beautiful... I love this\place.
+[Kojiroh] You're the first one to ever say that,\too...
+[Kojiroh] (Purin and I are the only ones here...)
+[Kojiroh] (I can hear the waves washing against the\wharf...)
+[Kojiroh] (I've never been so relaxed...)
+[Kojiroh] (I should apologize for all the shit I\put her through in the beginning.)
+[Kojiroh] (I would like to help her right now.)
+[Kojiroh] (I wonder why...)
+[Kojiroh] (Her eyes are blue and gold, shimmering\under the moonlight...)
+[Kojiroh] (Can I really help her?)
+[Kojiroh] (Her hair flows like the golden rivers of\California...)
+[Kojiroh] (Such beautiful hair...)
+[Kojiroh] (The curling waves are so cute... How\they flow from her head!)
+[Kojiroh] (The gold is illuminated under the\moonlight...)
+[Kojiroh] (How beautiful her hair is...)
+[Kojiroh] (It's the port... Purins staring out at\the sea in loneliness.)
+[Purin] I wonder how far I'd have to travel across\this ocean to get to my country.
+[Kojiroh] ...
+[Purin] It's a beautiful ocean, isn't it?
+[Kojiroh] Harbors like these are never very\beautiful.
+[Purin] But the moonlight on the night sea...
+[Kojiroh] Well, maybe then it's beautiful.
+　Inside the office
+　Inside the ocean
+[Kojiroh] Okay, let's go inside the office.
+[Purin] Okay.
+a001_7
+[Kojiroh] (Let's listen to what Purin has to say.)
+[Kojiroh] (Not now...)
+[Kojiroh] (I want to hear what Purin has to say...)
+[Kojiroh] Splash!
+[Kojiroh] Satisfied? I ain't jumping in no ocean.
+[Kojiroh] Okay...
+[Purin] Um... Why, may I ask, are you undressing?
+[Kojiroh] Ha ha ha... Ice swimming is a hobby of\mine.
+[Purin] I see...
+[Kojiroh] ...Stop that.
+　Look/Investigate
+　Move
+　Sit
+　Box
+　Air
+[Kojiroh] Do I feel a special attachment to the box\or something?
+[Kojiroh] Forget about it. There is no time to rest\my ass on some box.
+[Kojiroh] I've got more important things to do.
+[Kojiroh] I said forget about it.
+[Kojiroh] Isn't there something else I should be\doing?
+[Kojiroh] I'm too tired for that now.
+　Surroundings
+　Detective office
+　Boat
+　Buildings
+[Kojiroh] I'm looking around, but I don't see Purin\anywhere.
+[Kojiroh] I'm used to this scene... Nothing's\changed.
+[Kojiroh] It's my damned private detective office!
+[Kojiroh] Nobody will ever notice there's a\detective office here...
+[Kojiroh] Hmm...
+[Kojiroh] I wonder what country owns that boat...\Ah, who cares.
+[Kojiroh] It's still anchored there...
+[Kojiroh] How long are they gonna leave it there??
+[Kojiroh] It's Central Avenue... Shall we go?
+[Kojiroh] Central Avenue is over there.
+[Kojiroh] Perhaps Purin is wandering around there\like a lost puppy...
+　Inside the office
+　Central Avenue
+　Kou's house
+　International school
+[Kojiroh] Back to the office...?
+a001_7
+[Kojiroh] Inside the office...? Don't I have\somewhere else to go?
+[Kojiroh] Fine, whatever you want.
+a001_7
+[Kojiroh] Huh? Back there again?
+[Kojiroh] I don't think there have been any\developments in the past minute.
+a001_5
+[Kojiroh] Well, maybe there could be something.
+[Kojiroh] Let's go in the office.
+a001_5
+[Kojiroh] Oh yeah, maybe Kyoko's back.
+[Kojiroh] Let's go inside!
+a001_5
+[Kojiroh] Sure, let's go back to my office.
+a001_5
+[Kojiroh] Huh? I just got out here...
+[Kojiroh] Ah, hell. I'll go back in...
+a001_5
+[Kojiroh] It's off to Central Avenue!
+a007
+[Kojiroh] I'm still pretty interested in Kou, that\fat-ass.
+[Kojiroh] Kyoko should be waiting for me...
+[Kojiroh] ...Maybe that's just wishful thinking.
+[Kojiroh] Okay, it's off to Central Avenue!
+a007
+[Kojiroh] Central Avenue...? Okay. Let's go.
+a007
+[Kojiroh] Hey, I might as well go inside if I've\come this far.
+[Kojiroh] There's something I have to speak to\Kyoko about.
+[Kojiroh] Central Avenue...? Okay. Let's go.
+a007
+[Kojiroh] Kou's house?
+[Kojiroh] I don't think that's where I'm supposed\to go.
+a010_2
+[Kojiroh] Kou's house, huh? Well, maybe Purin's\there.
+a010_2
+[Kojiroh] I'd better get in the office... I\promised Kyoko I'd meet her.
+[Kojiroh] I think there's just a cop standing guard\there.
+a010_2
+[Kojiroh] Let's go over to the international\school.
+a014_2
+[Kojiroh] Oh yeah, I'm supposed to meet Kyoko in\front of the international school.
+[Kojiroh] But I am interested in Kou's decoy.
+[Kojiroh] Anyway, let's go.
+a014_2
+[Kojiroh] We're going to the international school,\right?
+a014_2
+[Kojiroh] I just came from there, didn't I?
+[Kojiroh] I don't want to back there...
+[Kojiroh] The international school...? Let's go.
+a014_2

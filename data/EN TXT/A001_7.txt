@@ -1,0 +1,990 @@
+001
+eve_17
+[Purin] Oh, that brings back memories...
+[Kojiroh] You'll find another one of those jackets\in my closet.
+[Purin] Okay.
+Purin goes to the closet.
+[Kojiroh] ...
+[Kojiroh] God, it reminds me of the good old\days...
+001
+eve_03
+[Kojiroh] Hey, why am I back?
+b03
+　Look/Investigate
+　Move
+　Equipment
+　Make a phone call
+　Save/Load
+　Save
+　Load
+　Yayoi's place
+　Glen's place
+　Kyoko's place
+　Nikaido's place
+[Kojiroh] I already called...
+[Kojiroh] It was a little pathetic...
+[Kojiroh] I already called Glen...
+[Kojiroh] That's the only place I have left to go.
+[Kojiroh] Kyoko won't pick up the phone...
+[Kojiroh] Damn, what the heck is going on...?
+[Kojiroh] Oh yeah. Kyoko's probably making up a\report.
+[Kojiroh] I'll call the jerk.
+I dial the number.Rrrring!...Rrrring!...
+[Kojiroh] ...
+[Kojiroh] Nobody's picking up...
+I hang up the phone.
+[Kojiroh] Unfortunately Nikaido's not the person I\need to call.
+[Kojiroh] That's it! Nikaido's the dick I needed to\call.
+[Kojiroh] Okay, here goes nothing. Now where did I\put Nikaido's number?...
+[Kojiroh] ...
+[Kojiroh] Wait a sec, he isn't even part of this\world anymore.
+[Kojiroh] I'm not sure I'm gonna like it if someone\actually picks up.
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Note
+　Printout log
+[Kojiroh] That's not important now... I have other\shit to take care of first.
+[Kojiroh] The report from the government\database...
+[Kojiroh] Christ, I've already read this thing\enough to make my eyes bleed...
+s10
+[Kojiroh] That's a pretty strange pattern on that\painting...
+[Kojiroh] Nikaido supposedly knew what this\meant...
+001
+s10
+[Kojiroh] The painting that Kou...scratch that,\someone impersonating Kou asked me to find...
+[Kojiroh] "Those who lay hands on me, their\punishment will be severe, and thou shall suffer in\the fires of hell by the god's blade..."
+[Kojiroh] They say that these were the artist's\last words...
+001
+s07
+[Kojiroh] It's the thing that's gonna protect me...
+001
+s07
+I hang up the phone.
+[Kojiroh] Somehow I get the feeling things are\getting stranger...
+[Kojiroh] It's the thing that's gonna protect me...
+001
+[Kojiroh] For the time being, at least got a little\dough.
+[Kojiroh] I knew I could count on Purin...
+[Kojiroh] I'm no longer broke...
+[Kojiroh] Purins here... I don't need to bring it\out.
+[Kojiroh] I'm in good spirits right now.
+[Kojiroh] But there's no need to take it out...
+[Kojiroh] You want to read the note?
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] That's what it says.
+[Kojiroh] It's the memo that Siria gave me...
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] But Purin says she doesn't know what it\means.
+[Kojiroh] I wonder what it could be...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Purin] Let's go to the Princess Hotel.
+[Kojiroh] Good idea... let's go.
+[Purin] Thank you for waiting.
+b03
+[Kojiroh] So, should we go now?
+[Purin] Yes sir!
+[Kojiroh] (Purin's over there changing...)
+[Kojiroh] Hey! Aren't you ready yet?
+[Purin] Wait just another minute, please.
+[Kojiroh] Purin's back...
+[Kojiroh] For some reason when she's in the office\everything fits into place...
+[Kojiroh] Who's paying the bills around here?
+[Kojiroh] Who am I kidding? Ain't nobody but yours\truly.
+[Kojiroh] That damn lamp is on all day and all\night...
+[Kojiroh] The table... It's pretty clean right now.
+[Kojiroh] That's where I fooled around with Siria.
+[Kojiroh] Then I got walloped by Yayoi... Love\bites.
+[Kojiroh] The desk where my computer is...
+[Kojiroh] The place where I skated on thin ice with\Kyoko...
+[Kojiroh] I don't think the system has figured out\what we've done, but who knows...
+　Princess Hotel
+[Kojiroh] Okay, I'm going to the Princess Hotel!
+[Kojiroh] Some rich, stuck up ass should be there\waiting.
+[Purin] Okay, let's go.
+a008
+[Kojiroh] Purin's still over there changing...
+[Kojiroh] I'll wait just a bit more.
+[Kojiroh] Hold on! Not so fast...
+[Kojiroh] First I should make a phone call.
+[Kojiroh] This is no time to be doing this.
+[Kojiroh] I have to make that call...
+　Look/Investigate
+　Move
+　Equipment
+　Make a phone call
+　Save/Load
+　Save
+　Load
+　Yayoi's place
+　Glen's place
+　Kyoko's place
+　Nikaido's place
+[Kojiroh] I already called...
+[Kojiroh] It was a little pathetic...
+[Kojiroh] Yayoi's place?
+[Kojiroh] What the hell do I have to call there\for?... Okay, okay.
+I dial the number.Rrrring!...Rrrring!...
+pick up the phone.
+[Yayoi] Katsuragi Detective Office...
+[Kojiroh] It's me.
+[Yayoi] ...The number you dialed is currently not\in service.
+[Kojiroh] Come on, Yayoi.
+[Yayoi] What do you want?
+[Kojiroh] I don't know... I guess I just wanted to\hear your voice.
+[Yayoi] ...
+[Kojiroh] How's business?
+[Yayoi] Busy enough to drive me crazy, but it's\worth it.
+[Kojiroh] I see.
+[Yayoi] I'll do anything to drive a rival detective\agency out of business.
+[Kojiroh] And who would that rival agency be?
+[Yayoi] You really want to know?
+[Kojiroh] Not really.
+[Yayoi] Good choice...
+[Kojiroh] Yeah... I might be coming by later on.
+[Yayoi] Forget it!
+Click!...0
+\ 
+[Kojiroh] What a bitch...
+[Kojiroh] I might as well hang up the phone.
+Click.
+[Kojiroh] I already called Glen...
+[Kojiroh] Going there's the only thing left for me\to do.
+[Kojiroh] That's right, I should be calling Glen.
+[Kojiroh] Here goes nothing...
+I dial the number.Rrrring!...Rrrring!...
+Click.
+[Kojiroh] Hello?
+[Voice] ...
+[Kojiroh] It's me, Kojiroh. Glen?
+[Voice] ...
+[Kojiroh] Are you finished?
+[Glen] Completely... You know I've been trying to\get through to you but your line's been busy.
+[Kojiroh] Small world. I need to talk to you too.
+[Glen] Okay, let's hear what you have to say first.
+[Kojiroh] It's about the girl.
+[Glen] To tell you the truth, I still don't know\where she is...
+[Kojiroh] No, not that. That problem's already been\solved.
+[Glen] How?
+[Kojiroh] I found her myself.
+[Glen] You're something else, you know that?...\Shit, hat's off to you, man.
+[Kojiroh] Listen, I don't plan on getting any\reward money out of this.
+[Glen] I see. Then what are you gonna do?
+[Kojiroh] Nothing. Nothing at all. I'm going out\with her right now...
+[Glen] If you're going to the Princess Hotel I can\meet you there.
+[Kojiroh] How'd you know where we're going?
+[Glen] Call it a hunch... Seriously, though, I can\meet you if you need me.
+[Kojiroh] What I really need is for you to leak\some information out to those shady brokers...
+[Glen] What kind of information?...
+[Kojiroh] Make sure they know that Purins been\found.
+[Glen] I see...
+[Kojiroh] Can you do it?
+[Glen] Of course I can. It's just...
+[Kojiroh] Is there a problem?
+[Glen] Sometimes I'm not so sure about you...
+[Kojiroh] What's there to not be sure about?
+[Glen] To wave that much reward money around on a\stick... what do you want with the girl anyway?
+[Kojiroh] You've got a pretty big mouth today. You\win the lottery or something?
+[Glen] Sorry... You hate too many questions, right?
+[Kojiroh] Something like that. Anyway, can you do\me this favor?
+[Glen] Sure I can. You can count on me.
+[Kojiroh] Thanks.
+[Glen] So, what about the Princess Hotel? Should I\meet you there?
+[Kojiroh] No, not this time. We're in a bit of a\hurry.
+[Glen] You're going right away?...
+[Kojiroh] That's right.
+[Glen] I see... I'll send out the message alright.
+[Kojiroh] Good. Hey, what did you want to talk to\me about?
+[Glen] Oh, don't worry about it. It was nothing.
+[Kojiroh] ...?
+[Glen] Talk to you later.
+Click.
+[Kojiroh] That Glen's one strange son of a bitch...
+[Kojiroh] Whatever. I won't worry about it.
+[Kojiroh] At least now I have one less problem to\worry about...
+[Kojiroh] Kyoko doesn't pick up...
+[Kojiroh] What the hell could she be doing...?
+[Kojiroh] Oh, I got it. She's probably writing up a\report.
+[Kojiroh] I'll call her up.
+I dial the number.Rrrring!...Rrrring!...
+[Kojiroh] ...
+[Kojiroh] Nobody answers...
+Click.
+[Kojiroh] Unfortunately Nikaido's not the person I\need to call.
+[Kojiroh] That's it! Nikaido's the dick I needed to\call.
+[Kojiroh] Okay, here goes nothing. Now where did I\put Nikaido's number?...
+[Kojiroh] ...
+[Kojiroh] Wait a sec, he isn't even part of this\world anymore.
+[Kojiroh] I'm not sure I'm gonna like it if someone\actually picks up.
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Note
+　Printout log
+[Kojiroh] That's not important right now... I have\other shit to take care of first.
+[Kojiroh] The report from the government\database...
+[Kojiroh] Christ, I've already read this thing\enough to make my eyes bleed...
+s10
+[Kojiroh] That's a pretty strange pattern on that\painting...
+[Kojiroh] That stupid Nikaido knew what this\meant...
+001
+s10
+[Kojiroh] The painting that Kou...scratch that,\someone impersonating Kou asked me to find...
+[Kojiroh] "Those who lay hands on me, their\punishment will be severe, and thou shall suffer in\the fires of hell by the god's blade..."
+[Kojiroh] They say that these were the artist's\last words...
+001
+s07
+[Kojiroh] It's the thing that's gonna protect me...
+001
+s07
+Click.
+[Kojiroh] Somehow I get the feeling things are\getting stranger...
+[Kojiroh] It's the thing that's gonna protect me...
+001
+[Kojiroh] For the time being, at least I got a\little dough.
+[Kojiroh] I knew I could count on Purin...
+[Kojiroh] I'm no longer broke now...
+[Kojiroh] Purins here... I don't need to bring it\out.
+[Kojiroh] I'm in good spirits right now.
+[Kojiroh] But there's no need to take it out...
+[Kojiroh] You want to read the note?
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] That's what it says.
+[Kojiroh] It's the memo that Siria gave me...
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] But Purin says she doesn't know what it\means.
+[Kojiroh] I wonder what it could be...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Purin] Let's go to the Princess Hotel.
+[Kojiroh] Good idea... let's go.
+[Purin] Thank you for waiting.
+b03
+[Kojiroh] So, should we go now?
+[Purin] Yes sir!
+[Kojiroh] (Purins over there changing...)
+[Kojiroh] Hey! Aren't you ready yet?
+[Purin] Wait just another minute, please.
+[Kojiroh] Purins back...
+[Kojiroh] For some reason when she's in the office\everything fits into place...
+[Kojiroh] Who's paying the bills around here?
+[Kojiroh] Who am I kidding? Ain't nobody but yours\truly.
+[Kojiroh] That damn lamp is on all day and all\night...
+[Kojiroh] The table... It's pretty clean right now.
+[Kojiroh] That's where I fooled around with Siria.
+[Kojiroh] Then I got walloped by Yayoi... Love\bites.
+[Kojiroh] The desk where my computer is...
+[Kojiroh] The place where I skated on thin ice with\Kyoko...
+[Kojiroh] I don't think the system has figured out\what we've done, but who knows...
+　Princess Hotel
+[Kojiroh] Okay, I'm going to the Princess Hotel!
+[Kojiroh] Some rich, stuck up ass should be there\waiting.
+[Purin] Okay, let's go.
+a008
+[Kojiroh] Purin's still over there changing...
+[Kojiroh] I'll wait just a bit more.
+[Kojiroh] Hold on! Not so fast...
+[Kojiroh] First I should make the phone call.
+[Kojiroh] Kyoko's not there anymore... What should\I do?
+　Look/Investigate
+　Move
+　Equipment
+　Save/Load
+　Save
+　Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Note
+　Printout Log
+[Kojiroh] The log-file I got from the database.
+[Kojiroh] There's some pretty surprising shit\here...
+[Kojiroh] The report from the government\database...
+[Kojiroh] This whole thing's unfolding into\something pretty fishy...
+s10
+[Kojiroh] That's a pretty strange pattern on that\painting...
+[Kojiroh] Nikaido supposedly knew what this\meant...
+001
+s10
+[Kojiroh] The painting that Kou, scratch that,\someone impersonating Kou asked me to find...
+[Kojiroh] "Those who lay hands on me, their\punishment will be severe, and thou shall suffer in\the fires of hell by the god's blade..."
+[Kojiroh] They say that these were the artist's\last words...
+001
+s07
+[Kojiroh] It's the thing that's gonna protect me...
+001
+s07
+Click.
+[Kojiroh] Somehow I get the feeling things are\going to start getting stranger...
+[Kojiroh] It's the thing that's gonna protect me...
+001
+[Kojiroh] In the mean time I'll get to work.
+[Kojiroh] I ended up borrowing some money from\Kyoko.
+[Kojiroh] That helps a little...
+[Kojiroh] I don't feel so hot... Shit.
+[Kojiroh] I'm not feeling too alive right now...
+[Kojiroh] I've got too much to think about.
+[Kojiroh] You want to read the note?
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] That's what it says.
+[Kojiroh] It's the memo that Siria gave me...
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] Purin should know what this means...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Kojiroh] An empty room... I guess I should be used\to it.
+[Kojiroh] ...
+[Kojiroh] Up until yesterday there was a woman here\to do my cleaning, my laundry, cook my food...
+[Kojiroh] But now I'm all alone...
+[Kojiroh] Who's paying the bills around here?
+[Kojiroh] Who am I kidding? Ain't nobody but yours\truly.
+[Kojiroh] That damn lamp is on all day and all\night...
+[Kojiroh] The table... It's pretty clean right now.
+[Kojiroh] That's where I fooled around with Siria.
+[Kojiroh] Then I got walloped by Yayoi... Love\bites.
+[Kojiroh] The desk where my computer is...
+[Kojiroh] The place where I skated on thin ice with\Kyoko...
+[Kojiroh] I don't think the system has figured out\what we've done, but who knows...
+　Go outside
+[Kojiroh] Good idea. I'll get out of here for now.
+a002_2
+[Kojiroh] That's right. Kyoko said she'd change and\then come... I might as well go out.
+Rrring!...Rrring!...
+[Kojiroh] Who the hell could that be?
+Rrring!...Rrring!...
+[Kojiroh] I'll just pick up and see...
+Click.
+[Kojiroh] Amagi Detective Offices...
+[Voice] It's me...
+[Kojiroh] Who?... Glen?
+[Voice] It's me. Don't you know who I am?
+[Kojiroh] ...?!
+[Voice] That's right. I'm the person who asked you\to find the painting. Remember now?
+[Kojiroh] ...It's been awhile. You still fat as\ever?
+[Phony Kou] Ha, ha! You crack me up. Actually I'm\on a diet.
+[Kojiroh] You've got a lot of nerves to be calling\me. I'm impressed.
+[Phony Kou] Thank you.
+[Kojiroh] What did you call for?
+[Phony Kou] Actually I was thinking I'd like to\meet you.
+[Kojiroh] I see... Then what?
+[Phony Kou] I'll tell you about it when I see you.
+[Kojiroh] ...
+[Phony Kou] How does the lobby of the Princess\Hotel sound to you?
+[Kojiroh] Right now?
+[Phony Kou] As soon as you can come.
+[Kojiroh] ...
+[Phony Kou] What do you say?
+[Kojiroh] I'll be there.
+[Phony Kou] I am much obliged... I'll be waiting.
+Click!...
+[Kojiroh]...
+[Kojiroh] That son of a bitch has got pretty big\balls.
+[Kojiroh] The Princess Hotel... I'd better hurry.
+[Kojiroh] ...
+[Kojiroh] Hold on a minute. I'm supposed to meet\Kyoko in front of the school.
+[Kojiroh] Decisions, decisions...
+b08
+[Kyoko] Are you prepared to hear what I have to say\yet?
+[Kojiroh] Ready when you are.
+　Look/Investigate
+　Move
+　Speak
+　Think
+　Save/Load
+　Save
+　Load
+　About the painting
+　About Project C
+　About the former Intelligence Sector
+　About people
+[Kyoko] I can't believe it...
+[Kojiroh] It's even harder to think there is no\connection.
+[Kyoko] I'm confused by the painting, too...
+[Kojiroh] Why do you think that fatass would ask me\for help?
+[Kyoko] He approached other detectives too, right?
+[Kojiroh] Yes. It looked like he really wanted to\find it...
+[Kyoko] You have the photograph, don't you?
+[Kojiroh] I've got it right here...
+s10
+[Kyoko] It just looks like an ordinary pattern to\me...
+[Kojiroh] Did you hear about the story behind this\thing?
+[Kyoko] Nope.
+[Kojiroh] For better or worse, there's a story that\explains what's going on.
+[Kyoko] ...
+001
+b08
+[Kojiroh] The guy who painted this thing was more\famous as an occultist than as an artist.
+[Kyoko] The occult?
+[Kojiroh] There's a curse. Everyone who gets\involved with this painting dies mysteriously.
+[Kyoko] That's just a coincidence, right?
+[Kojiroh] That's what I thought at first, too. But\the painter left a warning just before he died.
+[Kyoko] ...
+[Kojiroh] "Those who lay hands on me, their\punishment will be severe, and thou shall suffer in\the fires of hell by the god's blade..."
+[Kyoko] "The god's blade"... Holy shit!
+[Kojiroh] I know the feeling. For some reason it\sounds a lot like what's going on right now.
+[Kyoko] Are you saying there's some sort of\connection?
+[Kojiroh] I just said it sounds similar. We can't\jump to conclusions.
+[Kyoko] But...
+[Kojiroh] I know, I know. I'm not saying that\there's no connection. I just can't figure out what\the connection is.
+[Kyoko] ...
+[Kojiroh] To put it bluntly, I don't know my ass\from my pecker anymore.
+[Kyoko] I don't want to know either of them...
+[Kojiroh] Anyway, to summarize what we know, the\head of the Bureau of Science bites the dust... and\so does his son. Both deaths are sort of weird.
+[Kyoko] Yeah...
+[Kojiroh] Project C is started over from scratch,\but someone wants the results of the research\that's already been done.
+[Kyoko] The result of the research was something\called 'A101'.
+[Kojiroh] That's right. But there's something I\just don't get.
+[Kyoko] The remnants of the former Eldian\Intelligence Sector took that data and disappeared.
+[Kojiroh] Yeah, but what exactly is 'A101'?
+[Kyoko] Isn't it written there at the end? Before\it gets cut off?
+[Kojiroh] You mean this? "A101: The former Eldian\Science Ministry successfully developed this\groundbreaking..." This doesn't give us enough to\figure it out.
+[Kyoko] So close but no cigar... We'll never get\another chance like that.
+[Kojiroh] You're probably right.
+[Kyoko] Everything's getting jumbled up in my\brain. It's all so confusing.
+[Kojiroh] Tell me about it.
+[Kojiroh] The former Intelligence Sector... What a\creepy organization.
+[Kojiroh] The Intelligence Sector... This spy\shit's sort of fun to think about.
+[Kyoko] How can anything be fun at a time like\this?
+[Kojiroh] You don't find it the least bit\thrilling?
+[Kyoko] Nope.
+[Kojiroh] I wonder...
+[Kyoko] But Ambassador Mido...
+[Kojiroh] It said he was the original head of the\Bureau.
+[Kyoko] He torched his own home for the sake of\reform.
+[Kojiroh] What the hell was the purpose of that\former Intelligence Sector anyway?
+[Kyoko] To turn the research into money.
+[Kojiroh] Shit like 'A101'?
+[Kyoko] That's right. It was the result of\research, right? I'll bet there are a lot of people\who'd like to get their hands on it.
+[Kojiroh] A familiar enough story. But if that's it\then why would someone put such a big reward out on\Purin?
+[Kyoko] I don't know about that... But the thing\Purin should have gotten from Kou must have been\'A101'.
+[Kojiroh] Maybe... But if that's the case then why\does Kou have to be killed?
+[Kyoko] Good question...
+[Kojiroh] My thoughts seem to be shifting to\something else...
+　About Mido
+　About Kou
+　About Purin
+　About Terror
+[Kojiroh] As much as I'm thinking about it, I can't\seem to come up with any good ideas now.
+[Kyoko] Told you so.
+[Kojiroh] Hmm...
+[Kojiroh] I feel like I've seen a glimpse of the\big picture.
+[Kyoko] The business about the ex-head of the\Eldian Intelligence Sector was pretty surprising.
+[Kojiroh] Although it was disbanded...
+[Kyoko] Mido himself is the one who done it.
+[Kojiroh] All for the sake of political reform.
+[Kyoko] And now the remains of the disbanded\Intelligence Sector are operating behind the\scenes...?
+[Kojiroh] Sure seems that way.
+[Kyoko] ... I have my suspicions about Mido\himself, but I don't get the feeling he's committed\any crime.
+[Kojiroh] ...
+[Kyoko] What are you thinking?
+[Kojiroh] There's something on my mind.
+[Kyoko] The jacket with the money in it? Figures.
+[Kojiroh] Laugh if you will, but you're right.
+[Kyoko] Obviously it was just a coincidence. You\shouldn't worry about every little thing.
+[Kojiroh] Are you kidding me?
+[Kyoko] What?
+[Kojiroh] You know Purin, the girl Eldia's former\Intelligence Sector put so much money out to find?\Her jacket was found in the Eldian embassy.
+[Kyoko] ...
+[Kojiroh] If you see no connection here, then go\find another day job.
+[Kyoko] What are you saying?! Nothing can be done\about it!
+[Kojiroh] Something can definitely be done about\it.
+[Kyoko] Like what?
+[Kojiroh] Let me think about it.
+[Kyoko] You're not making any sense.
+[Kojiroh] The real Kou died...
+[Kyoko] If only we could ask the phony Kou about\it.
+[Kojiroh] ...
+[Kojiroh] The real Kou was already dead...
+[Kyoko] Kou the Director must have gotten caught in\the middle of something.
+[Kojiroh] Right. Even the search for the\painting... Well, the actual request to do the job\came from the mysterious fatass who disappeared.
+[Kyoko] The situation with that painting doesn't\line up at all with this information. What could\the connection be?
+[Kojiroh] Beats me...
+[Kyoko] Maybe there's no connection after all.
+[Kojiroh] What's that supposed to mean?
+[Kyoko] It could just be that two entirely\different sets of events occurred simultaneously.\Since they seem to affect each other, we\automatically jumped to the conclusion that they're\connected.
+[Kojiroh] So the situation with the painting and\the stuff with Mido and Project C are completely\separate issues?
+[Kyoko] I can't be sure... But it's definitely a\possibility.
+[Kojiroh] It's too unnatural. It's more natural to\see the connection.
+[Kyoko] Alright then, Sherlock, what's the\connection?
+[Kojiroh] Beats the hell out of me.
+[Kyoko] You're hopeless...
+[Kojiroh] (Purin... Where the hell are you?)
+[Kojiroh] (Are you at... the embassy?)
+[Kyoko] Somebody's personal maid, right?
+[Kojiroh] Not so fast, that's only what I heard.\She hasn't confirmed it.
+[Kyoko] But if that's really the case...
+[Kojiroh] It's easy to imagine a lot of things, but\there's no evidence.
+[Kyoko] I know, I know.
+[Kojiroh] In the end it's just something that Siria\said.
+[Kyoko] True. And then there's that note... Do you\have it with you?
+[Kojiroh] Uh, yeah... "The moon will be full, the\oasis will moisten, and green shall return to the\desert."
+[Kyoko] Siria wanted to give this note to Purin.
+[Kojiroh] Or, more exactly, the Director Kou wanted\to. Siria was only asked to do it.
+[Kyoko] What place does she hold?
+[Kojiroh] Which she?
+[Kyoko] Purin. She was supposed to get something\from Kou, right?
+[Kojiroh] Right. She didn't tell me what it was.
+[Kyoko] What if it was actually 'A101' or\something...
+[Kojiroh] What are you saying?
+[Kyoko] I don't know... It's just that she's\supposedly a maid, right?
+[Kojiroh] Right. Which means there's somebody\sponsoring her.
+[Kyoko] Royalty...
+[Kojiroh] It seems likely. But the King was\assassinated...
+[Kyoko] What about the Queen?
+[Kojiroh] I wonder... But anyone who'd put that\girl in danger can't be any good.
+[Kyoko] ...
+[Kyoko] The more you think about it the more\uncanny this assassin becomes...
+[Kojiroh] You've got that right...
+[Kyoko] What a terrible son of a bitch...
+[Kojiroh] Identity , sex, age, or race, all\unknown... It's almost inconceivable.
+[Kyoko] Appears out of thin air, does his dirty\work, and disappears back into the wind...
+[Kojiroh] Like a ninja or something. On top of\that, a 100% success rate.
+[Kyoko] I can't believe it...
+[Kojiroh] It's certainly harder to believe than to\not to believe.
+[Kyoko] Why use a knife, I wonder?
+[Kojiroh] Probably because it's an effective\weapon. Makes no sound, leaves no trace. It has an\overwhelming advantage in close-range combat.
+[Kyoko] What I was actually asking was why use the\official Eldian army knife.
+[Kojiroh] Because he likes it?
+[Kyoko] Come on, seriously!
+[Kojiroh] Really, thinking about it won't give us\any solid answers.
+[Kyoko] Well... Yeah, but...
+[Kojiroh] Is this the very prick who killed Kou?
+[Kyoko] And what about Nikaido?
+[Kojiroh] That's a tough one. Why would Nikaido\have to be killed?
+[Kyoko] ...
+[Kojiroh] 'Terror' is just the pro who was\contracted to do the kill.
+[Kyoko] Who put out the contract... That's the\problem.
+[Kojiroh] There's got to be a ton of guys who'd\want to kill Nikaido for sleeping with their women.\Whether or not 'Terror' was hired is a completely\separate issue.
+[Kyoko] That's true... It's too soon to make an\assumption just because a knife was used.
+[Kojiroh] Someone could have just wanted to use a\knife to make it look like a 'Terror' job.
+[Kyoko] But we don't have any evidence that\suggests it wasn't 'Terror' either.
+[Kojiroh] ...
+　Kyoko
+[Kyoko] Now what?
+[Kojiroh] Let's see, a top-notch assassin from the\Middle East, the Japanese government, and Eldian\former Intelligence Sector. We'll wage war against\all three of them.
+[Kyoko] ...
+[Kojiroh] What's with that face? You look like\you're in your deathbed.
+[Kyoko] It's just that I'm amazed by your nerves.
+[Kojiroh] Nothing's changed. Don't worry about it.
+[Kyoko] Why are you getting so involved with this\case?
+[Kojiroh] I'm moved by the passion in your eyes.
+[Kyoko] Of course you're lying.
+[Kojiroh] Don't be so cruel...
+[Kyoko] Why?
+[Kojiroh] I don't remember.
+[Kyoko] You said something about helping people.
+[Kojiroh] Did I say that?
+[Kyoko] You did.
+[Kojiroh] I have no recollection of that.
+[Kyoko] Save the bullshit politician routine. I\want to know what you're in this for.
+[Kojiroh] I've told you before. It's a combination\of my indignation towards the foul deeds of\criminals and my desire to contribute to social\well-being.
+[Kyoko] Forget I asked.
+[Kojiroh] If you don't mind, then, do me a favor\and don't ask me again. I have my own private\reasons.
+[Kyoko] ...
+[Kojiroh] You don't see me invading your privacy\about the issue, do you? So return the favor, okay?
+[Kyoko] ...
+[Kojiroh] And don't make that diarrhea face. You\said we're partners in crime, remember?
+[Kyoko] Don't put words in my mouth.
+[Kojiroh] It's the truth.
+[Kyoko] Do you have to be so irritating?
+[Kojiroh] Yes. What are you going to do, anyway?
+[Kyoko] About what?
+[Kojiroh] You said it yourself, about the\Principal's embezzlement scandal.
+[Kyoko] ...
+[Kojiroh] Even if he retires, no one blames him.
+[Kyoko] You're going to continue the race?
+[Kojiroh] You got it, baby.
+[Kyoko] But why?
+[Kojiroh] For the sake of the woman I love...
+[Kyoko] ...
+[Kojiroh] Wipe that look off your face. I was\joking. J-O-K-I-N-G. Okay?
+[Kyoko] It didn't sound much like a joke to me.
+[Kojiroh] Why.. Why do you say that?
+[Kyoko] You're stuttering.
+[Kojiroh] Shut up. Why would I think about shit\like the former Intelligence Sector and politics\for a broad. It just ain't worth it.
+[Kyoko] Oh yeah? You're still acting awkward.
+[Kojiroh] Hey, gimme a break, will ya!
+[Kyoko] Hee hee! Now don't get so angry.
+[Kojiroh] For Christ's sake...
+[Kyoko] Count me in, too.
+[Kojiroh] Wow. You know you're putting your career\on the line.
+[Kyoko] What we've already done is more than enough\to ruin it anyway.
+[Kojiroh] ...
+[Kyoko] What, are you worried about me?
+[Kojiroh] I guess I feel a little responsible.
+[Kyoko] That's not like you at all... Don't worry.\If the shit hits the fan I'll have you to look\after me.
+[Kojiroh] Huh?!?
+[Kyoko] You look pretty nervous. Just kidding. I\wouldn't want to bother your lover.
+[Kojiroh] Hey... I said cut it out!
+[Kyoko] I just wanted to see your reaction, that's\all.
+[Kojiroh] You're a handful, you know... Anyway,\shall we get going?
+[Kyoko] Get going? Where?
+[Kojiroh] To school.
+[Kyoko] ...
+[Kojiroh] Remember I told you I saw an inventory of\paintings in the Director's room?
+[Kyoko] You're pretty tough, cowboy...
+[Kojiroh] I can tap that ass all night long, baby.
+[Kyoko] Are you planning on breaking in?
+[Kojiroh] You catch on quick.
+[Kyoko] ...
+[Kojiroh] You're just going to school to get\something you forgot. I'm your boyfriend who's come\to meet you.
+[Kyoko] My boyfriend?
+[Kojiroh] I'll get lost and accidentally wind up in\the Director's room, and you just happen to go that\way.
+[Kyoko] My boyfriend...
+[Kojiroh] Suddenly I become dizzy and collapse on\the book shelf, and the inventory book just happens\to fall in front of me... What do you think?
+[Kyoko] ... Boyfriend...
+[Kojiroh] Hey, snap out of it!
+[Kyoko] Oh! Sorry. What were you saying?
+[Kojiroh] What do you think of the plan?
+[Kyoko] My boyfriend?
+[Kojiroh] Why are you so hung up on that minor\detail?
+[Kyoko] If we're breaking in anyway, it doesn't\make any difference, does it?
+[Kojiroh] I guess not.
+[Kyoko] Sounds fine with me. I won't complain\anymore about my career or anything like that.
+[Kojiroh] (What do you call what you're doing right\now?)
+[Kyoko] ... And I would like to find out what's up\with the Director, too.
+[Kojiroh] Well, that's a plan.
+[Kyoko] Okay, how about meeting in front of the\school gate?
+[Kojiroh] Why? Are you embarrassed to go with me?
+[Kyoko] No, dumb-ass! I just have to go home and\change into my uniform first.
+[Kojiroh] Good idea. I prefer the nurse look\though.
+[Kyoko] Pervert!
+[Kojiroh] Quit calling me names.
+[Kyoko] If we get caught, it'll be more convincing\if I'm wearing my uniform, won't it?
+[Kojiroh] I guess you're right.
+[Kyoko] I'll go back to the girls' dorm.
+[Kojiroh] Dress up nice, hot stuff.
+[Kyoko] Pervert.
+001
+[Kojiroh] ...
+[Kojiroh] So we're meeting in front of the school's\gate...
+eve_03
+[Kyoko] Let's collect our thoughts a little first.
+[Kojiroh] Good idea.
+[Kyoko] For now just read it, okay?
+[Kojiroh] Okay.
+　Surroundings
+　Kyoko
+　Print log
+[Kojiroh] I've got to read it again?
+The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science and the termination of the project was resolved.
+Furthermore, due to the assassination of Stoleman, the international school's Director, the government recognized the threats of the Middle East and cut off any funds to the former Eldian Ministry of Science. The project was fully discarded.
+The head of the Intelligence Sector, Ross Mido, responded to this action made by the government, and The Intelligence Sector and Ministry of Science were both dissolved. The top-secret Project C was also terminated.
+Intelligence Sector 2 is concentrating all efforts to locate 'A101', and the search for the former Eldian Intelligence Sector member and his accomplices wanted for larceny of the classified material, has been requested to Prime Minister Lloyd.
+The search for Mido and his two Asian executives...
+'A101': The former Eldian Science Ministry successfully developed this groundbreaking...
+[Kojiroh] The log cuts off here. We must have been\found out...
+[Kyoko] Don't you want to read the rest?
+[Kojiroh] Right... 'Intelligence Sector 2 is\concentrating all efforts to locate 'A101'. What\the hell is this 'A101' crap?
+[Kyoko] It must be a code-name for something.
+[Kojiroh] Intelligence Sector 2 must have something\to do with the former Intelligence Sector.
+[Kyoko] You think so?
+[Kojiroh] I've heard it's a scary place.
+[Kyoko] But what could it have to do with the\Eldian government?
+[Kojiroh] It's written right here. They tried to\take the research results and run with them.
+[Kyoko] What on earth could they have been\searching for?
+[Kojiroh] Probably that A101.
+[Kyoko] ... I'll read on.
+...and the search for the former Eldian Intelligence Sector member and his accomplices wanted for larceny of the classified material, has been requested to Prime Minister Lloyd.
+[Kyoko] The former Eldian Intelligence Sector?
+[Kojiroh] There's more.
+[Kyoko] 'The search for Mido's two Asian\executives...' It cuts off mid-sentence.
+[Kojiroh] Mido and his two Asian executives... Who\could they be?
+[Kyoko] What about Mido and the Kou father and son?
+[Kojiroh] The two Kou's weren't part of the former\Intelligence Sector. It doesn't seem right to say\they are the two execs.
+[Kyoko] You're right... Let's collect our thoughts.
+[Kyoko] Have a look.
+[Kojiroh] Well, what have we got here...
+[Kyoko] Don't stare at my breasts you pervert!
+[Kojiroh] Where should I look then?
+[Kyoko] ...
+[Kojiroh] Just kidding! Don't be so serious. The\log printout, right?
+[Kyoko] Right. It's pretty sticky stuff.
+[Kojiroh] ...
+[Kyoko] It's more than an embezzlement by a school\Principal.
+[Kojiroh] You mean there was more?
+[Kyoko] More than you can handle. Just read it.
+[Kojiroh] ...
+' The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science and the termination of the project was resolved.'
+[Kyoko] Doleman is Director Stoleman Kou's father.
+[Kojiroh] The head of the Eldian Ministry of\Science.
+[Kyoko] I guess it's obvious that when the Big\Cheese dies his organization can't function.
+[Kojiroh] But look at the next part. "The\government recognized the threats of the Middle\East and cut off any funds to the former Eldian\Ministry of Science. The project was fully\discarded."
+[Kyoko] What does it mean?
+[Kojiroh] Stoleman Kou was murdered for political\reasons.
+[Kyoko] Political reasons...?
+[Kojiroh] If he was killed by 'Terror', then\obviously someone had to hire 'Terror' to do it.
+[Kyoko] I guess you're right... So there was a\crisis in the project itself?
+[Kojiroh] That's what it looks like.
+[Kyoko] I'll continue reading...'The head of the\Intelligence Sector, Ross Mido, responded to this\action made by the government. The Intelligence\Sector and Ministry of Science were both\dissolved.'
+[Kojiroh] That was also written in Mido's personal\report.
+[Kyoko] Yeah... The ex-head of the Intelligence\Sector. I don't like the sound of it.
+[Kojiroh] 'And the top-secret Project C was also\terminated.' What the hell is this 'Project C'\thing?
+[Kyoko] I think it's the 'Neo Cerebral Project'\thing.
+[Kojiroh] 'Neo Cerebral Project'...
+[Kyoko] Something about new brains.
+[Kojiroh] Who knows what that could mean...
+[Kyoko] Beats me.
+[Kojiroh] (What the hell is this Project C?)
+[Kojiroh] (Kyoko's looking pretty serious...)
+[Kojiroh] (I guess I have no choice but to\listen...)
+[Kojiroh] (It's just me and Kyoko here alone...)
+[Kojiroh] (Purins nowhere around.)
+[Kojiroh] (The atmosphere's still a little intense\in here...)
+[Kojiroh] (She's relaxing a little with my tasty\coffee...)
+　Go outside
+[Kyoko] Hey!
+[Kojiroh] I know, I know... Women!..
+[Kyoko] Where do you think you're going?
+[Kojiroh] To the bathroom.
+[Kyoko] ...
+[Kojiroh] My motto is, work hard until the whole\blue sea turns yellow with my piss.
+[Kyoko] Kojiroh. Does the word "stupid" mean\anything to you?
+[Kojiroh] No. Not much.
+　1
+　2
+　3
+　4
+　A
+　B
+1_0
+1 0
+Password error!0
+[Kyoko] What? "Error"? You typed it in wrong!
+[Kojiroh] It didn't seem wrong to me.
+[Kyoko] Get serious and do this right!
+Enter Data Unlock Password: _     0
+                    ~~~~~~0
+1_0
+1_0
+1_0
+1_0
+1_0
+2_0
+2 0
+Password error!0
+[Kyoko] What? "Error"? You typed it in wrong!
+[Kojiroh] It didn't seem wrong to me.
+[Kyoko] Get serious and do this right!
+Enter Data Unlock Password: _     0
+                    ~~~~~~0
+2_0
+2_0
+2_0
+2_0
+2_0
+3_0
+3 0
+[Kyoko] What's wrong?!0
+** Warning level.7 **0
+[ Neo Cerebral Project ]0
+The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science.0
+... and the termination of the project was resolved.0
+Furthermore, due to the assassination of Stoleman Kou,0
+The international school's Director, the government recognized the threats of the Middle East...0
+and cut off any funds to the former Eldian Ministry of Science. The project was fully discarded.0
+The head of the Intelligence Sector, Ross Mido, responded to this action made by the government...0
+and the Intelligence Sector and Ministry of Science were both dissolved.0
+The top-secret Project C was also terminated.0
+Intelligence Sector 2 is concentrating all efforts to locate 'A101',0
+And the search for the former Intelligence Sector member and his accomplices0
+wanted for larceny of the classified materials has been...0
+requested to Prime Minister Lloyd.0
+0380
+[Kojiroh] Here it comes! It's a big one!
+[Kyoko] Kou... Kojiroh...
+[Kojiroh] You're stuttering, Kyoko.
+[Kyoko] Is, is this saved as a log file?
+[Kojiroh] Basically everything that comes up on the\screen is saved.
+[Kyoko] I see... But this is pretty important\information.
+[Kojiroh] Tell me about it. This is pretty hot\shit.
+and the search for the former Intelligence Sector member and his accomplices wanted for larceny of the classified materials has been...0
+requested to Prime Minister Lloyd.0
+The search for Mido and his two Asian executives is...0
+A101: The former Eldian Science Ministry successfully developed this groundbreaking\2a00f1b1cc54652a15bc23570
+eve_45
+[Kojiroh] What's this?
+[Kyoko] Strange. It shouldn't just cut off in the\middle... Holy shit!0
+Warning: illegal access this node.0
+Warning: illegal access this node.0
+Warning: illegal access this node.0
+Warning: illegal access this node.0
+Warning: illegal access this node.0
+[Kyoko] Holy shit! They've found us!
+[Kojiroh] What?!
+[Kyoko] Kojiroh, they know we're here!
+[Kojiroh] Cut it off! Cut off the connection now!!
+[Kyoko] What's the unhook command?! Hurry!
+[Kojiroh] I'll tear the phone line out of the\modem!!
+I rip it out.0
+-- Disconnected --0
+\ 
+[Kojiroh] Son of a bitch...
+[Kyoko] I'm screwed...
+ABEND: COM1 in RS-4220
+[Kojiroh] It was only about 5 seconds...
+[Kyoko] Maybe they couldn't get a fix on us...
+[Kojiroh] What a day!
+[Kyoko] God, I'm tired...
+[Kojiroh] I just lost 10 years of my life.
+[Kyoko] Yeah right. Nothing gets to you.
+[Kojiroh] Actually, I was sweating over the\nightmarish thought of having to take care of you\if you get fired for this.
+[Kyoko] Stop messing around...
+[Kojiroh] You want some tea or something?
+[Kyoko] Yes, please. That sounds good.
+[Kojiroh] I'm a coffee drinker myself.
+[Kyoko] I could do either right now. I can hardly\think clearly...
+[Kojiroh] Let's try and make some sense out of what\we've seen.
+001
+eve_13
+[Kojiroh] ...
+b08
+[Kyoko] Kojiroh.
+[Kojiroh] What, you're finished already?
+[Kyoko] Yeah, thanks. It was delicious coffee.
+[Kojiroh] What did I tell you? No one makes coffee\like yours truly.
+[Kyoko] ...
+[Kojiroh] Hey, are you still tense?
+[Kyoko] Of course I am. I can't stop worrying that\any minute the cops are gonna bust in to nail us.
+[Kojiroh] Whatever happens, happens. Don't sweat it\right now.
+[Kyoko] Quit scaring me. You say that like you mean\it.
+The printer stops.
+[Kojiroh] The log printout's finished.
+[Kyoko] I just skimmed it. Something's a little\fishy.
+[Kojiroh] I'll say. There's definitely a fishy\smell in here.
+[Kyoko] Hey! What are you inferring?
+[Kojiroh] Gonorrhea?
+Smack!0
+\ 
+[Kyoko] I'll slap you!
+[Kojiroh] Listen. First you warn the man, THEN you\smack him. Okay?
+3_0
+3 0
+Password error!0
+[Kyoko] What? "Error"? You typed it in wrong!
+[Kojiroh] It didn't seem wrong to me.
+[Kyoko] Get serious and do this right!
+Enter Data Unlock Password: _     0
+                    ~~~~~~0
+3_0
+3_0
+3_0
+3_0
+3_0
+4_0
+4 0
+Password error!0
+[Kyoko] What? "Error"? You typed it in wrong!
+[Kojiroh] It didn't seem wrong to me.
+[Kyoko] Get serious and do this right!
+Enter Data Unlock Password: _     0
+                    ~~~~~~0
+4_0
+4_0
+4_0
+4_0
+4_0
+A_0
+A 0
+Password error!0
+[Kyoko] What? "Error"? You typed it in wrong!
+[Kojiroh] It didn't seem wrong to me.
+[Kyoko] Get serious and do this right!
+Enter Data Unlock Password: _     0
+                    ~~~~~~0
+A_0
+A_0
+A_0
+A_0
+A_0
+B_0
+B 0
+Password error!0
+[Kyoko] What? "Error"? You typed it in wrong!
+[Kojiroh] It didn't seem wrong to me.
+[Kyoko] Get serious and do this right!
+Enter Data Unlock Password: _     0
+                    ~~~~~~0
+B_0
+B_0
+B_0
+B_0
+B_0
+　Look/Investigate
+　Move
+　Speak
+　Disconnect
+　Save/Load
+　Save
+　Load
+　Mido's personal information
+[Kyoko] Even to disconnect we need the cooperation\of the other person.
+[Kyoko] What are you doing? Hurry up and respond.
+　Kyoko
+[Kyoko] What are they doing?
+[Kyoko] This is costing us valuable time.
+　Kyoko
+　Monitor
+　Fingers
+　Shoulders
+[Kojiroh] (She's seems a little shaky...)
+[Kojiroh] (She's trembling...)
+[Kojiroh] (I can't expect her to relax with this\going on...)
+Cannot access... Need higher clearance0
+Password confirmed. 242BA30
+Roger. We'll input it from here.0
+[Kyoko] Come on! We can't wait anymore!
+O0
+Oka0
+Okay.0
+Okay. S0
+Okay. Sta0
+Okay. Start0
+Okay. Start i0
+Okay. Start inp0
+Okay. Start input.0
+Okay. Start inputti0
+Okay. Start inputting.0
+[Kyoko] Here it comes!
+[Kojiroh] This is getting pretty fun. The other\person seems to be enjoying it too.
+[Kyoko] Kojiroh, write down the password. I'll\input it while the other person keeps the system on\hold.
+[Kojiroh] Okay.
+[Kyoko] Did you write it down?
+[Kojiroh] Yes. I just barely got it!
+Enter Data Unlock Password: _0
+                    ~~~~~~0
+[Kyoko] Read the note and enter it.
+[Kojiroh] Okay.
+Cannot access... Need higher clearance0
+Password confirmed. 242BA30
+Roger. We'll input it from here.0
+[Kyoko] Why won't they respond? What's happened?
+[Kojiroh] Just relax, will you?
+[Kyoko] Sorry...
+0380
+[Kyoko] No problem. I promise I won't type it\wrong.
+[Kojiroh] Don't make such a big deal about it or\you'll mess it up.
+[Kyoko] I know... But I am sort of nervous.
+[Kojiroh] Just relax and let it come to you.
+[Kyoko] Where did you get such a calm head, anyway?
+[Kyoko] Thanks. I feel a little better.
+[Kojiroh] (She's perspiring...)
+[Kojiroh] (I guess no one can really hide it when\they're nervous...)
+I grab her.
+[Kyoko] Ah!...
+[Kojiroh] Relax. It's okay.
+[Kyoko] If you say so...
+　Between Kyoko's legs
+[Kojiroh] (Hold your horses, partner...)
+[Kojiroh] (She's not in the mood for that now...)
+[Kojiroh] (Come on, cowboy, pay attention to the\monitor.)

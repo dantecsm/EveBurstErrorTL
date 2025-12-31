@@ -1,0 +1,1027 @@
+002
+[Voice] Ahhh!0
+\ 
+[Kojiroh] What the hell...?
+[Kojiroh] Who's voice was that!
+[Kojiroh] Where did it come from?
+002
+eve_08
+[Kojiroh] It's a little chilly...
+002
+eve_08
+[Kojiroh] I'm back in the warehouse district... Now\what'll I do?
+002
+eve_08
+[Kojiroh] It's already pretty late.
+[Kojiroh] I wonder if Purin's back yet.
+002
+eve_06
+[Kojiroh] I'm in front of my office...
+002
+[Voice] Excuse me?
+[Kojiroh] Huh?
+b09
+eve_38
+[Woman] Are you Mr. Amagi?
+[Kojiroh] Yeah. You got a case for me?
+[Woman] Yes, you're Mr. Amagi...
+[Kojiroh] (I've seen this girl somewhere before...)
+[Woman] Do you know if a girl happened to come by\here...?
+[Kojiroh] A girl?
+[Woman] A blonde, with tan skin... She looks like\she's in her late teens.
+[Kojiroh] (She means Purin...)
+[Kojiroh] (But who the hell is this broad?)
+[Woman] She's easy to notice... You'd know if you'd\seen her.
+[Kojiroh] Sorry, but I don't know any girls like\that around here.
+[Woman] Pardon me for asking, but do you live here?
+[Kojiroh] Yeah, I live right in that warehouse...
+[Woman] I see...
+[Kojiroh] ...
+[Woman] Are you sure you haven't seen her?
+[Kojiroh] Listen, lady... Why the hell would a\beautiful girl like that be hanging around a\neighborhood like this?
+[Woman] I see.
+[Kojiroh] ...
+[Kojiroh] (What's with this chick... She's sweating\bullets.)
+[Woman] Well, I happened to see her here...
+[Kojiroh] Well it doesn't concern me anyway. Why\are you looking for her?
+[Woman] We're friends. Good friends...
+[Kojiroh] (I'm getting a bad signal from her... And\I mean bad!)
+[Kojiroh] (This woman is trouble... I can feel it.)
+[Woman] Why do you stare at me like that?
+[Kojiroh] Why? Because you're a fox, and you've got\a nice rack.
+[Woman] ...
+Hmm...
+002
+[Kojiroh] Hey!
+[Woman] Mmm...
+[Kojiroh] Are you okay?
+b09
+[Woman] Sorry, I'm anemic.
+[Kojiroh] ...
+[Woman] Let me know if you find her... Bye.
+002
+[Kojiroh] ...
+[Kojiroh] There was something strange about her...
+[Kojiroh] ...
+[Kojiroh] What the hell did Purin do?
+eve_06
+002
+eve_06
+[Kojiroh] I feel good breathing in the fresh air\outside...
+002
+eve_06
+[Kojiroh] I'm back in the warehouse district.
+002
+eve_06
+[Kojiroh] Purin's not here.
+[Kojiroh] I lost sight of her, thanks to that cop.
+[Kojiroh] Could she be in my office...?
+002
+eve_06
+[Kojiroh] This is outside my office. Where should I\go now?
+002
+eve_06
+[Kojiroh] It's pretty bright out here. A far cry\from inside my office...
+002
+eve_06
+[Kojiroh] I'm back in the warehouse district before\I know it...
+[Kojiroh] What'll I do with this?
+[Kojiroh] ...
+[Kojiroh] I didn't think I would come across a dead\body...
+[Kojiroh] ...
+[Kojiroh] What was Nikaido doing over at Kou's\place...?
+[Kojiroh] I don't think he's the murderer, but I\hope he didn't leave any clues or traces there...
+002
+[Kojiroh] The warehouse district... It's dark here.
+[Kojiroh] Whew... Today was such a busy day. Boy,\am I beat.
+[Kojiroh] ...
+[Kojiroh] I wonder if Purin's back yet...
+002
+eve_08
+[Kojiroh] The warehouse district... It's dark here.
+002
+eve_06
+[Kojiroh] The warehouse district... I can see my\private detective office.
+002
+b06
+eve_06
+[Nikaido] You bastard...
+[Kojiroh] Piss off.
+[Nikaido] Smartass.
+[Kojiroh] What the hell are you doing here...
+[Nikaido] Now, how did I ever get myself lost in\this part of the town?
+[Kojiroh] So?
+[Nikaido] Ha ha ha ha... I think I understand the\mystery behind that painting.
+[Kojiroh] The...mystery?
+[Nikaido] I just searched for what you were\searching for. But unlike you, I understood that\mystery.
+[Kojiroh] I see.
+[Nikaido] There's something very mysterious behind\that little thing... There's no reason I should be\wasting this information on you.
+[Kojiroh] I'm not asking you to.
+[Nikaido] Just wait and see... Ha-ha-ha.
+002
+[Kojiroh] ...
+[Kojiroh] What business does he have coming around\here?
+002
+eve_06
+[Kojiroh] The warehouse district... What'll I do\here?
+002
+eve_06
+[Kojiroh] Whoa... The sun is still down in the\east.
+[Kojiroh] Thanks to Purin, I woke up too early...
+002
+eve_08
+[Kojiroh] It's a little cold outside...
+002
+eve_08
+[Kojiroh] I'm back in the warehouse district before\I know it...
+002
+eve_08
+[Kojiroh] You'd never guess there was a struggle\here a minute ago...
+[Kojiroh] This place is so quiet.
+[Kojiroh] I'll go get some medicine... They're\selling it over there.
+002
+[Kojiroh] ...
+[Kojiroh] It's so dark... What the hell's going on?
+[Kojiroh] I guess no one's here...?
+[Kojiroh] Maybe I'm hearing things...
+[Voice C] Hey, you little shit!
+[Voice B] This punk-ass...
+[Voice] Please, stop it!
+[Kojiroh] There it is again... Where's it coming\from?
+[Voice A] Come on, shitface. Throw the first punch.
+[Kojiroh] Oh... In the rear.
+[Kojiroh] Okay, let's go behind the place.
+0010
+[Kojiroh] ...
+[Kojiroh] (It's so dark here...)
+I sneak into the back.
+[Kojiroh] (Damn... My eye's haven't adjusted to\this sudden darkness yet.)
+[Kojiroh] (What the...!?!)
+[Kojiroh] ...
+[Kojiroh] (As long as I'm paying taxes, I deserve\to have some lights!)
+[Kojiroh] (All these piled boxes are too dangerous\like this...)
+[Kojiroh] (I have to pay attention to what's at my\feet.)
+Whaaaamm!
+[Kojiroh] ...
+[Kojiroh] (I just smashed my head against\something...)
+[Kojiroh] (Jesus, it hurts.)
+[Voice A] This kid deserves some punishment.
+[Kojiroh] (I can hear them... I'm getting closer.)
+[Kojiroh] (...)
+[Kojiroh] (There are more than one...)
+eve_20
+[Boy] Ouch! ...Stop it, please!
+[Guy on left] You've got what we need, stupid kid.
+[Boy] No... I don't.
+[Guy in middle] Hand it over.
+[Guy on right] So, the little kid wants to act like\an adult, eh??
+[Guy in middle] Why don't we educate you on how to\behave properly...
+[Kojiroh] ...
+[Kojiroh] (3 against 1? These aren't good odds.)
+002
+eve_08
+[Kojiroh] This is outside my office.
+[Kojiroh] I can hear the waves lapping against the\dock.
+002
+eve_06
+[Kojiroh] Whadda ya know... It's already evening.
+[Kojiroh] I was so involved with working at the\terminal... It happens.
+002
+eve_06
+[Kojiroh] This is the warehouse district on the\wharf.
+[Kojiroh] The warehouse on the left is my private\detective office.
+002
+eve_06
+Bam!
+b04
+[Kid] Sorry...
+[Kojiroh] Hey, it's you again...
+[Kid] ...
+[Kojiroh] This isn't a playground, you know...
+[Kid] Gotta run!
+[Kojiroh] What the hell...?
+[Kid] Bye!
+002
+[Kojiroh] ...
+[Kojiroh] Kids these days... What's happening to\our youth!?!
+002
+eve_06
+[Kojiroh] I'm outside...
+002
+eve_06
+[Kojiroh] Huh? I'm back at the warehouse before I\know it.
+002
+eve_06
+[Kojiroh] The white clouds in the blue sky... And\the clear ocean.
+[Kojiroh] This beautiful place is on the outskirts\of the warehouse district.
+[Kojiroh] It may not be Beverly Hills, but it ain't\a bad place to live.
+[Kojiroh] The hotel I need to get to... It's\straight ahead.
+002
+eve_06
+[Kojiroh] The white clouds in the blue sky... And\the clear ocean.
+[Kojiroh] This beautiful place is on the outskirts\of the warehouse district.
+[Kojiroh] It may not be Beverly Hills, but it ain't\a bad place to live.
+002
+eve_06
+[Kojiroh] This is the outskirts of the warehouse\district. The warehouse on the left is my private\detective office.
+[Kojiroh] I'd better get over to Kou's place soon.
+　Look/Investigate
+　Move
+　Save/Load
+　Save
+　Load
+　Surroundings
+　Detective Office
+　Boat
+　Next warehouse
+　Buildings
+　Ocean
+[Kojiroh] Could Purin really be injured...?
+[Kojiroh] Where the hell did that sound come from?
+[Kojiroh] It sounded like a woman groaning...
+[Kojiroh] Like someone in pain...
+[Kojiroh] ...
+[Kojiroh] It wasn't from my office... Could the\voice have come from over there?
+[Kojiroh] Nah, it wasn't from over there.
+[Kojiroh] It sounded like a woman moaning.
+[Kojiroh] No! It didn't come from over there!
+[Kojiroh] Hey, this is a considerable distance.
+[Kojiroh] I couldn't have heard moaning from over\there.
+[Kojiroh] I'm sure of it.
+[Kojiroh] We can't just stand watching forever. Why\not go over there?
+[Kojiroh] Yeah, I think I heard it from the\warehouse next door.
+[Kojiroh] Who could it be... Maybe Purin??
+[Kojiroh] That voice didn't sound like someone was\getting screwed...
+[Kojiroh] Was it from Central Avenue?
+[Kojiroh] It couldn't have come all the way from a\woman getting pumped in the hotel...
+[Kojiroh] Though it's nice to imagine.
+[Kojiroh] Not the ocean, dammit!
+[Kojiroh] From the ocean?
+[Kojiroh] It's a scary thought, that someone would\be screaming from the ocean.
+　Origin of voice
+　Inside the office
+[Kojiroh] Yeah, let's get back to the office.
+a001_4
+[Kojiroh] No one was in the warehouse next door.
+[Kojiroh] But who the hell was it?
+[Kojiroh] Yeah, it could've come from the warehouse\next door.
+[Kojiroh] But there shouldn't be anyone using that\place.
+[Kojiroh] ...
+I open the door.
+[Kojiroh] It's pitch black in here...
+[Kojiroh] Where's the light switch... Oh, here.
+Click.
+[Kojiroh] Huh?
+Click.
+[Kojiroh] Well, I guess there's no need for\electricity in a vacant warehouse.
+[Kojiroh] Hey, Purin!
+[Kojiroh] ...
+[Kojiroh] Oh well, no one's here.
+[Kojiroh] Let's go outside.
+002
+[Kojiroh] ...
+[Kojiroh] I'm sure I heard a voice, but no one's\around.
+[Kojiroh] How the hell could that have happened?
+[Kojiroh] ...
+[Kojiroh] It was a moaning... But where did it come\from?
+[Kojiroh] Hey, I still don't know where it came\from...
+[Kojiroh] Jesus Christ! Where did that voice come\from?
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] This is crazy. Enough of this...
+[Kojiroh] A lone man, sitting on a box in a dark\wharf.
+[Kojiroh] If any prospect clients came, they'd see\me and run off.
+[Kojiroh] Hey, don't do it too much.
+[Kojiroh] Didn't I do the same thing in the\afternoon?
+[Kojiroh] Ready, go!
+Hmm.
+[Kojiroh] I often talk gibberish. Get used to it.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] This is a lonely place.
+[Kojiroh] But it is pretty calm around here...
+[Kojiroh] It gets even lonelier at night.
+[Kojiroh] I can hear the waves swishing against the\earth.
+[Kojiroh] No one will ever notice there's a private\detective office in this place.
+[Kojiroh] It makes me sad...
+[Kojiroh] But it does say, in small letters, "Amagi\Private Detective Office" on the wall.
+[Kojiroh] It's too dark to see it now... The sign\is basically useless.
+[Kojiroh] Ha ha ha...Oh, brother.
+[Kojiroh] That's a foreign boat... I don't know\anything about it, but I don't care.
+[Kojiroh] It's still anchored there... Who the hell\owns that thing?
+[Kojiroh] Shall we go to Central Avenue?
+[Kojiroh] Central Avenue is right down here.
+[Kojiroh] The neon signs are beautiful... It's most\lively at nighttime.
+　Inside the office
+　Central Avenue
+　Kou's house
+　International school
+[Kojiroh] Yeah, let's get back to my office...
+a001_4
+[Kojiroh] Central Avenue, eh? Okay, let's go.
+a007
+[Kojiroh] I think it's just a cop standing around.
+a010_2
+[Kojiroh] The international school... Okay, let's\go.
+a014_2
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] Nothing's in here... I'll sit down for a\while.
+[Kojiroh] Oh, boy... What a day...
+[Kojiroh] I'll relax and think a bit.
+[Kojiroh] But these damned boxes are always here.
+[Kojiroh] Maybe someone left them here for me to\come and sit on...
+I look into the boxes.
+[Kojiroh] There's nothing inside them...
+[Kojiroh] Hey don't do it too much.
+[Kojiroh] Oh well, yeah... Let's do it again.
+[Kojiroh] Ready, go!
+I let out a fart.
+[Kojiroh] I often talk gibberish. Get used to it.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] There's nothing really here. Half the\people who come to this place end up here by\accident.
+[Kojiroh] Even thinking about it makes me sad.
+[Kojiroh] As always, no one's here. Ho hum.
+[Kojiroh] The reason I don't have any clients is\because nobody knows there's a detective office\here.
+[Kojiroh] This is my private detective office...\See? It's written on the wall.
+[Kojiroh] You don't see it, do you...
+[Kojiroh] I've been in business for three months,\and had only one case.
+[Kojiroh] I never knew it would be so hard after\having my license suspended.
+[Kojiroh] That's a foreign boat... I don't know\anything about it, but I don't care.
+[Kojiroh] It's still anchored there... Who the hell\owns that thing?
+[Kojiroh] Shall we go to Central Avenue?
+[Kojiroh] Central Avenue is right down here.
+[Kojiroh] They sell everything there... But I don't\need to buy anything.
+[Kojiroh] Then again, I'm too broke to buy\anything.
+[Kojiroh] Heh, heh...
+　Inside the office
+　Central Avenue
+　Kou's house
+　International school
+[Kojiroh] Yeah, let's get back to my office...
+a001_4
+[Kojiroh] Sure, why not take a trip over there...
+a007
+[Kojiroh] Even if I went to Kou's place, I wouldn't\be able to enter...
+a010_2
+[Kojiroh] Kou's house... I can't believe what\happened last night.
+[Kojiroh] Maybe I should go and check up on how\things are doing.
+a010_2
+[Kojiroh] The international school, eh? ...Alright.\Let's go.
+a014_2
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] I'm already sitting down.
+[Kojiroh] I'll never get anything done just hanging\around here...
+[Kojiroh] Might as well get up...
+[Kojiroh] Whew...
+[Kojiroh] I've gotten back a little energy.
+[Kojiroh] No, I'm too damn tired.
+[Kojiroh] Isn't there anything else to do?
+[Kojiroh] Thanks, by the way, for making all my\decisions for me.
+[Kojiroh] No thanks. I'm too tired.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] This place is so quiet.
+[Kojiroh] All I hear are the waves...
+[Kojiroh] It's the quiet warehouse district... No\one's in sight.
+[Kojiroh] This is where I rescued Purin yesterday.
+[Kojiroh] This is my private detective office. Got\a problem with that?
+[Kojiroh] This is my gorgeous private detective\office.
+[Kojiroh] My detective license is suspended at the\moment. I can't have a display sign yet.
+[Kojiroh] But there is "Amagi Private Detective\Office" written on the wall.
+[Kojiroh] That's a foreign boat... I don't know\anything about it, but I don't care.
+[Kojiroh] As always, it's anchored.
+[Kojiroh] It's fun watching the differences between\the rich, poor, and bourgeois.
+[Kojiroh] Shall we go to Central Avenue?
+[Kojiroh] Central Avenue is right down there.
+[Kojiroh] They sell everything there.
+　Inside the office
+　Central Avenue
+　Kou's house
+　International school
+[Kojiroh] Yeah, it's getting late. I'd better get\back to the office.
+[Kojiroh] Purin oughtta be back by now...
+a001_3
+[Kojiroh] Shall I get back to the office...
+a001_3
+[Kojiroh] Shall I get back to the office...
+a001_2
+[Kojiroh] It's getting late... I'll get to it\tomorrow.
+[Kojiroh] Besides, I want to see if Purins back\yet.
+[Kojiroh] We're going to Central Avenue, right?
+[Kojiroh] Okay, let's boogie.
+a007
+[Kojiroh] Hey, hey... The cops should be all over\Kou's place right about now.
+[Kojiroh] I don't want to go back there.
+[Kojiroh] Kou's place, eh? Okay, let's go.
+a010
+[Kojiroh] Oh yeah, there was a call from Kou.
+[Kojiroh] What was it he called for...? He was\saying something about...
+[Kojiroh] Shit, I'll just go to his place and ask\him directly!
+a010
+[Kojiroh] We're going to Kou's place...?
+a010
+[Kojiroh] Yeah, I should check up on things anyway.
+[Kojiroh] Off to Kou's house!
+a010
+[Kojiroh] I don't have a reason to go to the\international school.
+[Kojiroh] I'm more concerned with whether or not\Purin's home yet.
+[Kojiroh] It's where Kou works... Okay, let's go.
+a014
+[Kojiroh] Oh yeah, that girl Matsuno said she'd\help me gather information for the investigation.
+[Kojiroh] I wonder if the library's open yet.
+a014
+　Look/Investigate
+　Move
+　Speak
+　Carry
+　To the office
+a001
+　Kid
+[Kojiroh] He fell asleep...
+[Kojiroh] Shit... What the hell should I do?
+[Kojiroh] Hey, wake up! Come on. Kid! Sleep\somewhere else!
+The kid snores...
+[Kojiroh] Wake up, dammit!
+I give him a light slap on the face.
+[Boy] Oh... My head hurts...
+[Kojiroh] You know, a bed might be more comfortable\on your head.
+[Kojiroh] ...
+[Kojiroh] He doesn't seem to want to wake up.
+[Boy] You promise not to do anything to me?
+[Kojiroh] What do you take me for? A sick-o?
+[Boy] What?
+[Kojiroh] Are you high? It's time to wake up!
+[Boy] You really won't do anything to me?
+[Kojiroh] For cryin' out loud...
+[Boy] I knew it! I knew you'd hurt me!
+[Kojiroh] Listen, you paranoid little bastard. I'm\too tired for this shit. Go home.
+[Boy] You won't hurt me?
+[Kojiroh] Look, I, Kojiroh, never waste time trying\to hurt people.
+[Boy] Kojiroh?
+[Kojiroh] Yes, Kojiroh.
+[Boy] Really? It's Kojiroh?
+[Kojiroh] I may be in a lot of trouble, but I don't\need to lie about my name to a kid.
+The boy looks at me.
+002
+And falls to the ground.
+[Kojiroh] Hey! ...Hey!
+[Kojiroh] What the hell's gotten into this runt?
+[Kojiroh] There's no reason he should've fainted in\front of me...
+[Kojiroh] He doesn't seem too healthy...
+[Boy] Ohh...
+[Kojiroh] Huh?
+The boy snores...
+[Kojiroh] ...
+[Kojiroh] Time for bed I guess...
+[Boy] Ohh...
+[Kojiroh] ...
+[Boy] Li...Liar, trying to comfort me first,\then... Boom!!!
+[Kojiroh] I'm not lying, got it?
+[Boy] But... You're going to beat me up, right?
+[Kojiroh] Do I look like O.J. Simpson to you?
+[Boy] Then... you want my... body???
+[Kojiroh] Hey.
+[Boy] I'm sorry... Please, help me.
+[Kojiroh] Hey, I don't plan to do anything to you.\Not a thing.
+[Boy] Really?
+[Kojiroh] Really, now go home.
+[Boy] Li...Liar, trying to comfort me first,\then...
+[Kojiroh] Boom? Look, I wasn't going to attack you.\Stop accusing me of this crap, kid.
+[Boy] So, you won't hurt me at all?
+[Kojiroh] Didn't I just tell you that?
+[Boy] Well...
+[Kojiroh] What?
+[Boy] (Crying) ...Are you going to forgive me?
+[Kojiroh] Say what?
+[Boy] (Crying) You aren't going to forgive me...\Are you?
+[Kojiroh] What are you crying for?
+fThe boy cries on...
+[Kojiroh] There's no need to forgive you, now just\go on home.
+[Boy] Huh...?
+[Kojiroh] You know, back to mama. I'm sure she's\wondering where you are.
+[Boy] You want my...money?
+[Kojiroh] Hey.
+[Boy] I don't have any money right now...
+[Kojiroh] I'd like some money, but I have a policy\of not taking it from little kids.
+[Boy] Re...really?
+[Kojiroh] Yes. Really.
+[Boy] ...
+　Surroundings
+　Kid
+[Kojiroh] The kid's sleeping on the ground.
+[Kojiroh] Oh, man. I can't just leave him sleeping\here like this...
+[Kojiroh] (It's finally becoming a quiet\evening...)
+[Kojiroh] (It's finally becoming a quiet\evening...)
+[Kojiroh] (There is a kid in front of me...)
+[Kojiroh] He's sleeping on the ground.
+[Kojiroh] He's lying on the ground.
+[Kojiroh] He looks so comfortable down there... He\must've been tired.
+[Kojiroh] (I wonder if he's looking up at me from\under the cap.)
+[Kojiroh] (At least he's calm...)
+[Kojiroh] (But why did he come out to this\place...?)
+　Office
+[Kojiroh] Hey! I can't just leave him here like\this!
+[Kojiroh] (I don't have to go back to the office\just yet.)
+[Kojiroh] (I'll go back in the office after I make\this kid go home.)
+[Kojiroh] Hey...
+[Guy on left] Hey, you hold the kid.
+[Guy in middle] Gotcha.
+[Kojiroh] Hey!
+[Guy on right] Lemme hit him first. Heh, heh...
+[Guy on left] If you try hitting him, you'll deck\him.
+[Kojiroh] ...This guy's a real classy one.
+　Look/Investigate
+　Move
+　Speak
+　Pay
+　Cash
+　Punch
+[Kojiroh] You guys will have to be a little more\careful...
+[Kojiroh] Relax a little, okay? Try whacking off\more often.
+[Kojiroh] Cash...?
+[Kojiroh] That happens to be the one thing I'm out\of.
+[Guy on left] You think you're hot shit??
+[Kojiroh] I've got something even better.
+[Guy in middle] And what the hell would that be!
+[Kojiroh] It'll be quite educational for you.
+[Kojiroh] Okay, I'll pay up.
+[Guy on right] Heh, heh... I like a man who knows\how to do what he's told.
+[Kojiroh] Don't misunderstand me... I'm not doing\this to be liked.
+[Guy in middle] Hurry up, dammit! Give us whatcha\got!
+[Kojiroh] Sure thing, buddy.
+I start unzipping my pants.
+[Guy on left] ...
+[Guy in middle] ...
+[Guy on right] ...
+[Kojiroh] Just kidding.
+[Guy on right] Kidding...?
+[Guy in middle] This is bullshit...
+[Guy on left] ...
+[Kojiroh] The real thing is right here...
+[Guy on left] Where...
+[Kojiroh] Inside here.
+[Guy on right] Your hand?
+[Kojiroh] It's right inside my right hand. Hey you!
+[Guy on right] What...
+[Kojiroh] Take a good look, okay?
+0010c
+Smack.
+[Kojiroh] Oh, my hand slipped.
+The guy on the right falls to the ground.
+[Kojiroh] Hey, don't sleep on the road.
+[Guy on right] Ouch! It hurts, dammit!
+[Kojiroh] It spoils your looks, man!
+[Guy on left] You bastard!
+[Guy in middle] You're messin' with the wrong\crowd!
+[Kojiroh] Messin'?
+[Guy on left] You bastard...
+[Guy in middle] I'll knock the teeth outta that\smart mouth of yours!
+[Kojiroh] Ooh! Look who's talking like a big scary\boy! ...I'm shaking. Most guys your age are out\there working for money. It's a rare sight to see a\bunch of old cowards robbing a kid.
+[Guy in middle] What the heck are you talking\about!
+[Guy on left] You'll pay for talking that shit!
+[Kojiroh] Like I said, I'm short on cash at the\moment.
+0010d
+The guy falls to the ground.
+[Guy on the left] Oh, shit...
+[Kojiroh] Didn't I just tell you not to sleep on\the ground?
+[Guy on left] My face... It hurts! Ouch!
+[Guy in middle] Damn you... You're asking for it!
+[Kojiroh] Am I? I thought you were the one's asking\me for something.
+[Guy in middle] Okay... See if you can block this\punch!
+I easily dodge his wimpy punch.
+[Kojiroh] Is that the best you can do? You might\wanna try biting my ear off.
+[Guy in middle] Ohh...
+[Kojiroh] Listen... Take these two and beat it.
+[Guy in middle] ...
+[Kojiroh] Hey, I don't think these two will be able\to feed themselves anymore. That's okay, you can\feed 'em. Now, beat it.
+[Guy in middle] You son of a bitch...
+[Kojiroh] Boo!
+[Guy in middle] ...
+[Kojiroh] What's the matter, you ain't hungry?
+[Guy in middle] I am hungry...
+[Kojiroh] Good, then take these and go eat some\spinach. You all could use a little spinach.
+0010e
+[Kojiroh] Good boy. I like a man who knows how to\do what he's told.
+[Kojiroh] Hey! Don't forget to clean the saliva off\the ground!
+[Kojiroh] ...
+[Kojiroh] Well, that takes care of them.
+[Kojiroh] I'd better clean up around here.
+[Boy] ...
+[Kojiroh] Hey.
+[Boy] ...
+[Kojiroh] Can't you hear me? Hello?
+[Boy] Oh! Please forgive me! I'll do whatever you\want!
+[Kojiroh] Come on, kid...
+[Boy] Help me.
+[Kojiroh] Not here... Let's move to another place.
+[Boy] ...
+002
+eve_08
+[Kojiroh] I like that. I have a clear conscience\after pulverizing those guys.
+[Kojiroh] And I was just admiring how quiet this\place was...
+[Kojiroh] Thanks to that kid, this place has made a\new impression on me.
+b04
+[Boy] Umm...
+[Kojiroh] Are you hurt anywhere?
+[Boy] I don't feel hurt anywhere...
+　Boy
+　Punks
+[Boy] Help me, please.
+[Guy on left] Looks like some drunk fool is\sticking his nose where it don't belong.
+[Guy on right] Shall we begin with him?
+[Guy in middle] Let me begin... I've got lots of\aggression to take out.
+[Boy] Stop it!
+[Guy on right] Shut up!
+[Kojiroh] Nobody's heard me...
+[Guy in middle] So, you catch on fast.
+[Guy on left]
+[Guy on right] Come on! Lemme see it!
+[Kojiroh] Hey, WATCH YOUR FOUL MOUTHS!
+0010
+0010b
+[Guy on right] Who the hell are you talking to?
+[Guy on left] What, are you drunk?
+[Kojiroh] (These guys just look like punk-ass\students.)
+[Kojiroh] (These guys are in for an extracurricular\activity.)
+[Kojiroh] (I know the type... These guys think it's\fun to go hit people.)
+[Guy in middle] Hey! Say something!
+[Kojiroh] Oh, I was just saying how you guys\probably enjoy beating up on people.
+[Guy in middle] Of course it is...
+[Guy on left] It's a stress reliever. Surely, you\must've tried it.
+[Guy on right] Or maybe you're just a pussy.
+[Kojiroh] Hey... If that's your word for\"non-violent," you must be a bunch of virgins.
+[Guy on left] We're just cleaning the streets of\these bums. Stay out of our way.
+[Guy on right] And then we charge them for our\services.
+[Guy in middle] And then we'll make you pay your\fees...
+[Kojiroh] Sorry guys, but I'm broke.
+[Guy on right] What did you say!?!
+[Kojiroh] But I've got something to pay as\collateral.
+[Guy in middle] So, you're catching on fast.
+[Kojiroh] I'll give you something you'll love.
+[Guy in middle] I can't wait.
+[Guy on left] It better be good.
+[Guy on right] Are you trying to start shit with\us? Huh?
+[Kojiroh] (This punk acts like he knows Karate...)
+[Kojiroh] (This'll be a little messy...)
+[Guy on right] Why don't you say something?
+[Kojiroh] I'll get around to it.
+[Guy on right] You wanna get killed, man?!?
+[Guy in middle] Are you drunk off your ass?
+[Guy on left] Ignore the bastard... Let's take care\of this shit.
+0010
+[Guy in middle] Yeah, yeah...
+[Guy on right] This guy wants to be a human\punching bag... I'll show him some good moves.
+[Guy in middle] Hey kid, don't even think about\going to sleep.
+[Boy] I...wasn't...
+[Kojiroh] (These punks aren't acting the way they\should...)
+[Kojiroh] Hey, shitbags! Don't talk to strangers,\you could get hurt...
+0010b
+[Guy on left] What did he just say?
+[Guy in middle] Who do you think you are?
+[Guy on right] Do you got a deathwish, ass-eyes?
+[Guy on left] You're digging your own grave, old\man!
+[Kojiroh] Old...man?
+[Guy in middle] You heard me! What, are you deaf\AND stupid?
+[Kojiroh] (This guy's beginning to piss me off...)
+[Kojiroh] (I'm older than he, and yes, I use\Viagra... But I can kick this punk's ass\blindfolded.)
+[Kojiroh] (But I wouldn't call myself an old\man...)
+　Boy
+　Punks
+[Kojiroh] (I should stop watching and help out.)
+[Kojiroh] (I've been in worse predicaments than\this... Three guys will be easy.)
+[Kojiroh] (The whole world's been against me\lately...)
+[Kojiroh] (I have to do something to save that\kid...)
+[Kojiroh] (I can't just stand here and watch these\idiots push him around.)
+[Kojiroh] (These guys are as bad as Larry, Curly,\and Moe...)
+[Kojiroh] (I'll clean up this place in no time...)
+　Run away
+　Help
+[Kojiroh] There's no way I can run away from the\situation now...
+[Kojiroh] Hey, I can't just run away now? I'll miss\all the fun!
+[Kojiroh] I'd never let that happen...
+[Kojiroh] Come on, let's help the little booger.
+[Kojiroh] I can't wait to lend a helping hand.
+[Kojiroh] Let's clean this place up real good.
+　Look/Investigate
+　Move
+　Boy
+　Guy on left
+　Guy in middle
+　Guy on right
+[Boy] Don't be so violent...
+[Guy in middle] You've got a fat mouth, shitface...
+[Guy on right] Hey, what's the matter? Scared?
+Smack.
+[Boy] Ouch...
+[Kojiroh] (The kid in the blue cap is being pushed\around...)
+[Kojiroh] (I shouldn't stand here and watch this\happen.)
+[Kojiroh] (The last thing I want to do is become\involved in more trouble...)
+[Kojiroh] (Why don't these guys just stop!)
+[Kojiroh] (That kid looks so weak...)
+[Kojiroh] (The kid in the blue cap and red vest...\Maybe he was going fishing.)
+[Kojiroh] (Naahhh...)
+[Kojiroh] (There are three punks in this\picture...)
+[Guy on left] Come on, sissy! Say something!
+[Boy] Please...
+[Kojiroh] (Kids these days say the damnedest\things...)
+[Kojiroh] (But this kid's built just like me...)
+[Kojiroh] (That guy's got a crewcut.)
+[Kojiroh] (That style only takes 5 minutes to cut.\I can knock him into unconsciousness sooner than\that.)
+[Kojiroh] (I'll be his barber for now...)
+[Kojiroh] (Buzz is giving a dirty look to the kid.)
+[Guy on left] Speak up, fool! You sick little\monkey!
+[Boy] ...
+[Kojiroh] (I can't just sit here watching this\anymore...)
+[Guy in middle] This wimp needs to respect\authority better.
+[Guy on left] Let's turn him into a human punching\bag!
+[Guy in middle] Come on! I'd love to sink a good\one right into your gut!
+[Kojiroh] ...
+[Guy on right] Heh heh... Let's kick his ass...
+[Kojiroh] (Damn, I knew this was coming.)
+[Kojiroh] (These guys are some bad apples...)
+[Kojiroh] (These guys need to learn a lesson...)
+[Boy] Ouch! Stop it, please! Please!
+[Guy in middle] This little punk is a foreigner!\He's got an accent!
+[Guy in middle] What's a matter? You don't like\Japanese??
+[Kojiroh] (The kid's a foreigner...??)
+[Guy on right] Dammit! Give it to me!
+[Kojiroh] (I'm not getting good vibes from this\scene...)
+[Guy on right] Hand it over, before I make you!
+[Boy] ...
+[Guy on right] You probably stole it from someone,\right? Don't worry, we'll use it for you.
+[Kojiroh] (It's getting out of hand.)
+[Guy on right] Come on. Say somethin'.
+[Boy] ...
+[Guy on right] That kid's pretty soft spoken.
+Smack!
+[Boy] Ouch!
+[Kojiroh] (Now he's starting to make some\sounds...)
+[Kojiroh] (The one on the right has the biggest\muscles.)
+[Kojiroh] (I'll have to remember to take him out\first...)
+[Guy on right] Just give us the goods!
+　Run away
+　Help
+[Kojiroh] (Listen, man... Running away is against\my policy!)
+[Kojiroh] (Forget about running away.)
+[Kojiroh] (I'm not too clear on this situation\yet...)
+[Kojiroh] (Running away is against my policy!)
+[Kojiroh] (I'd better check out what's going on\before I interfere...)
+[Kojiroh] (The scene has become worse...)
+[Kojiroh] (I want to learn more about the situation\here...)
+[Kojiroh] (I'm still not sure about what's going on\here...)
+[Kojiroh] (I'd better play the observer a little\longer...)
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] I don't want to sit.
+[Kojiroh] Why not go somewhere else?
+[Kojiroh] Every time I sit down, I grunt under the\effort and strain. It makes me feel like an old\man...
+[Kojiroh] And I don't want to be an old man... So I\won't sit.
+[Kojiroh] Down we go...
+[Kojiroh] Whew...
+[Kojiroh] ...
+[Kojiroh] Okay, now I'm seated...
+[Kojiroh] I'm too tired for this... Enough for now.
+[Kojiroh] Isn't there anything else to do?
+[Kojiroh] I always squatted as a student... We\called it, "sitting on air."
+[Kojiroh] Okay... Ready, set, go!
+[Kojiroh] ...
+[Kojiroh] Well, I'm sitting on air again... Just\like the old days.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] No one's here...
+[Kojiroh] Hardly anyone comes here, actually.
+[Kojiroh] This place is so quiet at night.
+[Kojiroh] It's so quiet that I can hear each wave\lap against the dock.
+[Kojiroh] I only look at my office at night...\Shit.
+[Kojiroh] See, at night it doesn't look as old and\dirty as it really is.
+[Kojiroh] If I ever get a sign, I'll write that I'm\only open at night.
+[Kojiroh] But who the hell would come looking for a\detective in this neighborhood?
+[Kojiroh] Even at night, the snob's boat is\anchored in port.
+[Kojiroh] It's about a mile away from here... Maybe\I can reach it with a rock. Here's one!
+I throw it, and it lands...
+[Kojiroh] I didn't even make it a tenth of the\way...
+[Kojiroh] That place is called Central Avenue...
+[Kojiroh] You can't really see it from here, but\the neon signs light up the night.
+[Kojiroh] That place is lively late into the night.
+　Inside the office
+　Central Avenue
+　Kou's house
+　International school
+[Kojiroh] It's where Kou works... Okay, let's go.
+a014
+[Kojiroh] Kou's place...? There's no reason to go\there.
+[Kojiroh] Fine. Let's just go.
+a010
+[Kojiroh] Yeah, let's get back to the office.
+a001
+[Kojiroh] Central Avenue, eh? Okay, let's go.
+a007
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] I don't want to sit.
+[Kojiroh] Why not go somewhere else?
+[Kojiroh] Every time I sit down, I grunt under the\effort and strain. It makes me feel like an old\man...
+[Kojiroh] And I don't want to be an old man... So I\won't sit.
+[Kojiroh] Down we go...
+[Kojiroh] Whew...
+[Kojiroh] ...
+[Kojiroh] Okay, now I'm seated...
+[Kojiroh] I'm too tired for this... Enough for now.
+[Kojiroh] Isn't there anything else to do?
+[Kojiroh] I always squatted as a student... We\called it, "sitting on air."
+[Kojiroh] Okay... Ready, set, go!
+[Kojiroh] ...
+[Kojiroh] Well, I'm sitting on air again... Just\like the old days.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] The ocean is reflecting the orange\light...
+[Kojiroh] It's beautiful on nights like these, with\the light on the water.
+[Kojiroh] As usual, it's stone silent...
+[Kojiroh] The surroundings are very quiet now.
+[Kojiroh] This is the warehouse district along the\wharf... There's almost no one in sight.
+[Kojiroh] The good thing is, it's very quiet at\night and I can listen to the waves wash me into\sleep.
+[Kojiroh] Occasionally there's a loud kid running\around here.
+[Kojiroh] But this area isn't so bad.
+[Kojiroh] It may look like an old place... It is.
+[Kojiroh] I hate thinking about this place...
+[Kojiroh] That warehouse on the left... That's my\private detective office.
+[Kojiroh] I've been in business for months and I\haven't received a single case.
+[Kojiroh] But my license is suspended, you see.
+[Kojiroh] Ha ha ha... ha.
+[Kojiroh] Hmm... Let's just say it's a splendid\boat.
+[Kojiroh] Lately, the snobs have been anchoring\their passenger liners in this port...
+[Kojiroh] It's always the pretentious ones who make\sure they own the finest things in life. And they\always show off.
+[Kojiroh] It's actually an unpleasant little boat.
+[Kojiroh] That place is called Central Avenue...
+[Kojiroh] All those buildings are on the street,\"Central Avenue."
+[Kojiroh] They've been using modern architecture to\develop the Bay Area.
+[Kojiroh] There's a gigantic hotel there.
+[Kojiroh] That area sells anything and everything\money can buy.
+　Inside the office
+　Central Avenue
+　Kou's house
+　International school
+[Kojiroh] Yeah... I'll go see what Kou does for a\living...
+[Kojiroh] The international school...? Let's get\going.
+a014
+[Kojiroh] Kou's house? Well, there's nothing really\to do there.
+[Kojiroh] Oh, well... If you insist. Let's go.
+a010
+[Kojiroh] You wanna go back to the office?
+a001
+[Kojiroh] Okay, let's head for Central Avenue.
+a007
+[Kojiroh] Oh yeah! The Princess Hotel is on Central\Avenue.
+[Kojiroh] Let's go to Central Avenue!
+a007
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] I don't want to sit.
+[Kojiroh] Why not go somewhere else?
+[Kojiroh] Every time I sit down, I grunt under the\effort and strain. It makes me feel like an old\man...
+[Kojiroh] And I don't want to be an old man... So I\won't sit.
+[Kojiroh] Down we go...
+[Kojiroh] Whew...
+[Kojiroh] ...
+[Kojiroh] Okay, now I'm seated...
+[Kojiroh] I'm too tired for this... Enough for now.
+[Kojiroh] Isn't there anything else to do?
+[Kojiroh] I always squatted as a student... We\called it, "sitting on air."
+[Kojiroh] Okay... Ready, set, go!
+[Kojiroh] ...
+[Kojiroh] Well, I'm sitting on air again... Just\like the old days.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] The surroundings are very quiet now.
+[Kojiroh] This is the warehouse district along the\wharf... There's almost no one in sight.
+[Kojiroh] The good thing is, it's very quiet at\night and I can listen to the waves wash me into\sleep.
+[Kojiroh] Occasionally there's a loud kid running\around here.
+[Kojiroh] But this area isn't so bad.
+[Kojiroh] It may look like an old place... It is.
+[Kojiroh] I hate thinking about this place...
+[Kojiroh] That warehouse on the left... That's my\private detective office.
+[Kojiroh] I've been in business for months and I\haven't received a single case.
+[Kojiroh] Ha ha ha... ha.
+[Kojiroh] Hmm... Let's just say it's a splendid\boat.
+[Kojiroh] Lately, the snobs have been anchoring\their passenger liners in this port...
+[Kojiroh] It's always the pretentious ones who make\sure they own the finest things in life. And they\always show off.
+[Kojiroh] It's actually an unpleasant little boat.
+[Kojiroh] That place is called Central Avenue...
+[Kojiroh] All those buildings are on the street,\"Central Avenue."
+[Kojiroh] They've been using modern architecture to\develop the Bay Area.
+[Kojiroh] There's a gigantic hotel there.
+[Kojiroh] That area sells anything and everything\money can buy.
+　Inside the office
+　Central Avenue
+　Kou's house
+[Kojiroh] Kou's house...? I don't really have\anything to do there...
+[Kojiroh] Ah, to hell with it. Let's go to Kou's.
+a010
+[Kojiroh] Sure, let's go back to the office once\more.
+[Kojiroh] Okay, I'm in the office.
+a001
+[Kojiroh] Central Avenue...? There's nothing to do\there, really.
+　Look/Investigate
+　Move
+　Sit
+　Wodden Box
+　Air
+[Kojiroh] I don't want to sit.
+[Kojiroh] Why not go somewhere else?
+[Kojiroh] Every time I sit down, I grunt under the\effort and strain. It makes me feel like an old\man...
+[Kojiroh] And I don't want to be an old man... So I\won't sit.
+[Kojiroh] Down we go...
+[Kojiroh] Whew...
+[Kojiroh] ...
+[Kojiroh] Okay, now I'm seated...
+[Kojiroh] I'm too tired for this... Enough for now.
+[Kojiroh] Isn't there anything else to do?
+[Kojiroh] I always squatted as a student... We\called it, "sitting on air."
+[Kojiroh] Okay... Ready, set, go!
+[Kojiroh] ...
+[Kojiroh] Well, I'm sitting on air again... Just\like the old days.
+　Surroundings
+　Detective Office
+　Boat
+　Buildings
+[Kojiroh] The surroundings are very quiet now.
+[Kojiroh] This is the warehouse district along the\wharf... There's almost no one in sight.
+[Kojiroh] The good thing is, it's very quiet at\night and I can listen to the waves wash me into\sleep.
+[Kojiroh] Occasionally there's a loud kid running\around here.
+[Kojiroh] But this area isn't so bad.
+[Kojiroh] It may look like an old place... It is.
+[Kojiroh] I hate thinking about this place...
+[Kojiroh] That warehouse on the left... That's my\private detective office.
+[Kojiroh] I've been in business for months and I\haven't received a single case.
+[Kojiroh] Ha ha ha... ha.
+[Kojiroh] Hmm... Let's just say it's a splendid\boat.
+[Kojiroh] Lately, the snobs have been anchoring\their passenger liners in this port...
+[Kojiroh] It's always the pretentious ones who make\sure they own the finest things in life. And they\always show off.
+[Kojiroh] It's actually an unpleasant little boat.
+[Kojiroh] Central Avenue is over there.
+[Kojiroh] There's no reason to go there now,\though.
+[Kojiroh] All those buildings are on the street,\"Central Avenue."
+[Kojiroh] They've been using modern architecture to\develop the Bay Area.
+[Kojiroh] There's a gigantic hotel there.
+[Kojiroh] That area sells anything and everything\money can buy.
+[Kojiroh] But there's no reason to go there now.
+　Inside the office
+　Central Avenue
+　Kou's house
+[Kojiroh] Yeah, I'll never get anything done just\hanging around here...
+[Kojiroh] I'd better go and meet Kou...
+a010
+[Kojiroh] Oh yeah, I was planning to go and see\Kou.
+[Kojiroh] I'm off to Ko's house...
+*Bang!*
+b04
+[Kojiroh] Ouch...
+[Kid] Oh, sorry...
+[Kojiroh] (It's that kid again...?)
+[Kojiroh] Hey, this isn't a playground...
+[Kid] Sorry! I'm in a hurry...
+002
+*tap tap tap*
+[Kojiroh] ...
+[Kojiroh] Damn kids...
+[Kojiroh] Well, I'm off to Kou's house.
+a010
+[Kojiroh] Did I forget anything in my office?
+[Kojiroh] I'd better get to Kou's place while it's\still early.
+a001
+[Kojiroh] I have to go to Kou's place first.
+[Kojiroh] Central Avenue...? I've nothing to do\there.
+[Kojiroh] I have to go to Ko's place first.

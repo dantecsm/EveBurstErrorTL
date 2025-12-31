@@ -1,0 +1,902 @@
+004
+004b
+eve_41
+[Kojiroh] What am I doing here?
+[Kojiroh] I'm getting a bad feeling about this...
+b05
+[Yayoi] Why did you come here for?
+[Kojiroh] I came to see you.
+[Yayoi] ...
+[Kojiroh] Come on!
+[Yayoi] I'm not falling for that one again!
+004
+004b
+[Kojiroh] ...
+[Kojiroh] Fall for what?
+004
+004b
+eve_41
+[Kojiroh] So why are you back?
+[Kojiroh] Not that again...
+b05
+[Yayoi] You again... What do you want.
+[Kojiroh] I just came to see you.
+[Yayoi] ...
+[Kojiroh] Come on!
+[Yayoi] I told you, I'm not gonna fall for that one\again.
+004
+004b
+[Kojiroh] ...
+[Kojiroh] Fall for what?
+004
+004b
+eve_41
+[Kojiroh] I'm here again.
+[Kojiroh] I don't think I'm welcome there...
+b05
+[Yayoi] What are you here for.
+[Kojiroh] To see your face.
+[Yayoi] ...
+[Kojiroh] Am I so horrible?
+[Yayoi] Hmm...
+004
+004b
+[Kojiroh] Oh, come on.
+004
+004b
+[Kojiroh] As always, this office is empty.
+[Kojiroh] I don't know... It's so homey...
+b05
+eve_41
+[Kojiroh] I came to have some fun.
+[Yayoi] Get out!
+[Kojiroh] Hey, you seemed pretty friendly\yesterday!
+[Yayoi] Yeah and what the hell were you doing\today, huh!?
+[Kojiroh] You're misunderstanding! That was...
+[Yayoi] I have small breasts, and I'm more manly\than feminine, and I look old!
+[Kojiroh] That's true, but...
+[Yayoi] You insensitive fascist!
+[Kojiroh] I'm only agreeing with what you just\said!
+[Yayoi] You slept with another woman right after\you had me!
+[Kojiroh] No... That was for Purin.
+[Yayoi] Oh, I see. And you slept with me for\gelatin?
+[Kojiroh] What the hell are you talking about?
+[Yayoi] I have to get back to work. I don't have\time to take your immature abuse.
+[Kojiroh] Oh, come oh...
+kYayoi gives me a LONG stare...
+[Kojiroh] (She's pissed...)
+[Yayoi] Get the hell out of my sight!
+[Kojiroh] Fine... I'm just giving your room key\back.
+[Yayoi] What...?
+[Kojiroh] You gave it to me yesterday. Remember?
+[Yayoi] ...
+[Kojiroh] See?
+[Yayoi] I don't need it!
+004
+004b
+[Kojiroh] ...
+[Kojiroh] Of course you need it. It's yours.
+[Kojiroh] You're acting pretty bizarre.
+[Kojiroh] Well, at least you sound better.
+[Kojiroh] Hmm...
+004
+004b
+[Kojiroh] It's the Katsuragi Private Detective\Offices.
+[Kojiroh] This place isn't secure, but maybe it's\only like this for tonight.
+004
+004b
+[Kojiroh] They forgot to lock the door... Go\figure.
+[Kojiroh] Well... Yayoi has the keys... But I'm not\gonna wake her up and make her come.
+[Kojiroh] It's just a day...
+004
+004b
+[Kojiroh] It's night and no one's back yet.
+[Kojiroh] I wonder what's going on...
+　Look/Investigate
+　Move
+　Speak
+　Yayoi
+[Kojiroh] Hey!!
+...
+[Kojiroh] She ignored me.
+[Kojiroh] Yesterday was so nice...
+[Kojiroh] We confirmed out lust for one another...\I mean, love.
+b05
+[Yayoi] Stop talking such nonsense.
+[Kojiroh] Sorry.
+004
+004b
+[Kojiroh] ...
+[Kojiroh] At least she's listening.
+[Kojiroh] Hey!
+[Kojiroh] Don't ignore meee!
+[Kojiroh] Yayoi!!!
+b05
+Yayoi gives me the stare.
+[Kojiroh] Oh, sorry.
+004
+004b
+[Kojiroh] ...
+[Kojiroh] (Damn, she's getting mean...)
+　Surroundings
+　Desk
+　Air-conditioner
+　Copier
+[Kojiroh] There aren't any employees around.
+[Kojiroh] Yayoi's working right over there.
+[Kojiroh] It's a rather quiet office, and easy to\get lots of work done.
+[Kojiroh] Let's stop... It's starting to sound like\a sarcasm.
+[Kojiroh] The employees must've left for the day.
+[Kojiroh] It's as if that desk and chair aren't\even being used anymore.
+[Kojiroh] ...
+[Kojiroh] I wonder if they'll lend me a desk...
+[Yayoi] Never!
+[Kojiroh] She heard me...
+[Kojiroh] For once, this detective office is\silent.
+[Kojiroh] Well, at least Yayoi doesn't seem to be\giving up.
+[Kojiroh] The desks are so neat and orderly.
+[Kojiroh] So... The staff went home, I guess, and\that's why there isn't a mess here.
+[Kojiroh] It's spick-and-span...
+[Kojiroh] The air-conditioner is off, but there's\no reason it should be on.
+[Kojiroh] The air-conditioner is off.
+[Kojiroh] No one's in this room... Are they trying\to economize?
+[Kojiroh] It makes me wanna cry.
+[Kojiroh] It's spotless all around the copier.
+[Kojiroh] The copier is turned off.
+[Kojiroh] Maybe that guy complaining about having\to make copies actually left already.
+　Go outside
+[Kojiroh] Yeah, there's no reason to hang around\here.
+b05
+[Yayoi] No use, eh?
+[Kojiroh] No, that's not what I meant...
+[Yayoi] Hmm...
+004
+004b
+[Kojiroh] I'm going outside... See ya!
+a003
+　Look/Investigate
+　Move
+　Speak
+　Talk to myself
+[Kojiroh] No one will listen to me if I talk to\myself.
+[Kojiroh] Shit, even I have trouble listening to\myself.
+[Kojiroh] Yayoi!!!
+[Kojiroh] ...
+[Kojiroh] She's not here. She's probably at home,\fast asleep in bed.
+[Kojiroh] Hellloooo!!
+[Kojiroh] Okay, now I'm sure no one's here.
+　Surroundings
+　Desk
+　Air-conditioner
+　Copier
+[Kojiroh] This is a Private Detective Office\without any detectives.
+[Kojiroh] Maintenance must be a bitch here...
+[Kojiroh] Maybe I should come back for a while...
+[Kojiroh] Nah... Yayoi's doing just fine here, and\she takes pride in her independence.
+[Kojiroh] Maybe all the employees left for the day.
+[Kojiroh] It looks like all those desks aren't even\being used anymore.
+[Kojiroh] ...
+[Kojiroh] I wonder if there's one available for me.
+[Kojiroh] This is the quietest I've ever hear this\office.
+[Kojiroh] I hope Yayoi makes it through these\times...
+[Kojiroh] The desks are so neat and orderly.
+[Kojiroh] So... The staff went home, I guess, and\that's why there isn't a mess here.
+[Kojiroh] The air-conditioner is off, but there's\no reason it should be on.
+[Kojiroh] The air-conditioner is off.
+[Kojiroh] Well, no one's here. They're just saving\energy...
+[Kojiroh] It's spotless all around the copier.
+[Kojiroh] The copier is turned off.
+[Kojiroh] Maybe that guy complaining about having\to make copies actually left already.
+　Go outside
+[Kojiroh] Yeah, there's no reason to hang around\here anymore.
+[Kojiroh] I'm takin' off!
+a003
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Save
+　Load
+　Yayoi
+[Yayoi] Zzz...
+[Kojiroh] She must be asleep... Shit.
+[Yayoi] Heh heh...
+[Kojiroh] What the hell is she laughing about?\Strange little wench.
+[Yayoi] ...
+[Kojiroh] ...
+[Yayoi] ...Kojiroh.
+[Kojiroh] Huh? Did you call my name?
+[Yayoi] I hate you.
+[Kojiroh] Yeah, I know. Thanks for reconfirming\that.
+[Yayoi] ...
+[Kojiroh] ...
+[Yayoi] But...
+[Kojiroh] ...
+[Yayoi] ...But thank you for today...
+[Kojiroh] What? I'm sorry, could you repeat that?
+[Yayoi] No, it's nothing... I have to get home\quick, before I throw up everywhere.
+[Kojiroh] Fine. Good riddance.
+[Yayoi] Thanks for the sympathy.
+[Kojiroh] I guess we're in the same boat now, huh?
+[Yayoi] Yeah... On the same boat.
+[Kojiroh] What the hell are you laughing about?\Crazy woman...
+[Yayoi] ...
+[Kojiroh] ...
+[Yayoi] I just remembered... Your birthday, about\half a year ago...
+[Kojiroh] Listen, just go to sleep. You need some\rest.
+[Yayoi] I wanted so much to celebrate your\birthday, just the two of us... I wanted to rock\your world that night...
+[Kojiroh] Yeah?
+[Yayoi] But you went with some lady to go\drinking... And I had to spend the night alone with\your present, in masturbatory solitude.
+[Kojiroh] You're not still bitter about that, are\you?
+[Yayoi] Of course I am!!
+[Kojiroh] Oh, well... I should've known.
+[Yayoi] Uh-ohhh...
+[Kojiroh] Hey, are you sure you're alright?
+[Yayoi] No, I'm not.
+[Kojiroh] Hmm...
+[Kojiroh] (This is bloody ridiculous!)
+[Yayoi] Oh, and another thing...
+[Kojiroh] Now what.
+[Yayoi] I remembered something else I hated.
+[Kojiroh] With utter disgust?
+[Yayoi] Yes, something I hated with utter disgust.
+[Kojiroh] Yeah, I'm like Mr. Justice, you know?
+[Yayoi] Shut up, you sarcastic ass.
+[Kojiroh] Whoa.
+[Yayoi] It was a year ago... On my birthday.
+[Kojiroh] Birthdays just don't mix with you, do\they.
+[Yayoi] I even had a delicious cake prepared... You\said you were busy with work, and never came home.
+[Kojiroh] I don't remember that.
+[Yayoi] You were with my father then...
+[Kojiroh] Oh.
+[Yayoi] Oh, okay. Now I remember.
+[Kojiroh] Just give it a rest, will you?
+[Yayoi] You even used the company's funds for your\romp at the local whorehouse.
+[Kojiroh] Oh my! You knew!
+[Yayoi] I remember everything... I baked the cake\and ate it too.
+[Kojiroh] Oh yeah! I remember seeing the plate in\the sink when I told you to do the dishes.
+[Yayoi] First you made me walk through the cold\night to get dishwashing soap.
+[Kojiroh] Yeah, and you forgot the beer I asked you\to pick up.
+[Yayoi] All you did was lick off the cake off the\walls and said, "Delicious!" You idiotic bastard!
+[Kojiroh] I couldn't help it... I was busy on the\case, I even told you I might not come home that\night.
+[Yayoi] What the hell were you investigating at\that whorehouse!!!!
+[Kojiroh] Heyyyy!!!!!!
+[Yayoi] I feel so... Yuch...
+[Kojiroh] Oh, there she goes.
+[Yayoi] I sick... Uh-oh...
+[Kojiroh] Oh, god... Now my jacket smells awfully\wonderful.
+[Yayoi] What's so funny? Does this make you happy?
+[Kojiroh] Oh, shut up.
+[Yayoi] You're younger than me, but you're taking\care of me...
+[Kojiroh] Only by a couple years.
+[Yayoi] Hmm...
+[Kojiroh] And I liked this shirt so much...
+[Yayoi] ...
+[Kojiroh] It's made of delicate material, you know?\It requires great care to wash.
+[Yayoi] ...Let's go.
+[Kojiroh] Say what...?
+[Yayoi] Let's go to my place. I'll wash it real\good...
+[Kojiroh] You'll wash it? Real good?
+[Yayoi] Are you deaf?
+[Kojiroh] No, I was just surprised to hear you say\that.
+[Yayoi] I can give you an even bigger surprise...
+[Kojiroh] Oh yeah?
+[Yayoi] You'll have to wait and see...
+[Kojiroh] You know, I could've sworn you hated me.
+[Yayoi] Well, I do hate you.
+[Kojiroh] I knew it.
+[Yayoi] You're always evading a conversation with\me.
+[Kojiroh] Come on, let's talk about something else.
+[Yayoi] There you go again.
+[Kojiroh] ...
+[Yayoi] ...
+[Kojiroh] Come on, Yayoi.
+[Yayoi] What.
+[Kojiroh] You've been working yourself too hard.
+[Yayoi] I don't care anymore what you say, this is\my life.
+[Kojiroh] The employees will call you a\workaholic...
+[Yayoi] Alcoholic, maybe... But never workaholic.
+[Kojiroh] Well, just wait and see.
+[Yayoi] Listen, if the success of this office\demands I become a workaholic, then that's what\I'll be.
+[Kojiroh] Don't you think you deserve a break from\all this?
+[Yayoi] You still haven't changed, Kojiroh. Still\the same lazy bastard...
+[Kojiroh] Are you okay?
+[Yayoi] No, I'm not.
+[Kojiroh] You drank too much. You're gonna end up\with a big fat belly someday. And you'll probably\puke in a little bit.
+[Yayoi] A minute ago you told me to throw up if I\wanted to.
+[Kojiroh] Forget what I said.
+[Yayoi] You don't want me to throw up?
+[Kojiroh] I'd prefer you didn't, yes.
+[Yayoi] Okay.
+[Kojiroh] Huh?
+[Yayoi] I'll do the opposite of everything you\say... Blech!
+[Kojiroh] You're acting like a baby... Hey,\Dammit!! Hey!!!!
+[Yayoi] I feel like shit... I wanna die.
+[Kojiroh] Come on, dammit.
+[Yayoi] I feel like a pile of...zebra shit.
+[Kojiroh] (Yayoi is in bad shape...)
+[Yayoi] Kojiroh...
+[Kojiroh] What.
+[Yayoi] What are you going to do...
+[Kojiroh] When?
+[Yayoi] When?
+[Kojiroh] Jesus, woman! You've become a blithering\idiot!
+[Yayoi] What? Do I owe you now...?
+[Kojiroh] What did you want me to do? Just leave\you out there?
+[Yayoi] Yes. I want to sleep.
+[Kojiroh] Then sleep over here.
+[Yayoi] Don't move around so much... I'll vomit.
+[Kojiroh] If you wanna puke, puke.
+[Yayoi] Oh, no...
+　Surroundings
+　Yayoi
+　Tits
+　Ass
+[Kojiroh] (I'm at Yayoi's apartment...)
+[Kojiroh] (I have to carry her into the room.)
+[Kojiroh] Okay, we're here...
+[Yayoi] ...
+023
+[Kojiroh] We're here.
+[Yayoi] ...
+[Kojiroh] Hey, are you feeling better?
+[Yayoi] Zzzz...
+[Kojiroh] Well, better sleeping than spewing.
+[Yayoi] Ohh...
+[Kojiroh] She pukes on me and snores like a pig...\What a woman.
+[Yayoi] ...
+[Kojiroh] Aren't you glad you know a gentleman like\me? Huh? I'm carrying you into your room!
+[Yayoi] Yeah, yeah.
+[Kojiroh] You'd better be grateful.
+[Yayoi] Zzzz...
+[Kojiroh] Dammit.
+[Kojiroh] I still have to cross Central Avenue.
+[Kojiroh] Just a bit further...
+[Yayoi] Hey, Kojiroh... Everyone's watching us...
+[Kojiroh] Let em.
+[Yayoi] ...
+[Kojiroh] (Why is there a silence?)
+[Kojiroh] I just crossed Central Avenue...
+[Kojiroh] It's just a bit further to Yayoi's place.
+[Yayoi] I'm not going to thank you for this.
+[Kojiroh] I'm not expecting you to.
+[Yayoi] ...
+[Kojiroh] (I think Yayoi's asleep.)
+[Kojiroh] (I'll try carrying her to her room\without waking her up.)
+[Kojiroh] (She's on my back... I can't see her\face.)
+[Kojiroh] (She's probably making a face of disgust;\she hates me so much.)
+[Kojiroh] (I think she'd kill me if it wasn't\illegal.)
+[Kojiroh] (But when she's this quiet, she's like an\innocent child.)
+[Kojiroh] (I'll take her to her place...)
+[Kojiroh] (Who knows what'll happen to her\otherwise.)
+[Yayoi] What's the matter with you? You're wiggling\your back.
+[Kojiroh] Ha ha ha... (Damn, she's sharp.)
+[Kojiroh] (Yayoi's outfit really makes her look\slim.)
+[Kojiroh] (But she's got a nice pair of tits\rubbing right on my back.)
+[Kojiroh] (Too bad I can't take a peek at them.)
+[Kojiroh] (A nice pair of tits pressing up against\my back.)
+[Kojiroh] (Oh, shit... It starting to turn to\stone.)
+[Kojiroh] (This is what I get for not sleeping\around lately.)
+[Kojiroh] (All she has to do is rub her hips and\I'm hard... Damn it.)
+She grinds her hips on mine.
+[Kojiroh] (Oh yeah... I can feel it to the bones.)
+[Kojiroh] (I'm starting to sound like a typical\pervert.)
+[Yayoi] Please, Kojiroh, don't move around so\much...
+[Kojiroh] Where?
+[Yayoi] ...
+I shuffle around.
+[Kojiroh] (I think I love giving piggy backs.)
+[Kojiroh] (Big is good...)
+　Yayoi's apartment
+　Cheap motel
+　Central Avenue
+　Room 402
+[Kojiroh] (I'll get Yayoi home fast, and then I'll\go back to the warehouse.)
+[Kojiroh] (No way... I've carried her this far\already.)
+[Kojiroh] (Quit joking! ...I just came from there.)
+[Kojiroh] (Are you telling me to carry all the way\back there?)
+[Kojiroh] Yeah, that's it... Yayoi's room is 402.
+[Kojiroh] I'll put her in bed, and then I'll be on\my way home.
+[Kojiroh] It's been several months since I was last\here... I'm even getting a little nervous.
+a024-2
+[Kojiroh] Okay, I know the way from here.
+[Kojiroh] Yayoi's apartment is straight ahead.
+[Yayoi] ...
+[Kojiroh] Yeah, I should drop her off at her\apartment.
+[Kojiroh] Yeah, I'm on my way.
+[Yayoi] You're going the wrong way, Kojiroh.
+[Kojiroh] It would've been nice to hear that five\minutes ago.
+[Yayoi] ...
+[Kojiroh] (This is weird.)
+[Kojiroh] (She usually hits me for these jokes.)
+[Kojiroh] Maybe I'll go to one of those cheap\hotels where we can have cheap sex.
+[Yayoi] ...
+[Kojiroh] (Hey!? Where are the punches!?)
+[Kojiroh] Yeah, a cheap motel... That's a great\idea!
+[Yayoi] A cheap...motel?
+[Kojiroh] Uh-oh... (She'd slaughter me.)
+[Yayoi] ...
+[Kojiroh] (What the...?)
+[Kojiroh] What's happening?
+　Look/Investigate
+　Move
+　Speak
+　Drink
+　Care for her
+　Save/Load
+　Save
+　Load
+　Yayoi
+[Kojiroh] Yeah, I can't just leave her here,\sleeping like this.
+[Kojiroh] Come on, wake up...
+[Yayoi] Hmmm...?
+[Kojiroh] Come on...
+[Yayoi] You're so obscene!!!
+[Kojiroh] Shut your drunken mouth.
+[Yayoi] Then what?
+[Kojiroh] I'll carry you.
+[Yayoi] No way... People will stare at us.
+[Kojiroh] There's no one around.
+[Yayoi] No thanks.
+[Kojiroh] Fine. Can you walk?
+[Yayoi] I think...
+[Kojiroh] What the hell are you bowing to the wall\for?
+[Yayoi] I'm not drunk!
+Yayoi slams herself against a wall.
+[Kojiroh] She's drunker than a wino from The Bronx,\and she's trying to sleep standing against the\wall.
+[Kojiroh] You'd never know she was the head of a\detective agency.
+0220
+[Kojiroh] ...
+[Kojiroh] Hmm...
+[Kojiroh] Damn she's heavy...
+[Kojiroh] Okay, now what do I do?
+[Kojiroh] Shit, I can't just go to some hotel...
+[Kojiroh] This is the best way to take Yayoi back\to her apartment.
+[Kojiroh] ...
+[Kojiroh] Yeah, I remember now... Take a left here,\and then straight.
+[Kojiroh] But it's pretty dark out, and I think I'm\losing the way.
+[Kojiroh] ...
+[Kojiroh] But then...
+[Kojiroh] I can't believe she drank this much...
+[Kojiroh] She's got a high tolerance level. She\hasn't passed out in years.
+[Kojiroh] ...
+[Kojiroh] But maybe she deserves some good old\unconsciousness... She's been so busy lately.
+[Kojiroh] I wish I had more muscle, though.
+[Kojiroh] ...
+[Kojiroh] Most of the employees here are cold\bastards. They should try helping Yayoi a bit more.
+[Kojiroh] But that's the corporate world. The weak\lose, and the strong linger around for the next\challenge.
+[Kojiroh] I don't think Yayoi is one of the weak.
+[Kojiroh] ...
+[Kojiroh] Now that I think about it, I haven't been\in her room in a long time.
+[Kojiroh] I wonder if she still sleeps in the same\bed.
+[Kojiroh] The last time I was there was three\months ago.
+[Kojiroh] ...
+[Kojiroh] I'm doing my best to carry her, but she's\grown heavy.
+[Kojiroh] I think she weighs a little over 130...
+[Yayoi] That's not true, you bastard!
+[Kojiroh] Oops, I didn't know you were awake.
+eve_17
+[Yayoi] ...
+[Kojiroh] Hey...
+[Yayoi] ...
+[Kojiroh] If you're so awake, why don't you walk on\your own.
+[Yayoi] I can't.
+[Kojiroh] Don't underestimate yourself.
+　Yayoi
+[Yayoi] I'm tired... I'm so sleepy.
+[Kojiroh] (Dammit. What do I do now?)
+[Yayoi] Listen...
+[Kojiroh] (Yuch... I can even smell the drunkenness\on her.)
+[Yayoi] Look at me. Look at my young, beautiful\body.
+[Kojiroh] Excuse me?
+[Yayoi] It hasn't been touched, even seen by a\man...for months.
+[Kojiroh] (There are perks that come with being\next to a drunkard.)
+[Yayoi] Look at the shape of my body...
+[Kojiroh] ...
+[Yayoi] Ah, forget it...
+[Kojiroh] Hey, come on...
+[Yayoi] I'll just run outside in my underwear and\seduce the first old man I see.
+[Kojiroh] Stop this nonsense.
+[Yayoi] I'll see how much money I can get out of\him, and then I'll be able to pay my employees'\retirement funds.
+[Kojiroh] Yayoi...
+[Yayoi] Shut up.
+[Kojiroh] ...
+[Yayoi] I can't live by old-fashioned morals\anymore. I have more faith in my flesh... I'm\woman.
+[Kojiroh] But...
+[Yayoi] Be quiet. It's my job to be responsible\enough to pay for their retirement.
+[Kojiroh] Yeah, but...
+[Yayoi] I said shut up. What do you care what I do.\You're no longer a part of the office.
+[Kojiroh] ...
+[Yayoi] What's wrong, huh!?!? Cat got your\tongue?!?
+[Kojiroh] May I say something now?
+[Yayoi] Go ahead.
+[Kojiroh] I was a part of your office. You guys are\my former colleagues.
+[Yayoi] Is that so? Fine! Hey former colleague!
+[Kojiroh] Y...yes?
+[Yayoi] Sit back and listen... I have a mountain of\things to say to you.
+[Kojiroh] Uh-oh...
+[Kojiroh] (I guess this conversation will take a\while.)
+[Kojiroh] (Fine. I'll just let her get it off her\chest.)
+0210
+[Yayoi] Uhh...
+[Kojiroh] Um, Yayoi... Here?
+[Yayoi] I can't take it any longer. I just can't.
+[Kojiroh] Oh.
+[Kojiroh] Now she's talking the blues.
+[Kojiroh] She must've had a lot of stress...
+[Kojiroh] The client who offered money for her body\is pretty screwed up, but man, Yayoi kicked him in\the balls?
+[Kojiroh] And she walked into a yakuza office and\demanded payment?
+[Kojiroh] Damn, she must've been desperate.
+[Kojiroh] She must be all worked out.
+[Yayoi] I don't wanna do it anymore...
+[Kojiroh] Yayoi, you'll catch a cold if you sleep\here.
+[Yayoi] I can't drink anymore... I don't want\another sip of the stuff.
+[Kojiroh] You've had more than enough already...
+[Yayoi] ...
+[Kojiroh] If your co-workers see their boss like\this, they would be disappointed.
+[Yayoi] ...They already are.
+[Kojiroh] Will you please stop talking like that?\For cryin' out loud...
+[Yayoi] The employees have already handed in their\letters of resignation.
+[Kojiroh] ...
+[Yayoi] My company has lost all credit, all its\good reputation...
+[Kojiroh] It can't be that bad...
+[Yayoi] I know what I'm talking about!
+[Kojiroh] (I just can't say anything right\tonight...)
+[Yayoi] We're on a holiday, a vacation... There are\many ways to say we've closed down...
+[Kojiroh] So in other words, they all left.
+[Yayoi] I just... I just don't...
+[Kojiroh] ...
+[Yayoi] It's only been 6 months since my father\left, and I can't even support this company.
+[Kojiroh] Has it already been that long...?
+[Yayoi] No!
+[Kojiroh] No?
+[Yayoi] It's has been only three months and I\couldn't take care of the business.
+[Kojiroh] ...
+[Yayoi] If you're a real man, you take it down like\this.
+[Kojiroh] Oh, is that so.
+[Yayoi] Drink.
+[Kojiroh] I can't drink anymore.
+[Yayoi] Fine. Go home.
+[Kojiroh] Okay, okay! I'll drink it! ...Geez.
+[Kojiroh] Are you serious?
+[Yayoi] Yeah... Scary huh?
+[Kojiroh] I can't believe that idiot would ever try\suicide.
+[Yayoi] You're rather indiscreet, Kojiroh.
+[Kojiroh] ...Sorry, but did he really commit\suicide?
+[Yayoi] I just saw him. In the morgue...
+[Kojiroh] ...
+[Yayoi] He slit his throat... That's how he died.
+[Kojiroh] With a knife?
+[Yayoi] Yes.
+[Kojiroh] ...
+[Yayoi] And that's it. The office is finsihed.
+[Kojiroh] A knife...
+[Yayoi] ...
+[Kojiroh] ...
+[Yayoi] Are you listening to me?!?
+[Kojiroh] Huh? Oh, yeah. I'm listening.
+[Yayoi] ...
+[Kojiroh] What.
+[Yayoi] I hate you... I just hate you!!
+[Kojiroh] Jesus, woman! I'm listening!
+[Yayoi] Why are you always looking at me like I'm a\sideshow?
+[Kojiroh] Oh, geez.
+[Yayoi] Anyway, that's about it. Nikaido is dead!!
+[Kojiroh] That's amazing.
+[Yayoi] I actually find it funny, how much misery\I've been dealt at one time.
+[Kojiroh] Well, that's the right attitude to have.\Ha ha...
+[Yayoi] You don't need to laugh!!
+[Kojiroh] Oh, just lighten up.
+[Kojiroh] So, what was in the evening edition of\the newspaper?
+[Yayoi] Hey, I actually know something before you\do... Pretty good huh?
+[Kojiroh] Just tell me.
+[Yayoi] Here it is.
+Plop.
+[Kojiroh] The paper... What's in it?
+[Yayoi] Read carefully.
+[Kojiroh] Here it is... "Ms. Lewinsky told lawyers\that she liked the stain, for it gave her dress a\nostalgic, presidential odor."
+[Yayoi] You idiot! You're reading the wrong\article!
+[Kojiroh] Well, which one is it? This one? "The\Japanese yen plummeted again Tuesday, after the\Prime Minister insisted he be called Prime Rib."
+[Yayoi] That's not the one!! It's in the middle of\the society page. Right here.
+[Kojiroh] No, even lower.
+[Yayoi] Hey...
+[Kojiroh] Oh... Katsuragi Private Detective Offices\investigator "Susumu Nikaido"... This one?
+[Yayoi] Keep reading.
+[Kojiroh] ...was found dead this morning in room\410 of the Princess Hotel. His death has been ruled\a suicide... Suicide!!
+[Yayoi] I can't believe you didn't hear about it.
+[Kojiroh] This must be some sort of joke.
+[Yayoi] No, this is no joke.
+[Kojiroh] ...
+[Yayoi] I'll tell you after you have a drink.
+[Kojiroh] Well, don't take advantage of me...
+[Yayoi] Sounds good.
+[Kojiroh] So, what was written in the evening\paper?
+[Yayoi] I'll tell you after you have a drink.
+[Kojiroh] Jesus...
+[Yayoi] My business isn't doing as well as it\appears...
+[Kojiroh] I see...
+[Kojiroh] (I can't just tell her I already knew\it.)
+[Yayoi] First dad was arrested, and then you\left...
+[Kojiroh] ...
+[Yayoi] Our case success rate went down, and soon\we were getting hardly any cases at all... Things\are getting worse.
+[Kojiroh] So it seems.
+[Yayoi] I worked as hard as I could. I haven't\slept enough, eaten enough, and ironically, I'm not\even working enough.
+[Kojiroh] ...
+[Yayoi] ...
+[Kojiroh] ...
+[Yayoi] I'd like to recover even an ounce of trust\back in my clients.
+[Kojiroh] You haven't been rewarded nearly enough\for your effort.
+[Yayoi] The corporate world surrounding detective\agencies doesn't wait around for second chances.\I'm in danger.
+[Kojiroh] You're right... There are other superior\offices around.
+[Yayoi] You mean your own, don't you!
+[Kojiroh] Mine?
+[Yayoi] The only other major office is yours!
+[Kojiroh] Well, I can't help it. (This is about\that painting...)
+[Yayoi] And another thing!
+[Kojiroh] There's more?
+[Yayoi] The second one in charge, Nikaido...
+[Kojiroh] He's on the wanted list...
+[Yayoi] What...?
+[Kojiroh] They've found him?
+[Yayoi] Are you joking? You didn't read the evening\paper?
+[Kojiroh] ...?
+[Yayoi] This is hilarious. There is actually\something the almighty "Amagi Private Detective\Office" doesn't know.
+[Kojiroh] ...
+[Yayoi] Ha ha ha...
+[Kojiroh] What's so funny!
+[Yayoi] You just glide on through life, taking\things as they come.
+[Kojiroh] Are you talking about me?
+[Yayoi] Yes, and you're prospering at your job.
+[Kojiroh] What do you expect from a professional?
+[Yayoi] That's the right attitude.
+She drinks down the bottle.
+And slams the the bottle down.
+[Kojiroh] Damn, you're gone, aren't you?
+[Yayoi] I'm getting tired of this...
+[Kojiroh] You'd better go home and get some rest.
+[Yayoi] That's not what I meant.
+[Kojiroh] ...Say what?
+[Yayoi] I'm tired of being an investigator.
+[Kojiroh] What's gotten into you today, Yayoi? Are\you okay?
+[Yayoi] Don't you see?
+[Kojiroh] What!
+[Yayoi] Do you know how hard I tried to gain the\confidence of our clients back?
+[Kojiroh] Well, yeah...
+[Yayoi] No you don't! The previous boss is a\convict and it's the current boss' father!
+[Kojiroh] ...
+[Yayoi] This is like Shakespear!
+[Kojiroh] Yeah...
+[Yayoi] No it's not!
+[Kojiroh] (She never was a good drinker...)
+[Yayoi] Drink, or get the hell out!
+[Kojiroh] Listen, toots...
+[Kojiroh] You shouldn't drink so much of this\stuff, Hey!
+[Yayoi] Now... Take a swig!
+[Kojiroh] Huh? I have to...
+[Yayoi] I can't tolerate a man with no tolerance\for alcohol!
+[Kojiroh] Now you're talking crazy, woman.
+[Kojiroh] What's gotten into you all of a sudden!
+[Yayoi] All of a sudden? I plan to drink long and\slow...
+[Kojiroh] That's not what I meant.
+[Yayoi] I'd like to know what's gotten into you,\Kojiroh.
+[Kojiroh] Me?
+[Yayoi] Why are you just sitting there like a tame\little bitch!
+[Kojiroh] Um, I believe you told me to sit here.
+[Yayoi] You just think I'm drunk, and you're trying\to make fun of me!
+[Kojiroh] Not at all.
+[Yayoi] Here, give me that bottle.
+[Kojiroh] Is this any example to set for your\employees? Do you act like this during business\hours??
+[Yayoi] What do you care! You're no longer\concerned with this office.
+[Kojiroh] Well, I do have a friendship with this\place from long ago.
+[Yayoi] Listen, there's nothing you need to worry\about.
+[Kojiroh] What the hell do you mean by that!
+[Yayoi] Take a look! There aren't any employees\around, so you can forget about your so called\friendship.
+[Kojiroh] ...
+[Yayoi] You're late.
+[Kojiroh] What?
+[Yayoi] Good. Now have a seat.
+[Kojiroh] Okay.
+I sit down.
+[Kojiroh] What's up?
+[Yayoi] Heh, heh...
+Yayoi drinks from the bottle.
+[Kojiroh] ...
+[Yayoi] Oh, that's good.
+[Kojiroh] Hey, aren't you still working...?
+[Yayoi] I'm the boss here... I can do as I please.
+[Kojiroh] That's true, but... Uh...
+[Yayoi] Oh, shut up. I'm a grown woman now.
+[Kojiroh] (Yeah, right.)
+[Kojiroh] Are you sure you're not drunk?
+[Yayoi] I'm not drunk. I'm just drinking.
+[Kojiroh] ...
+　Booze
+　Tits
+[Kojiroh] I'll feel her up once she wakes up.
+[Kojiroh] It's against my policy to touch a\sleeping drunk woman.
+[Kojiroh] I touch them when they're fully awake.\That's my policy.
+[Kojiroh] (Nah, I don't wanna die yet...)
+I cop a feel.
+[Yayoi] ...
+[Kojiroh] Excuse me.
+[Kojiroh] (Shit... She's really pissed.)
+[Kojiroh] (You want me to suck her nipples?)
+[Kojiroh] (Oh well...)
+I try to suck on her nipples.
+[Kojiroh] How about this...
+[Yayoi] ...Huh?
+[Kojiroh] I didn't do it. It wasn't me...
+[Kojiroh] (I think she's pissed.)
+[Kojiroh] You drank enough.
+[Yayoi] I'm not drunk, you know.
+[Kojiroh] I never said you were.
+Yayoi takes a swig.
+[Kojiroh] Hey, if you drink any more, you'll...
+[Yayoi] Good stuff, man!
+[Kojiroh] (Damn she's starting to smell.)
+[Kojiroh] Shit, I haven't been drinking lately.
+[Kojiroh] I'm starting to get drunk too.
+[Yayoi] I'm so useless...
+[Kojiroh] Oh, oh... She's getting blue.
+[Yayoi] Don't worry, there's more!
+[Kojiroh] More?
+[Yayoi] Hell yeah, I brought them from home...\They're my dad's.
+[Kojiroh] Oh, in that case.
+I take a sip.
+[Kojiroh] Holy shit!
+[Yayoi] Stop breathing fire.
+[Kojiroh] What the hell!?! Hey, my eyes are\spinning!
+[Yayoi] Cool... 80 percent alcohol!
+[Kojiroh] 80 percent! Are you nuts!?
+[Yayoi] Wimp.
+[Kojiroh] What?
+[Yayoi] ...
+[Yayoi] See?
+Yayoi drinks down the bottle.
+[Kojiroh] Your eyes is spinning...
+[Yayoi] What a wimp.
+[Kojiroh] (What the hell...)
+[Kojiroh] Fine, but just a little.
+I take a sip.
+[Kojiroh] Yuch! I never knew you drank stuff this\strong!
+[Yayoi] Wimp...
+[Kojiroh] What?
+[Yayoi] It's just scotch whiskey. You're no man if\you can't even handle this.
+[Kojiroh] Now you listen to me, you little\donkey-breast!
+[Yayoi] This is mine...
+[Kojiroh] I don't need it.
+ Yayoi takes a few more swigs.
+[Kojiroh] Hey, hold your horses with that stuff!
+She puts the bottle down.
+[Yayoi] Yeah, the good stuff in life.
+[Kojiroh] How old are you, again?
+[Yayoi] Come on, Kojiroh! Have a glass!
+[Kojiroh] No thanks...
+[Yayoi] You pussy. You can't even drink!
+She burps.
+[Kojiroh] Hey! That's enough!
+[Kojiroh] (What the hell has gotten into her!)
+　Surroundings
+　Yayoi
+　Booze
+　Thighs
+[Kojiroh] Yayoi's drunk and asleep.
+[Kojiroh] I'd better move her somewhere.
+[Yayoi] This is my office! Stop looking around!
+[Yayoi] What are you looking at!
+[Kojiroh] I find this place interesting. It's fun\looking around.
+[Yayoi] ...
+[Kojiroh] This is a bad scene, man...
+[Kojiroh] Documents scattered everywhere, beer and\whiskey bottles all over... It's even worse than my\place!
+[Yayoi] So what?
+[Kojiroh] You're sleeping through your drunkenness.
+[Yayoi] I'm not sleeping... I'm just resting.
+[Kojiroh] ...
+[Yayoi] Take a good look! You've been dying to see\me like this!
+[Kojiroh] ...
+[Kojiroh] (She's lost it tonight.)
+[Kojiroh] (I've never seen her this bad since I\cheated on her.)
+[Yayoi] You came here just to see me down and out,\didn't you!
+[Kojiroh] ...
+[Kojiroh] (Her face red, and she stinks of\alcohol...)
+[Yayoi] What are you looking at, monkey-ass!
+[Kojiroh] Monkey...ass?
+[Kojiroh] Okay. If I'm a monkey's ass, you're a\zebra-colon.
+[Yayoi] I can't drink anymore...
+[Yayoi] I'm not giving you any.
+[Kojiroh] I don't need any.
+[Yayoi] It's not a urine bottle, it's a whiskey\bottle.
+[Kojiroh] I can see that. Thanks.
+[Kojiroh] What the hell's in that bottle.
+[Yayoi] There's no urine bottle here...
+[Kojiroh] What the HELL are you talking about!
+[Kojiroh] Even if I look at her thighs, this\position doesn't excite me.
+[Kojiroh] Anyway, I can't just leave her like this.
+[Yayoi] What are you staring at, pervert!
+[Kojiroh] (This bitch is always angry.)
+[Yayoi] You look like an old cuckold who hasn't\been laid in a while.
+[Kojiroh] Every man looks like that.
+[Yayoi] What are you looking at...
+[Kojiroh] The blue sky.
+[Yayoi] ...
+[Kojiroh] Sorry.
+[Kojiroh] (Scary...)
+yOn Yayoi's lap
+[Kojiroh] I can't sit on her lap, you idiot.
+[Kojiroh] She's sprawled out, totally smashed.
+[Kojiroh] (I shouldn't mess around right now...)
+eYayoi gives me the stare.
+[Kojiroh] Oops, sorry.
+[Kojiroh] Upsie-daisy...
+Ouch!0
+\ 
+[Yayoi] Don't you remember? I hate jokes like that?
+[Kojiroh] Okay, now I remember.
+　Look/Investigate
+　Move
+　Speak
+　Talk to myself
+[Kojiroh] Why not go check on how Yayoi is doing?
+[Kojiroh] I think Yayoi's in the other room, over\there...
+[Kojiroh] Yayoi, hello!!!
+[Kojiroh] ...
+[Yayoi] Be polite when you yell for me!
+[Kojiroh] Oh, she's here.
+[Yayoi] Go home! Get out!
+[Kojiroh] (Is she in that room over there?)
+[Kojiroh] Hey!!!
+[Kojiroh] ...
+[Kojiroh] I guess no one's here.
+　Surroundings
+　Desk
+　Air-conditioner
+　Copier
+[Kojiroh] No one's in sight...
+[Kojiroh] I think Yayoi's in the other room, over\there.
+[Kojiroh] No one's here.
+[Kojiroh] What's going on here?
+[Kojiroh] Is she in the bathroom?
+I open the door.
+[Kojiroh] ...
+004
+004b
+[Kojiroh] Nope. This place is empty, too.
+[Kojiroh] And that's good. She'd have killed me if\I saw her taking a crap.
+[Kojiroh] Yayoi's always here... It's strange to\find this place empty.
+[Kojiroh] She said something about the bank a\little while ago, but...
+[Kojiroh] Shouldn't there at least be one person\around?
+[Kojiroh] It's as if everyone's vanished.
+[Kojiroh] The desk is cleaner than I've ever seen\it.
+[Kojiroh] This whole place is cleaner than usual.
+[Kojiroh] Did your employees suddenly start picking\up after themselves?
+[Kojiroh] If Yayoi was over there, she'd have at\least turned on the air-conditioner.
+[Kojiroh] The air-conditioner is off... There's no\reason to use it, though.
+[Kojiroh] The air-conditioner is off.
+[Kojiroh] Well, no one's here. They're just saving\energy...
+[Kojiroh] But why isn't anyone here...?
+[Kojiroh] And the area around the copier is\clean...
+[Kojiroh] And the copier is turned off.
+[Kojiroh] What happened to that guy who always\complained about making copies?
+　Go outside
+　Other room
+[Kojiroh] Yeah, let's go to that room over there.
+[Kojiroh] I hear a voice from the other side of the\wall.
+Knock, knock.
+[Yayoi] Who is it.
+[Kojiroh] It's me.
+[Yayoi] I don't know anyone with that name.
+[Kojiroh] Dammit! It's me, as in, Kojiroh.
+[Yayoi] Kojiroh? Good. I've been waiting for you.\Come in...
+[Kojiroh] (This is a first...)
+I open the door.
+0140b
+eve_41
+[Kojiroh] ...
+[Yayoi] Long time no see... Well, since this\morning, at least.
+[Kojiroh] Let's go to the room over there.
+[Kojiroh] I'm interested in Yayoi...
+[Kojiroh] Wait a minute... Aren't you interested in\how Yayoi is?
+[Kojiroh] Let's go to the room over there.
+[Kojiroh] Yeah, Yayoi's not here anyway.
+[Kojiroh] But this office is never secure... Jesus.
+a003

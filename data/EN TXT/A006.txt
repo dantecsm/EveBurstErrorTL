@@ -1,0 +1,639 @@
+028
+eve_40
+[Kojiroh] ...
+b08
+[Kyoko] It's so dark. No one's around...
+[Kojiroh] Looks good.
+[Kyoko] Looks scary...
+[Kojiroh] Let's split up and search.
+[Kyoko] Okay... I'll start on the right.
+[Kojiroh] Then I'll start searching the office on\the left.
+028
+[Kojiroh] ...
+[Kojiroh] Let's see what the office holds in store\for me...
+006
+[Kojiroh] I think it was that door...
+[Kojiroh] This was the place...
+I open the door.
+[Kojiroh] There's still a light on...
+[Kojiroh] I get the feeling someone just left...
+028
+eve_21
+[Kojiroh] (So this is the inside of the embassy...)
+[Kojiroh] (The bed, the walls, everything is so\beautifully decorated...)
+[Kojiroh] (But it doesn't make you feel very\Eldian...)
+[Kojiroh] (What does the embassy have to do with\anything...)
+028c
+[Man] Right this way, sir.
+[Kojiroh] Huh?!
+[Man] The Ambassador is waiting for you in his\office. Right through here, please...
+[Kojiroh] Uh, thank you...
+[Kojiroh] (This guy's bigger than my Aunt Louie...)
+[Kojiroh] ...
+[Kojiroh] (The narrative is picking a strange time\to climax... He's got a gun at his side.)
+[Kojiroh] (This guy must be the Ambassador's\bodyguard...)
+[Man] And, by the way...
+[Kojiroh] What?
+[Man] Now would be a good time to give me that\thing strapped to your waist.
+[Kojiroh] ...
+[Man] I can't allow you into the Ambassador's\office otherwise.
+[Kojiroh] (Not a chance. This is the kind of place\I most need to be prepared.)
+I unholster the gun.
+[Man] A Glock 22?... It's customized.
+[Kojiroh] It's just a model gun.
+[Man] Truly a made in Japan model gun. Looks real.
+[Kojiroh] (It is REAL...)
+[Man] Since we're talking about the Ambassador's\safety, I'd like to take it from you right now...\Even if it is a fake.
+[Kojiroh] Do whatever you like.
+[Man] Well then, right this way.
+006
+006b
+He knocks on the door.
+[Man] I have the journalist gentleman with me, sir.
+[Man's voice] Come in.
+[Kojiroh] (Office... The Ambassador's room.)
+[Man] You're a journalist, am I correct? Which\paper do you work for?
+[Kojiroh] I operate on a freelance basis.
+[Man] I see. And what may I do for you today?
+[Kojiroh] I'm interested in your candid opinions\about what's going on in Eldian politics lately...
+[Man] Okay. But please wait a moment first.
+[Kojiroh] Take your time.
+I sit down.
+[Kojiroh] (So here I am...)
+[Kojiroh] (I figured it'd be a little bigger...)
+[Kojiroh] (This is the Ambassador's room...)
+006
+006c
+[Man] Sorry to keep you waiting. Allow me to\introduce myself, Ambassador Mido of the Republic\of Eldia.
+[Kojiroh] (So this guy's Mido...)
+[Kojiroh] (Where should I start...)
+028
+[Kyoko] Kojiroh!
+b08
+[Kojiroh] What?
+[Kyoko] Purin's not here, and neither is that phony\Kou...
+[Kojiroh] I see... I must have miscalculated.
+[Kyoko] What's that in your hand?
+[Kojiroh] This?... Have a look.
+[Kyoko] "Eldian Ministry of Science report"...\Where'd you get this?
+[Kojiroh] I found it in the office.
+[Kyoko] You stole it? How appalling.
+[Kojiroh] I'm just borrowing it. I'll give it\back... someday.
+[Kyoko] Nothing you do surprises me anymore.
+[Kojiroh] I'll take that as a compliment.
+[Kyoko] ...But there is something bothering me.
+[Kojiroh] Doleman Kou's signature...
+[Kyoko] He's the Director's father, right?... So\what is this thing?
+[Kojiroh] A report about some problems. Although I\don't really understand what all this science-ish\shit means.
+[Kyoko] ...
+[Kojiroh] How did it go with you?
+[Kyoko] No clues. I even checked out the second\floor...
+[Kojiroh] You're quick...
+[Kyoko] We don't have time not to be.
+028
+[Kojiroh] Oh, so now you start worrying...
+[Kyoko] It's worse than worrying... Let's get out\of here.
+[Kojiroh] I guess you're right... We've been here a\little too long.
+[Kyoko] Are you really taking that report?
+[Kojiroh] I told you, I'm just borrowing it.
+[Voice] I'll be happy to take that back now.
+eve_54a
+[Kojiroh] ...?!
+[Kyoko] We're through...
+[Voice] Don't move.
+028b
+eve_15
+[Mido] Well, well, well. The snoop who came around\pretending to be a journalist today.
+[Kojiroh] Please call me Lovely Amagi.
+[Kyoko] Kojiroh!
+[Mido] Looks like there's a girl with you...
+[Kyoko] Good evening, sir.
+[Mido] It's a bit late for such pleasantries, my\dear.
+[Mido] It's quite obvious what you're up to.\Breaking and entering, infringing upon\extraterritorial rights, grand theft, breach of top\secrecy, and invading my privacy.
+[Kojiroh] Actually we were just looking for a hotel\and got lost.
+[Mido] You're a humorous man, just like Ms. Hojo\told me.
+[Kojiroh] ...
+[Kyoko] ...
+[Mido] First things first. Give me the report.
+[Kojiroh] What is this thing, anyway?
+[Mido] You're in no position to be asking anything.
+[Kojiroh] ...
+[Mido] I'll ask the questions. Is that alright with\you?
+[Kojiroh] I'll permit it just this once.
+[Mido] How kind of you. Who are you and what are\you trying to do?
+[Kojiroh] I am a human being and I am trying to\live a long, happy life.
+[Mido] You sound like a philosopher.
+[Kojiroh] Just call me Socrates.
+[Mido] ...
+[Man on the right] Ambassador, he has a gun behind\him...
+[Mido] A gun...?
+[Kojiroh] (Dang...)
+[Mido] Don't even breathe. That settles it. Then I\can say I killed you both in self-defense.
+[Kyoko] You can't say that.
+[Kojiroh] No matter how you look at it, you'd be\killing us in cold blood.
+[Mido] I'm not interested in your opinion. I'm\interested in how the police will look at it.
+[Kyoko] ...
+[Kojiroh] ...
+[Mido] Besides, I can't be arrested. I have\diplomatic immunity.
+[Kojiroh] If you're gonna kill us then just do it.
+[Mido] I haven't decided yet. It depends on your\answers to my questions.
+[Kojiroh] ...
+[Mido] I'll ask you once more. Who are you?
+[Kojiroh] ...Okay, I'll talk. I'm an associate of\Stoleman Kou's. I've been acting under his\instructions.
+[Kyoko] (whispering) What are you trying to do,\Kojiroh?
+[Kojiroh] (whispering) It's called "bluffing."
+[Kyoko] (whispering) No, it's called "suicide."
+[Kojiroh] (whispering) If he knows we're not\connected with anyone important he'll just kill us.
+[Kyoko] ...
+[Kojiroh] We're better off if he thinks we know\something.
+[Kyoko] You won't be able to fool him for long.
+[Kojiroh] I'll take what I can get.
+[Mido] You're one of Stoleman's thugs... So that's\what today's commotion was all about, correct?
+[Kojiroh] ...?
+[Mido] So you know where she is then?
+[Kojiroh] Where who is?
+[Mido] Don't play games with me. The waiting maid's\mistress.
+[Kojiroh] Of course I know.
+[Mido] Where?
+[Kojiroh] I'd rather not say.
+[Kojiroh] (Waiting maid... Is he talking about\Purin?)
+[Kojiroh] (Her mistress... Where's she hiding...)
+[Kojiroh] (Shit! I can't make heads or tails of\it...)
+[Mido] You look like you're fairly well-built, but\the girl with you seems so delicate.
+[Kyoko] ...?!
+[Mido] Are we afraid, my dear?
+[Kyoko] Not at all.
+[Mido] I promise not to force you to do anything\you don't want to.
+[Kyoko] ...
+[Mido] But it seems you want to talk, so I'll be\happy to listen when you're ready.
+[Kyoko] You mean about the former Department of\Intelligence?
+[Mido] You seem to know a great deal... I'm anxious\to hear what you have to say.
+[Kyoko] Shall I tell you everything?
+[Mido] Please do... I guess we can dispose of this\gentleman...
+[Kojiroh] Wait!
+[Mido] ...
+[Kojiroh] I actually don't know anything. I was\talked into doing this by her...
+[Kyoko] Kojiroh!
+[Kojiroh] I don't know anything. She knows it all!
+[Kyoko] Don't say that! How dare you lie and put me\on the spot!
+[Kojiroh] Shut up! I'm just looking out for number\one. You go right ahead and let him torture you as\his sex slave!
+[Kyoko] What did you call me?!
+She slaps me.
+[Kojiroh] I don't believe you just did that, you\BITCH!
+[Kyoko] I'll do it again and again, STUBBY!
+She slaps me again.
+[Kyoko] You're an animal!
+[Kojiroh] Damn you!
+[Mido] A lovers' quarrel... You two are fun to have\around.
+[Kyoko] I hate you!
+[Kojiroh] You're lucky I don't put you out of your\misery with my gun!
+[Kyoko] Oh yeah, big shot? I'd like to see you try!
+[Kojiroh] Say your prayers, slut!
+Bang!0
+\ 
+[Mido] Holy Mother of God!
+Bang!0
+[Mido] Stop firing that thing! You'll hit me!!
+[Kojiroh] This way, Kyoko!
+[Kyoko] Hold on...
+[Mido] Don't let them get away! I want one of them\taken alive!!
+[Kyoko] Kojiroh...
+[Kojiroh] What?
+[Kyoko] I'm glad we've made it as far as the fourth\floor, but our situation's not getting any better.
+[Kojiroh] I disagree. Things are a lot better than\they were a minute ago.
+[Kyoko] Why didn't you run out through the\entrance? They'll catch up to us here!
+[Kojiroh] The gate's locked at the entrance! This\is our only choice!
+[Kyoko] Do things ever get better with you?!
+[Kojiroh] ...
+[Kyoko] I just remembered...
+[Kojiroh] Remember what?
+[Kyoko] What you called me earlier. A bitch!
+[Kojiroh] Look who's talking! And, by the way, you\can call me Redwood, not Stubby!
+[Kyoko] Jerk.
+[Kojiroh] Just be happy I saved your life.
+[Kyoko] I sort of wish you hadn't...
+[Voice 1] They're not on the 3rd floor...
+[Voice 2] The 4th floor is the only place left.
+[Voice 3] That snoop just keeps getting dumber...
+[Kojiroh] Shit. They've caught up to us already...\Let's hide in here!
+I close the door behind us.
+[Kojiroh] ...
+[Kyoko] ...
+[Kojiroh] Thanks to the full moon I can see a\little...
+[Kyoko] There's a window... Do you think we can\make it?
+0400
+[Kojiroh] ...
+0400b
+[Kyoko] Maybe not. It's too high.
+[Kojiroh] How do you figure?
+[Kyoko] What do you mean, how do I figure?
+[Kojiroh] Look below.
+[Kyoko] Below?
+[Kojiroh] There's a pool.
+[Kyoko] So what?
+[Kojiroh] So there's our answer.
+They're at the door.
+[Kyoko] Oh no!
+[Kojiroh] ...
+[Voice 1] Hey, was this door locked?
+[Voice 2] I didn't lock it.
+[Voice 3] They must be in here. Let's break the\lock.
+[Voice 1] The Ambassador won't like it. I'll go get\the key. They can't escape from the 4th floor\anyway...
+[Kojiroh] There's no time to think.
+[Kyoko] You've got to be kidding. We're too high\up!
+[Kojiroh] You got any better ideas? You'd rather be\tortured by the Ambassador?
+[Kyoko] ...
+[Kojiroh] 'Cuz that's what's gonna happen if we\don't get the hell outa here now.
+[Kyoko] But it's impossible. We'll die from the\fall.
+[Kojiroh] (This broad sure is a handful!)
+　Surrender
+　Think of another way
+[Kyoko] No way! I'm scared!
+[Kojiroh] (Aw, dang it all.)
+[Kyoko] Surrender?! And turn me into Mido's sex\slave?
+[Kojiroh] Then let's jump!
+[Kyoko] No, no, no, no, NO!
+waku
+0400
+0400b
+[Kojiroh] Alright already. We'll think of something\else.
+[Kyoko] There has to be another way out of this.
+[Kojiroh] There has to be.
+I kick the window.0
+I kick the window.0
+0400a
+0400b
+[Kyoko] What are you doing?
+[Kojiroh] I'm right behind you.
+[Kyoko] Huh?!
+【恭子】きゃぁーーーーーっ！0
+【恭子】きゃぁーーーーーっ！0
+0400c
+0400d
+[Kojiroh] Smooth sailing!
+I push her out of the window.
+[Voice 1] What was that noise...?!
+[Voice 2] We can't wait for the key!
+[Voice 3] Let's bust this thing open right now!
+[Kojiroh] No time to waste... My turn!
+Whhhheeeeeee... Splash!
+I land in the pool.
+[Kojiroh] That was awesome!
+[Kojiroh] Four stories... What a rush!
+[Kojiroh] Kyoko, are you okay? Kyoko!
+[Kyoko] Kojiroh...
+0410
+[Kojiroh] You alright?
+[Kyoko] Um... Uhh... Ung... Mmm...
+[Kojiroh] Wow, that good? You sound like you're\about to cum.
+Smack!0
+\ 
+[Kojiroh] That hurt.
+[Kyoko] Are you trying to kill me?!
+[Kojiroh] Of course not, baby.
+[Kyoko] Well you almost did!
+[Kojiroh] You're alive, aren't you?
+[Kyoko] Barely!
+[Kojiroh] That's good enough for me.
+[Kyoko] Oh, dear God. Please help this sick man!
+[Kojiroh] Are you talking about me?
+[Kyoko] I've never been so scared in my life!
+[Kojiroh] Relax. Think of it like getting your\cherry popped...
+[Kyoko] Huh?
+[Kojiroh] It only hurts at the very beginning,\right?
+[Kyoko] You're terrible!
+[Man 1] There they are! In the pool!
+[Man 2] We have permission to shoot if they don't\cooperate!
+[Kojiroh] Let's save our prayers for later and get\out of here.
+[Kyoko] God help us!
+[Kojiroh] It's not over 'till fatass sings. If they\catch us they'll grind us into hummus.
+[Kyoko] I'll remember this, hot shot.
+[Kojiroh] I have a lousy memory...
+Bang!
+[Man 3] They're in the pool! Hurry!!
+[Kojiroh] Now they're shooting. Can you run?
+[Kyoko] Maybe.
+[Kojiroh] Should I carry you?
+[Kyoko] I can take care of myself, thanks.
+[Kojiroh] You're top-notch, sweetie.
+[Man 1] Turn around!
+[Man 2] If you try to escape we'll kill you!
+Bang! Bang!
+[Kojiroh] ...Get moving, tootsie. They've got guns.
+[Kyoko] Don't push me. Why do you stay behind me\like that?
+[Kojiroh] I want to watch your ass while I run.
+[Kyoko] Jerk!
+[Kojiroh] We'll talk after we get to your place.
+[Kyoko] Sounds good. Let's go! 
+a020-2
+　Look/Investigate
+　Move
+　Search
+　Save/Load
+　Save
+　Load
+　Purin
+[Kojiroh] It looks like Purin ain't here.
+[Kojiroh] Purins nowhere to be found...
+[Kojiroh] Of course, she might be in another\room...
+[Kojiroh] I wonder if Kyoko's looking for her...
+　Surroundings
+　Sofa
+　Mirror on the right
+　Desk
+　Report
+[Kojiroh] No clues here... Shit.
+[Kojiroh] Looks like there's nothing here...
+[Kojiroh] Purins not here...
+[Kojiroh] There's not a soul anywhere... The\silence is deafening.
+[Kojiroh] For some reason there's a light on...
+[Kojiroh] It's too quiet...
+[Kojiroh] It's like the sounds from outside have\been shut out...
+[Kojiroh] Perfectly soundproof...
+[Kojiroh] ...
+[Kojiroh] Just your average sofa... Nothing\special.
+[Kojiroh] Nothing seems out of the ordinary...
+[Kojiroh] So this is where Mido kisses the asses of\V.I.P.s...
+[Kojiroh] Purin couldn't possibly be under this...
+[Kojiroh] Of course not...
+[Kojiroh] A mirror... A very big mirror.
+[Kojiroh] Who's that stunningly handsome hunk over\there?
+[Kojiroh] Oh, it's me. Figures...
+[Kojiroh] ...
+[Kojiroh] Excuse me...
+[Kojiroh] This mirror's too damn big... It takes in\the whole room.
+[Kojiroh] Uh-oh. My hairdo's a little messed up...
+I fix my hair.
+[Kojiroh] That's better.
+[Kojiroh] A mysterious report...
+[Kojiroh] It seems to be reporting the defects of\some new drug...
+[Kojiroh] "Eldian Ministry of Science report" ...
+[Kojiroh] Let's read a little...
+[Kojiroh] This is a report of the major defects\with the new drug in question...
+[Kojiroh] ...
+[Kojiroh] I'll just skim over this technical\mumbo-jumbo...
+[Kojiroh] ...
+[Kojiroh] "If the new drug in question were to be\consumed in an amount beyond the recommended\dosage, the possibility exists that the subject\could suffer irrepairable damage to the nervous\system."
+[Kojiroh] "Signed, Doleman Kou, head of the Eldian\Ministry of Science."
+[Kojiroh] ...
+[Kojiroh] Doleman Kou... The father of the guy who\was murdered.
+[Kojiroh] This guy must be dead too...
+[Kojiroh] I think I'll take this. It could come in\handy.
+[Kojiroh] But if I take it that would be\stealing... I'll just borrow it.
+[Kojiroh] That's about all I see here...
+[Kojiroh] The only other thing is this boring\budget ledger...
+I shuffle through the papers.
+[Kojiroh] What am I doing?...
+[Kojiroh] Unlawful entry is bad enough, but if I\get caught in here I'll be toast.
+[Kojiroh] I'll just have to take that risk...
+I shuffle through the papers.
+[Kojiroh] ...
+[Kojiroh] Nothing important here... Wait!
+s19
+[Kojiroh] It says "Eldian Ministry of Science\Report."
+[Kojiroh] What could this be...?
+[Kojiroh] Looks like a bunch of technical jargon...
+[Kojiroh] Let's look inside this drawer...
+I open the drawer.
+I look through its contents.
+[Kojiroh] It takes forever to look through every\little thing.
+[Kojiroh] The desk... There might be some clues\there.
+[Kojiroh] On top we have a... pen holder... a\calculator...
+[Kojiroh] It's too clean!!
+　Leave the office
+[Kojiroh] There's no reason for me to stay here.
+[Kojiroh] I'll leave this room...
+[Kojiroh] I should look a little more closely...
+[Kojiroh] No, not yet.
+[Kojiroh] I'd better stay here and search a little\more.
+006c
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Save
+　Load
+　Speak
+[Mido] Is that all... Please understand I'm a busy\man.
+[Kojiroh] Thank you for your time... I'll go now.
+[Kojiroh] By the way, Ambassador.
+[Mido] What is it?
+[Kojiroh] Have you hired any detectives lately?
+[Mido] No... Why should I?
+[Kojiroh] Oh, no reason. That's just what I heard.
+[Mido] Don't believe everything you hear. It's\usually rubbish.
+[Kojiroh] And one more thing. Do you happen to know\a man named Nikaido?
+[Mido] I know of no detective by that name.
+eve_59
+[Kojiroh] I never said he was a detective.
+[Mido] ...
+[Kojiroh] ...
+eve_21
+[Mido] Forgive me. I thought your two questions\were connected.
+[Kojiroh] ...
+[Mido] You have an interesting way of interviewing.\It seems more like an interrogation.
+[Kojiroh] I apologize if I seem too direct...
+[Mido] Anything else you want to know?
+[Kojiroh] One last thing.
+[Mido] Ask away.
+[Kojiroh] Have you ever seen this picture?
+s10
+[Mido] ...
+[Kojiroh] Do you know it?
+[Mido] I've never even seen it before.
+[Kojiroh] ...
+[Mido] Is there something significant about it?
+006
+006c
+[Kojiroh] ...Not really. Thank you, that's all.
+[Kojiroh] (Damn, he's good. I can't even trick him\into talking...)
+[Kojiroh] (I guess I can't expect to outsmart a\diplomat. They're pros at dodging questions...)
+[Kojiroh] (But a good journalist gets the scoop in\spite of this.)
+[Kojiroh] (I need to do this right... If I'm found\out it's the end of me.)
+[Kojiroh] Where did I put my pen.
+I ruffle through my things.
+[Mido] Would you like to use mine?
+[Kojiroh] No thank you. I had one here... Oops, I\dropped it.
+[Mido] Let me pick it up.
+[Kojiroh] I can get it myself...
+[Kojiroh] (Under the table...)
+[Kojiroh] (Behind the chair... There's no other\place.)
+カチッ‥‥。
+[Kojiroh] ...
+[Mido] Is everything alright?
+006
+006c
+[Kojiroh] Excuse me.
+[Mido] You're not writing much down.
+[Kojiroh] I'm the kind of guy who writes it down in\my head. I'm not good with pen and paper.
+[Mido] I envy your ability.
+[Kojiroh] I'm flattered...
+[Kojiroh] (I don't think he knows...)
+[Kojiroh] (But I should get out while the gettin's\still good...)
+[Kojiroh] But Ambassador... (Here goes nothing.)
+[Mido] What now?
+[Kojiroh] Your views often conflict with those of\Mr. Kou, don't they.
+[Mido] Kou...?
+[Kojiroh] You don't know of him?
+[Mido] Ahem... Uh, yes, of course I do.
+[Kojiroh] ...
+[Mido] He was the head of the international school.\I heard the news of his untimely death.
+[Kojiroh] Was he an acquaintance of yours?
+[Mido] I don't have many acquaintances, but I am an\honorary Director of the international school, so I\knew Mr. Kou a little.
+[Kojiroh] You, of course, knew that Mr. Kou was a\fervent opponent of reform?
+[Mido] I did not know that.
+[Kojiroh] ...
+[Mido] I don't keep many acquaintances. On top of\that I have ideological differences with many\people.
+[Kojiroh] ...
+[Mido] Freedom of independent thought is recognized\in our country, you know.
+[Kojiroh] ...Do you know anything about his death?
+[Mido] I read the papers. A bureau investigator is\suspected.
+[Kojiroh] It was suicide.
+[Mido] Perhaps he could not bear to live in such a\sinful world.
+[Kojiroh] Everything you've said is straight from\the papers.
+[Mido] Is something wrong with that?
+[Kojiroh] I think there's another way to look at\the situation...
+[Mido] And what would that be?
+[Kojiroh] He... Mr. Kou could have been killed by a\hired gun.
+[Mido] ...This is the first I've heard of that\suspicion.
+[Kojiroh] Maybe by an assassin from the heart of\the Middle East.
+[Mido] That's for the police to decide, not an\Ambassador like me.
+[Kojiroh] (This guy's lips are sealed...)
+[Kojiroh] (He diffuses all the traps I lay for\him...)
+[Kojiroh] (I've got one last resort...)
+[Kojiroh] By the way, Mido is a very Japanese\sounding name... How did you become Ambassador for\Eldia?
+[Mido] Everyone asks me that question.
+[Kojiroh] ...
+[Mido] My grandfather was Japanese.
+[Kojiroh] Third generation Japanese...
+[Mido] I've heard a person of Japanese descent\became President of a country. It shouldn't be so\surprising that I became an Ambassador.
+[Kojiroh] I see.
+[Mido] You Japanese are all so nationalistic.
+[Kojiroh] ...
+[Mido] Many races live together peacefully in\Eldia. We pay no attention to nonsense racist\logic.
+[Kojiroh] Sounds like a very international place.
+[Mido] It is.
+[Kojiroh] It has grown into quite a powerful place.
+[Mido] Indeed it has. Right now in Eldia major\reform is taking place.
+[Kojiroh] A rapid and massive influx of western\arts and customs?
+[Mido] That's right.
+[Kojiroh] Does that bring about any problems?
+[Mido] Some I suppose... Mr. Amazing.
+[Kojiroh] Who?
+[Mido] Your name was "Amazing," right?
+[Kojiroh] Yes, that's right.
+[Mido] Eldia is an old-fashioned country.
+[Kojiroh] ...
+[Mido] Approximately one- fourth of the population\can't even write their own names.
+[Kojiroh] Is that what the reform is for?
+[Mido] One of many reasons. Actually educational\reforms have already produced dramatic results.
+[Kojiroh] Are there those who oppose such reforms?
+[Mido] Of course. There are a great number of them.
+[Kojiroh] ...
+[Mido] But there can be no reform without\sacrifice. Obviously we cannot cling to old customs\that endanger our good country.
+[Kojiroh] In other words, the end justifies the\means?
+[Mido] That's how the conservatives put it. My\reply to them and to you is to rephrase it as so:\if we become too bogged down by the means we will\lose sight of the end.
+[Kojiroh] ...
+[Kojiroh] But you're in Japan now, Ambassador. Who\in Eldia is heading the reforms?
+[Mido] The Prime Minister.
+[Kojiroh] The Prime Minister... I could have sworn\Eldia was a monarchy...
+[Mido] You need to do your homework. The king is\dead.
+[Kojiroh] ...
+[Mido] The Prime Minister is now the head of Eldia.
+[Kojiroh] What about the king's successor?
+[Mido] I'm very sorry, but I cannot comment on the\royal family.
+[Kojiroh] ...Is that so?
+[Kojiroh] (He's surprisingly defensive about\this...)
+[Mido] I'm sorry. I didn't catch your name.
+[Kojiroh] Ama... Amazing. Kojiroh Amazing.
+[Mido] Kojiroh Amazing... Great name for a writer,\if I do say so myself.
+[Kojiroh] Thank you so much for seeing me without\an appointment.
+[Mido] Not at all. The Republic of Eldia welcomes\journalists with open arms.
+[Kojiroh] Oh, yeah?
+[Mido] There are so many misunderstandings\surrounding Eldia among the general public.
+[Kojiroh] ...
+[Mido] If we get the journalists properly educated\about Eldia... Then perhaps the Japanese public\will finally understand our country.
+[Kojiroh] What sort of misunderstandings are there?
+[Mido] All sorts.
+[Kojiroh] ...
+[Kojiroh] (This guy ain't cool at all...)
+　Surroundings
+　Mido
+　Glasses
+　Mirror
+[Kojiroh] (He'll think something's up if I look\around too much...)
+[Kojiroh] (He probably already thinks so...)
+[Kojiroh] (Marina must be in here somewhere...)
+[Kojiroh] (Where are you, Marina?)
+[Mido] Are you all right? You seem anxious.
+[Kojiroh] No... I'm just impressed by your office.
+[Mido] ...
+[Kojiroh] (It's smaller than I expected...)
+[Kojiroh] (There's a work desk, furniture, a\sofa...)
+[Kojiroh] (It looks like there's a full wall-sized\mirror on the left...)
+[Kojiroh] (Mido... The Eldian Ambassador...)
+[Kojiroh] (His poker face is pretty impressive...\He never cracks.)
+[Mido] What's wrong? Is there something on my face?
+[Kojiroh] (So this guy's Mido...)
+[Kojiroh] (The "Mr. M" Nikaido talked about...)
+[Kojiroh] (Mayako's father...)
+[Mido] Do my glasses bother you?
+[Kojiroh] (What are you thinking behind those\glasses...?)
+[Kojiroh] (This guy's got no soul...)
+[Kojiroh] (Pretty big mirror...)
+[Kojiroh] (I can get a full view of the entire room\in it...)
+[Mido] Does it bother you?
+[Kojiroh] I was just a little surprised at first.\I'm used to it now.
+[Kojiroh] (The left wall is one big mirror...)
+[Mido] I see that mirror bothers gentlemen as well\as ladies.
+[Kojiroh] I was just thinking about how big it is.
+[Mido] Ladies who come here often end up fixing\their hair in it.
+[Kojiroh] ...
+[Kojiroh] (A mirror...)
+　Go outside
+[Mido] If that's all, then I'll show you out.
+[Kojiroh] I owe you a debt of gratitude...
+[Mido] I look forward to reading your article.
+[Kojiroh] ...
+028
+[Kojiroh] Whew...
+[Kojiroh] I didn't get as much as I'd hoped out of\that...
+[Kojiroh] ...
+[Kojiroh] I wonder where that guy went...
+[Kojiroh] I need to get my Glock back from him.
+He appears.
+[Kojiroh] Hey there!
+028c
+028d
+[Man] Did you finish talking with the Ambassador?
+[Kojiroh] Yep. Now I'd like my toy back.
+[Man] Oh, your model gun... Here we are.
+[Kojiroh] Thanks.
+[Kojiroh] (...?! That green jacket under his\arm...)
+028e
+[Kojiroh] (I feel like I've seen it somewhere\before...)
+[Kojiroh] ...
+[Kojiroh] Hey!
+[Man] Is something wrong with your gun?
+[Kojiroh] Uh... No. It's just like it was when I\left it here. Thanks.
+[Man] Then what surprised you?
+[Kojiroh] (It's my jacket!... The one I leant to\Purin!)
+[Kojiroh] (The sleeve is torn... It has to be my\jacket.)
+[Kojiroh] (But why would this guy have my\jacket...?)
+[Kojiroh] (It can't be...)
+[Man] ...Is there something bothering you about\this jacket?
+[Kojiroh] No... I just like the color. I wonder\where I could get one of those for myself.
+[Man] This thing's cheaper than it looks. I was\about to dispose of it.
+[Kojiroh] ...
+[Man] Anything else?
+[Kojiroh] No... Sorry.
+[Man] This way to exit the building, sir.
+[Kojiroh] ...
+a005
+[Kojiroh] (I don't want to exit the building yet!)
+[Mido] That's a window.
+[Kojiroh] I know.
+[Mido] Is there something under the table?
+[Kojiroh] I just bumped my head on my knee, that's\all...
+[Mido] Well then, will that be all?
+[Kojiroh] No. I just wanted to stand up because my\legs were tired.

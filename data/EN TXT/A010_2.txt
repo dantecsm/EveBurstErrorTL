@@ -1,0 +1,479 @@
+010
+010b
+eve_06
+[Kojiroh] This is Kou's mansion...
+[Kojiroh] Hey, wasn't there somewhere I was\supposed to go?
+010
+010b
+eve_06
+[Kojiroh] It's Kou's mansion...
+[Kojiroh] The cops are still standing near the\gate...
+010
+010b
+eve_06
+[Kojiroh] The cops are standing guard...
+[Kojiroh] Purin was here yesterday and talked with\the cops.
+[Kojiroh] Was she here to meet Kou? But Kou is...
+[Kojiroh] ...
+010
+010b
+eve_08
+[Kojiroh] Even at night the cops are standing guard\here...
+[Kojiroh] This situation may continue for several\days...
+010
+010b
+eve_06
+[Kojiroh] I'm in front of Kou's mansion...
+[Kojiroh] Purin isn't here anymore...
+010
+010c
+010b
+eve_38
+[Kojiroh] I'm at Kou's mansion...
+[Kojiroh] Hey, isn't that Purin standing with the\cops over there?
+[Kojiroh] What's she doing?
+[Policeman] Hey, go home.
+[Purin] Why can't I be here?
+[Policeman] You just can't, now go on home...
+[Purin] Please, I just want to take a peek.
+[Policeman] Go back to mommy...
+[Purin] Don't treat me like a child! I'm not a\little girl!
+[Policeman] For cryin' out loud...
+[Kojiroh] (What the hell is that cop up to?)
+[Kojiroh] Hey, Purin!
+[Purin] ...!?
+010
+010b
+b03
+b03b
+[Purin] Kou...Kojiroh.
+[Kojiroh] What are you doing here?
+[Purin] I was just... Uh..
+[Kojiroh] Huh?
+010
+010b
+[Kojiroh] Hey! Stop! I have to talk to you!
+[Kojiroh] Purin!
+[Kojiroh] ...
+[Kojiroh] What the hell's gotten into that girl?
+[Kojiroh] ...
+eve_09
+010
+010b
+eve_06
+[Kojiroh] The cop is standing in front of the\house...
+[Kojiroh] It doesn't look like I'll be able to go\inside.
+010
+010b
+eve_06
+[Kojiroh] Just as I thought.
+[Kojiroh] They've closed the area off...
+010
+[Kojiroh] (I guess we got out okay...)
+[Kojiroh] (She's silent.)
+[Kojiroh] Here oughtta be just fine.
+[Girl] You gonna kill me?
+[Kojiroh] Look over here, idiot.
+b08
+[Girl] Oh, it's you...
+[Kojiroh] We happen to run into each other quite a\bit.
+[Girl] You're...
+[Kojiroh] Don't misunderstand. I just happened to\come by here, too.
+[Girl] How can I trust a man holding a gun?
+[Kojiroh] Gun? Oh, this is just a model gun...
+[Girl] A model gun...?
+[Kojiroh] Real versions of this gun are illegal...\Here, see?
+[Girl] Hmm...
+[Kojiroh] Don't look so scared.
+[Girl] I don't exactly trust you yet...
+[Kojiroh] Listen, why don't we stop this nonsense\and introduce ourselves?
+[Girl] Introduce ourselves...?
+[Kojiroh] Yeah. It's a revolutionary concept, but\it's usually a prerequisite to conversation.
+[Girl] ...
+[Kojiroh] I'm Kojiroh. Kojiroh Amagi. And you?
+[Girl] ...
+[Kojiroh] Listen... I'd like to stick around and\all, but if you--
+[Girl] Kyoko. Kyoko Himuro...
+[Kojiroh] That wasn't so hard, was it?
+[Kyoko] I told you... I don't trust you yet.
+[Kojiroh] I can tell. But I can also tell you're\not the murderer.
+[Kyoko] ...
+　Look/Investigate
+　Move
+　Speak
+　Push
+　Police
+[Policeman] The girl who was here yesterday isn't\here today.
+[Policeman] You mean, the girl who was here\yesterday?
+[Policeman] Hmm... I don't see her. Isn't she your\sister?
+[Policeman] Hey, it's you again... You're the\newspaper guy who showed up here yesterday.
+[Policeman] You wanna know why we're still standing\here?
+[Policeman] The crime scene has been inspected... I\can't figure out why the area is still sealed\off...
+[Policeman] Ha ha ha... What use would it be to ask\such a thing?
+　Doorbell
+　Shrubbery
+　Telephone pole
+[Policeman] You'd better stop before I MAKE you\stop.
+[Policeman] There's no one inside...
+[Policeman] It seems someone in this house was\murdered the night before last...
+[Kojiroh] There's nothing to gain from stepping in\the bushes...
+[Policeman] If you understand that, you'll stop\right now.
+[Kojiroh] Oh well... I might as well cross the\police tape.
+I step on the bushes.
+[Kojiroh] Hey, I squished it.
+[Policeman] Stop this minute... You're damaging the\crime scene.
+[Kojiroh] I'm too tired to keep pushing.
+[Policeman] Stop pushing...
+[Kojiroh] Okay, one last time...
+I use all my might...
+[Kojiroh] Whew...
+[Policeman] Hey, what are you doing here!
+[Kojiroh] Nothing changes... No matter how hard I\push the telephone pole...
+[Policeman] It doesn't take a rocket scientist to\figure that one out.
+I try pushing even harder.
+[Policeman] What are you trying to accomplish by\pushing the telephone pole?
+[Kojiroh] This is too embarrassing... Enough of\this.
+　Surroundings
+　Kou's mansion
+　Shrubbery
+　Policeman
+[Kojiroh] Two people are standing guard in front of\the house.
+[Kojiroh] It's the same ones who were here\yesterday.
+[Kojiroh] How long are they gonna keep this up?
+[Kojiroh] No hecklers today...
+[Kojiroh] It sure is quiet around here...
+[Kojiroh] Purins not here.
+[Kojiroh] Yesterday she was speaking to a police\officer here...
+[Kojiroh] The police tape is all around the scene.
+[Kojiroh] They intend to keep the crime scene as it\was the night of the murder.
+[Kojiroh] The house is sealed off with police\tape...
+[Kojiroh] They discovered that Kou was killed the\night before last...
+[Policeman] What? What did you say...?
+[Kojiroh] Nothing. I was just talking to myself.
+[Kojiroh] The tape is blocking the bushes, so I\can't push them. Darn.
+[Kojiroh] There's no need to push them, though.
+[Kojiroh] They're just your average bushes and\shrubs...
+[Kojiroh] Maybe I'll try pulling it out...
+[Policeman] Please don't pull out the bushes, sir.
+　Enter the house
+　Warehouse district
+[Kojiroh] I can't go inside... Too bad.
+[Kojiroh] Thanks to the cops and their tape, I\can't go inside the house.
+[Kojiroh] Hmm...
+a002_2
+　Look/Investigate
+　Move
+　Speak
+　Push
+　Policeman
+[Policeman] Unfortunately, our department hasn't\yet been informed of any details concerning this\case.
+[Policeman] Therefore, we're not answering any\questions at the moment, sir.
+[Policeman] It's a pretty frightening matter...
+[Policemen] It was in the evening newspaper... His\neck was cut wide open by a knife.
+[Policeman] Oh, I'm actually quite squeamish. I\can't look at blood.
+[Policeman] I think there is something in the\evening edition newspaper about the murderer.
+[Policeman] Do you know of any recent developments\in the case?
+[Policeman] Hey, you're the newspaper guy that came\by this afternoon.
+[Policeman] We've been standing here ever since\early this afternoon.
+[Policeman] It'd be nice if the next shift showed\up.
+[Policeman] By the way... Don't write that in your\article.
+　Doorbell
+　Shrubbery
+　Telephone pole
+[Policeman] Stop...
+[Policeman] You were here this afternoon, weren't\you...
+[Policeman] Please make sure not to damage the\crime scene.
+[Kojiroh] There's nothing to gain from stepping on\the bushes...
+[Policeman] If you understand that, you'll stop\right now.
+[Kojiroh] Oh well... I might as well cross the\police tape.
+I step on the bushes.
+[Kojiroh] Hey, I squished it.
+[Policeman] Stop this minute... You're damaging the\crime scene.
+[Kojiroh] I'm too tired to keep pushing.
+[Policeman] Please don't push the telephone pole,\sir.
+[Kojiroh] Okay, one last time...
+I push with all my might.
+[Kojiroh] Whew.
+[Policeman] Hey, what are you doing here!
+[Kojiroh] Nothing changes... No matter how hard I\push the telephone pole...
+[Policeman] It doesn't take a rocket scientist to\figure that one out.
+I push with all my might...
+[Policeman] Why, may I ask, are you pushing the\telephone pole?
+[Kojiroh] This is too embarrassing... Enough for\now.
+　Surroundings
+　Kou's mansion
+　Shrubbery
+　Policeman
+[Kojiroh] There are two people standing guard in\front of the house...
+[Kojiroh] These guy's have been working their asses\off...
+[Policeman] Come on... Won't the next shift ever\show up?
+[Kojiroh] Seems like their done inspecting the\crime scene...
+[Kojiroh] The cops are standing guard...
+[Kojiroh] The crowd has gotten smaller than it was\this afternoon.
+[Kojiroh] Every time someone walks by this place,\they look up at the house with excitement.
+[Kojiroh] Police tape is surrounding the area.
+[Kojiroh] They intend to keep the crime scene as it\was the night of the murder.
+[Kojiroh] The house is sealed off with police\tape...
+[Kojiroh] It's pretty dark outside, and it doesn't\look like I can get inside the place.
+[Kojiroh] The tape is blocking the bushes, so I\can't push them. Darn.
+[Kojiroh] There's no need to push them, though.
+[Kojiroh] It's not like these roots change at\nighttime. Jeez...
+[Kojiroh] They're just your average bushes and\shrubbery.
+　Enter the house
+　Warehouse district
+[Kojiroh] I can't get inside... Too bad.
+[Kojiroh] Thanks to the cops and their tape, I\can't get inside.
+[Kojiroh] Hmm...
+a002
+　Look/Investigate
+　Move
+　Speak
+　Search
+　Policeman
+[Policeman] Unfortunately, our department hasn't\yet been informed of any details concerning this\case.
+[Policeman] Therefore, we're not answering any\questions at the moment, sir.
+[Policeman] Are you her guardian?
+[Policeman] Be sure to hold the kid's hand,\alright? We're trying to work here...
+[Policeman] She wanted go inside the house and see\the body. Damn sicko.
+[Policeman] This is our job... We can't help her if\she cries...
+[Policeman] You're too young to be her parent. You\must be her brother...
+[Policeman] Make sure you tell your sister to keep\out of our way.
+[Policeman] I haven't been told anything about the\case.
+[Policeman] Please don't ask me anymore questions.
+[Policeman] Yesterday, we were told to improve our\methods for handling hecklers.
+[Policeman] And I'm trying my best.
+[Policeman] I don't know any details yet, but\apparently the owner of this house is dead.
+[Kojiroh] ...
+[Kojiroh] Bizarre... What happened?
+[Policeman] It appears to be a homicide.
+[Kojiroh] Whoa, that's pretty scary... Was it this\house?
+[Policeman] Yes, sir...
+[Kojiroh] Any suspects?
+[Policeman] They have a suspect... Are you a\reporter or something?
+[Kojiroh] Something like that...
+[Policeman] Well... I only know what I read in the\newspapers so...
+[Kojiroh] I see...
+[Kojiroh] (I shouldn't expect much from an officer\guarding the crime scene anyway.)
+　Doorbell
+　Shrubbery
+　Telephone pole
+[Policeman] Stop...
+[Policeman] Hey! You can't just push their\doorbell!
+[Policeman] The electricity is cut off now, so the\doorbell doesn't work.
+[Kojiroh] There's nothing to gain from stepping on\the bushes...
+[Policeman] If you understand that, you'll stop\right now.
+[Kojiroh] Oh well... I might as well cross the\police tape.
+I step on the bushes.
+[Kojiroh] Hey, I squished it.
+[Policeman] Stop this minute... You're damaging the\crime scene.
+[Kojiroh] I'm too tired to keep pushing.
+[Policeman] Don't push the telephone pole, sir.
+[Kojiroh] Okay, one last time...
+I push with all my might...
+[Kojiroh] Whew.
+[Policeman] Hey, what are you doing here!
+[Kojiroh] Nothing changes... No matter how hard I\push the telephone pole...
+[Policeman] It doesn't take a rocket scientist to\figure that one out.
+I push with all my might...
+[Policeman] Why, may I ask, are you pushing the\telephone pole?
+[Kojiroh] This is embarrassing... Enough of this.
+　Surroundings
+　Kou's mansion
+　Shrubbery
+　Police
+[Kojiroh] Two of them are in front of the house.
+[Kojiroh] I suppose they're standing guard...
+[Kojiroh] I think the crime scene inspection is\over...
+[Policeman] Can I help you?
+[Kojiroh] No thanks... I'll let you know.
+[Kojiroh] (He's staring at me, as if I'm\suspicious.)
+[Kojiroh] It seems they're done inspecting the\crime scene.
+[Kojiroh] The cops are standing guard...
+[Kojiroh] The crowd is trying to get a glimpse of\what's inside the house...
+[Kojiroh] I should've known there would be more\people here today than yesterday.
+[Kojiroh] Police tape surrounds the area.
+[Kojiroh] They intend to keep the crime scene as it\was the night of the murder.
+[Kojiroh] The house is sealed off with police\tape...
+[Kojiroh] It doesn't look like I can get inside.
+[Kojiroh] The tape is blocking the bushes, so I\can't push them. Darn.
+[Kojiroh] There's no need to push them, though.
+[Kojiroh] There's nothing strange here... They're\plain old bushes.
+　Enter the house
+　Warehouse district
+[Kojiroh] I can't go inside... It's no use.
+[Kojiroh] Thanks to the cops and their tape, I\can't get inside.
+[Kojiroh] Hmm...
+a002
+[Kojiroh] I'll go back to the warehouse...
+[Policeman] Tell your sister to listen better,\okay?
+[Kojiroh] ...
+a002
+[Kojiroh] Hey, where are you going?
+[Kojiroh] (Shit... As much as I'd like to, I can't\just smack the cop.)
+[Kojiroh] Oh yeah, I have to follow Purin.
+[Policeman] Hey, you! Do you know that little girl?
+[Kojiroh] Let go of me, dammit!
+[Policeman] Watch it, buddy! Don't you dare...
+[Kojiroh] (I wonder what Purin was talking to the\cops about...)
+[Kojiroh] Hmm...
+a002
+　Look/Investigate
+　Move
+　Speak
+　Kyoko
+[Kyoko] SO, I guess I'll see you around.
+[Kojiroh] Guess so...
+[Kyoko] What are you going to do now?
+[Kojiroh] Go home and take a nap.
+[Kyoko] Is that all?
+[Kojiroh] Do you expect me to work without getting\a little rest every now and then?
+[Kyoko] No, I was just wondering how you can sleep\after seeing something like that.
+[Kojiroh] If I'm sleepy, I sleep. A man's gotta do\what a man's gotta do.
+[Kyoko] You're a rare one, Kojiroh.
+[Kojiroh] What are you going to do, Kyoko?
+[Kyoko] Contact the police and give them as much\information as possible.
+[Kojiroh] And what about me?
+[Kyoko] Well, I'll let you go. This time.
+[Kojiroh] Don't worry, I won't run or hide. I'm too\broke for that.
+[Kyoko] ...
+[Kojiroh] You know, staring at people is a bad\habit.
+[Kyoko] There's something different about you.
+[Kojiroh] What do you mean?
+[Kyoko] I've never seen you and I hardly know\you... But I'm beginning to trust you.
+[Kojiroh] Maybe I'm a likeable guy. I have that\effect on people.
+[Kyoko] I can feel that you just won't run away\from this... Even if you are the murderer...
+[Kojiroh] If I need to run away, I will. I'm not\one of those brave maniacs who dies for someone\else's reasons.
+[Kyoko] But this time you're not running away.
+[Kojiroh] There's no need to.
+[Kyoko] ...Well I have to get going. We can't stand\here and talk all day.
+[Kojiroh] You got that right...
+[Kojiroh] Do you work for the government?
+[Kyoko] What makes you say that?
+[Kojiroh] Because I get the impression that you'd\go down with the ship, if you had to.
+[Kyoko] ...
+[Kojiroh] Let's see... You've got plenty of logic,\a dangerous amount of courage, and a ridiculously\high level of pride.
+[Kyoko] Are you assuming I'm a police officer?
+[Kojiroh] I doubt it. But you're not part of any\non-governmental investigation... I think you're\somewhere in between...
+[Kyoko] Pretty amazing... I've known you a few\minutes and I've already given you such an\impression.
+[Kojiroh] I bet you I'm half right... I am, aren't\I?
+[Kyoko] I can't give you the details, but you're\right. I do work for the government.
+[Kojiroh] I knew it.
+[Kyoko] But I'm the one who's perplexed... I have\no idea who you are.
+[Kojiroh] I gave you my card, didn't I?
+[Kyoko] Something tells me you're more than just a\private investigator.
+[Kojiroh] I hate to disappoint you, but I'm afraid\I am. But I'm rarely given cases, and I'm almost\too broke to buy any food.
+[Kyoko] ...
+[Kojiroh] What...
+[Kyoko] I'll drop the criminal charges... How's\that?
+[Kojiroh] That'll help.
+[Kyoko] But I still don't completely trust you.
+[Kojiroh] Yeah, yeah... Hey, contact me if you hear\anything.
+[Kyoko] I'll use your business card.
+[Kojiroh] As you wish.
+[Kojiroh] (Whew...)
+[Kojiroh] (At least we finally agree on\something...)
+[Kyoko] I'll report it to the police.
+[Kojiroh] Obviously, but...
+[Kyoko] If you're innocent, you shouldn't have a\problem with it, right?
+[Kojiroh] I'm innocent...as far as this case is\concerned.
+[Kyoko] You sure look like a scoundrel...
+[Kojiroh] I'm in enough trouble as it is... I\couldn't handle anymore.
+[Kyoko] Now it's my turn to ask a question...
+[Kojiroh] Shoot.
+[Kyoko] What is your relation with Kou?
+[Kojiroh] We're lovers... On weekends, mostly.
+[Kyoko] ...
+[Kojiroh] And he was good... Damned good.
+[Kyoko] Come on. Seriously.
+[Kojiroh] He's a boring little pest, and he's my\client.
+[Kyoko] Your client?
+[Kojiroh] I'm a private investigator.
+[Kyoko] A private investigator, eh?
+[Kojiroh] Here, look at my card...
+[Kyoko] "Amagi Private Detective Office, Chief..."
+[Kojiroh] See? I'm the only one in the office.
+[Kyoko] How do I know you're telling the truth?
+[Kojiroh] You're a very skeptical gal.
+[Kyoko] I just might be setting the murderer\free...
+[Kojiroh] No you aren't. If that was the case,\you'd be the next victim.
+[Kyoko] ...
+[Kojiroh] I'm not telling you not to inform the\cops. I didn't alter the crime scene, did I?
+[Kyoko] I guess you're right...
+[Kojiroh] I just rubbed the doorknob. Other than\that, everything's the same as before.
+[Kyoko] So, you're cooperating with the police.
+[Kojiroh] What, are you crazy? They leave me alone\and I leave them alone.
+[Kyoko] I see...
+[Kyoko] Keep talking.
+[Kojiroh] I've got several reasons as to why you're\not the murderer.
+[Kyoko] I'd love to hear each one of them.
+[Kojiroh] First of all, you were shocked when you\entered the house and saw the body.
+[Kyoko] I could have been acting...
+[Kojiroh] Nice try, but you didn't know I was\hiding. There was no reason for you to act.
+[Kyoko] ...
+[Kojiroh] And you knew it wasn't suicide.
+[Kyoko] ...
+[Kojiroh] Furthermore, you were really scared of\me, weren't you?
+[Kyoko] Maybe... Seeing a dead body in front of me\and then a man holding a gun behind me... It's not\something I run into everyday.
+[Kojiroh] I should hope not.
+[Kyoko] Anything else?
+[Kojiroh] Hmm... You came into the house because\you thought there was something wrong.
+[Kyoko] It's true...
+[Kojiroh] I know... I think if you wanted to lie,\you'd come up with something better.
+[Kyoko] ...
+[Kojiroh] And you accepted the fact that you might\die.
+[Kyoko] Fine... You're pretty sharp.
+[Kojiroh] Thanks.
+[Kyoko] ...
+[Kojiroh] (Uh-oh... She looks as if she's about to\criticize me...)
+[Kojiroh] (So she still doesn't trust me.)
+[Kyoko] Why don't you think I'm the murderer?
+[Kojiroh] You wanna hear my reasons?
+[Kyoko] I'm just dying of anticipation.
+[Kojiroh] Well, first of all, you've got a nice\ass.
+[Kyoko] ...
+[Kojiroh] I'm only joking... Don't make that face.
+[Kyoko] Do you mentally undress every woman you\meet?
+[Kojiroh] Yes, but don't hold that against me.
+[Kyoko] ...?
+[Kojiroh] It's been long time since I've porked a\girl. My balls are bluer than the Pacific Ocean.
+[Kyoko] ...
+[Kojiroh] You should be honored to have the ass you\do. Some women pay top dollar for a caboose like\that.
+[Kyoko] Excuse me?!
+[Kojiroh] Don't wet your pants, I was only joking.
+[Kyoko] Any more jokes out of you and I'll call the\police.
+[Kojiroh] At least you find my conversation\interesting.
+[Kyoko] This isn't exactly the stuff I'm used to\hearing during a murder case.
+[Kojiroh] Hence, my lack of clientele.
+　Surroundings
+　Kyoko
+　Hair
+　Clothes
+[Kojiroh] (It sure is a quiet neighborhood. I\hardly see anyone.)
+[Kojiroh] (It's a pretty quiet neighborhood...)
+[Kojiroh] (No one's walking the streets... Standing\around and talking might cause trouble.)
+[Kojiroh] (Her expression has turned calm...)
+[Kojiroh] (But I think she still has her doubts.)
+[Kojiroh] (She appears to be doubting me.)
+[Kojiroh] (She appears somewhat frightened...)
+[Kojiroh] (Shit, now she's looking at me with\suspicion.)
+[Kojiroh] (Ahh, a ponytail...)
+[Kojiroh] (What the hell good will it do me to look\at her hair?)
+[Kojiroh] (It's a nice ponytail...)
+[Kojiroh] (Her hair reaches all the way below her\ass...)
+[Kojiroh] (I think she noticed me staring at her\body...)
+[Kojiroh] (But the more I look at her, I notice\she's wearing clothing that will be hard to take\off...)
+[Kojiroh] (What'll I do when it's time to have\fun?)
+[Kojiroh] (Uh-oh... I think she sees me staring at\her body...)
+[Kojiroh] (It's the clothes she was wearing when I\made her take off her pants.)
+　中にはいる
+　倉庫街
+[Kyoko] Where do you think you're going? I'll call\for the police...
+[Kojiroh] (I'd like to speak with Kyoko just a bit\longer.)
+[Kojiroh] (I just came out of there... Why should I\go back already?)
+[Kojiroh] Okay, here I go.
+[Kyoko] I'll call you. Soon.
+[Kojiroh] I'll be waiting...
+a002
+[Kojiroh] (I'll go to my office later...)
+[Kojiroh] (I'll return to the office later on...)
+[Kojiroh] (I think I need to speak to this Kyoko\chick...)

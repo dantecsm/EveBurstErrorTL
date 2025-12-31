@@ -1,0 +1,718 @@
+waku
+Å@Å@Å@Å@Å@Å@Å@ÅÚˇ@ÇdÇuÇd burst error\\Å@Å@Å@Å@Å@Å@Å@ÉeÉXÉgÉoÅ[ÉWÉáÉìÅ@ÇuÇÖÇíÇOÅDÇS
+Å@ÉçÅ[Éh
+Å@ç≈èâÇ©ÇÁ
+Å@Clear System Flags
+Å@Cancel
+Å@Clear All
+åªç›ÇÃÉVÉXÉeÉÄÉtÉâÉOÇÅAÉIÅ[ÉãÉNÉäÉAÇµÇ‹Ç∑ÅB
+Ç±ÇÍÇçsÇ¡ÇΩå„Ç…ÅAç°Ç‹Ç≈ÇÃÉZÅ[ÉuÉfÅ[É^ÇÉçÅ[ÉhÇ∑ÇÈÇ∆ÅAÉnÉ}ÇÈâ¬î\ê´Ç™Ç†ÇËÇ‹Ç∑ÅB
+ç°ÇæÇ¡ÇΩÇÁÅAXFER + ROLL_UP + ROLL_DOWN ÉLÅ[Ç≈ÅAî≤ÇØÇÁÇÍÇ‹Ç∑ÅB
+Ç≥ÇüÅAÇ¢Ç¢Ç≈Ç∑ÇÀÅAÇ¢Ç´Ç‹Ç∑ÇÊÅH
+ÉNÉäÉAäÆóπÇµÇ‹ÇµÇΩÅB
+ÉZÅ[ÉuÉfÅ[É^ÉtÉ@ÉCÉã(SAVE?.DAT)ÇÕÅAè¡ãéÇµÇƒÇ®Ç¢ÇƒÇ≠ÇæÇ≥Ç¢ÅB
+Å@ìVèÈÅ@è¨éüòY
+Å@ñ@èÅ@Ç‹ÇËÇ»
+Å@ÅHÅHÅH
+c01
+b01
+eve_29
+DecemberÅ@3\  - 9* / 12 / 03 -0
+waku
+001
+*thump*
+eve_21
+[Kojiroh] Mmhh... hmh....
+[Kojiroh] I must have fallen asleep...
+[Kojiroh] A moment of peace in a friendly world...
+[Kojiroh] Even a slick professional like myself\can't help but crave a good night's sleep every\once in a while.
+[Kojiroh] ...
+[Kojiroh] Feels good to close my eyes...
+[Kojiroh] I could sleep forever.
+[Kojiroh] What a great day...
+[Kojiroh] I'm in heaven...
+[Kojiroh] Whew...
+[Kojiroh] ...
+[Kojiroh] No! I have to get up!
+[Kojiroh] If I stay in bed all the time, my brain\will end up rotting.
+[Kojiroh] Damn it! Why doesn't anyone bring me a\case to solve?!
+[Kojiroh] *gurgle*
+[Kojiroh] ...
+[Kojiroh] That wasn't me snoring or anything...\just my stomach growling.
+[Kojiroh] I'd better settle down. Being restless\just makes me hungrier.
+[Kojiroh] Let's see... what could I possibly do\about it?
+[Kojiroh] I should be able to figure a way out of\this if I simply use my brain...
+[Kojiroh] Hmmmm...
+*crash!*
+[Kojiroh] What was that?! A prowler?!
+[Male Voice 1] Don't you think someone's here?
+[Male Voice 2] I already told you! Nobody's gonna\be in an abandoned warehouse like this one.
+[Kojiroh] ...Damn it. Why are these brats hanging\out here of all places?
+[Kojiroh] Hey, kids!
+[Male Voice 1] Someone's here! That scared me...
+[Male Voice 2] What did I tell you? You owe me\1,000 yen.
+[Male Voice 1] Damn! Why would someone be in a\run-down warehouse on the pier?...
+[Male Male Voice 2] You're completely clueless,\aren't you? There's a nameplate saying "Amagi\Detective Offices" on the door.
+[Male Voice 1] Oh, right.
+[Male Voice 2] From the looks of it, this place is\probably a shelter for the homeless.
+[Kojiroh] (What the hell?...)
+[Male Voice 1] He was sounding pretty aggressive\for a vagrant.
+[Kojiroh] Hey, you idiots! If you don't get lost,\I'm gonna have to introduce you to my Glock!
+[Kojiroh] Bang! Bang!
+[Male Voice 1] He sounds like a complete idiot.
+[Male Voice 2] Maybe, but he could also be\dangerous. Let's get out of here!
+001
+[Kojiroh] ...
+[Kojiroh] Kids these days...
+[Kojiroh] The economic recession's to blame for it\all, of course.
+[Kojiroh] Why else wouldn't a detective with my\brains and my muscle get a case?
+[Kojiroh] The recession... It's amazing how the\world's problems trickle down to the common man...
+[Kojiroh] It's literally the economy's fault that\I'm broke!
+[Kojiroh] And if the economy's bad, that means the\government is to blame. In other words, I'm in this\situation...\[Kojiroh] Because of the Prime Minister himself!
+[Kojiroh] *gurgle*
+[Kojiroh] ...
+[Kojiroh] That wasn't me snoring or anything...\just my stomach growling.
+[Kojiroh] I'd better settle down. Being restless\just makes me hungrier.
+[Kojiroh] Besides, even if someone brings me a\case, it'll probably be the same boring stuff\usually reserved for low-grade detectives.\[Kojiroh] Like someone trying to find out if his\wife is cheating on him or whatever.
+[Kojiroh] I'm above this kind of crap. It's my\policy to refuse adultery cases.
+[Kojiroh] And I certainly won't degrade myself by\searching for lost pets ...
+*ring* *ring*
+[Kojiroh] This is it!
+*clack*
+[Kojiroh] Amagi Detective Offices.
+[Kojiroh] Count on us for anything from adultery\investigations to finding lost pets...
+[Man's voice] Huh? Don't tell me you don't do\chashu ramen anymore?
+[Kojiroh] ...
+[Man's voice] Well then, I'll have the stir-fried\liver with spring onions special...
+[Kojiroh] Shut up, you scum! Don't mistake me for\your usual delivery service!
+*click*
+[Kojiroh] *gurgle*
+[Kojiroh] ...
+[Kojiroh] That wasn't me snoring or anything!
+[Kojiroh] My stomach started growling again,\probably because I heard "chashu ramen."
+[Kojiroh] The economy is at its lowest nowadays.\So is my stomach's contents.
+[Kojiroh] Not to mention the fact that my license\is currently suspended...
+[Kojiroh] Technically, I'm not even allowed to put\a sign on my door that says I'm a detective.
+[Kojiroh] But money doesn't just grow on trees,\folks.
+[Kojiroh] You gotta work for it. Someone bring me\some work! I'll do anything! Anything!
+*ding-dong*
+[Kojiroh] Someone's here!? This could be my big\break!
+*dash*
+*slam!*
+[Kojiroh] Ouch! What a life! I run to the door\because I'm excited and end up slamming my head\into it...
+[Woman's voice] Sounds like you're having fun in\there, Kojiroh.
+[Kojiroh] ...Who's there!?
+001
+b16
+[Woman] It's me.
+[Kojiroh] Oh, Akane. And I thought it was someone\important...
+[Akane] You don't have to look so unhappy to see\me.
+[Kojiroh] I can't help it. I am unhappy to see you.
+[Akane] Quit standing there like that and let me\inside. You look like a skier waiting for the way\to clear before going down a slope.
+[Kojiroh] This is my office. I make the rules.
+[Akane] Whatever.
+[Kojiroh] What are you laughing at?
+[Akane] I don't think you should be treating me so\coldly. I've come here as your savior.
+[Kojiroh] What are you? A hyena, waiting to feed on\my dead corpse?
+[Akane] Now you're being cruel. Why don't you\compare me to a flower instead? A wild\chrysanthemum, maybe?
+[Kojiroh] I don't see anything here worth comparing\to a wild chrysanthemum.
+[Akane] Look just in front of you. Here, don't you\think I look just the same?
+[Kojiroh] All I see is a hungry hyena posing as a\journalist.
+[Akane] Why don't you hear what I have to say\first? Then you might call me a flower.
+[Kojiroh] ...
+Å@Look/Investigate
+Å@Move
+Å@Speak
+Å@Ask
+Å@About the case
+[Akane] I already told you everything about the\case.
+[Akane] Oh, right. There's one more thing...
+[Kojiroh] What? There's more?
+[Akane] No. It's just that you're not supposed to\take the painting to him when you find it...
+[Kojiroh] ...He doesn't want me to retrieve it?
+[Akane] No. Just to find it.
+[Kojiroh] I don't quite follow you.
+[Akane] Mr. Kou just wants you to find it and tell\him where it is. He wants the information, not the\painting.
+[Kojiroh] What?! Wouldn't it be a lot easier just\to take it to him?
+[Akane] I don't know why he wants it this way.\That's just what Mr. Kou said.
+[Kojiroh] Mr. Kou?
+[Akane] The client, remember?
+[Kojiroh] So I just tell Kou where the painting is?
+[Akane] That's right.
+[Kojiroh] What if I find it in the middle of the\street? I'm supposed to leave it there and go call\this Kou guy and tell him?
+[Akane] Well...
+[Kojiroh] What if a stray dog or a vagrant just\picks it up?
+[Akane] I don't know... I'm just telling you what\he requested.
+[Kojiroh] And you're asking for 150,000 for\bringing me the case...
+[Akane] Just know that the third anniversary of his\wife's death is coming up in a few days. He wants\you to find it before then.
+[Kojiroh] The anniversary of his wife's death?
+[Akane] That's right.
+[Kojiroh] ...Sounds like some sort of tax evasion\scheme to me.
+[Akane] You're still going on about that?...
+[Akane] Are you sure you won't take this case?
+[Kojiroh] I'm sure.
+[Akane] Absolutely, positively?
+[Akane] Well, you can't say I didn't try to help.\I guess I'll have to take the case to Katsuragi...
+[Kojiroh] What did you just say?
+[Akane] Katsuragi Detective Offices.
+[Kojiroh] ...
+[Akane] Actually, Mr. Kou wanted to go to them\first anyway.
+[Kojiroh] What!?
+[Akane] Don't be so surprised. Katsuragi is an\established, reliable agency.
+[Kojiroh] Well excuse me for not being established\or reliable.
+[Akane] But I know you're still the best, and I\told that to Mr. Kou.
+[Kojiroh] ...
+[Akane] How can you act like you don't know what\I'm talking about?
+[Kojiroh] What do you mean?
+[Akane] I'm talking about this. This!
+[Kojiroh] What, that?
+[Akane] Don't look at my chest! Look at my fingers!
+[Kojiroh] Are you trying to give me the bird?
+[Akane] You're hopeless. I'm talking about your fee\for accepting the case.
+[Kojiroh] 1 stack...? Come on. There's not even\need to discuss further.
+[Akane] You can't be serious.
+[Kojiroh] Why not? 10,000 yen is already a lot of\money for this kind of task.
+[Akane] You think I would go to the trouble of\bringing you this case for a mere kid's pocket\money?
+[Kojiroh] Okay then, so I suppose you mean 1 brick.\Right, so 100,000 yen is still not worth the\trouble.
+[Akane] Ahem!
+[Kojiroh] ...
+[Kojiroh] You can't be serious... you actually\meant 1 million yen?
+[Akane] So, what do you think? You're not really in\the position to refuse, right?
+[Kojiroh] Hey, watch it! I'm not poor because I\like it, you know.
+[Akane] Quit feeling sorry for yourself.
+[Kojiroh] *wriggle, wriggle*
+[Akane] Kojiroh!
+[Kojiroh] Would you please just hurry up and tell\me!
+[Akane] Of course expenses will be reimbursed\separately. When the case is 100% solved then you\get this.
+[Kojiroh] A peace sign?
+[Akane] Two million more.
+[Kojiroh] So that makes 3 million altogether.
+[Akane] Kojiroh, do you know what I had to go\through to get you this case?
+[Kojiroh] So what's your cut?
+[Akane] It's a beautiful day...
+[Kojiroh] Let's make it 5%.
+[Akane] That would leave me with only 150,000...
+[Akane] No way! Forget it. 
+[Kojiroh] Hmpf. Seems like a fair share to me.
+[Akane] I'm not exactly doing this for charity.\500,000 would be a minimum.
+[Kojiroh] Don't you think it's a bit much?
+[Akane] I see your point, but...
+[Kojiroh] Think about it. It means that just after\I find the painting and take it back to Kou, you'll\get 150,000. Seems easy money to me.
+[Akane] I wonder if this job is as easy as you\think...
+[Kojiroh] It'll be easy for me because I'm the\best.
+[Akane] Then let's settle on 300,000. Okay? Since I\brought you the client, you shouldn't have any\problem giving me 10%.
+[Kojiroh] Oh, whatever... all right.
+[Akane] The deal is set, then! Heh heh, that's what\I like about you, Koujiro.
+[Kojiroh] You sure are a greedy broad.
+[Akane] How's it sound? Let's do it.
+[Kojiroh] I don't need your handout. I can do just\fine without you bringing this case to me.
+[Akane] It's not a handout. It's a case.
+[Kojiroh] I don't even have a license now.
+[Akane] You don't need a license just to look for\something. This isn't your average investigation.
+[Kojiroh] No way, Akane. I'm not doing it!
+[Akane] Kojiroh!
+[Kojiroh] What?
+[Akane] I went through all the trouble to bring\this case to you...
+[Kojiroh] So how much do you want out of it?
+[Akane] It's a lovely day...
+[Kojiroh] Answer me!
+[Akane] Don't you feel any pity for poor Mr. Kou?\He lost an important memento of his deceased wife.
+[Kojiroh] Since when is this supposedly valuable\work of art a memento?
+[Akane] Didn't I tell you? Don't you feel sorry for\him?
+[Kojiroh] Now you try and appeal to my humanity...\You're sneaky. Did Kou even say that?
+[Akane] Of course he did.
+[Kojiroh] And you actually believe him?
+[Akane] What do you mean? Of course... Why wouldn't\I?
+[Kojiroh] Then why doesn't he go to the police?\They're the ones who deal with missing property.\It's a valuable painting, right?
+[Akane] ...Mr. Kou said he wants to keep this\search as quiet if possible.
+[Kojiroh] That settles it.
+[Akane] What?
+[Kojiroh] It's obviously a tax evasion scheme.
+[Akane] Tax evasion?!
+[Kojiroh] Doing it with precious stones and\paintings is common enough, but no one gets caught\doing it.
+[Akane] ...
+[Kojiroh] In other words, the painting is probably\not registrered.
+[Akane] Why do you always have to twist the facts\into something mischevious?
+[Kojiroh] My reasoning is 90% accurate. You can bet\on it.
+[Akane] It's not reasoning, it's an assumption! And\a pretty low one, too.
+[Kojiroh] Say whatever you want. But I refuse to be\an accomplice to Kou's crime. Go get someone else.
+[Akane] You're impossible!
+[Akane] The client's name is Mr. Kou.
+[Kojiroh] Mr. Cuckoo?
+[Akane] Mr. Kou. From the name I'd guess he's\Chinese.
+[Kojiroh] How stupid are you?
+[Akane] What's so stupid about that?
+[Kojiroh] People's names don't mean a thing. Don't\go judging someone's nationality just from their\name.
+[Akane] Wow, you sure are easily pissed.
+[Kojiroh] What if I am?
+[Akane] Quit looking so annoyed.
+[Kojiroh] I am annoyed.
+[Akane] He wants you to find some missing property.
+[Kojiroh] Missing property?
+[Akane] That's right.
+[Kojiroh] What, did that Kou guy lose his wig?
+[Akane] Of course not! It's a valuable painting\we're talking about.
+[Kojiroh] Painting?
+[Akane] Quit repeating me. I saw a picture of it\and it's really beautiful, by a master of\impressionism...
+[Kojiroh] I won't do it.
+[Akane] Not so fast... Why not?
+[Kojiroh] It's against my policy to do that kind of\work. I'm not a mailman.
+[Akane] Didn't I just hear you saying you'd find\someone's lost pet if they wanted you to?
+[Kojiroh] I'll look for a poor, lost kitten. A\painting is not a kitten.
+[Akane] You won't get very far in life making\useless distinctions like that.
+[Kojiroh] ...
+[Akane] That shut you up.
+[Kojiroh] Actually I was just thinking about how to\shut you up.
+[Akane] If you don't work you can't eat.
+[Kojiroh] ...
+Å@Akane
+[Akane] See you later. I have work to do.
+[Kojiroh] Just don't take any more disgusting\pictures like you did for that suicide scandal\story last week. You journalists are sick.
+[Akane] It's not disgusting. A house burned down.
+[Kojiroh] I see. And that's not disgusting?
+[Akane] It's news, Kojiroh.
+[Kojiroh] Whatever.
+[Akane] Kojiroh, I must tell you something...
+[Kojiroh] No need to tell me. I already know you're\actually a man in drag.
+[Akane] Idiot... Just listen...
+[Kojiroh] Alright, I'm listening.
+[Akane] Do you know about the scandal involving the\Chief Secretary of a certain party?
+[Kojiroh] Yeah, there wasn't enough evidence.
+[Akane] Actually, I'm the one who got the scoop on\that.
+[Kojiroh] You!? I don't believe it.
+[Akane] It made him so angry... So he asked for my\head. Right now, I'm on suspension.
+[Kojiroh] They took your job?
+[Akane] Just for now. But I'm gonna get a really\big story and make them give me my job back!\\ [Akane] As long as you can get a good story you\don't get fired.
+[Kojiroh] So you and I are in the same boat right\now.
+[Akane] No, you're just on vacation. The pressure's\really on me.
+[Kojiroh] I see... So what story are you after?
+[Akane] The burning down of a police establishment\could be a good story.
+[Kojiroh] Arson?
+[Akane] Maybe. Apparently it was a prison that was\targeted, and it's possible that there are\terrorist motivations behind it.
+[Kojiroh] The world sure is a dangerous place.
+[Akane] This could be my chance. A story about the\negligence of the state authorities.
+[Kojiroh] ...
+[Akane] But I haven't got the time to stand around\and talk to you about it. I'm going.
+[Kojiroh] Good. Just get out already.
+001
+[Kojiroh] ...
+[Kojiroh] You're like a locust.
+b16
+[Akane] That's right.
+[Kojiroh] Whoa!
+[Akane] Make sure you go to Mr. Kou's place as soon\as you get the fax.
+[Kojiroh] Okay, I will.
+[Akane] If he sets a meeting time, then get there\10 minutes early, okay?
+[Kojiroh] What do I look like? A third grader?
+[Akane] Just about.
+[Kojiroh] Scram! Get to the fire and report on some\roasted bureaucrats!
+[Akane] Can you refrain from saying such\insensitive things?
+[Kojiroh] (Can't really say she's wrong there...)
+[Akane] Oh, and one more thing.
+[Kojiroh] There's more?
+[Akane] My fee for bringing you the case...
+[Kojiroh] Don't worry. I'll give you your 300,000\as agreed.
+[Akane] For real, can't you make it 500,000?
+[Kojiroh] ...
+[Akane] Come on, Kojiroh.
+[Kojiroh] How did you become such a good natured\person?
+[Akane] It comes to me naturally.
+[Kojiroh] All right. I'll give you 500,000. Now get\lost!
+[Akane] Thanks! You're the best, Kojiroh.
+[Kojiroh] Yeah?
+[Akane] You almost make me feel guilty. See you\later!
+001
+[Kojiroh] ...
+[Kojiroh] I have a bad feeling about this... Oh,\well.
+[Akane] *stretch*
+[Kojiroh] What the hell are you doing?
+[Akane] It just feels nice after doing something\good.
+[Kojiroh] ...Right. You're so altruistic...
+[Akane] Yeah, I get that a lot.
+[Kojiroh] ...
+[Akane] Anyway...
+[Kojiroh] What?
+[Akane] Mr. Kou said he'll fax you a map of how to\get to his house.
+[Kojiroh] How kind of him.
+[Akane] Come on. I went through all the trouble to\bring you this case. The least you could do is get\into the spirit of it.
+[Kojiroh] Once I decide to do something I'll\definitely do it. But once I decide not to, it's\the end of the story.
+[Akane] What's that supposed to mean?
+[Kojiroh] Just this once, I'll accept it so you'll\save face.
+[Akane] Thank you.
+[Kojiroh] But be warned. This is the last time.
+[Akane] Yeah! Won't it be great when you can get\cases without me bringing them to you?
+[Kojiroh] ...
+[Kojiroh] (It almost makes it worse that she's\actually saying that to be nice...)
+[Kojiroh] Akane went to make a phone call...
+[Kojiroh] In other words, she's not here.
+[Akane] Then I'll call Mr. Kou right away.
+[Kojiroh] Okay...
+[Akane] Quit acting like you're not interested.
+[Kojiroh] I'm genuinly not interested.
+[Akane] You've come too far to turn back now,\Kojiroh.
+[Kojiroh] I guess it can't be helped...
+[Akane] Thanks! The phone is on the desk, right?
+001
+*dialing*
+[Kojiroh] Doesn't even ask if she can use my phone.\I don't get no respect...
+[Akane] I'm going to call now.
+[Kojiroh] Do whatever you want.
+[Akane] I'm right in the middle of telling you\about the case I brought for you.
+[Kojiroh] (I guess I have no choice...)
+[Kojiroh] All right, then. I'll listen to what\you've got to say about the damn case.
+[Akane] Good. It's going to be really perfect for\you, since you're so hopelessly broke.
+[Kojiroh] I'm a very busy man, so hurry up.
+[Akane] Busy? Doing what?
+[Kojiroh] ...
+[Kojiroh] Quit rubbing my nose in it and get on\with the story.
+*slap*
+[Akane] I almost forgot about that. I must be\catching the laziness disease from you.
+[Kojiroh] Keep being such a smart mouth, and men\will never be interested in you.
+[Akane] What?! I have a boyfriend, you know!
+[Kojiroh] Oh, that's nice. What species is it?\Eggplant? Cucumber?
+[Akane] Do you really have to be so gross?...
+[Kojiroh] Oh, so it's neither of these?
+[Akane] He's actually a very gentle guy.
+[Kojiroh] By this, do you mean you set your\vibrator on the "gentle" preset?
+[Akane] He's a smart, interesting, sensitive man.\Totally unlike yourself.
+[Kojiroh] I hate him already.
+[Akane] Is that jealousy I detect?
+[Kojiroh] Jealous of what? Just hurry up and get to\the point.
+[Akane] Don't be so unpleasant. After all, I did go\through a lot of trouble to bring you this case.
+[Kojiroh] A case?
+[Akane] Yes. I'm pretty sure it must feel like a\godsend to you.
+[Kojiroh] I see.
+[Akane] It's also a nice opportunity to clear your\name.
+[Kojiroh] What's the point? If I needed to clear my\name, that would mean I would have some bad stuff\to atone for, and that's not the case.
+[Akane] Honesty, I don't know all the details...
+[Kojiroh] So? Did you come to write an article\about my life?
+[Akane] Who wants to know about your life? I have\to meet the reader's needs.
+[Kojiroh] Oh, well. Listen, I'm going out for\awhile. Do me a favor and watch the place.
+[Akane] Don't be that way.
+[Kojiroh] Instead of talking with you I could be...
+[Akane] You could be doing what?
+[Kojiroh] ...
+[Akane] Your lifestyle's changed a lot. Has it been\two months now?
+[Kojiroh] Three months.
+[Akane] Only three months ago you were a real\hot-shot, elite detective...
+[Kojiroh] Cut it out.
+[Akane] Why did you do it, anyway?
+[Kojiroh] Do what? What did I do?
+[Akane] Having the president of Katsuragi Detective\Offices arrested.
+[Kojiroh] Oh, you mean that...
+0320
+[Akane] Real nice work there, Koujiro, to manage to\expose the president's misconduct. It escalated\into a big scandal.
+[Kojiroh] I'm one of the few people who thinks\justice and order are important.
+[Akane] Thanks to you Mr. Katsuragi was ruined. You\repaid his kindness with evil.
+[Kojiroh] I didn't do anything wrong to him. In\fact, I felt I owed him a debt of gratitude.
+[Akane] Then why did you do it?
+[Kojiroh] It's complicated.
+[Akane] So you won't tell me?
+[Kojiroh] You call yourself a journalist. Why don't\you figure it out for yourself?
+[Akane] "And that, ladies and gentlemen, is the\tragic sequence of events that led to Kojiroh's\suspension..."
+[Kojiroh] No autographs, people. No autographs.
+[Akane] Thanks to you I get this story all to\myself.
+[Kojiroh] That's another one you owe me.
+[Akane] However, you made Yayoi really angry...
+[Kojiroh] Yayoi?!
+[Akane] Her own father went to jail because of you.
+[Kojiroh] Stop right there! Change the subject!
+001
+b16
+[Akane] Everyone thought you and Yayoi were going\to get married someday.
+[Kojiroh] So?
+[Akane] Don't act like you don't care.
+[Kojiroh] Why not? Why should I care about gossip?
+[Akane] Honestly, I'm glad you ended up this way...
+[Kojiroh] You really are in love with me, do you?
+[Akane] That's not what I meant! I actually enjoy\watching you suffer.
+[Kojiroh] So you're happy if I'm miserable?
+[Akane] That's right... I'll do anything it takes\to make you unhappy.
+[Kojiroh] That's terrific.
+[Kojiroh] (I have an idea!)
+[Akane] Why do you look so excited?
+[Kojiroh] I'd be really unhappy if you took off all\your clothes right now.
+[Akane] Quit fooling around... Hey! Don't come near\me with that look on your face!
+[Kojiroh] I'd be so unhappy. So very unhappy if\only you would get naked!
+[Akane] Stop... Stop it! I'm not ready for that\yet... No!...
+[Kojiroh] Just kidding. You're not my type... I\don't like small breasts.
+[Akane] Why, you...! Kojiroh!!
+[Akane] Open a window or something. It stinks in\here.
+[Kojiroh] Where do you think you are?
+[Akane] In a garbage dump.
+[Kojiroh] It used to be a warehouse. Other than\that small one over there, there are no windows.
+[Akane] Fine. I'll open it myself.
+001
+[Kojiroh] Hey, you can't just open it like that.
+[Akane] God! It's impossible... It won't open.
+[Kojiroh] It's rusted shut.
+*hiss*
+[Akane] I did it! Breathe in that fresh breeze from\the sea.
+[Kojiroh] Shut it right now, dumbass. You'll wreck\my computer.
+[Akane] A little fresh air won't hurt anything.\...Huh?!
+[Kojiroh] What?
+[Akane] That boat is huge... I'd love to go on a\cruise on a boat like that.
+[Kojiroh] I hate that tin can. It stands there all\majestic and mighty. It ruins my view.
+b16
+[Akane] Hey.
+[Kojiroh] What?
+[Akane] You should take me on a trip sometime.
+[Kojiroh] Not in a million years.
+[Akane] Oh! Why don't you say something romantic\for a change.
+[Kojiroh] Don't act all innocent.
+[Akane] What do you mean?
+[Kojiroh] Is it really that usual for reporters to\sneak inside a broke detective's agency without\making a sound?
+[Akane] Whatever you say. Anyway, I have something\to talk with you about.
+[Kojiroh] Then hurry up and do it. I may not look\busy, but I am...
+[Akane] Doing what?
+[Kojiroh] ...
+[Akane] You really need a housekeeper for this\hole.
+[Kojiroh] What a great idea! You can start today.
+[Akane] Oh! Beer!
+[Kojiroh] You can't have it.
+[Akane] Nobody wants some leftover beer from you.\Dog piss would taste better.
+[Kojiroh] Oh, you like dog piss? Have one on me,\then.
+[Akane] Why are you like that, Kojiroh?
+[Kojiroh] I was lucky enough to be born that way.
+[Akane] Oh, you got yourself some dried squid.\You're living the high life aren't you?
+[Kojiroh] I'm glad you finally recognized it.
+[Akane] I wish I had as much free time as you.
+[Kojiroh] ...
+[Akane] How do you eat that garbage?
+[Kojiroh] Dried squid is not as bad as you think.
+[Akane] Lovely. I suppose you eat it along with the\anmitsu next to it?
+[Kojiroh] Correct. When I have anmitsu, I take a\peck of dried squid and then wash it down with \beer.\[Kojiroh] Traditional Japanese cuisine at its\finest.
+[Akane] What sort of tradition is that?
+[Kojiroh] My tradition. You got a problem with it?
+[Akane] You'd better be careful.
+[Kojiroh] About what?
+[Akane] About yelling intensely "I'll do\everything!" while you clench your fists.
+[Kojiroh] ...
+[Akane] Do you know how long I've been here? I had\to go back out to ring the bell.
+[Kojiroh] No. So, how long have you been here?
+[Akane] Enough to hear your "I'll do everything"\act, complete with fist clenching.
+[Kojiroh] That's breaking and entering! Coming into\my place without asking.
+[Akane] The door was unlocked.
+[Kojiroh] I spend all my money keeping this place\beautifully decorated. I can't afford a lock.
+[Akane] You're not making any sense...
+Å@Surroundings
+Å@Akane
+Å@Camera
+[Kojiroh] Akane's on the phone right now.
+[Kojiroh] Which means that she's not in front of me\now.
+[Kojiroh] Which means that I don't have to look at\her camera.
+[Akane] Just look at the utter brillance of this\form factor...
+[Kojiroh] Why are you rubbing your cheeks against\that camera?
+[Akane] Hmpf. Shut up.
+[Akane] What do you think you're looking at?0
+\ 
+[Kojiroh] I'm not looking at your dumb camera.
+[Akane] If you do, you're in trouble, mister.
+[Kojiroh] If I doo-doo, urine trouble missed her?\Missed who? You're not making any sense.
+[Akane] My life as a reporter depends on this\camera.
+[Kojiroh] Oh.
+[Akane] I had to save and save and save to afford\this thing.
+[Kojiroh] Is it one of those disposable cameras?
+[Akane] Kojiroh! You're infuriating!!
+[Kojiroh] That's not very nice.
+[Akane] This camera can do things you can't even\imagine!
+[Kojiroh] Never underestimate a man's imagination.
+[Akane] It has three simultaneous AF modes.
+[Kojiroh] ...
+[Akane] 14 separate types of honey comb pattern\light control.\\[Akane] Multi mode exposure control, you can\capture a moving image with a shutter speed of\1/4000 second!
+[Kojiroh] That's enough. You look like you're about\to cum just talking about it.
+[Akane] An ordinary person like you has no idea how\good this thing is.
+[Kojiroh] So? Basically what are you saying?
+[Akane] You weren't even listening!
+[Kojiroh] I'm just waiting for you to get to the\point.
+[Akane] The point is that even that ugly face of\yours would actually make a decent photo if I use\this to take it.
+[Kojiroh] Boring!
+[Kojiroh] This is my detective office.
+[Kojiroh] Right now Akane is using the phone at my\desk...
+[Kojiroh] This is my luxurious, high-profile\detective agency.
+[Akane] Only the word "detective agency" are real.
+[Kojiroh] This is my fashionable, beautiful\detective agency.
+[Kojiroh] The land costs about a hundred thousand\bucks for 10 square feet.\\[Kojiroh] Every day I have to fight off hundreds of\clients in order to concentrate on my job.
+[Kojiroh] I would love it if all that were really\true.
+[Akane] You're bonkers.
+[Kojiroh] Akane's back from calling that Kou guy...
+[Kojiroh] I can't believe you called your damn\editor.
+[Akane] Heh heh... Thanks for this, Kojiroh.
+[Kojiroh] You're not welcome.
+[Akane] Hello. Shibata here... That's right, sir.
+[Kojiroh] (Shibata?)
+[Kojiroh] (Oh right, I forgot her surname was\Shibata.)
+[Akane] Yes... Yes, sir. He said that he would do\it... That's correct.
+[Kojiroh] (Geez, Akane... I never said I was going\to do it.)
+[Kojiroh] (I'm fed up of seeing her running things\her own way...)
+[Kojiroh] (Just listen to how polite she is with\that jerk.)
+[Kojiroh] (Do me a favor, Akane, and talk to me\that way some time.)
+[Akane] ...At what place? Hold on a second, please.
+[Kojiroh] What now?
+[Akane] He wants to know where to meet you.
+[Kojiroh] A meeting place?
+[Akane] Yeah. What should I say?
+[Kojiroh] We can't do it here. He probably couldn't\even find it.
+[Akane] He says he'll be happy to decide if you\can't think of a place.
+[Kojiroh] Oh, yeah?
+[Akane] Yeah.
+[Kojiroh] Well, why didn't you say so in the first\place? I'll meet him anywhere he wants.
+[Akane] He wants to know if his place is okay.
+[Kojiroh] His place?
+[Akane] Mr. Kou's house.
+[Kojiroh] Well...
+[Akane] ...Sorry to keep you waiting, sir. He says\he'll be happy to... Yes, sir.
+[Kojiroh] Hey! I didn't say okay yet!
+[Akane] Thank you very much, sir. Thank you.\Goodbye now...
+*click*
+b16
+[Akane] Phew.
+[Kojiroh] You dirty...
+[Akane] Hold it right there! Big boys don't whine.\Besides, I've got to get to work!
+[Kojiroh] What work?
+[Akane] My work! I'm gonna go fetch a big story!
+[Kojiroh] This little...
+[Kojiroh] I'm getting irritated...
+[Akane] Yes, that's right... Really!?
+[Kojiroh] What is it?
+[Akane] Yes... I see... I'll get right to the scene\and take good pictures!
+[Akane] Yes... Thank you... Goodbye.
+*click*
+[Kojiroh] ...
+[Akane] Wow. I'd better be going.
+[Kojiroh] Not so fast.
+[Akane] Huh?Å@Speak up. I can't hear you.
+[Kojiroh] How come I didn't hear you saying\anything about the case?
+[Akane] What?
+[Kojiroh] I get it. You wereÅ@Speaking in code.
+[Akane] I wasn'tÅ@Speaking in code! That was the\editor of the paper.
+[Kojiroh] What!?
+[Akane] He told me about a big story. I'll call\Mr. Kou next.
+[Kojiroh] I can't believe you would enter a\person's private home and use their phone to...
+[Akane] Be a man and shut up.
+[Kojiroh] (What does being a man have to do with\anything?)
+[Kojiroh] This girl's pissing me off.
+[Akane] Yes... I know... Is that right? Ah-ha-ha...
+[Kojiroh] (What's she laughing about? She should\hurry up and get to the point.)
+[Akane] Oh, now you stop... You're making me\blush...
+[Kojiroh] (Making her blush? That slick bastard.)
+[Akane] Oh, please... Thank you, but you don't have\to say that, sir...
+[Kojiroh] "Oh, please" is right!
+[Akane] What's that? No, sir. That's just my pet\parrot you hear... I know, I know. He's a very rude\animal...
+[Kojiroh] Are you calling me a parrot?!
+[Akane] There it goes again. He's really\terrible... Ha ha ha...
+[Kojiroh] ...
+[Kojiroh] (She's enjoying herself way too much.)
+[Akane] Please, don't mention it. Tee-hee-hee...
+[Kojiroh] (I've never seen anyone have so much\goddamn fun on the phone.)
+[Akane] No, thank you. Thank you...
+[Kojiroh] (She never talks to me like that...)
+[Akane] That's right... Very true, sir. It might\not be...
+[Kojiroh] (Why do women always say more than they\need to?...)
+[Kojiroh] You buzz around like a shit-fly.
+[Akane] Be serious!
+[Kojiroh] I'm always serious.
+[Akane] ...Just forget it.
+[Kojiroh] On the surface you're just a rude woman\who calls herself Akane. But I know the truth about\you.\[Kojiroh] You're a fly who likes buzzing around\piles of shit.
+[Akane] You don't make any sense.
+[Kojiroh] Am I wrong?
+[Akane] How could a shit-fly be that cute, and hold\a cutting edge camera?
+[Kojiroh] Well that's exactly how it is. You're a\cute shit-fly with a nice camera.
+[Akane] You're impossible!
+Å@Go outside
+[Kojiroh] Akane's on the phone right now.
+[Kojiroh] I should wait a little before I go out...
+[Akane] Where do you think you're going without\me?!
+[Kojiroh] I don't have time to stand around talking\to you. I'm really busy.
+[Akane] That's funny. I could have sworn I heard\you shouting about how bored and broke you were \just fifteen minutes ago.
+[Kojiroh] (This broad's the worst...)
+[Akane] You should hear me out. You'll be glad that\you did.
+[Kojiroh] ...
+eve_03
+[Kojiroh] So after I get the fax from that Kou guy,\I've gotta go right away to find out what he\wants...
+Å@Look/Investigate
+Å@Move
+Å@Think
+Å@Save/Load
+Å@Save
+Å@Load
+Å@Missing painting
+Å@Mr. Kou
+[Kojiroh] I should ask Kou directly about the\details of the case.
+[Kojiroh] I'm not sure I like the sound of all\this, but at least I'm working again.
+[Kojiroh] I'll find the painting and get the\3 million yen before Kou has time to blink.
+[Kojiroh] Then I've got to give 500,000 to Akane...
+[Kojiroh] She's always rambling about "getting a\scoop" while she's just a hyena feeding on people's\corpses.
+[Kojiroh] I'll be okay as long as I don't mess\things up again...
+[Kojiroh] I've gotta hand it to Akane. Even though\she tricked me, she brought me a case.
+[Kojiroh] Something about a search for a missing\painting...
+[Kojiroh] And she said I'm just supposed to tell\the guy where it is; not take it to him...
+[Kojiroh] A painting... Artwork. I smell something\fishy...
+[Kojiroh] But I guess Kou trying to fraud taxes is\nothing of my business.
+[Kojiroh] All I have to worry about is solving the\case... Doing my job...
+[Kojiroh] It's one of the sacred codes of the\private eye: never violate the client's right to\secrecy.
+[Kojiroh] Of course I still wish I knew more...
+[Kojiroh] It's no use thinking about it anymore.\I'm about to go meet him in person.
+[Kojiroh] Kou... Kou!
+[Kojiroh] What's taking you so long?!... It's your\own house! Just write out the stupid map and send\it!!
+[Kojiroh] Come one, let's settle down... I should\just relax.
+[Kojiroh] If I lose my cool then my impeccable\judgement goes with it, and I start making\mistakes.
+[Kojiroh] Just 'cause he's a little slow sending\the fax is no reason to lose my head.
+[Kojiroh] He's just a little slow... Slow... Too\goddamn slow!
+*beep*
+[Kojiroh] Finally!
+[Kojiroh] Who the hell takes that long to draw a\map to their own stupid house? Is he a moron or\something?
+*beep* *beep* *beep*
+[Kojiroh] *sigh* Really... making me wait all this\time...
+[Kojiroh] Oh, wow...
+[Kojiroh] He lives in the rich part of town...
+[Kojiroh] It's not far from here... I'm off!
+[Kojiroh] There's no point wasting time thinking\about him here.
+[Kojiroh] First, I must meet that Kou guy and hear\what he has to say.
+[Kojiroh] What kind of name is "Kou" anyway?
+[Kojiroh] Like Akane says, it does sound Chinese...
+[Kojiroh] She also said stuff about the third\anniversary of his wife's death.
+[Kojiroh] When you deal with foreign cultures you\have to be tread lightly.
+[Kojiroh] Sometimes, even the slightest detail\might be badly percieved.
+[Kojiroh] First I'll meet the guy and get a feel\for things. I'll worry about the details later...
+Å@Surroundings
+Å@Lamp
+Å@Table
+Å@Work desk
+[Kojiroh] It's a little dark and dirty, but this\place is a first rate detective office.
+[Kojiroh] I'm the owner and that's what I say, so\it's got to be true.
+[Kojiroh] Akane's gone...
+[Kojiroh] It's such a relief to have that noisy\broad out of my hair again...
+[Kojiroh] This is my pad. My detective agency.
+[Kojiroh] It used to be an average warehouse on the\pier until I remodeled.
+[Kojiroh] Maybe that's why it's cheap. I just don't\know why nobody every brings me a case...
+[Kojiroh] For now, my first client after going solo\is this Kou guy...
+[Kojiroh] Where is that fax, anyway?
+[Kojiroh] A dim lamp. I'll change it as soon as I\can.
+[Kojiroh] That is, as soon as I get the money...
+[Kojiroh] It's a dark, gloomy lamp...
+[Kojiroh] But what do I expect? It came with this\place...
+[Kojiroh] I'd like to replace it soon...
+[Kojiroh] But I'm broke... Ha ha...
+[Kojiroh] I need it in order to eat.
+[Kojiroh] It's pretty convenient.
+[Kojiroh] Looks a little small, though.
+[Kojiroh] It's my multi-purpose table for eating,\organize documents and read the newspapers at the\same time.
+[Kojiroh] I can even use it to stack magazines on\it.
+[Kojiroh] ...
+[Kojiroh] Aw, what the hell am I talking about?\It's pointless...
+[Kojiroh] On top of the table is my computer. I use\it to gather information.
+[Kojiroh] I haven't used it too much lately,\though...
+[Kojiroh] Somebody please give me some work to do.
+[Kojiroh] Huh? What about the "screen"? You mean\the stuff you use to avoid sunburns?
+[Kojiroh] What are you asking about, exactly?
+[Kojiroh] My computer can do just about anything.
+[Kojiroh] It's equipped with fancy data transfer\functions.
+[Kojiroh] I can access the Internet without going\through a provider.
+[Kojiroh] There's nothing like fresh information...
+Å@Go outside
+[Kojiroh] I'd better get going to Kou's place.
+a002
+[Kojiroh] I still haven't recieved the fax from\Kou.
+[Kojiroh] I don't even know where this Kou guy is.
+[Kojiroh] I'm really motivated, but I can't go\nowhere whithout the map. Let's wait.

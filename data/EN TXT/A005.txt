@@ -1,0 +1,853 @@
+005
+[Kojiroh] ...
+[Kojiroh] I ran as fast as I could...
+[Kojiroh] And here I am at the Eldian embassy...
+[Kojiroh] Why would that son of a bitch come\here?...
+[Kojiroh] He must have gone inside...
+[Kojiroh] ...
+eve_26
+005
+eve_06
+[Kojiroh] It's locked.
+[Kojiroh] It doesn't look like those cops are\around...
+[Kojiroh] I shouldn't stay here long.
+005
+[Kojiroh] ...
+[Kojiroh] (My jacket!... The one I leant to\Purin...)
+[Kojiroh] (What could that mean?...)
+[Kojiroh] ...
+[Voice] Kojiroh!
+b08
+eve_39
+[Kyoko] ...What's wrong?
+[Kojiroh] Nothing!
+[Kyoko] Don't make such a stern face. You'll never\pick up ladies like that.
+[Kojiroh] Re...Really?
+[Kyoko] Did something happen?
+[Kojiroh] No, but I'm a little bothered by\something...
+[Kyoko] Tell me about it. We're partners, right?
+[Kojiroh] All right, but not here. Later.
+[Kyoko] Okay. What about the bug?
+[Kojiroh] Oh, I planted it perfectly. But it's only\got a range of 100 feet.
+[Kyoko] What should we do then?
+[Kojiroh] I'll have to listen right here...
+[Kyoko] Right in front of the embassy?
+[Kojiroh] We have no choice. You keep an eye out\for trouble.
+I dig through my pockets.
+[Kojiroh] I'll just put this earphone in my ear\and...
+0370
+All I hear is static.
+[Kojiroh] (Sounds like shit. Is something\interfering with the line?)
+[Kojiroh] (I should have known... Another waste of\good, hard work...)
+[Kyoko] How is it?
+[Kojiroh] Shhh!
+[Woman's voice] ...That's what I think, at least.
+[Kojiroh] (A woman's voice... Marina?...)
+[Man's voice] I see.
+[Kojiroh] (This must be Mido...)
+[Woman's voice] Since we don't know what his\intentions are, I think we should beef up security\around the embassy.
+[Man's voice] I'm sure he's just a journalist. I've\met a lot of characters like him in my day.
+[Woman's voice] Nevertheless...
+[Man's voice] Today I have to go to the opera with\the guest of honor. It's my job.
+[Woman's voice] Then let's take extra special\precautions.
+[Man's voice] You worry too much. I'll be fine.\Nobody wants to get into this embassy anyway.
+[Woman's voice] Then let me...
+[Man's voice] I thought I told you not to worry.
+[Woman's voice] ...
+[Man's voice] As Ambassador I order you to go home,\Ms. Hojo.
+[Woman's voice] ...Yes, sir.
+A door slams.
+[Kojiroh] Wow...
+[Kyoko] What's going on?
+[Kojiroh] What's that?
+[Kyoko] I asked you what's going on. Did something\happen?
+[Kojiroh] Now don't jump to conclusions.
+[Kyoko] Nothing happened?
+[Kojiroh] No.
+[Kyoko] No, nothing happened, or no, something\happened? Which one?!
+[Kojiroh] Kyoko, how fast can you run?
+[Kyoko] What?
+[Kojiroh] I asked how fast!
+[Kyoko] What do you want to know that for?
+[Kojiroh] I'll race you to my office. Then we'll\talk.
+[Kyoko] Wait a minute!... Hey!
+A siren sounds.
+[Policeman's voice] Hey! What are you two doing\there?!
+[Kojiroh] Let's get out of here.
+[Kyoko] Alright. Let's split up and meet at the\office.
+[Kojiroh] Good thinking.
+[Kyoko] You'd better tell me what's going on when\we get there!
+005
+[Kojiroh] ...
+[Kojiroh] She's faster than I thought...
+[Policeman's voice] Hey! Come back here!
+[Kojiroh] I guess I'd better get moving, too!
+005
+eve_06
+[Kojiroh] I ended up back at the embassy...
+[Kojiroh] The place still looks pretty secure...
+[Voice] Kojiroh!
+[Kojiroh] Who's there?
+b08
+eve_39
+[Kyoko] Where were you? I went all the way to your\office.
+[Kojiroh] Why are you all dressed up? Trying to\seduce the cops?
+[Kyoko] Right now school is closed... I'd think the\cops would be more suspicious of me dressed in\school uniform.
+[Kojiroh] Maybe you're right... Why are you acting\so nervous?
+[Kyoko] Because I am nervous!
+[Kojiroh] Is your period late or something?
+[Kyoko] Come on! I don't have to worry about\that... I mean... That's not why!
+[Kojiroh] Then what's wrong?
+[Kyoko] Marina's inside the embassy.
+[Kojiroh] Marina...?
+[Kyoko] Typical me, like an idiot I just bumped\into her.
+[Kojiroh] Marina's in the embassy...?
+[Kyoko] I wonder what she's doing here.
+[Kojiroh] That's what I want to know.
+[Kyoko] We can't do anything about it today.
+[Kojiroh] Why not?
+[Kyoko] Why do you think? We look pretty suspicious\out here.
+[Kojiroh] Grow up!
+[Kyoko] You sound like my mom!
+[Kojiroh] Marina has come into the picture. Things\are taking a turn for the better.
+[Kyoko] ...
+[Kojiroh] Marina's in the embassy, right?
+[Kyoko] Yeah...
+[Kojiroh] She's got a nose like a police dog.\Really knows her shit.
+[Kyoko] That's why we should get out of here.
+[Kojiroh] Wrong. That's why we can get inside. So\she can see what I'm up to.
+[Kyoko] Oh.
+[Kojiroh] I may be able to meet Ambassador Mido.
+[Kyoko] ...
+[Kojiroh] What's wrong with you?
+[Kyoko] Nothing.
+[Kojiroh] Don't worry. Look at this.
+s14
+[Kyoko] ...
+[Kojiroh] Do you know what this is?
+[Kyoko] This couldn't be a...!?
+[Kojiroh] Do you know?
+[Kyoko] It's a surveillance bug, right? What are\you going to do with it?
+[Kojiroh] What do you mean, what am I gonna do with\it? It's sort of obvious...
+[Kyoko] Don't tell me you're going to plant it in\the embassy! You must be nuts?!
+[Kojiroh] Must be.
+[Kyoko] That's a felony.
+[Kojiroh] Not if I don't get caught.
+[Kyoko] I can't believe you...
+[Kojiroh] Don't sweat it. It won't bother you at\all.
+005
+b08
+[Kyoko] I'm going to pretend I didn't hear this.
+[Kojiroh] You just wait here.
+[Kyoko] ...
+[Kojiroh] I don't want to make you an accomplice.
+[Kyoko] You won't tell anyone?
+[Kojiroh] We're partners, right?
+[Kyoko] ...Okay. I'll wait here.
+[Kojiroh] Good. I'll be in and out, smooth as\buttermilk.
+[Kyoko] I sure hope so...
+005
+005
+eve_06
+[Kojiroh] Security looks pretty tight...
+[Kojiroh] Today may be the day I finally get to see\Mido...
+[Kojiroh] I just hope he's in...
+005
+eve_08
+[Kojiroh] I get the feeling that there'll be more\police after dark...
+[Kojiroh] I guess I'll meet Mido tomorrow...
+005
+eve_08
+[Kojiroh] I get the feeling that there'll be more\police after dark...
+[Kojiroh] I shouldn't come here too much.
+005
+eve_06
+[Kojiroh] The Eldian embassy...
+[Kojiroh] They say Mido's the Ambassador here...
+005
+eve_06
+[Kojiroh] I'm in front of the embassy...
+[Kojiroh] That looks like...
+[Woman's voice] Kojiroh?
+b07
+[Kojiroh] Kyoko...
+[Kyoko] You're checking out Mido too?
+[Kojiroh] ...
+[Kyoko] Part of your secret investigation?
+[Kojiroh] Actually, I was just out walking.
+[Kyoko] Whatever you say.
+[Kojiroh] And look who's talking! I don't know any\school girls who hang out around this place.
+[Kyoko] When you're dressed in a uniform the police\are a lot nicer to you.
+[Kojiroh] Because you're both public servants?
+[Kyoko] It has nothing to do with work.
+[Kojiroh] ...
+[Kyoko] How do I look?
+[Kojiroh] Pretty damn good.
+[Kyoko] Actually, I don't. But thanks anyway.
+[Kojiroh] ...
+[Kyoko] Change your mind?
+[Kojiroh] Unfortunately.
+[Kyoko] I see...
+[Kojiroh] ...
+[Kyoko] I'm still at the same place.
+[Kojiroh] The same...place?
+[Kyoko] I wrote it down, remember? Where I live.
+[Kojiroh] Now I remember.
+[Kyoko] Close to the international school in the\girl's dorm. I'll probably be there today and\tomorrow.
+[Kojiroh] What about the day after tomorrow?
+[Kyoko] I'll probably already be...
+[Kojiroh] ...
+[Kyoko] If you change your mind, come see me. I'll\be waiting.
+[Kojiroh] I'll come see you...
+005
+[Kojiroh] ...
+[Kojiroh] Don't leave until I'm finished talking to\you!...
+005
+eve_06
+[Kojiroh] This place looks pretty secure.
+005
+eve_06
+[Kojiroh] Huh? Is that...?
+[Kojiroh] Hey, Akane!
+b16
+[Akane] Is that you, Kojiroh?
+[Kojiroh] What are you doing here?
+[Akane] Just gathering a little information...
+[Kojiroh] Information? What do you want to know\about the Eldian embassy?
+[Akane] Didn't you hear? About Mr. Kou being\killed?
+[Kojiroh] Oh, yeah...
+[Akane] It has something to do with that phony Kou.
+[Kojiroh] But what does it have to do with the\Eldian embassy?
+[Akane] Well, according to him, something big is\going to happen around here...
+[Kojiroh] "Him"?
+[Akane] Ummm...
+005
+[Kojiroh] Hey! Who's "him"?
+[Kojiroh] ...
+[Kojiroh] She's gone...
+[Kojiroh] Who the hell is "him"?
+005
+eve_06
+[Kojiroh] This place looks pretty secure.
+[Kojiroh] On the way over here I saw a bunch of\cops...
+005
+eve_08
+[Kojiroh] The Eldian embassy...
+[Kojiroh] I shouldn't hang around here too long.
+[Kojiroh] ...
+[Kojiroh] This is the business district... Why is\the embassy here?
+[Kojiroh] Ah! There it is!
+005
+eve_08
+[Kojiroh] So that's the Eldian embassy...\Surrounded by a bunch of skyscrapers.
+[Kojiroh] In the middle of a recession, putting up\an embassy in a place like this has got to be\expensive.
+[Kojiroh] I guess Middle Eastern countries are\pretty damn rich...
+I bump into someone.
+[Kojiroh] Excuse me...
+b09
+[Kojiroh] ...
+[Woman] Pardon me...
+005
+[Kojiroh] She's going into the embassy.
+[Kojiroh] ...
+　Look/Investigate
+　Move
+　Speak
+　Do it
+　Kiss
+[Kyoko] If you try that again I'll kill you.
+[Kojiroh] (She says it like she means it...)
+[Kyoko] Until you change your mind, I'm going to\keep screaming. AAAHHH!!
+[Kojiroh] What are you doing?!
+[Kyoko] Everyone! This man's trying to get into the\embassy!
+[Kojiroh] (Dang. I guess I've got no choice.)
+0395
+I grab her.
+[Kyoko] Hey!
+eve_39
+[Kyoko] What are you doing?!
+[Kojiroh] You're making too much noise...
+0395b
+[Kyoko] Let go! ...Mmph!
+[Kojiroh] ...
+[Kyoko] ...Mmm... Mmph... Mmmph...
+[Kojiroh] ...
+[Kyoko] Stop it, Kojiroh...
+[Kojiroh] Not yet.
+[Kyoko] Mmph... Mmmm... Mmmmmph...
+[Kojiroh] Keep on resisting, baby. It turns me on.
+[Kyoko] ...
+[Kojiroh] Good girl.
+0395c
+She hits me.
+[Kyoko] What are you saying?!
+[Kojiroh] Your timing is a little off for getting\angry.
+[Kyoko] What do you mean, "good girl"?! Don't think\you're hot stuff just because you know how to kiss.
+[Kojiroh] Are you saying you enjoyed it?
+She slaps me.0
+\ 
+[Kojiroh] Ouch!
+[Kyoko] Quit acting like a jerk!
+[Kojiroh] Kyoko, please.
+[Kyoko] ...
+[Kojiroh] We won't get another chance like this.\Fatass is probably inside...
+[Kyoko] So what?
+[Kojiroh] Purin might be in there too...
+[Kyoko] I said so what?
+[Kojiroh] You think the police would actually help\us?
+[Kyoko] Who knows...
+[Kojiroh] I have no choice but to do it. Now is the\time.
+[Kyoko] ...
+[Kojiroh] I thought we were partners.
+[Kyoko] ...
+[Kojiroh] You know, you're cute when you're being\kissed.
+[Kyoko] You mean I'm not cute when I'm not\kissing?!
+[Kojiroh] What are you getting all pissed about?
+[Kyoko] I don't care... Go ahead. I won't stop you.
+[Kojiroh] That's right. It would be stupider for\you to keep screaming and get us arrested.
+[Kyoko] But even a mouse couldn't get inside this\building.
+[Kojiroh] Whether or not the mouse can do it, I\can. Besides, look...
+005
+005b
+005c
+[Kojiroh] An elephant could get in right now.
+b08
+[Kyoko] What will you do if you're caught?
+[Kojiroh] I won't get caught.
+[Kyoko] But what if you do?!
+[Kojiroh] That's like asking me what I would do if\I went to Mars. It's a meaningless question.
+[Kyoko] You're too confident!
+[Kojiroh] You can never be too confident.
+[Kyoko] Why is that?
+[Kojiroh] I don't know.
+[Kyoko] You drive me crazy!
+　Security guard
+　Kyoko
+[Kojiroh] (I said he's not here!...)
+[Kojiroh] (This must be my chance.)
+[Kyoko] I won't try to stop you... It wouldn't even\help if I did.
+[Kojiroh] That's the spirit.
+[Kyoko] I really can't believe you.
+[Kyoko] Please don't commit any more crimes!
+[Kojiroh] You make me sound like a bad guy...
+　Surroundings
+　Gate
+　Security guard
+　Kyoko
+[Kojiroh] (There seems to be some confusion inside\the embassy...)
+[Kojiroh] (I'll take advantage of this\opportunity...)
+[Kyoko] Are you really going inside?
+[Kojiroh] You better believe it, baby.
+[Kojiroh] (That big-ass gate is open...)
+[Kojiroh] (Which means that even a child could get\in.)
+[Kyoko] Are you looking at what I think you are?\No! Not that gate!
+[Kojiroh] (No one's there...)
+[Kojiroh] (No one's there to stop me.)
+[Kojiroh] (She looks appalled...)
+[Kojiroh] (It's not impossible...)
+[Kyoko] No! Please, stop it!
+[Kojiroh] If people heard you they'd think I was\raping you or something...
+　Go inside
+　International school
+[Kyoko] Are you sure?
+[Kojiroh] Yes.
+[Kyoko] You're unbelievable! God help us!
+[Kojiroh] Just relax. I won't get you in any\trouble.
+[Kyoko] ...
+[Kojiroh] Wait for me at the girls' dorm. I'll go\there as soon as I find anything.
+[Kyoko] ...I'm going with you!
+[Kojiroh] No go, baby. Forget about losing your\career, you might get killed.
+[Kyoko] I can't let you do something so risky by\yourself.
+[Kojiroh] I'm not a baby.
+[Kyoko] That's not what I meant... If you don't\take me I'll stay here and start screaming again.
+[Kojiroh] Shit... I think I'm gonna regret this.
+[Kyoko] I thought you said you wouldn't get caught.\If you're sure, then I'm sure.
+[Kojiroh] I'll be okay. I'm a first class\detective.
+[Kyoko] Well then. You haven't got much time. The\longer you wait the greater the risk.
+[Kojiroh] Okay. Let's go in!
+a006
+[Kyoko] Wait! Be serious! I won't let you go!
+[Kojiroh] (Women...)
+[Kyoko] You're going back to the international\school?
+[Kojiroh] No.
+[Kyoko] ...
+[Kyoko] Come on. Let's go back to the international\school.
+[Kojiroh] (I wonder...)
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Kojiroh] There's no one to talk with...
+[Kojiroh] What do you mean?
+[Kojiroh] Do you see anyone to talk with?
+[Security guard] You don't give up, do you?...
+[Security guard] Look, get lost!
+[Security guard] Is there something significant\about a black Mercedes Benz?
+[Security guard] Hey, this isn't a playground. Get\out of here.
+[Security guard] I can't say anything about\security issues.
+[Security guard] People with business at the\embassy come in black Mercedes Benzes. What's up?
+[Security guard] Did you ask if I saw a black\Mercedes?
+[Security guard] I see 'em every day. All the\embassy's cars are bullet-proofed, black Mercedes.
+[Security Guard] But why would you want to know\about that for?
+[Security guard] Anyway, you can't get any\information today. They told me not to let anyone\through.
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] Mr. Bear the bodyguard isn't there\anymore...
+[Kojiroh] I wonder what happened...
+[Kojiroh] Phony Kou might be inside the embassy...
+[Kojiroh] What should I do... The latch won't open\with me just standing around like this.
+[Kojiroh] He might be inside... But I can't get\inside.
+[Kojiroh] What should I do...?
+[Kojiroh] I don't see Fatass' black Mercedes...
+[Kojiroh] I completely lost it...
+[Kojiroh] I'm sure Fatass' car came here\someplace...
+[Kojiroh] It was awfully noisy...
+[Kojiroh] What the hell happened?...
+[Kojiroh] I can only think of one answer...
+[Kojiroh] I followed that car all the way from the\international school.
+[Kojiroh] I never thought I'd lose him right in\front of the embassy.
+[Kojiroh] Come to think of it, that car had an\embassy license plate. And I lost the car right in\front of the embassy.
+[Kojiroh] There's only one possibility...
+[Kojiroh] He must be here...
+[Kojiroh] ...
+[Kojiroh] That phony Kou's black Mercedes must be\here...
+[Kojiroh] ...But why would he come to the embassy?
+[Kojiroh] What connection does Fatass have with the\Ambassador...?
+[Kojiroh] ...
+[Kojiroh] I wonder if he came here.
+[Kojiroh] I'll never know if I don't go in and see.
+[Kojiroh] That big gate is open...
+[Kojiroh] It's a pretty thick gate for an\embassy...
+[Kojiroh] With a gate like that, it doesn't seem\likely that I could get in...
+[Kojiroh] ...!
+005b
+[Kojiroh] The gate opened... I wonder why.
+[Kojiroh] People are coming out... And there's Mr.\Bear, the bodyguard.
+[Kojiroh] Shit.
+eve_15
+[Kojiroh] ...
+[Voice 1] Was he there?
+[Voice 2] Nope.
+[Voice 3] Did you look everywhere inside the\building?
+[Voice 4] I did, but...
+[Voice 1] Let's split up and search.
+[Voice 2] If someone's here then we're screwed.
+[Voice 3] I'll do my best...
+[Voice 4] I'll look over here. You search over\there...
+[Voice 1] Yes, sir.
+[Kojiroh] ...
+[Kojiroh] (They sure are making a fuss...)
+[Kojiroh] (What the hell's going on at the\embassy?)
+[Kojiroh] ...
+[Kojiroh] (Things have calmed down...)
+[Kojiroh] (They're not around anymore...)
+[Kojiroh] (The coast is clear.)
+005
+005b
+005c
+[Kojiroh] ...
+[Kojiroh] The gate is open...
+[Kojiroh] What happened?
+[Kojiroh] This thing's supposed to be bullet-proof.\It looks thick and heavy.
+[Kojiroh] Pretty thick gate... I doubt I can break\through without an armored truck.
+[Kojiroh] I don't even want to think about entering\through here...
+[Kojiroh] But...
+[Kojiroh] ...
+[Kojiroh] It looks like the security guard isn't\around...
+[Kojiroh] It could be...
+[Kojiroh] Easy to penetrate... Since the guard's\gone.
+[Kojiroh] Forget about it. It's a embassy...
+[Kojiroh] No guard. And the gate's wide open...
+[Kojiroh] ...
+[Kojiroh] That's strange.
+[Kojiroh] The scary guard isn't there...
+[Kojiroh] That's not very secure...
+[Kojiroh] ...
+[Kojiroh] Not secure...?
+[Security guard] I can't answer any questions...
+[Security guard] What are you looking for...?
+[Security guard] The Ambassador told me to keep the\press out.
+[Security guard] I'm very sorry, but I can't help\you.
+　Go inside
+　International school
+[Kojiroh] ...
+[Kojiroh] The gate's open, and the pesky guard is\nowhere around...
+[Kojiroh] Which means I can get in right now!...
+[Voice] Kojiroh!
+[Kojiroh] Huh?...
+b08
+[Kojiroh] Kyoko... What are you doing here?
+[Kyoko] How dare you leave me and just go.
+[Kojiroh] Sorry, but I had to.
+[Kyoko] You didn't have to at all!
+[Kojiroh] ...How did you know to come here?
+[Kyoko] It was a diplomat's car. If you think about\it this is the only place they could be going.
+[Kojiroh] You're pretty smart.
+[Kyoko] Forget about that, Kojiroh. What are you\doing trying to get into the embassy?
+[Kojiroh] I was planning on going in.
+[Kyoko] Huh?
+[Kojiroh] Don't you feel it?
+[Kyoko] Feel what?
+[Kojiroh] Something.
+[Kyoko] ...Now that you mention it, something does\seem strange.
+[Kojiroh] Doesn't it?
+[Kyoko] ...
+[Kojiroh] That's why I'm going inside.
+[Kyoko] You must be joking.
+[Kojiroh] Sorry, but I'm dead serious. I never\liked telling jokes just after masturbating.
+[Kyoko] Hey, Funny Guy, this is a foreign embassy.\They follow their own laws. Am I getting through to\you?
+[Kojiroh] I think I know what you mean.
+[Kyoko] It's not Japan in there!
+[Kojiroh] Keep your voice down.
+[Kyoko] If they catch you they'll kill you and\spread your ass on their falafels, and you won't be\able to say anything about it.
+[Kojiroh] You're such a worrywart.
+[Kyoko] You just don't worry enough!
+[Kojiroh] Shhh! I said keep quiet.
+[Kyoko] I'll be as loud as I want if you don't\change your mind about this. Okay?!
+[Kojiroh] Calm down...
+[Kyoko] I've stood by and watched your nastiness\long enough. This time I won't let you do it!
+[Kojiroh] Me, nasty?...
+[Kyoko] I'll scream! EEEeeek!
+[Kojiroh] (I guess I have no choice...)
+[Kojiroh] Come on. Do you think I could get in\here?...
+[Kojiroh] ...
+[Security guard] I won't let anyone in.
+[Security guard] If you're after a scoop then\you'll have to make an appointment.
+[Security guard] Hey!
+[Security guard] You can't get in here! They tell\me not to let anyone in.
+[Security guard] A fat Chinese-looking man...?
+[Security guard] Don't know him... And even if I\did I wouldn't tell you.
+[Kojiroh] I think he just came from over there...
+[Kojiroh] Nevermind that. I have to find where that\fatass went first...
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Security guard] The Ambassador isn't here. He'll\be back later.
+[Security guard] The Ambassador isn't here.
+[Security guard] If you have some business here\I'll hear it...
+[Security guard] I'm sorry, but I can't let you in.
+[Security guard] If you have some business with the\Ambassador, I'm sorry. He just left.
+[Security guard] You keep coming don't you. Aren't\you a journalist or something?
+[Security guard] The Ambassador is out...
+[Security guard] Where did he go? I can't tell you\that.
+[Security guard] If you're here for news\information, you'd better schedule an appointment.
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] This place looks pretty well fortified...
+[Kojiroh] If I'm not careful I'll get caught.
+[Kojiroh] I shouldn't hang around too much...
+[Kojiroh] That cop is staring at me pretty\threateningly...
+[Kojiroh] This place is like a fortress...
+[Kojiroh] The Eldian Republic's embassy...
+[Kojiroh] Supposedly this is where Mido works as\Ambassador.
+[Kojiroh] I doubt I could get into this place\without a tank...
+[Kojiroh] This things supposed to be bullet-proof.\It looks thick and heavy.
+[Kojiroh] Pretty thick gate... I doubt I can break\through without an armored truck.
+[Kojiroh] I don't even want to think about entering\through here...
+[Security guard] Get me from a 45 degree angle...\Hey! Where are you going!?
+[Security guard] Look at my face from a 45 degree\angle to the right.
+[Security guard] I'm pretty proud of myself from\this angle.
+　Go inside
+　International school
+[Security guard] If you want to see the Ambassador\you should make an appointment first.
+[Security guard] The Ambassador is a very busy\man...
+[Security guard] You again... Trying to get a\story?
+[Security guard] Too bad. The Ambassador's out\right now.
+[Security guard] I don't know if he'll be back\today or not...
+[Kojiroh] It does me no good to hang around here...
+[Kojiroh] I'd better be getting back to the\international school.
+a014_2
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Kojiroh] Who cares about the damn security guard?
+[Kojiroh] It would suck if I got caught.
+[Kojiroh] There's no time for that!
+[Kojiroh] I'm gonna get the hell out of here now!
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] The police are coming...
+[Kojiroh] I'd better get out of here quick...
+[Kojiroh] He came out from there...
+[Kojiroh] There was no time to look.
+[Kojiroh] The gate!
+[Kojiroh] I want to get out of here!
+[Kojiroh] If I get stuck between him and the cops\I'll really be screwed.
+　Go inside
+　International school
+[Kojiroh] Hey, that's where I came out of.
+[Kojiroh] What am I going to do in there again?
+[Kojiroh] I'll bet I can get away if I go that\way...
+[Police] Hey! Stop where you are!
+[Kojiroh] I'm getting out of here!
+a014_2
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Security guard] What are you doing? The Ambassador\is waiting inside.
+[Kojiroh] Hi there.
+[Security guard] You again... What business have\you here anyway?
+[Kojiroh] I have an appointment to get a story from\the Ambassador.
+[Security guard] The story...?
+[Kojiroh] That's right. I'm a journalist.
+[Security guard] No one told me about any of this.
+[Kojiroh] Why don't you go and confirm it?
+[Security guard] Okay. It won't take but a minute.
+[Kojiroh] Take your time. Your loyalty is virtuous.
+[Security guard] Just wait here...
+[Kojiroh] (Stairwell #1 is all clear...)
+[Kojiroh] (There's probably a surveillance camera\somewhere...)
+[Kojiroh] (Maybe that's it on top of the gate.)
+[Kojiroh] Mr. Security guard...
+[Security guard] Leave me alone. I'm trying to get\through.
+[Kojiroh] I know, but I was wondering if that thing\on top of the gate is a surveillance camera.
+[Security guard] That's exactly what it is. Your\face is being checked by the monitor right now.
+[Kojiroh] I see. That's good.
+[Security guard] ...
+[Kojiroh] (Check out my face real good.)
+[Kojiroh] (But I wonder if it's really recording\me...)
+[Security guard] What? You haven't made any such\appointments?
+[Kojiroh] ...?!
+[Security guard] I see. Don't worry, I'll get rid\of him...
+[Kojiroh] (... Did I mess up?)
+[Kojiroh] (That's strange... I thought I could get\in...)
+[Security guard] Sorry, Charlie, but the\Ambassador's never heard of you... Huh?
+[Kojiroh] He's a busy man...
+[Security guard] Yes... Yes... No... I understand.
+He hangs up the phone.
+[Security guard] Apparently you did have an\appointment after all.
+[Kojiroh] Told you so. (That was a close one.)
+[Security guard] It's very rare for the Ambassador\to allow reporters inside, but...
+[Kojiroh] But you're gonna let me come in now,\aren't you?
+[Security guard] Yeah...
+[Kojiroh] (Like taking candy from a baby.)
+[Security guard] If you give me any more trouble\I'll call the police.
+[Security guard] The Ambassador is very busy. He\has no time for you.
+[Security guard] So get lost, if you catch my\drift.
+[Security guard] What? You're a journalist?
+[Security guard] If you're looking for a story you\need to get an appointment first.
+[Security guard] Without an appointment the\Ambassador won't see you.
+[Security guard] You're asking me if the Ambassador\is here?
+[Security guard] Why do you want to know about\that?
+[Security guard] Go on. Get lost.
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] This place looks pretty well fortified...
+[Kojiroh] If I'm not careful I'll get caught.
+[Kojiroh] I shouldn't hang around too much...
+[Kojiroh] That cop is staring at me pretty\threateningly...
+[Kojiroh] This place is like a fortress...
+[Kojiroh] The Eldian Republic's embassy...
+[Kojiroh] Supposedly this is where Mido works as\Ambassador.
+[Kojiroh] I doubt I could get into this place\without a tank...
+[Kojiroh] This things supposed to be bullet-proof.\It looks thick and heavy.
+[Kojiroh] Pretty thick gate... I doubt I can break\through without an armored truck.
+[Kojiroh] I don't even want to think about entering\through here...
+[Security guard] I deactivated the lock... You can\go in.
+[Security guard] You should go quickly for your own\sake.
+[Security guard] What are you looking at?
+[Security guard] Unless you have some business\here, you should hurry up and disappear.
+　Go inside
+　International school
+[Kojiroh] (Soon I'll be face to face with Mido...)
+[Kojiroh] (Hopefully I can get enough information\out of him...)
+a006
+[Security guard] Hey! You can't just go in there!
+[Security guard] I'm getting sick of your face... I\won't let you in here.
+[Security guard] Nobody gets in unless they're\affiliated with the embassy.
+[Security guard] If you keep standing there I'll\call the police.
+[Kojiroh] (I'd be better off together with Kyoko.)
+[Security guard] You come here a lot...
+[Security guard] If you behave suspiciously I'll\call the police.
+[Security guard] Go on. Get out of here.
+[Kojiroh] I haven't met Mido yet...
+[Kojiroh] I came here to see Mido.
+[Kojiroh] Kyoko's waiting for me...
+[Kojiroh] This place is no good. It gives me bad\vibes...
+[Kojiroh] I'll go back to the international school.
+a014_2
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Security guard] If you don't stop bothering me\I'll call the police.
+[Security guard] The Ambassador is very busy. He\has no time for you.
+[Security guard] So get lost, if you catch my\drift.
+[Security guard] What? You're asking if Ambassador\Mido is here?
+[Security guard] What do you want to talk about the\Ambassador for?
+[Security guard] Go on. Get lost.
+[Security guard] You were here earlier too... What\business do you have here anyway?
+[Security guard] You'd better not try to come in\just because you're curious.
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] This place looks pretty well fortified...
+[Kojiroh] If I'm not careful I'll get caught.
+[Kojiroh] I have a feeling that after dark there\will be a lot of patrol cars around here.
+[Kojiroh] I shouldn't hang around too much...
+[Kojiroh] This place is like a fortress...
+[Kojiroh] The Eldian Republic's embassy...
+[Kojiroh] Supposedly this is where Mido works as\Ambassador.
+[Kojiroh] The profound appearance of this building\must be even stronger at night.
+[Kojiroh] This thing's supposed to be bullet-proof.\It looks thick and heavy.
+[Kojiroh] Pretty thick gate... I doubt I can break\through without an armored truck.
+[Security guard] You should go quickly for your own\sake.
+[Security guard] What are you looking at?
+[Security guard] Unless you have some business\here, you should hurry up and disappear.
+　Go inside
+　International school
+[Security guard] Nobody gets in unless they're\affiliated with the embassy.
+[Security guard] If you keep standing there I'll\call the police.
+[Security guard] You come here a lot...
+[Security guard] If you behave suspiciously I'll\call the police.
+[Security guard] Go on. Get out of here.
+[Kojiroh] This place is no good. It gives me bad\vibes...
+[Kojiroh] I'll go back to the international school.
+a014_2
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Security guard] You'd better be careful... We deal\with troublemakers differently here.
+[Security guard] You'd better shape up... I'm\serious about calling the police.
+[Security guard] You're giving me a lot of work\today...
+[Security guard] No one gets in who doesn't have\business here.
+[Security guard] And you don't have any, so you're\not getting in, okay?
+[Security guard] Not you again... I thought I\warned you yesterday.
+[Security guard] We deal very harshly with\troublemakers here. You'd better watch yourself.
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] This place looks pretty well fortified...
+[Kojiroh] There are a lot of patrol cars around...
+[Kojiroh] I'd better not linger.
+[Kojiroh] This place is built like a fortress...
+[Kojiroh] I wonder if they can spare any dough for\me... Just a couple hundred a month.
+[Kojiroh] Last night it was dark and I couldn't see\anything...
+[Kojiroh] In the light, though, it looks pretty\tough to crack.
+[Kojiroh] If I went in they'd kill my ass dead.
+[Kojiroh] It's so big...
+[Kojiroh] I'm talking about the building, of\course.
+[Kojiroh] This things supposed to be bullet-proof.\It looks thick and heavy.
+[Kojiroh] Pretty thick gate... I doubt I can break\through without an armored truck.
+[Security guard] You should go quickly for your own\sake.
+[Security guard] What are you looking at?
+[Security guard] Unless you have some business\here, you should hurry up and disappear.
+　Go inside
+　International school
+[Security guard] Nobody gets in unless they're\affiliated with the embassy.
+[Security guard] If you keep standing there I'll\call the police.
+[Security guard] You come here a lot...
+[Security guard] If you behave suspiciously I'll\call the police.
+[Security guard] Go on. Get out of here.
+[Kojiroh] This place is no good. It gives me bad\vibes...
+[Kojiroh] I'll go back to the international school.
+a014_2
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Security guard] Are you trying to get arrested?
+[Security guard] This is no place for vermin like\you.
+[Security guard] If you loiter I'll call the\police.
+[Security guard] No one gets in unless they're\affiliated with the embassy.
+[Security guard] You're still here?... Get lost for\your own sake.
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] The police are watching too...
+[Kojiroh] If I keep hanging around someone's gonna\spot me...
+[Kojiroh] It's just an embassy, but it looks like a\damn fortress.
+[Kojiroh] I could get busted just for looking at\it.
+[Kojiroh] I'm probably being watched by\surveillance cameras...
+[Kojiroh] This place is like a fortress...
+[Kojiroh] I'd like to trade my office for this\place.
+[Kojiroh] The windows are reflecting light...\Tinted glass.
+[Kojiroh] I wonder what those pipes are in the\corners of the doors... Maybe I'd better not think\about it.
+[Kojiroh] The security around this place is\unbelievable. If I got caught inside I'd be toast.
+[Kojiroh] Pretty big building...
+[Kojiroh] I hate the way that the crime prevention\mechanisms are hidden.
+[Kojiroh] No, not crime prevention mechanisms. More\specifically, they're mechanisms to keep my ass\out...
+[Kojiroh] I guess an embassy would be a prime\target for terrorism.
+[Kojiroh] Just for that they'd have to resort to a\heavy-duty defense system...
+[Security guard] Hey! Don't touch the gate!
+[Kojiroh] Pretty thick gate... It's probably bullet\proof.
+[Security guard] You should go quickly for your own\sake.
+[Security guard] What are you looking at?
+[Security guard] Unless you have some business\here, you should hurry up and disappear.
+　Go inside
+　International school
+[Security guard] Nobody gets in unless they're\affiliated with the embassy.
+[Security guard] If you keep standing there I'll\call the police.
+[Security guard] Hey, shithead! What do you think\you're doing?
+[Security guard] Nobody's allowed in unless they're\affiliated with the embassy.
+[Security guard] Go on. Get lost!
+[Kojiroh] There's no use in my staying here any\longer...
+a014
+　Look/Investigate
+　Move
+　Speak
+　Security guard
+[Security guard] Are you trying to get arrested?
+[Security guard] This is no place for vermin like\you.
+[Security guard] If you loiter I'll call the\police.
+[Security guard] What do you mean, asking me who\that woman just now was?
+[Security guard] Why should I tell you?
+[Security guard] Nobody gets in unless they're\affiliated with the embassy.
+[Kojiroh] (Which means that woman had some business\here...)
+[Kojiroh] How are things?
+[Security guard] What?
+[Kojiroh] What a building! Is this the President's\vacation resort?
+[Security guard] This is the embassy of the\Republic of Eldia. You'd be wise to not to try any\funny stuff.
+[Kojiroh] What would happen?
+[Security guard] The police would be here in a\second.
+[Kojiroh] Is that so...
+　Surroundings
+　Embassy
+　Gate
+　Security guard
+[Kojiroh] The police are watching too...
+[Kojiroh] If I keep hanging around someone's gonna\spot me...
+[Kojiroh] It's just an embassy, but it looks like a\damn fortress.
+[Kojiroh] I could get busted just for looking at\it.
+[Kojiroh] I'm probably being watched by\surveillance cameras...
+[Kojiroh] This place is like a fortress...
+[Kojiroh] I'd like to trade my office for this\place.
+[Kojiroh] The windows are reflecting light...\Tinted glass.
+[Kojiroh] I wonder what those pipes are in the\corners of the doors... Maybe I'd better not think\about it.
+[Kojiroh] The security around this place is\unbelievable. If I got caught inside I'd be toast.
+[Kojiroh] Pretty big building...
+[Kojiroh] The woman who just went inside... Is she\affiliated with this embassy somehow?
+[Kojiroh] I guess an embassy would be a prime\target for terrorism.
+[Kojiroh] Just for that they'd have to resort to a\heavy-duty defense system...
+[Security guard] Hey! Don't touch the gate!
+[Kojiroh] Pretty thick gate... It's probably bullet\proof.
+[Security guard] You should go quickly for your own\sake.
+[Security guard] What are you looking at?
+[Security guard] Unless you have some business\here, you should hurry up and disappear.
+　Go inside
+　International school
+[Security guard] Nobody gets in unless they're\affiliated with the embassy.
+[Security guard] If you keep standing there I'll\call the police.
+[Security guard] Hey, shithead! What do you think\you're doing?
+[Security guard] Nobody's allowed in unless they're\affiliated with the embassy.
+[Security guard] Go on. Get lost!
+[Kojiroh] There's no use in my staying here any\longer...
+[Kojiroh] I thought I'd get something out of this,\but I was wrong.
+[Kojiroh] I'd better get back to the international\school.
+a014
+[Kojiroh] I feel like I should stay here a little\longer...

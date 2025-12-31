@@ -1,0 +1,1234 @@
+001
+eve_39
+[Kyoko] Kojiroh...Are you here? Kojiroh!
+[Kojiroh] What do you want?
+[Kyoko] Oh, there you are. Where the hell were you?\I've been screaming your name!
+[Kojiroh] Did something happen?
+[Kyoko] Hurry up and get over here!
+0380
+[Kyoko] Something happened alright.
+[Kojiroh] Labor pains?
+[Kyoko] This is no time for your stupid jokes.
+[Kojiroh] You don't have to be so blunt...
+[Kyoko] We lucked out. Just now someone accessed\the public safety DBMS.
+[Kojiroh] Oh?
+[Kyoko] The protection override gave up part way\through... But my patience paid off. I'll sneak in\behind this user.
+[Kojiroh] Can you do it?
+[Kyoko] I think so...
+[Kojiroh] Now you're a first class spy.
+[Kyoko] I'm warming up to the work.
+　Input
+　Quit this search
+　Regarding Eldia
+　Regarding political systems
+[Kyoko] Huh? Didn't you already do that?
+[Kojiroh] Yeah, but just one more time.
+[Kyoko] Jesus! Even after I said time is of the\essence...
+--> e0
+--> el0
+--> eld0
+--> eldi0
+--> eldia0
+Republic of Eldia0
+A developing country located on the southern part of the Arabian peninsula. Adheres very strictly to the commandments of Islam, and continues to oppose the intrusion of Western culture. A republican monarchy until last year when the king died.0
+At the same time, it joined the United Nations and began cultural reform, so, while it continues to remain Islamic, a blending of liberal customs and western culture is attracting much attention. Its major industries are minerals and tourism.0
+** Warning level.5 **0
+There is question as to whether or not the king was assassinated.0
+This is surmised from information on International ID number B12AJ23...0
+...Code name "Terror"0
+[Kyoko] This has got to be the same guy...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kojiroh] How about 'Republic of Eldia'...
+[Kyoko] Okay.
+--> e0
+--> el0
+--> eld0
+--> eldi0
+--> eldia0
+Republic of Eldia0
+A developing country located on the southern part of the Arabian peninsula. Adheres very strictly to the commandments of Islam, and continues to oppose the intrusion of Western culture. A republican monarchy until last year when the king died.0
+At the same time, it joined the United Nations and began cultural reform, so, while it continues to remain Islamic, a blending of liberal customs and western culture is attracting much attention. Its major industries are minerals and tourism.
+[Kojiroh] It's like a mass communications report.\Not too helpful.
+[Kyoko] What the hell...0
+** Warning level.5 **0
+There is question as to whether or not the king was assassinated.0
+This is surmised from information regarding International ID number B12AJ23...0
+...Code name "Terror"0
+[Kyoko] It's flashing a warning at us!
+[Kojiroh] "Terror"...So this is what Siria was\talking about.
+[Kyoko] Who is this "Terror" anyway?
+[Kojiroh] He's got a scary reputation as a bad\assassin in the Middle East.
+[Kyoko] But the fact that we're getting a level 5\warning means that we're accessing this thing with\high level security clearance.
+[Kojiroh] High level?
+[Kyoko] You know, the person we're accessing the\system with.
+[Kojiroh] ...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] "Political system" again, right?
+--> e0
+--> el0
+--> eld0
+--> eldi0
+--> eldia0
+--> eldia 0
+--> eldia a0
+--> eldia an0
+--> eldia and0
+--> eldia and 0
+--> eldia and p0
+--> eldia and po0
+--> eldia and pol0
+--> eldia and poli0
+--> eldia and polit0
+--> eldia and politc0
+--> eldia and politca0
+--> eldia and politcal0
+--> eldia and politcal 0
+--> eldia and politcal s0
+--> eldia and politcal sy0
+--> eldia and politcal sys0
+--> eldia and politcal syst0
+--> eldia and politcal syste0
+--> eldia and politcal system0
+Republic of Eldia and political system0
+Though they call themselves a republic, Eldia is actually a monarchic republic with a king. The king is the one who chooses the prime minister and all others in power, and has the final word in running the government. Congress only has the power to enter into treaties.0
+Last year the king passed away, and real power fell into the hands of the present cabinet. Currently Eldia is undergoing a rapid reform. Reform in the nation's laws and administration of justice are accompanying its transformation into a people's republic.0
+** Warning level.5 **0
+It is suspected that the king may have been assassinated by "Terror."0
+The Eldian Prime minister's abilities are praised in many foreign countries.0
+There has been no internal strife regarding inheritance to the throne.0
+Republic of Eldia, political rating: C+, stability: B0
+[Kojiroh] ...
+[Kyoko] Let's keep going.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 10
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kojiroh] I want to find out about the Eldia's\political system...
+[Kyoko] Okay.
+--> e0
+--> el0
+--> eld0
+--> eldi0
+--> eldia0
+--> eldia 0
+--> eldia a0
+--> eldia an0
+--> eldia and0
+--> eldia and 0
+--> eldia and p0
+--> eldia and po0
+--> eldia and pol0
+--> eldia and poli0
+--> eldia and polit0
+--> eldia and politc0
+--> eldia and politca0
+--> eldia and politcal0
+--> eldia and politcal 0
+--> eldia and politcal s0
+--> eldia and politcal sy0
+--> eldia and politcal sys0
+--> eldia and politcal syst0
+--> eldia and politcal syste0
+--> eldia and politcal system0
+Republic of Eldia and political system0
+Though they call themselves a republic, Eldia is actually a monarchic republic with a king. The king is the one who chooses the prime minister and all others in power, and has the final word in running the government. Congress only has the power to enter into treaties.0
+Last year the king passed away, and real power fell into the hands of the present cabinet. Currently Eldia is undergoing a rapid reform. Reform in the nation's laws and administration of justice are accompanying its transformation into a people's republic.0
+** warning level.5 **0
+It is suspected that the king may have been assassinated by "Terror."0
+The Eldian Prime minister's abilities are praised in many foreign countries.0
+There has been no internal strife regarding inheritance to the throne.0
+Republic of Eldia, political rating: C+, stability: B0
+[Kojiroh] "Terror" assassinated the king...
+[Kyoko] The bureaucrats don't seem to think Eldia's\such a hot place.
+[Kojiroh] Something's up with the timing of the\reform.
+[Kyoko] Isn't it happening for the sake of the\country?
+[Kojiroh] In the political sphere the problem\wasn't about what to do, but about what had already\been achieved.
+[Kyoko] ...
+[Kojiroh] There's something I don't like here...
+[Kyoko] Are we finished with this?
+[Kojiroh] Yeah.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 10
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] Quit the "politics" category, right?
+[Kyoko] I'm returning to the top menu.
+　Input
+　Quit this search
+[Kyoko] Okay, so I'm quitting the Arts category.
+[Kyoko] I'm returning to the top menu.
+　Painters
+　About the curse
+[Kyoko] NO WAY!
+[Kojiroh] All right, all right...
+[Kyoko] Why do you want to know about a curse\anyway?
+[Kojiroh] Who knows? There might be something\there.
+[Kyoko] What the hell are you thinking?! Aren't\there more important things we have to do with our\time?
+[Kojiroh] Alright, so there's no time for fun.
+[Kyoko] Of course there isn't!
+[Kyoko] We didn't find any data, did we...
+[Kyoko] When you want out of the Arts category,\have me quit the search, okay?
+[Kyoko] The artist who did that painting. What was\his name again?
+[Kojiroh] I wrote it down somewhere. Gimme a\second.
+I shuffle through my things.
+[Kojiroh] Here we go. " Sir Lastma Gurrita Lachal\"... What the hell is this thing, a tongue twister?\Jesus Christ!
+[Kyoko] Let's try a search.
+--> r0
+--> ra0
+--> ras0
+--> rash0
+--> rasha0
+--> rashal0
+--> rashal ... data not found.0
+[Kyoko] No good. We can't find anything.
+[Kojiroh] Even the government's official database\doesn't give us anything.
+[Kyoko] Oh well, It's a database, not an\encyclopedia...
+[Kojiroh] So they only give out information that's\good for the lousy bureaucrats and high officials.
+[Kyoko] That's a harsh way of putting it. You're\right though...
+[Kojiroh] If this guy's not even famous in the\Middle East, I guess he's not gonna come up...
+[Kyoko] Oh well. Are we finished with this, then?
+[Kojiroh] Yeah.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 10
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+　Input
+　Quit this search
+[Kojiroh] I'm sure you can do it.
+[Kyoko] Don't look at me like that!
+[Kojiroh] Like what?
+[Kyoko] You know, if I get canned, you're gonna\have to take care of me.
+[Kojiroh] Fine with me.
+[Kyoko] Oh yeah?... Well, for now time is precious.
+[Kyoko] Quit the "people" category, right?
+[Kyoko] I'm returning to the top menu.
+　People 1
+　People 2
+　Mido
+　Kou
+　"Terror"
+　Mayako
+[Kyoko] You want to look at that out again?
+[Kojiroh] Quit your griping and just do it.
+[Kyoko] Whatever you say, boss.
+--> s0
+--> st0
+--> sto0
+--> stol0
+--> stole0
+--> stolem0
+--> stolema0
+--> stoleman0
+--> stoleman 0
+--> stoleman k0
+--> stoleman ko0
+Stoleman Kou0
+Height: 6'0"  Weight: 190 lbs.  Nationality: Republic of Eldia  \Birthday: 01/02  Age: 35  Address: (*1)\n(*1) Refer to the abstract on his family register.0
+Yale International School President, Grandfather (deceased) worked as a butler under the Eldian royal family, Father (deceased) was head of the former Eldia Science Ministry, Counsel to the King, he established an endowment for education, Founder of the international school.0
+** Warning level.3 **0
+He is suspected for embezzlement. Currently being investigated by Kyoko Himuro of the S.O.B.0
+** Warning level.5 **0
+The investigation is presently suspended by orders from the Investigative Cabinet offices.0
+[Kyoko] That's the way it goes...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] I already investigated the Director.
+[Kojiroh] When?
+[Kyoko] Before you got here.
+[Kojiroh] Just in case, let's check it out. I want\to see what happens.
+[Kyoko] Okey dokey. You got it.
+--> s0
+--> st0
+--> sto0
+--> stol0
+--> stole0
+--> stolem0
+--> stolema0
+--> stoleman0
+--> stoleman 0
+--> stoleman k0
+--> stoleman ko0
+Stoleman Kou0
+Height: 6'0"  Weight: 190 lbs.  Nationality: Republic of Eldia  \Birthday: 01/02  Age: 35  Address: (*1)\n(*1) Refer to the abstract on his family register.0
+President of Yale International School, Grandfather (deceased) worked as a butler under the Eldian royal family, Father (deceased) was head of the former Eldia Bureau of Science, Counsel to the king, he established an endowment for education, Founder of the International school.0
+[Kojiroh] His grandfather was a butler, his father\was president of the Bureau of Science, and he's\president of a school.
+[Kyoko] They've been serving Eldia for generations.
+[Kojiroh] The Bureau of Science isn't around\anymore then... Does that mean it was shut down?
+[Kyoko] It could just be that they changed the name\and became a different organization.
+[Kojiroh] ...
+** Warning level.3 **0
+He is suspected for embezzlement. Currently being investigated by Kyoko Himuro of the S.O.B.0
+** Warning level.5 **0
+The investigation is presently suspended by orders from the Investigative Cabinet offices.0
+[Kyoko] ...
+[Kojiroh] You're acting cooler than I'd expect.
+[Kyoko] What do you mean?
+[Kojiroh] I figured you'd be more upset.
+[Kyoko] Whatever...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kojiroh] Everything we've done up to now has been\worthless.
+[Kyoko] Tell me about it...
+[Kyoko] No matter how many times we investigate we\come up with the same... Wait a sec!0
+--> mido and ambassador0
+Ross Mido, Ambassador of the Eldian Republic0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+** Warning level.# **0
+Cannot access... Need higher clearance0
+[Kyoko] Higher clearance?0
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+--> mido and ambassador0
+Ross Mido, Ambassador of the Eldian Republic0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+** Warning level.# **0
+Cannot access... Need higher clearance0
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Again and again... What's going on?
+[Kojiroh] I see... The other person is also\investigating Mido.
+[Kyoko] Look at this!
+[Kojiroh] "Needs higher clearance" means that this\guy's a lower level dude.
+[Kyoko] Right. His access level is too low, but I'm\trying to get around it.
+[Kojiroh] You can do that?
+[Kyoko] Sure.
+[Kojiroh] ...
+[Kyoko] What's with you? Wipe that look off your\face!
+[Kojiroh] Listen, baby, when you've come this far\there's no where else to go.
+[Kyoko] You're asking me to cooperate with someone\when we don't even know who it is?
+[Kojiroh] "Cooperate" is a little misleading. I\just mean take advantage of someone's superior\skills.
+[Kyoko] You're so full of shit.
+[Kojiroh] Oh, so you think it's a better idea to\just sit back and watch?
+[Kyoko] So you mean that if we have the same\enemies that makes us allies?
+[Kojiroh] I wouldn't call this person an ally, but\we don't really have a choice but to cooperate at\this point.
+[Kyoko] The other person's gonna find out that\we're here.
+[Kojiroh] Whether they know we're doing this or not\they can't do anything about it. They're breaking\the law too.
+[Kyoko] ... You've got a point. Alright. We won't\get a second chance at this.
+[Kojiroh] Good girl. For that you get a kiss.
+[Kyoko] Thanks, but I'll pass.
+[Kojiroh] Your loss, baby.
+[Kyoko] Did we make a mistake?
+[Kojiroh] Who knows?...
+[Kyoko] Anyway, we haven't got much time. Let's\look up something else.
+[Kojiroh] Yeah...
+[Kojiroh] Let's look that up one more time. Doesn't\that last thing bother you?
+[Kyoko] Yeah, you're right.
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido a0
+--> mido an0
+--> mido and0
+--> mido and 0
+--> mido and a0
+--> mido and am0
+--> mido and amb0
+--> mido and amba0
+--> mido and ambas0
+--> mido and ambass0
+--> mido and ambassa0
+--> mido and ambassado0
+--> mido and ambassador0
+--> mido and ambassador0
+Ross Mido, Ambassador of the Eldian Republic0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+[Kojiroh] That's not it...
+[Kyoko] We couldn't have made a mistake, could we?
+[Kojiroh] ...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] I wonder what that was...
+[Kojiroh] Beats me.
+[Kyoko] You want to look it up again?
+[Kojiroh] Yeah, just in case.
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido a0
+--> mido an0
+--> mido and0
+--> mido and 0
+--> mido and a0
+--> mido and am0
+--> mido and amb0
+--> mido and amba0
+--> mido and ambas0
+--> mido and ambass0
+--> mido and ambassa0
+--> mido and ambassado0
+--> mido and ambassador0
+--> mido and ambassador0
+Ross Mido, Ambassador of the Eldian Republic0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+[Kojiroh] I thought we'd get more out of this...
+[Kyoko] Yeah, I know...
+** Warning level.# **0
+Cannot access... Need higher clearance0
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] What was that?
+[Kojiroh] Did you see that?
+[Kyoko] Uh-huh...
+[Kojiroh] What the hell was it?
+[Kyoko] I don't know. It disappeared too fast...
+[Kojiroh] Let's check out Mido.
+[Kyoko] Good idea. It seems like that's what we're\here for.
+[Kyoko] Here goes nothing.
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido a0
+--> mido an0
+--> mido and0
+--> mido and 0
+--> mido and a0
+--> mido and am0
+--> mido and amb0
+--> mido and amba0
+--> mido and ambas0
+--> mido and ambass0
+--> mido and ambassa0
+--> mido and ambassado0
+--> mido and ambassador0
+--> mido and ambassador0
+Ross Mido, Ambassador of the Eldian Republic0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+[Kojiroh] PRESIDENT of the Department of\Intelligence?!
+[Kyoko] Yeah, but it says "former."
+[Kojiroh] So the president himself dissolved the\Department of Intelligence.
+[Kyoko] It looks like the Ministry of the Royal\Palace and Bureau of Science were also eventually\disbanded.
+[Kojiroh] Pressing for reform in Eldia along with\the Prime Minister... He's like an extreme leftist.
+[Kyoko] He must have some grudge against the\conservatives...
+[Kojiroh] Especially in an Islamic country like\Eldia. For better or worse it seems like there'd be\a lot of puritanical bastards there.
+[Kyoko] Definitely.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kojiroh] What? Is that all?
+[Kyoko] There should definitely be more...
+[Kojiroh] Is it security protected or something?
+[Kyoko] Either there really isn't anything else, or\our security clearance level is too low.
+[Kojiroh] ...
+[Kyoko] You want to search it one more time?...\Alright then.
+--> t0
+--> te0
+--> ter0
+--> terr0
+--> terro0
+--> terror0
+"Terror" \International ID Number: B12AJ23 code name "Terror"0
+An assassin whose weapon of choice is the blade, works in the Middle East. True identity: unknown, sex: unknown, race: unknown, age: unknown, success rate in attempted assassinations: 100%, uses knife officially adopted by the Eldian army.0
+It's not uncommon for "Terror" to kill for political reasons. An extremely dangerous individual.0
+** Warning level.5 **0
+Currently in Japan.0
+A public safety unit has been dispatched.0
+The investigative cabinet is currently in the process of a criminal investigation.0
+[Kyoko] Is that good enough?
+[Kojiroh] You bet it is.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kojiroh] Can we find out more about "Terror"?
+[Kyoko] Sure, why not.
+--> t0
+--> te0
+--> ter0
+--> terr0
+--> terro0
+--> terror0
+"Terror" \International ID Number: B12AJ23 code name "Terror"0
+An assassin whose weapon of choice is the blade, works in the Middle East. True identity: unknown, sex: unknown, race: unknown, age: unknown, success rate in attempted assassinations: 100%, uses knife officially adopted by the Eldian army.0
+It's not uncommon for "Terror" to kill for political reasons. An extremely dangerous individual. Suspected killer of Stoleman Kou, Nikaido.0
+[Kojiroh] What the heck is this... James Bond or\something?
+[Kyoko] I can't believe there's a killer like this\in this age of internationalization.
+[Kojiroh] That, my dear, is caused by the collapse\of honor in the police force.
+[Kyoko] Just because of that you end up with\top-notch cold-blooded pros...
+[Kojiroh] But if Nikaido was also killed by\"Terror"... I wonder if it was suicide.
+[Kyoko] ...
+** Warning level.5 **0
+Currently in Japan.0
+A public safety unit has been dispatched.0
+The investigative cabinet is currently in the process of a criminal investigation.0
+[Kojiroh] Jesus Christ! This guy's sure causing a\hell of a fuss...
+[Kyoko] So the Director must have also been hit by\this "Terror" guy?
+[Kojiroh] Perhaps. Although I can't think what the\motive would be.
+[Kyoko] Get your head out of your ass! He's a\professional, right? His motive is the cold hard\cash.
+[Kojiroh] Yeah, you're right. The question is\rather what the motive of whoever hired "Terror."
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] Mayako? I thought we already did...
+[Kojiroh] I just feel like there's something\else... Let's try one more time.
+[Kyoko] If you say so.
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido0
+--> mido 0
+--> mido m0
+--> mido ma0
+--> mido may0
+--> mido maya0
+--> mido mayak0
+--> mido mayako0
+Mayako Mido0
+Height: 5'5"  Weight: 104 lb.  Nationality: Republic of Eldia  \Birthday: 12/07  Age: 18  Address: Eldian Embassy0
+Eldian Ambassador Mido's daughter. Mother died two years ago from a terrorist bomb. Currently attending Yale International School. (Note: Missing from school since 12/05)0
+** Warning level.5 **0
+Class 1 investigator Marina Hojo is now acting as her bodyguard.0
+** Warning level.6 **0
+According to Internal Affairs data, her class 1 status is presently revoked.0
+[Kojiroh] ...
+[Kyoko] How's that, Kojiroh?
+[Kojiroh] Feels good, but can you do it a little\softer?
+[Kyoko] What the hell are you saying?!
+[Kojiroh] Just kidding. Yeah, that's good enough...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] Mido... Mayako Mido?
+[Kojiroh] You bet. She's the Ambassador's daughter,\right?
+[Kyoko] Why... Why do you want to know about a\girl?
+[Kojiroh] I just want to know, okay!
+[Kyoko] ... Whatever you say, cowboy.
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido0
+--> mido 0
+--> mido m0
+--> mido ma0
+--> mido may0
+--> mido maya0
+--> mido mayak0
+--> mido mayako0
+Mayako Mido0
+Height: 5'5"  Weight: 104 lb.  Nationality: Republic of Eldia  \Birthday: 12/07  Age: 18  Address: Eldian Embassy0
+Eldian Ambassador Mido's daughter. Mother died two years ago from a terrorist bomb. Currently attending Yale International School. (Note: Missing from school since 12/05)0
+[Kojiroh] Mother killed by terrorists...
+[Kyoko] That's not so surprising in such an\unstable country.
+[Kojiroh] Since when did you become such a\cold-hearted bitch?
+[Kyoko] I... I was stating a general fact.
+** Warning level.5 **0
+Class 1 investigator Marina Hojo is now acting as her bodyguard.0
+[Kojiroh] Marina Hojo... That bitch is protecting\Mayako?
+[Kyoko] I had no idea.
+[Kojiroh] What's this "class 1 investigator" shit.
+[Kyoko] Basically it means she's an agent with\commissioner status.
+[Kojiroh] So she's hot shit like 007 or something?
+[Kyoko] That's just in movies... Although she\apparently does have quite a lot of power. That's\just what I heard, anyway...
+[Kojiroh] I see...
+** Warning level.6 **0
+[Kyoko] I don't believe it... We're getting a level\6 warning!
+According to Internal Affairs data, her class 1 status is presently revoked.0
+[Kyoko] Her status has been revoked?... How can\that be!?
+[Kojiroh] That's what I want to know... She must\have done something pretty nasty.
+[Kyoko] Maybe not. Once Internal Affairs gets\involved, your rank gets pulled in a second. She's\probably just suspected of something.
+[Kojiroh] Like what?
+[Kyoko] How would I know?... I doubt we can find\that out accessing the system at this level.
+[Kojiroh] That sucks...
+[Kyoko] Anyway, is that good enough for now?
+[Kojiroh] Uh, yeah. Let's keep going.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+　Purin
+　Siria
+　Marina
+　Me
+[Kojiroh] I already checked out Purin...
+[Kojiroh] That candy-ass told me everything she\knows.
+[Kyoko] Purin... That kid?
+[Kojiroh] You got it.
+[Kyoko] That business about the lady in waiting...\With a name like that you gotta feel sorry for the\gal.
+--> p0
+--> pu0
+--> pur0
+--> puri0
+Purin (Pudding)0
+A soft, sweet dish. One mixes such things as cream, fruit and eggs with wheat flour, then bakes it. Usually a desert. Also called "Pudding".0
+[Kojiroh] What the heck?...
+[Kyoko] It's information about "Purin" alright.
+[Kojiroh] For Christ's sake...
+[Kyoko] But something's strange...
+[Kojiroh] Since when did the Public Safety database\become a dessert dictionary?
+[Kyoko] What did you expect to find from "Purin,"\smart ass?
+[Kojiroh] So "Purin" is just an alias...
+[Kyoko] Oh well. It was worth a shot.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] You want to check out Siria again?
+[Kojiroh] I just want to try it once more.
+[Kyoko] If you say so.
+--> s0
+--> si0
+--> sir0
+--> siri0
+--> siria0
+Siria Flatte0
+Height: 5'8"   Weight: 120lb   Nationality: Republic of Eldia   \Birthday: 07/07  Age: 23  Address: (*1) currently unsettled0
+Professor of Arabic at Yale International School. She took the job one year ago when she was introduced to Stoleman Kou, and continues to work there presently.0
+** Warning level.5 **0
+As she is the prime witness in the Stoleman Kou murder case, there is presently a warrant out for her arrest.0
+Originally assigned to Eldian Department of Intelligence, Special Duty Squad 3.0
+[Kojiroh] She's got a warrant out on her...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] Siria...?
+[Kojiroh] I doubt we can expect much, but it's\worth a go...
+[Kyoko] She was a professor at Yale International\School... I'll bet there's something on her in\here.
+[Kojiroh] We won't know if we don't try.
+[Kyoko] ...
+--> s0
+--> si0
+--> sir0
+--> siri0
+--> siria0
+Siria Flatte0
+Height: 5'8"   Weight: 120lb   Nationality: Republic of Eldia   \Birthday: 07/07  Age: 23  Address: (*1) currently unsettled0
+Professor of Arabic at Yale International School. She took the job one year ago when she was introduced to Stoleman Kou, and continues to work there presently.0
+** Warning level.5 **0
+As she is the prime witness in the Stoleman Kou murder case, there is presently a warrant out for her arrest.0
+Originally assigned to Eldian Department of Intelligence, Special Duty Squad 3.0
+[Kojiroh] She did say someone was after her...
+[Kyoko]...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] That again?
+--> h0
+--> ho0
+--> hoj0
+--> hojo0
+--> hojo 0
+--> hojo m0
+--> hojo ma0
+--> hojo mar0
+--> hojo mari0
+--> hojo marin0
+--> hojo marina0
+Marina Hojo0
+Height: 5'6"   Weight: 115lb  Nationality: Japan  \Birthday: 05/05  Age: 24  Address: unsettled(*1)\n(*1), currently at Sun Apartments, room 403.0
+Public Safety Commission Investigative Cabinet. Top class investigator. Number of investigations undertaken: 102, rate of solved cases: 99%, rate of arrests: 99%, number of commendations: 4, promoted last year, currently in Japan.0
+** Warning level.5 **0
+Currently acting as bodyguard for Mayako Mido.0
+** Warning level.6 **0
+She is currently the subject of an internal affairs investigation.0
+[Kyoko] That confirms what we saw before...
+[Kojiroh] What could Marina have done to mess\up?...
+[Kyoko] Who knows... Is that enough for this?
+[Kojiroh] Yeah, sure.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] You want to know about her?...
+[Kojiroh] That's right. I'm willing to bet she's\got something to do with all this. It's been\bothering me.
+[Kyoko] ... Alright then.
+--> h0
+--> ho0
+--> hoj0
+--> hojo0
+--> hojo 0
+--> hojo m0
+--> hojo ma0
+--> hojo mar0
+--> hojo mari0
+--> hojo marin0
+--> hojo marina0
+Marina Hojo0
+Height: 5'6"   Weight: 115lb  Nationality: Japan  \Birthday: 05/05  Age: 24  Address: unsettled(*1)\n(*1), currently at Sun Apartments, room 403.0
+Public Safety Commission Investigative Cabinet. Top class investigator. Number of investigations undertaken: 102, rate of solved cases: 99%, rate of arrests: 99%, number of commendations: 4, promoted last year, currently in Japan.0
+[Kyoko] I've heard rumors... but wow! What an\impressive track record!
+[Kojiroh] What's with this "number of\investigations" business?
+[Kyoko] A number is used to show how many missions\one has done.
+[Kojiroh] Interesting...
+** Warning level.5 **0
+Currently acting as bodyguard for Mayako Mido.0
+** Warning level.6 **0
+She is currently the subject of an internal affairs investigation.0
+[Kyoko] That confirms what we saw before...
+[Kojiroh] What could Marina have done to screw up?
+[Kyoko] Who knows... Is that enough for this?
+[Kojiroh] Yeah. Let's keep going.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Alright, so what keyword do we search with\next?
+[Kyoko] You know, while you're doing this you're\losing valuable time and your phone bill's probably\going through the roof.
+[Kojiroh] What a sweetheart you are to be worried\about my phone bill.
+[Kyoko] I'm not THAT worried.
+[Kojiroh] I just wanted to see how my own profile\looks.
+[Kyoko] Even if we search the general public\database, we'll only get to see the family register\information from town hall.
+[Kojiroh] Stop the presses! You mean we can link up\with the city office's database too?
+[Kyoko] I've only done it once... and that was with\my supervisor helping.
+[Kojiroh] I should have known. The general public\has no privacy.
+[Kyoko] It's for the safety of the state...
+[Kojiroh] Like anybody even wants "protection" like\that! Who's protecting who anyway!
+[Kyoko] Oh well. There's nothing we can do about\it. If you don't like it then run for office and\change the system yourself.
+[Kojiroh] I probably should!
+[Kyoko] You're talking to a paid public official,\you know.
+[Kojiroh] You've become a real ass-kisser Kyoko.
+[Kyoko] Oh, shut up.
+[Kojiroh] I know. Why don't we look up Kyoko\Himuro.
+[Kyoko] You mean... Me?
+[Kojiroh] Sure. You're not part of the general\public, right?
+[Kyoko] No... No way... It lists stuff like my age\and my measurements... I mean...
+[Kojiroh] Perfect. I'd love to know your age and\measurements.
+[Kyoko] Forget it! It's a violation of my privacy!
+[Kojiroh] Somehow that sounds funny coming from\you...
+[Kyoko] What's with you?! Aren't you the least bit\nervous? Don't you have more important things to\find out?
+[Kojiroh] Well, I guess you've got a point...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> _0
+[Kyoko] What number do you want to try?
+　Go back
+　Select 3
+　Select 1
+　Select 4
+　Select 2
+　Select 5
+0380
+[Kyoko] There's no time for that.
+[Kyoko] Politics again?
+[Kyoko] God, this is such a waste of time...
+Press number to select\--> 1 0
+Press number to select\--> 1 0
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Input the search word.
+[Kojiroh] Yeah... Okay...
+[Kyoko] "Politics," right?
+[Kyoko] I'm inputting '1'.
+Press number to select\--> 1_0
+Press number to select\--> 1 0
+Input subject words. (end: enter_key)\-->0
+[Kyoko] It said enter the search word! The category\is politics.
+[Kojiroh] All right. Here goes nothing...
+[Kyoko] Forget it. Save the unimportant crap for\later.
+[Kyoko] Law... You think it could have something to\do with all this?
+[Kojiroh] Nothing at all.
+[Kyoko] ...
+[Kojiroh] I'm telling you, there's nothing.
+[Kyoko] Oh, why don't you eat shit!
+[Kojiroh] What's with you? Morning sickness again?
+[Kyoko] While you're busy acting like an ass we\could be getting found out! Do me a favor and use\this time a little more effectively!
+[Kojiroh] (Woops! I pissed off another one...)
+[Kyoko] If you really want the money then get your\lazy ass moving!
+[Kojiroh] (Why does she always say the right\thing?...)
+[Kyoko] Is there something in business?
+[Kojiroh] Yep.
+[Kyoko] What?
+[Kojiroh] I want to find out what I need to do to\make money.
+[Kyoko] You're a laugh a minute.
+[Kojiroh] Who says I'm joking?
+[Kyoko] Listen, Bub. This here is called a\"database." It doesn't know a bloody thing about\how to make money!
+[Kojiroh] (I've done it now...)
+[Kyoko] Come on! There's no time for this shit.
+[Kyoko] If we don't hurry up we'll lose our access\level.
+[Kojiroh] Well then...
+Press number to select\--> 4_0
+Press number to select\--> 4 0
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Enter the search word. The category is\Arts.
+[Kyoko] Arts... That painting?
+[Kyoko] Okay, I'm inputting 4 .
+Press number to select\--> 4_0
+Press number to select\--> 4 0
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Enter the search word. The category is\Arts.
+[Kojiroh] Yeah...
+[Kyoko] If we don't hurry up we'll lose our access\level.
+[Kyoko] People, huh... Alright.
+Press number to select\--> 5_0
+Press number to select\--> 5 0
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Input the search word. The category is\"people."
+[Kojiroh] Yeah...
+[Kyoko] Alright... You want to investigate Mido,\right?
+[Kyoko] I'm inputting 5.
+Press number to select\--> 5_0
+Press number to select\--> 5 0
+Input subject words. (end: enter_key)\-->0
+[Kyoko] Input the search word. The category is\"People."
+[Kojiroh] Yeah...
+[Kojiroh] Well then...
+　Look/Investigate
+　Move
+　Speak
+　Hack
+　Save/Load
+　Save
+　Load
+　Mido's personal information
+[Kyoko] No matter how many times we do it...
+[Kojiroh] It's our only choice.
+[Kyoko] I guess you're right.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+--> mido and ambassador0
+Ross Mido, Eldian Republic Ambassador0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+** Warning level.7 **0
+Japanese Government, "Neo Cerebral Project," of the former Eldian0
+[Kyoko] Hey! Here we go!0
+Japanese Government, "Neo Cerebral Project," of the former Eldian■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian In■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Inte■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intell■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intellig■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligen■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Se■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Sect■0
+Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Sector■0
+Cannot access... Need higher clearance.0
+[Kyoko] No!... Why?
+0380
+[Kyoko] ...
+[Kojiroh] Earlier you said it's difficult to do\with just one person, huh.
+[Kyoko] That's right. It's physically\impossible... You don't think...
+[Kojiroh] Somehow the other person using this thing\figured out what you've been trying to do.
+[Kyoko] I don't believe this...
+[Kojiroh] We must have a common interest. At this\point neither of us gets anything out of opposing\each other.
+[Kyoko] But...
+[Kojiroh] Look at that! They sent us a message!
+[Kyoko] Huh?
+Cannot access... Need higher clearance.0
+Pa0
+Pass0
+Passwo0
+Password 0
+Password an0
+Password anal0
+Password analys0
+Password analysis 0
+Password analysis co0
+Password analysis compl0
+Password analysis complet0
+Password analysis complete.0
+Password analysis complete. 20
+Password analysis complete. 2420
+Password analysis complete. 242BA0
+Password analysis complete. 242BA30
+[Kojiroh] Well how do you like that.
+[Kyoko] The data is on a password system... If\that's the case then perhaps we can...
+[Kojiroh] Can you do it?
+[Kyoko] I think we can if two people do it\together, but I can't be sure...
+[Kojiroh] We can't let this chance get away from\us.
+[Kyoko] All right then... I'll answer the message.
+■0
+Rog■0
+Roger.■0
+Roger. We■0
+Roger. We'll ■0
+Roger. We'll in■0
+Roger. We'll inpu■0
+Roger. We'll input ■0
+Roger. We'll input it ■0
+Roger. We'll input it fr■0
+Roger. We'll input it from ■0
+Roger. We'll input it from he■0
+Roger. We'll input it from here.　0
+[Kyoko] I think they'll get what we mean.
+[Kojiroh] What do you plan to do?
+[Kyoko] While this other person goes into escape\mode, I'll remove the data lock.
+[Kojiroh] Can you do that?
+[Kyoko] We have no choice.
+[Kojiroh] ...
+[Kyoko] ...
+[Kojiroh] ...
+[Kyoko] I wonder what happened. They're not\responding.
+[Kojiroh] ...
+0380
+[Kyoko] What should I do, Kojiroh?
+[Kojiroh] Just relax... They'll respond all right.
+a001_7
+[Kojiroh] Try it again.
+[Kyoko] If you say so...
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+--> mido and ambassador0
+Ross Mido, Eldian Republic Ambassador0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+** Warning level.# **0
+Cannot access... Need higher clearance0
+[Kyoko] Shit! At this rate I'll never finish poking\this stupid keyboard!... Shit!0
+Cannot access... Need higher clearance0
+[Kyoko] Forget about it. It's just not physically\possible...
+0380
+[Kojiroh] Shit...
+[Kyoko] I know, I know. Once we've come this far we\have no choice but to keep going.
+[Kojiroh] That's the spirit.
+[Kyoko] For starters, we'll use the escape mode to\get out of DBMS...
+Kyoko types
+[Kojiroh] Now what?
+[Kyoko] We'll access the memory directly and apply\a little touch-up paint to our security clearance\flag.
+[Kojiroh] Sounds like horseshit. You think you can\do that?
+[Kyoko] As long as you know the right escape\command to activate the shell. And I just happen to\know it.
+[Kojiroh] What do you mean, you "just happen to\know it?"
+[Kyoko] I used DBMS the proper way once before with\my boss.
+[Kojiroh] ...
+Kyoko types
+[Kyoko] So far, so good...
+[Kojiroh] And? So what happened with your boss?
+[Kyoko] Oh, he said that this way we could fall\victim to computer hackers. But I'm not absolutely\positive.
+[Kojiroh] So what are you gonna do?
+[Kyoko] We're getting a lot of free services from\the other user's memory device, you know.
+[Kojiroh] Otherwise we couldn't get those services.
+[Kyoko] Right. In other words, we're constantly\above the thing itself now.
+[Kojiroh] ...
+[Kyoko] If we could activate the other user's\shell, we would instantly be taken out of the\service program. And if we can get out of there...
+[Kojiroh] We could change the program itself. It\would even be possible to change the data.
+[Kyoko] ... That's a terrifying thought. One could\conceivably erase family records.
+[Kojiroh] Oh, so when things get a little\dangerous, you want to run and hide?
+[Kyoko] Come on! I can't even tell when you're\serious and when you're not...
+[Kojiroh] If you get fired for this, I promise I'll\take care of you.
+[Kyoko] Yeah, right! You've got nothing to lose, so\don't worry about me.
+Kyoko types
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+--> mido and ambassador0
+Ross Mido, Eldian Republic Ambassador0
+This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
+One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
+Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+** Warning level.# **0
+Cannot access... Need higher clearance0
+Cannot access... Need higher clearance0
+[Kyoko] No good. The CPU's protection system is too\fast. We'll never get a chance to type it all in...
+0380
+[Kojiroh] Even if I tried to help, we've only got\one keyboard.
+[Kyoko] It's physically impossible. Shit!
+[Kojiroh] ...
+　Kyoko
+[Kyoko] I'll give it a shot...
+[Kyoko] I don't know what to do... It's not gonna\work.
+[Kyoko] It's physically impossible with just one\person!
+[Kyoko] What's wrong? You're not going to give up?
+[Kyoko] After I went through the trouble to make a\decision... Hurry up.
+[Kyoko] Come on, don't you want to look into it?
+[Kyoko] Let's hurry up and use DBMS to search.
+[Kojiroh] Yeah...
+[Kyoko] While we're wasting time, our chances of\being traced get greater and greater.
+　Kyoko
+　Monitor
+　Fingers
+　Shoulders
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> 50
+Input subject words. (end: enter_key)\-->0
+[Kojiroh] (Surprise, surprise. There's that same\old picture...)
+[Kojiroh] (But Mido's information is being covered\up.)
+[Kojiroh] (In order to go in front of him...)
+0380
+[Kyoko] From now on I'm gonna use "eldia and" with\every key word.
+[Kojiroh] Sounds good.
+[Kyoko] We haven't got much time, so we can only\search the most important information.
+[Kojiroh] (She doesn't seem as tense as she\looks...)
+[Kojiroh] (Kyoko seems to be a little tense...)
+[Kojiroh] (Now I think it's my duty to relieve her\of that tension.)
+[Kyoko] Kojiroh, don't just stand there and pick\your nose!
+[Kojiroh] (It's not like her to have such a serious\look on her face...)
+[Kojiroh] (She's really nervous... How cute)
+[Kyoko] What's with you and that sissy face?
+[Kyoko] Come on. Don't look around like that.
+[Kojiroh] (Kyoko's fingers... They look so nice and\soft...)
+[Kyoko] Hey! Do me a favor and keep your hands off.
+[Kojiroh] (Such slender, delicate fingers...)
+[Kojiroh] (I'll bet if she wrapped those fingers\around my hot dog I'd be in heaven...)
+[Kojiroh] (Of course it could never even happen in\my wet dreams.)
+[Kyoko] Kojiroh, wipe that perverted look off your\face.
+[Kojiroh] I could care less about your stupid\shoulders. I have other things I could be doing\right now.
+[Kyoko] Don't get so serious all the sudden!
+[Kojiroh] God, you're really tense.
+I massage her shoulders.0
+\ 
+[Kojiroh] Oh baby, I'm so glad I can be of service\to you.
+[Kojiroh] You know I'd like to...
+[Kojiroh] I'd like to do this with my tongue...
+[Kyoko] If you even think about it, I'll kill you!
+[Kojiroh] Yeah, sure baby, sure...
+[Kojiroh] I'll bet if I really did lick you, you'd\like it.
+[Kojiroh] Slurp!
+[Kyoko] Quit mumbling, I can't understand a word\you're saying.
+　Between Kyoko's legs
+[Kyoko] I'm begging you, please take this\seriously.
+[Kojiroh] (My piston is about ready to fire... I'd\better quit while I'm ahead.)
+[Kyoko] Hey, cut that out.
+[Kojiroh] Oh... Uh... Sorry.
+eve_44
+*****   P.S.I.A Data Base Management System   *****\== Last Login 99-99-99 99:99:99 ==\== Login Time 95-12-06 15:43:18 ==0
+Ch20-50 64k/31.2k/28.8kbps\Ch2,3 President 28800k Degital Opt.0
+News infomation (95/12/06)\    ttm: soc.politics.jiji\    mtm: soc.economic.jiji0
+Input Your Password : ■0
+[Kyoko] I thought we'd finally reached the internal\network, but now this password screen comes up and\leaves us with nothing!
+[Kojiroh] What's the problem?
+[Kyoko] I don't know... If this continues then the\other user will also be found out.
+[Kojiroh] Forget about the other user. We're the\ones who'll get busted.
+[Kyoko] What... Look! 
+Input Your Password : t■0
+Input Your Password : ti■0
+Input Your Password : tie■0
+Input Your Password : tie5■0
+Input Your Password : tie55■0
+Input Your Password : tie55/■0
+Input Your Password : tie55/0■0
+[Kyoko] They've started inputting...
+[Kojiroh] Yeah, but it's so slow...
+[Kyoko] It's like they're thinking their way\through it.
+Input Your Password : tie55/09■0
+Input Your Password : tie55/09/■0
+Input Your Password : tie55/09/2■0
+Input Your Password : tie55/09/22■0
+[Kyoko] It's stopped again...
+[Kojiroh] What does that mean.
+Input Your Password : tie55/09/2■ 0
+Input Your Password : tie55/09/■ 0
+Input Your Password : tie55/09■  0
+Input Your Password : tie55/0■   0
+Input Your Password : tie55/■    0
+Input Your Password : tie55■     0
+Input Your Password : tie5■      0
+Input Your Password : tie■       0
+Input Your Password : ti■        0
+Input Your Password : t■         0
+Input Your Password : ■          0
+[Kyoko] It's, It's starting over.
+[Kojiroh] ...They're inputting it again.
+[Kyoko] What?...
+Input Your Password : T■0
+Input Your Password : TI■0
+Input Your Password : TIE■0
+Input Your Password : TIE5■0
+Input Your Password : TIE55■0
+Input Your Password : TIE55/■0
+Input Your Password : TIE55/0■0
+Input Your Password : TIE55/09■0
+Input Your Password : TIE55/09/■0
+Input Your Password : TIE55/09/2■0
+Input Your Password : TIE55/09/23■0
+[Kyoko] You're right...
+[Kojiroh] They realized that the first part needs\to be in capital letters.
+[Kyoko] But why would they even try to access the\system manually? Why not use auto-login?
+[Kojiroh] The auto setting must not work for some\reason.
+[Kyoko] What do you think it is?
+[Kojiroh] I wonder...
+[Kyoko] ...
+Input Your Password : TIE55/09/23　0
+Input Your Password : TIE55/09/23■0
+Input Your Password : TIE55/09/23　0
+Input Your Password : TIE55/09/23■0
+Input Your Password : TIE55/09/23　0
+Input Your Password : TIE55/09/23■0
+Input Your Password : TIE55/09/23　0
+Connect channel 25  64.4k/ISDN/ARQ\Last Logout=95/12/04 18:43:06\Today's Access #2232+a80b20
+main>> _0
+[Kyoko] Soon we'll access DBMS itself...
+[Kojiroh] Are you just going to follow them through\like this?
+[Kyoko] No. At the right moment I'll break free and\do our own search. Being connected up like this is\giving me a cold sweat...
+[Kojiroh] Look! They've started inputting\again...0
+main>> o_0
+main>> op_0
+main>> open_0
+main>> open _0
+main>> open s_0
+main>> open se_0
+main>> open ser_0
+main>> open serc_0
+main>> open serci_0
+main>> open sercic_0
+main>> open sercice_0
+main>> open sercice._0
+main>> open sercice_ 0
+main>> open sercic_  0
+main>> open serci_   0
+main>> open serc_    0
+main>> open ser_     0
+main>> open serv_0
+main>> open servi_0
+main>> open servic_0
+main>> open service_0
+main>> open service._0
+main>> open service.d_0
+main>> open service.db_0
+main>> open service.dbm_0
+main>> open service.dbms_0
+main>> open service.dbms 0
+Wait for a moment..0
+[Kyoko] I get the feeling this person doesn't know\exactly what he's doing.
+Wait for a moment....0
+[Kojiroh] Sure seems that way... Maybe he's one of\us.
+[Kyoko] What do you mean, one of us?
+Wait for a moment......0
+[Kojiroh] I mean maybe he's accessing the system\illegally, like we are.
+[Kyoko] You don't think...?!
+Wait for a moment........0
+Wait for a moment.........0
+Wait for a moment..........0
+Wait for a moment...........0
+Wait for a moment...........Connected!0
+[Kyoko] It looks like he made the connection to\DBMS.
+Search a database\Press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+Press number to select\--> _0
+[Kyoko] Wow.
+[Kojiroh] It looks like we made it in okay.
+0380
+[Kyoko] My heart feels like it's about to\explode...
+[Kojiroh] With ecstasy?
+[Kyoko] Think about it, dumbass! This is the\government's central database! If we get caught\we'll get the death penalty a hundred times over!
+[Kojiroh] No problem. It only hurts the first time.
+[Kyoko] How can I even take you seriously...
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Save
+　Load
+　Kyoko
+[Kyoko] Hey, Romeo, pay attention to the monitor.
+[Kyoko] I'm gonna try and trace it... I can't mess\this up.
+[Kojiroh] Go easy on yourself. When you make it\such a big deal you mess up things you normally\wouldn't.
+[Kyoko] Thanks for the free advice. I'll do my\best...
+　Kyoko
+　Monitor
+　Fingers
+　Shoulders
+[Kojiroh] (Kyoko seems a little tense.)
+[Kojiroh] (She's looking a little tense...)
+[Kojiroh] (I should shut up. She can't relax when I\talk so much...)
+[Kyoko] Alright, I'm gonna try and trace it now.
+[Kyoko] I can't hold on to 'em...
+[Kojiroh] ...
+[Kojiroh] You're a dang fast typist. It's like\you're punishing the keyboard or something.
+[Kyoko] I'm gonna punish you if you don't shut up\and let me type.
+[Kojiroh] I like the sound of that...
+[Kyoko] Shit!... We've hit a dead end.
+[Kojiroh] You sure do move fast...
+[Kyoko] Tell me something I don't already know.
+[Kojiroh] When I think about being stroked by those\hands...
+[Kyoko] You're about to get slapped by them, Big\Mouth!
+[Kojiroh] Sorry...
+[Kojiroh] What fragile shoulders you've got... I'd\like to put my arms around them.
+[Kyoko] You make me want to throw up.
+[Kojiroh] Thanks, babe, I love you too.
+[Kojiroh] Aren't you a little cold with such short\sleeves?
+[Kyoko] Maybe a little.
+[Kojiroh] Well, in that case...
+[Kyoko] But that doesn't mean you can just put your\greasy hands on them.
+[Kojiroh] You've got a vicious tongue, my girl.
+[Kyoko] Hey!
+[Kojiroh] What?
+[Kyoko] Why is there a hand on my right shoulder?
+[Kojiroh] Heh, heh... It's a sign of affection.
+[Kyoko] Quit bothering me, okay?
+[Kojiroh] Alas, my affection is tragically dumped\upon.
+　Leave the terminal
+　Sit on Kyoko's lap
+[Kyoko] Goddamit!
+[Kojiroh] Sorry...
+[Kojiroh] I guess this isn't the right time to fool\around...
+[Kyoko] You're damn right about that. Keep off my\lap, monkey man.
+[Kojiroh] (I missed my chance again...)
+[Kojiroh] (Here and now I want to look for\information.)

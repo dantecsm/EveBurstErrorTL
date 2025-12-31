@@ -1,0 +1,981 @@
+a001_6
+001
+eve_39
+[Kojiroh] Hmm... Maybe I should leave her alone for\a while.
+001
+eve_39
+[Kojiroh] I'm back at the office...
+[Kojiroh] Kyoko is still at it...
+001
+[Kojiroh] Whew... I'm back.
+[Kojiroh] Kyoko's not here...?
+b08
+eve_03
+[Kyoko] Kojiroh.
+[Kojiroh] Hey, you're here!
+[Kyoko] You're late. I was beginning to worry.
+[Kojiroh] Well... The guys who came after me... He\just wouldn't give up.
+[Kyoko] What are you saying... You're still pretty\young.
+[Kojiroh] My body doesn't seem to think so.
+[Kyoko] Uh-oh...
+[Kojiroh] What?
+[Kyoko] What happened...there?
+[Kojiroh] There...?
+[Kyoko] There's blood on the floor... It's fresh.
+[Kojiroh] Hey, you keep your nose out of my office.
+[Kyoko] Could've gotten there this morning, maybe\even last night. Whose is it?
+[Kojiroh] What are you talking about?
+[Kyoko] So, I see...
+[Kojiroh] ...
+[Kyoko] ...
+[Kojiroh] Fine. I'll tell you.
+[Kyoko] We're partners, aren't we?
+[Kojiroh] (Oh, Geez...)
+[Kojiroh] (This broad sure is nosy...)
+[Kojiroh] The truth is...
+[Kyoko] Hey!
+[Kojiroh] What!
+[Kyoko] Why didn't you tell me this before!
+[Kojiroh] You never asked.
+[Kyoko] I didn't expect THIS to happen...
+[Kojiroh] I was pretty surprised, too.
+[Kyoko] Purins a member of the royal family? And\the Director, too?
+[Kojiroh] That's right.
+[Kyoko] I can't believe this.
+[Kojiroh] Me neither.
+[Kyoko] Should we believe it?
+[Kojiroh] There's no reason not too.
+[Kyoko] They probably just want to capture Purin.
+[Kojiroh] Probably.
+[Kyoko] I have to see Siria... I have to speak with\her.
+[Kojiroh] It's useless. She is wanted.
+[Kyoko] By whom?
+[Kojiroh] Japan's criminal investigators, and the\former Eldian Intelligence Sector.
+[Kyoko] ...Why?
+[Kojiroh] Beats me.
+[Kyoko] ...
+[Kojiroh] That's the low down.
+[Kyoko] You're not hiding anything else from me,\are you?
+[Kojiroh] Anything else? Like what?
+[Kyoko] Anything regarding her?
+[Kojiroh] Well... There was this in and out...
+[Kyoko] Huh?
+[Kojiroh] Nothing.
+[Kyoko] Hmm...
+[Kojiroh] (Whew...)
+001
+eve_21
+[Kojiroh] She's not back yet...
+eve_39
+[Kojiroh] Kyoko's still busting her ass at the\terminal.
+　Look/Investigate
+　Move
+　Equipment
+　Save/Load
+　Save
+　Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Note
+s10
+[Kojiroh] It's a painting of a bizarre pattern...
+[Kojiroh] Nikaido knew what this meant...
+001
+s10
+[Kojiroh] Kou, or actually, Kou's decoy, hired me\to find this painting.
+[Kojiroh] How is it related to this case...?
+001
+s07
+[Kojiroh] It's what I use for protection...
+001
+s07
+[Kojiroh] I never go a single day without looking\at it at least once.
+[Kojiroh] It's my Customized Glock 22... It's\helped me out quite a bit.
+001
+[Kojiroh] Thanks to this, I can make a living...
+[Kojiroh] This isn't exactly the time to talk about\money.
+[Kojiroh] Everything I own is in my jacket.
+[Kojiroh] And it's at the embassy.
+[Kojiroh] Oh man...
+[Kojiroh] I feel a little down, actually...
+[Kojiroh] There are too many things going around in\my head...
+[Kyoko] Hey! What are you doing!
+[Kojiroh] Don't look!
+[Kojiroh] You wanna read the note??
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] That's what it says.
+[Kojiroh] Siria gave me this note.
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] Purin should know what it means...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Kojiroh] It's the office, without Purin.
+[Kyoko] I'm here...
+[Kojiroh] Must you respond to everything I say?
+[Kojiroh] It's hot and stuffy over near the\terminal...
+[Kojiroh] Kyoko sure is giving it a good effort.
+[Kyoko] You bet I am!
+[Kojiroh] Oh.
+[Kojiroh] They've been on since this afternoon.
+[Kojiroh] This can't be good for the electricity\bill...
+[Kojiroh] The lights are on...
+[Kojiroh] This is the only storage place with\lights.
+[Kojiroh] It's a messy desk... I'll make Kyoko\clean it up later on.
+[Kyoko] What did you say!?!
+[Kojiroh] Nothing, dammit!
+[Kojiroh] It's only been a day since Purin\vanished...
+[Kojiroh] It's getting so messy...
+[Kojiroh] Could Purin really be at the embassy?
+[Kojiroh] You want to go see again?
+0380
+[Kyoko] I said no, didn't I!?!
+[Kojiroh] (Bitch.)
+[Kojiroh] Is there any progress...?
+[Kojiroh] Getting anywhere with it, Kyoko?
+0380
+[Kyoko] Not yet.
+[Kojiroh] Oh...
+　Go outside
+　By the terminal
+[Kojiroh] Yeah, I'll go out for some fresh air.
+[Kojiroh] I'll be back in a few, Kyoko.
+[Kyoko] Fine.
+a002_2
+[Kojiroh] Hey, I just got here!
+[Kojiroh] I really think I should leave her\alone...
+0380
+eve_38
+[Kojiroh] Oh...
+[Kyoko] How do you expect me to make any progress\that fast!?!
+[Kojiroh] Sorry.
+[Kojiroh] Yeah, maybe she's making some progress.
+[Kojiroh] Let's go.
+0380
+eve_38
+[Kyoko] Not yet.
+[Kojiroh] Oh...
+　Look/Investigate
+　Move
+　Speak
+　Attack
+　Attack Kyoko
+[Kojiroh] (That would be suicide.)
+[Kojiroh] (Let's stop this crap.)
+Kyoko gives me that look...
+[Kojiroh] Ha ha ha... (Forget it.)
+[Kyoko] Don't you dare try anything funny.
+[Kojiroh] Who, me?
+[Kyoko] Yeah... I know you're up to something.
+[Kojiroh] You must be joking.
+　Kyoko
+[Kyoko] Would you give me some time alone, please?
+[Kyoko] I'm almost finished... Just a little more.
+[Kyoko] I have to break this code... Otherwise, I\can't access the DMBS.
+[Kyoko] What should I do...?
+[Kyoko] Shit. I'm getting no where with this.
+[Kyoko] The 4th protection uses random numbers...
+[Kyoko] But it changes each time I access it! It's\impossible to break the code without a designated\numerical combination!
+[Kyoko] Hmm...
+[Kyoko] I broke the second one!
+[Kyoko] I'll bet you're wondering how I did it...
+[Kyoko] Well, if the 2nd is broken, the 3rd\locks... I just began with unlocking the 3rd!
+[Kyoko] After breaking the 3rd, the 2nd one was a\cinch. Now all that's left is the 4th!
+[Kyoko] But this one's a teaser.
+[Kyoko] Hmm...
+[Kyoko] Okay, now I understand the problem...
+[Kyoko] In order to break the 4th protection, I\have to simultaneously break the 1st and 2nd\protections.
+[Kyoko] If I fail, the 4th will be completely\locked.
+[Kyoko] If I only break the 2nd protection, the 3rd\one will lock. They must both be broken\simultaneously to successfully break the 4th.
+[Kyoko] But, how do I do it simultaneously?
+[Kyoko] I should have the 2nd protection broken in\a little bit...
+[Kyoko] But that happens, the 3rd will\automatically lock for good.
+[Kyoko] I'm totally screwed if it's locked...
+[Kyoko] Hmm...
+[Kyoko] Yes! I unlocked one of them!
+[Kyoko] Interesting... The 2nd protection was\merely a dummy of the 1st.
+[Kyoko] I'm beginning to have hope again...
+[Kyoko] Damn it... If we keep this up, we'll be\found.
+[Kyoko] We must be nuts, trying to access the\government DBMS.
+[Kyoko] I guess there's no turning back now though.
+[Kyoko] Okay, I'll give it my best shot.
+[Kyoko] The password was easy to figure out.
+[Kyoko] I just entered today's date.
+[Kyoko] The problem lies in all the protections\that'll show up.
+[Kyoko] Hmm...
+[Kyoko] Damn! The protection is too tough!
+[Kyoko] And this is only the first obstacle...
+[Kyoko] I'd like to be left alone for a while.
+[Kojiroh] Any chances of success?
+[Kyoko] I've only just begun...
+[Kojiroh] Be honest. What are the chances?
+[Kyoko] Honestly, the success rate here is very\low... I need luck. Lots of luck.
+[Kojiroh] I see... Well, just try your best. You're\doing great.
+[Kyoko] Thanks. I've come this far; I'm not giving\up.
+　Kyoko
+　Monitor
+　Fingers
+　Shoulders
+[Kojiroh] (She's unlocking the protections...)
+[Kojiroh] (She's unlocking the protections...)
+[Kojiroh] (Something tells me she just may do this\right...)
+[Kojiroh] There's that serious look on your face I\love so much.
+[Kyoko] And on yours is the ugly one I so\despise...
+[Kojiroh] Now you listen to me, you little\trollop...
+[Kyoko] Sorry... I've reached a deadlock. I'm just\in a bad mood.
+[Kyoko] My eyes are tired...
+[Kyoko] I'm not doing so well here... I become\bitchy whenever I'm flustered.
+[Kojiroh] Just take your time.
+[Kyoko] I'm trying.
+[Kyoko] First I have to solve the password... Then\break the protections.
+[Kojiroh] Protections?
+[Kyoko] Well, according to my research, there are 4\types of protections.
+[Kojiroh] They've got this thing secure, don't\they...
+[Kyoko] Just thinking about it discourages me...
+[Kyoko] I don't get it...
+[Kojiroh] ...
+[Kojiroh] You're so fast... You're striking those\keys like there's no tomorrow.
+[Kyoko] But I wonder why we use the term "strike"\when referring to typing.
+[Kojiroh] ...No more boring topics, please.
+[Kyoko] Sorry, I'm just flustered...
+[Kojiroh] You're moving so fast...
+[Kyoko] Well, yeah.
+[Kojiroh] You could give me good time with those\strokes.
+[Kyoko] I'll smack you one.
+[Kojiroh] Sorry...
+[Kojiroh] You've such beautiful shoulders... It\makes me want to protect them.
+[Kyoko] Don't talk nasty to me.
+[Kojiroh] Hmm...
+[Kojiroh] Aren't you cold exposing your shoulders\like that.
+[Kyoko] A little.
+[Kojiroh] Oh.
+[Kyoko] But that doesn't mean you can just put your\hand on my shoulder.
+[Kojiroh] Hmm...
+[Kyoko] Hey...
+[Kojiroh] Huh?
+[Kyoko] Your hand's on my right shoulder.
+[Kojiroh] Ha ha ha... I'm just expressing my\affection.
+[Kyoko] Don't interfere with my work.
+[Kojiroh] Geez...
+　Leave the terminal
+　Sit on Kyoko's lap
+[Kojiroh] (Kyoko's eyes look pretty scary.)
+[Kyoko] Must you try to screw everyone you come in\contact with!
+[Kojiroh] Sorry, okay...?
+Kyoko gives me a stare.
+[Kojiroh] I got it, I got it.
+[Kyoko] Dammit!
+[Kojiroh] Ouch! There's no need to pinch me!
+[Kyoko] I can't see what's in front of me.
+[Kojiroh] Oh, yeah...
+[Kyoko] Are you mocking me?
+[Kojiroh] Sorry.
+[Kojiroh] Good luck.
+[Kyoko] Shit... I've run into a brick wall with\this thing.
+[Kojiroh] Shit.
+[Kyoko] No! This can't be!
+[Kojiroh] I sense something's the matter.
+[Kyoko] Will you please stop standing there like a\blithering idiot?
+[Kojiroh] Now, now...
+[Kojiroh] Good luck.
+[Kyoko] I know... Just a little bit more...
+[Kojiroh] Okay, Kyoko.
+[Kyoko] Oh no! This is bad!
+[Kojiroh] (She's freaking me out, man... I'm gonna\take off.)
+[Kyoko] Coffee, please.
+[Kojiroh] (I'm not your servant...)
+[Kojiroh] Well, I'll be over there.
+[Kyoko] Okay, I've successfully accessed the lower\levels...
+[Kojiroh] (So, she wants to ignore me, eh?)
+[Kyoko] I'll let you know if I get anywhere...
+[Kojiroh] Good. I'll be waiting.
+b08
+[Kojiroh] We've got lots to talk about...
+　Look/Investigate
+　Move
+　Speak
+　Equipment
+　Save/Load
+　Save
+　Load
+　Kyoko
+[Kojiroh] But more importantly...
+[Kyoko] What??
+[Kojiroh] I want to find out more on this Mido guy.
+[Kyoko] Is there something suspicious about him?
+[Kojiroh] Who knows... I think he's definitely\worth checking out, though.
+[Kyoko] And?
+[Kojiroh] Well... He kinda slipped a little when I\brought up Nikaido's name.
+[Kyoko] How do you mean?
+[Kojiroh] I only said his name, but he said that he\didn't know such a detective.
+[Kyoko] Well, that's it then!
+[Kojiroh] Yeah, but we were talking about\detectives so he said he just assumed Nikaido was a\detective.
+[Kyoko] He's pretty sharp.
+[Kojiroh] I want to know his history, what he's\been up to these past few years.
+[Kyoko] ...
+[Kojiroh] What position he held in Eldia, his age,\his family... Kenneth Starr could probably tell me,\but he's busy at the moment.
+[Kyoko] Yeah, it would help to know those things.
+[Kojiroh] It requires a private data search...
+[Kyoko] Which is impossible. The main database is\our only search mechanism.
+[Kojiroh] You think it has this stuff on him?
+[Kyoko] Yeah, not only the public sector, but it's\connected with the DBMS as well... Hey, what's\that look for?
+[Kojiroh] Hmm...
+[Kyoko] No! We're screwed if anyone finds out about\this!
+[Kojiroh] Hmm...
+[Kyoko] I'm a public servant, which means I can't\break the law!
+[Kojiroh] Hmm...
+[Kyoko] No... No you don't!
+[Kojiroh] Hmm...
+[Kyoko] Please dear God... Stop this fool!
+[Kojiroh] Hey, what ever happened to us being\partners?
+[Kyoko] You can't do this, Kojiroh. 
+0380
+eve_38
+She starts typing...
+[Kyoko] No, I can't believe this is happening...\I'll never trust you again!
+[Kojiroh] Hey, you'll get over it in time.
+[Kyoko] You shut up.
+She punches the keys...
+[Kyoko] You're in deep shit if anyone finds out\about this! This is unbelievable.
+[Kojiroh] Come on, toots. We're partners, remember?
+[Kyoko] Yeah, whenever you find it convenient.
+[Kojiroh] Relax. Trust me...
+[Kyoko] You just don't get it, do you... The DBMS\is protected by numerous protection devices.
+[Kojiroh] All I need to do is solve the password,\and our job is a lot easier.
+[Kyoko] Yeah, but even if we do get the access...\If they catch us, that'll be the end of it.
+[Kojiroh] So how are you gonna do it?
+[Kyoko] Well, I'm gonna use a public host, then go\access the Surveillance Organization Bros'\terminal.
+[Kojiroh] Alright. So, including the S.O.B.'s,\we're going through two hosts then.
+[Kyoko] Once there, I'm gonna go through their\terminal that attaches to their DBMS.
+[Kojiroh] Alright, then total of four. That should\take them a while.
+[Kyoko] Yeah, even if we're caught, it should take\them about five seconds to get back at us.
+[Kojiroh] Only 5 seconds...
+[Kyoko] That's if we're caught... If they don't,\then we can stay there forever.
+[Kojiroh] But it won't be that easy...
+[Kyoko] They might catch us right when we break in.
+[Kojiroh] Well...
+[Kyoko] If there was someone accessing at the same\time...
+[Kojiroh] Then we can just catch a ride with them.
+[Kyoko] It's not impossible... We have to use\perfect timing during the system deadlock. Jesus\Christ! I'm not supposed to be discussing this!
+[Kojiroh] I'll grant you the title, "Kyoko the\Hacker."
+[Kyoko] That would be a disappointing title to\have...
+[Kojiroh] Hacker's are pretty hip. And then the\media gave it a negative image.
+[Kyoko] I know that, but which image does my\"title" imply?
+[Kojiroh] That all depends on whether or not your\performance results in some info.
+[Kyoko] ...
+[Kyoko] Oh yeah, by the way...
+[Kojiroh] What is it?
+[Kyoko] You mentioned your jacket when you were\talking about money.
+[Kojiroh] Oh, that.
+[Kyoko] Did something happen at the embassy?
+[Kojiroh] Well, I think Purin is there.
+[Kyoko] You're kidding!
+[Kojiroh] One of the bodyguards at the embassy took\my jacket.
+[Kyoko] Your jacket?
+[Kojiroh] It's the one I lent to Purin... But all\my possessions are in it.
+[Kyoko] Is that what she was wearing?
+[Kojiroh] Yeah, I'm pretty sure...
+[Kyoko] Can you be sure?
+[Kojiroh] Well... I'm not 100% sure...
+[Kyoko] But what if you are right?
+[Kojiroh] Good question... I'm thinking about it.
+[Kyoko] You're not...
+[Kojiroh] Well, I've been thinking and maybe I'll\just go along with Hojo.
+[Kyoko] Stop acting like an idiot!
+[Kojiroh] Listen, let's just think more about this\later.
+[Kyoko] I get so frustrated when I'm with you.
+[Kojiroh] Well... Marina told the Ambassador to\increase the number of guards, but he said there's\nothing to worry about.
+[Kyoko] So, what happened?
+[Kojiroh] The Ambassador will go to an opera\tonight.
+[Kyoko] An opera?
+[Kojiroh] Apparently, he'll be there with an\honored guest.
+[Kyoko] Well, that's good... At least you didn't\seem suspicious.
+[Kojiroh] What the hell are you talking about?
+[Kyoko] Huh?
+[Kojiroh] It's a set up.
+[Kyoko] What do you mean?
+[Kojiroh] Don't you think it's weird? Right after I\leave, Marina comes in and talks to him about\what's gonna happen.
+[Kyoko] ...
+[Kojiroh] And the Ambassador thinks I'm not\suspicious? Yeah, right!
+[Kyoko] But...
+[Kojiroh] You said yourself that I was\suspicious... The Ambassador thinks so too.
+[Kyoko] Then what about the bug?
+[Kojiroh] They know.
+[Kyoko] Then why?
+[Kojiroh] I don't know if it's good or bad, but\they still don't know who I am.
+[Kyoko] So?
+[Kojiroh] So they're trying to lead me on.
+[Kyoko] What!?
+[Kojiroh] Ignoring Marina's advice, the Ambassador\will go to tonight's opera with an honored guest?\Yeah, sure.
+[Kyoko] Man... You figured out all this by\yourself?
+[Kojiroh] Their conversation was too smooth... As\if they were reading from a script.
+[Kyoko] And you caught on to it.
+[Kojiroh] Yeah, but that Marina girl knows that,\too.
+[Kyoko] What do you mean?
+[Kojiroh] She probably set the whole thing up,\knowing that I'll figure it out.
+[Kyoko] Why would she do that?
+[Kojiroh] I think she's just trying to tell me that\she's on to me.
+[Kyoko] But what if you hadn't figured it out?
+[Kojiroh] If I was that stupid, then they probably\have nothing to worry about.
+[Kyoko] And she set the whole thing up... Wow...
+[Kojiroh] Or else, there's another possibility.
+[Kyoko] What's that?
+[Kojiroh] They're provoking me...
+[Kyoko] You've GOT to be joking.
+[Kojiroh] It's possible. I find that more\interesting.
+[Kyoko] But why would they provoke you?
+[Kojiroh] Who knows. Why is there hair on my balls?
+[Kyoko] ...
+[Kyoko] And then there's the embassy...
+[Kojiroh] ...
+[Kyoko] You look pretty serious.
+[Kojiroh] I just can't figure out that old guy,\Mido.
+[Kyoko] Is there something strange about him?
+[Kojiroh] He just won't show his real self. He's\like air, you can't catch him.
+[Kyoko] Well, that's why he's an Ambassador...\That's his game.
+[Kojiroh] Yeah, he wouldn't budge no matter what I\said.
+[Kyoko] And what about Marina?
+[Kojiroh] She wasn't there... At least, not in the\same room.
+[Kyoko] Then where?
+[Kojiroh] She was probably in some other room,\observing.
+[Kyoko] Why?
+[Kojiroh] I set up a bug in there.
+[Kyoko] You actually did it!?
+[Kojiroh] You heard me.
+[Kyoko] ...
+[Kojiroh] What's wrong? You seem worried.
+[Kyoko] Enough of your teasing... Now, where is\Marina?
+[Kojiroh] She came straight into his office after I\left.
+[Kyoko] So she was listening to the conversation\then.
+[Kojiroh] Probably.
+[Kyoko] So what did they say?
+[Kojiroh] That I looked suspicious.
+[Kyoko] Well, you do. Even now.
+[Kojiroh] Come on...
+[Kyoko] Anyway, what did the Ambassador say?
+[Kojiroh] He just said that he's seen a lot of low\life scum like me.
+[Kyoko] So he wasn't suspicious of you?
+[Kojiroh] Doesn't seem like it from their\conversation.
+[Kyoko] So he just thought you were an idiot.
+[Kojiroh] You've got a sharp tongue.
+[Kyoko] You bet I do.
+[Kojiroh] Let's try to be a little more gentle.
+[Kyoko] Could you show me the note, and the other\things?
+[Kojiroh] Sure.
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Note
+s10
+[Kojiroh] It's a painting of bizarre design...
+[Kyoko] It's on the tip of my tongue, but...
+001
+b08
+s10
+[Kyoko] That's the painting at the center of all\this commotion, right?
+[Kojiroh] Yeah, so?
+[Kyoko] I've seen that before...
+[Kojiroh] Where?!?
+[Kyoko] I don't remember, but I definitely remember\seeing that design.
+[Kojiroh] Goddammit! Just try and remember, okay?
+[Kyoko] Listen, it ain't so easy! You can't just\remember everything at will!
+[Kojiroh] You argue with everything I say.
+001
+b08
+s07
+[Kyoko] I don't wanna see that...
+001
+b08
+s07
+[Kyoko] Hey, what is that!?
+[Kojiroh] This is just a model gun. It's illegal to\have a real one.
+[Kyoko] Are you telling me the truth?
+[Kojiroh] What the hell would I do with a real one?
+[Kyoko] How should I know?
+[Kojiroh] You gonna call the cops?
+[Kyoko] ...
+[Kojiroh] Then stop asking so many damn questions.
+[Kyoko] Fine. I'll let you jack off with your\little piss-ant pistol.
+001
+b08
+[Kojiroh] You'll see... I'm gonna be big.
+[Kyoko] But you need to borrow it for now, right?
+[Kojiroh] (She'd be so much cuter if she didn't\have that sharp tongue.)
+[Kojiroh] Ah!
+[Kyoko] What...?
+[Kojiroh] I left all my cash with Purin!
+[Kyoko] You mean that part-timer that works for\you?
+[Kojiroh] What should we do, Himuro!?! What should\we do?
+[Kyoko] Calm down, already!
+[Kojiroh] How can I calm down when my whole life is\in that jacket!
+eve_40
+[Kyoko] Relax...
+[Kojiroh] When I went to the embassy...
+028
+028c
+028d
+[Man] This thing's cheaper than it looks. I was\about to dispose of it.
+001
+b08
+[Kojiroh] Dispose of it!? Oh, shit!
+[Kyoko] What's wrong?
+[Kojiroh] I just realized that I'm penniless.
+[Kyoko] Excuse me?
+[Kojiroh] I'll give you the details later. Trust\me, I'm broke.
+[Kyoko] So?
+I give her that puppy look.
+[Kyoko] Why do you look like you want something.
+[Kojiroh] Because I do.
+[Kyoko] Don't look at me. We don't get paid a lot.
+[Kojiroh] Oh, come on. Please.
+[Kyoko] No, no, no.
+[Kojiroh] I thought we're partners... Come on.
+[Kyoko] Man...
+[Kojiroh] We'd make a good team, if we can share\the pain.
+[Kyoko] Maybe I'll reconsider partnering with you.
+[Kojiroh] I promise I'll give it back. Come on,\partner.
+[Kyoko] You're really gonna pay me back?
+[Kojiroh] Yeah... I just need the lunch money.
+[Kyoko] Fine...
+[Kojiroh] Alright! Thanks!
+[Kyoko] But remember, I'm just lending it to you.
+[Kojiroh] I know, I know.
+[Kyoko] You don't need to check anymore, alright?
+[Kyoko] What the hell are you doing!?
+[Kojiroh] It's just my habit...
+[Kyoko] ...
+[Kojiroh] You wanna read the note?
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] That's what it says.
+[Kyoko] I don't understand what it means...
+[Kyoko] Can I see it?
+[Kojiroh] Sure. Go ahead and read it to me.
+[Kyoko] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] Well?
+[Kyoko] What is it?
+[Kojiroh] I knew you wouldn't understand.
+[Kyoko] What's it trying to tell us?
+[Kojiroh] Who knows... Maybe Purin can understand\what it's getting at.
+[Kyoko] Could there be anything else written on the\actual paper?
+[Kojiroh] You mean, something written in invisible\ink?
+[Kyoko] Something like that.
+[Kojiroh] Couldn't be. This is a copy. They told me\she'd know what it meant if she saw it.
+[Kyoko] Hmm...
+　Surroundings
+　Kyoko
+　Table
+　Work desk
+[Kojiroh] It's my office, without my little Purin.
+[Kojiroh] She knew this place so well, in such a\short time...
+[Kojiroh] She'd clean this place up so well that\it'd actually look like a normal warehouse.
+[Kojiroh] Kyoko's having a hissy fit.
+[Kyoko] What did you just say!
+[Kojiroh] Are you always this angry with life?
+[Kyoko] If you don't like my personality, get out\of my face!
+[Kyoko] You're the only person I know who stares at\a table with bloodshot eyes.
+[Kojiroh] This morning, with Siria...
+[Kojiroh] ...
+[Kyoko] You're eyes are bloodshot, Kojiroh...
+[Kojiroh] The telecommunication lines are open,\from here we can access the network.
+[Kojiroh] There's no need to use it now...
+[Kyoko] At first look, it appears to be a boring\office... But there're actually lots of machinery\parts here.
+[Kojiroh] I am a pro, you know?
+[Kyoko] There are plenty of telecommunication\lines... We can receive all kinds of information\here...
+　Bed
+[Kojiroh] Oh well, I guess I will save the bed for\later.
+[Kyoko] Don't bother saving it for later, I won't\sleep with you!
+[Kyoko] ...
+[Kojiroh] Fine, I'll quit.
+[Kyoko] Don't take off your clothes.
+[Kyoko] Don't ask me to sleep with you.
+[Kyoko] What are you thinking!?!
+[Kyoko] Your eyes are bloodshot, Kojiroh...
+[Kyoko] Hey!
+[Kojiroh] Where could Purin have gone?
+[Kojiroh] We're all looking for you...
+　Look/Investigate
+　Move
+　Equipment
+　Save/Load
+　Save
+　Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Note
+s10
+[Kojiroh] It's a painting of a bizarre painting...
+[Kojiroh] Apparently, Nikaido knew what it meant.
+001
+s10
+[Kojiroh] Kou, or actually, Kou's decoy, hired me\to find this painting.
+[Kojiroh] How are they involved in this case?
+001
+s07
+[Kojiroh] It's what I use for protection...
+001
+s07
+[Kojiroh] I never go a single day without looking\at it at least once.
+[Kojiroh] It's my Customized Glock 22... It's\helped me out quite a bit.
+001
+[Kojiroh] Thanks to this, I can make a living...
+[Kojiroh] This isn't exactly the time to talk about\money.
+[Kojiroh] I need some dough, but I have other\things to do first.
+[Kojiroh] It's not feeling well.
+[Kojiroh] It doesn't look like he's doing so well,\actually...
+[Kojiroh] There are too many things going around in\my head...
+[Kojiroh] You wanna read the note?
+[Kojiroh] "The moon will be full, the oasis will\moisten, and green shall return to the desert."
+[Kojiroh] That's what it says.
+[Kojiroh] It's the memo that Siria gave me.
+[Kojiroh] "The moon will be full, the oasis will\flourish, and green shall return to the desert."
+[Kojiroh] Purin should know what this means...
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Kojiroh] It's my office, without my little Purin.
+[Kojiroh] She knew this place so well, in such a\short time...
+[Kojiroh] She'd clean this place up so well that\it'd actually look like a normal warehouse.
+[Kojiroh] But she's not here now...
+[Kojiroh] They've been on since this afternoon...
+[Kojiroh] This can't be good for the electricity\bill...
+[Kojiroh] The lights are on...
+[Kojiroh] They're the only thing that came with\this place.
+[Kojiroh] It' a messy table. Got a problem with\that?
+[Kojiroh] It's only a day since she vanished...
+[Kojiroh] And the room's starting to get messy\again.
+[Kojiroh] Akane was checking it out yesterday.
+[Kojiroh] And all she had to do was ask...
+[Kojiroh] The terminal with all my data is sitting\on top of it.
+[Kojiroh] The telecommunication lines are open,\from here we can access the network.
+　Go outside
+[Kojiroh] Yeah, hanging around this place won't\make me feel any better.
+[Kojiroh] Let's get some fresh air!
+a002_2
+　About Purin
+　About Nikaido
+　About Glen
+　About Aqua
+　About Kou
+　My real name
+[Kojiroh] I guess it's not about Purin.
+[Kojiroh] Yes! It's Purin!
+[Kojiroh] Then why does Purin have to send herself\something?
+[Kojiroh] This doesn't make sense...
+[Siria] Where I come from, only homeless people\talk to themselves... And loonies. You okay?
+[Kojiroh] This isn't about Nikaido...
+[Kojiroh] Oh yeah! It IS about that idiot, Nikaido!
+[Kojiroh] His alias is, "Nikaido Stoleman."
+[Kojiroh] ...
+[Kojiroh] It can't be...
+[Siria] You sure get excited when you're alone.
+[Kojiroh] Could this be about...Glen..?
+[Kojiroh] Yeah, it could be about him...
+[Kojiroh] Glen = Stoleman... Hmm...
+[Kojiroh] But then again, I never knew his real\name.
+[Siria] Have you thought this through enough?
+[Kojiroh] I don't know Aqua's family name.
+[Kojiroh] That's right! It's her!
+[Kojiroh] ...
+[Kojiroh] I know... I'm wrong.
+[Siria] You really enjoy talking to yourself, don't\you!
+[Kojiroh] (That's right, it's Kou... The principal\of the international school!)
+[Kojiroh] (It was in the paper, even... Stoleman\Kou. It was the real name of the man who was\killed.)
+[Kojiroh] (Is it a note from Kou?)
+[Kojiroh] (Wait a minute...)
+[Kojiroh] (I remember that she disappeared when I\was talking with Himuro...)
+[Kojiroh] (Purin dropped the dishes when Kou's\topic came up.)
+[Kojiroh] ...
+[Kojiroh] (There must be a connection somewhere...)
+[Kojiroh] (Purin is somehow connected with Kou...!)
+[Kojiroh] (But then, how does this Siria broad come\into the picture?)
+[Kojiroh] I don't know of this note.
+[Kojiroh] That's right! That Stoleman character is\really me!
+[Kojiroh] But when did I write this memo.
+[Siria] I don't get you...
+[Siria] Well, what do you want to ask?
+　Look/Investigate
+　Move
+　Speak
+　Save/Load
+　Save
+　Load
+　Siria
+[Siria] I'll give the note to you.
+[Kojiroh] This?
+[Siria] It's just a copy. Do what you want to it.
+[Kojiroh] Why are you giving this to me?
+[Siria] You never know... She may be back here\soon...
+[Kojiroh] Purin...?
+[Siria] That's all...
+[Kojiroh] Hey... Where are you going!
+[Siria] To change my clothes... I'll catch a cold\like this.
+[Kojiroh] ...
+[Siria] Or do you like me this way?
+[Kojiroh] Uh, well...Uhh...not really.
+[Kojiroh] (Shit! I almost let her know that I DO\like her like that!)
+001
+b09
+[Siria] I'm so happy to hear she wasn't captured by\those bastards.
+[Kojiroh] ...
+[Siria] Be sure to hand her that note if you see\her.
+[Kojiroh] Oh... Are you leaving already?
+[Siria] Yes... There're so many things I have to\take care of.
+[Kojiroh] ...
+[Siria] I'm wanted too, you know.
+[Kojiroh] By whom?
+[Siria] The Japan's criminal investigation team.\And another extreme group.
+[Kojiroh] You mean the former Intelligence Sector?
+[Siria] Maybe they're interested in my body...
+[Kojiroh] ...
+[Siria] Anyway, thanks for looking after me. I'll\make it up to you someday.
+[Kojiroh] Don't mention it... I don't expect\anything in return.
+[Siria] And also, be sure to apologize to that\woman.
+001
+[Kojiroh] ...
+[Kojiroh] You've thanked me enough. I don't need to\hear anymore.
+[Kojiroh] She's gone...
+There's a plastic bag on the floor.
+[Kojiroh] Whoa... It's a shopping bag.
+[Kojiroh] Onions, beef, potatoes, stew mix...
+[Kojiroh] Did she really come here to cook\breakfast?
+[Kojiroh] She didn't have to cry...
+[Kojiroh] What I did with Siria was because I was\concerned about Puddin...
+[Kojiroh] Weird...
+[Kojiroh] Siria... What a dame.
+[Kojiroh] For your country, huh?
+eve_21
+[Siria] And what if I refuse?
+[Kojiroh] I'll never sleep with you again.
+[Siria] Oh, shut up...
+[Kojiroh] ...
+[Siria] You're strange... You're so easy to talk\to... Although you may be my enemy.
+[Kojiroh] ...
+[Siria] Alright, I'll tell you. She's a servant for\someone for an important figure.
+[Kojiroh] Purin is?
+[Siria] Right, and that someone is an essential\character in Eldia.
+[Kojiroh] ...
+[Siria] There's no turning back if I tell you the\rest.
+[Kojiroh] I'm already in this deep... Keep going.
+[Siria] Her mission was to receive something from\Kou.
+[Kojiroh] And what was it?
+[Siria] Something very important for someone.
+[Kojiroh] Something very important?
+[Siria] Yes, and it can't fall into the wrong\hands.
+[Kojiroh] So what the hell is it?
+[Siria] I don't know. That's just what Stoleman\said.
+[Kojiroh] Kou... And how is Stoleman connected with\Purin.
+[Siria] They work for the same person.
+[Kojiroh] ...
+[Kojiroh] (Hey, Matsuno at the library...)
+[Kojiroh] (Kou's family has been serving for\generations...)
+[Kojiroh] (That's right...)
+[Kojiroh] (Royal family...!?)
+[Kojiroh] (Then that means, Purin serves...)
+[Kojiroh] Royal family?
+[Siria] Very good.
+[Kojiroh] Why the hell is Purin being followed by\the former Intelligence Sector?
+[Siria] ...
+[Kojiroh] Did she steal the king's favorite\slippers or something?
+[Siria] ...
+[Kojiroh] (This chick should lighten up...)
+[Kojiroh] Let's change the subject... Who killed\Stoleman?
+[Siria] "Terror."
+[Kojiroh] Siria, you used the same knife...
+[Siria] That survival knife is distributed to\Eldia's military. Go to any shop in the Eldian\Republic and you can buy one.
+[Kojiroh] ...
+[Siria] I work for the principles of patriotism. I\don't work for murder money like little old\"Terror."
+[Kojiroh] Wow... Principles of patriotism.
+[Siria] Exactly.
+[Kojiroh] So who the hell is, "Terror"?
+[Siria] An assassin. He's paid to kill.
+[Kojiroh] ...
+[Siria] May I ask you something?
+[Kojiroh] I win the bet.
+[Siria] It was even.
+[Kojiroh] You're showing good spirit.
+[Siria] What's your relation to her?
+[Kojiroh] Her husband.
+[Siria] ...
+[Kojiroh] Of course, Purin would be shocked to hear\me say that.
+[Siria] Do you love her...?
+[Kojiroh] I like her, and I want to protect her.\But I'm not in love with her.
+[Siria] ...
+[Kojiroh] We're just good friends, you see... We've\only met a few days ago.
+[Siria] Oh...
+[Kojiroh] But what kind of shit is she involved\with?
+[Siria] ...?
+[Kojiroh] There's a huge reward out for her.
+[Siria] Yes, I know. It's set up by the former\Eldia Intelligence Sector.
+[Kojiroh] The Intelligence Sector? ...What's that?
+[Siria] I'm amazed. You honestly don't know\anything about her?
+[Kojiroh] Honestly.
+[Siria] Well then why are you sheltering her?
+[Kojiroh] I'm not sheltering her. She just has\nowhere else to go. That's all.
+[Siria] Is that all?
+[Kojiroh] That's not enough?
+[Siria] You didn't do anything to her, did you?
+[Kojiroh] Oh, shut up.
+[Siria] Touchy, aren't we?
+[Kojiroh] So why would this former Intelligence\Sector put a reward out for her?
+[Siria] If I tell you, what are you gonna do about\it?
+[Kojiroh] I'll decide after I hear what it is.
+[Kojiroh] (Purin...)
+[Kojiroh] (...What the hell are you up to...)
+[Kojiroh] You were saying you had to do something\for Purin?
+[Siria] That's right.
+[Kojiroh] And what must you do?
+[Siria] Hand her a loveletter.
+[Kojiroh] ...
+[Siria] It's a note.
+[Kojiroh] Is that all?
+[Siria] Yes... It's in my clothing.
+[Kojiroh] I'm not falling for that one.
+[Siria] It's true. Don't worry.
+[Kojiroh] Then take it out...
+[Siria] ...
+[Kojiroh] (There's no reason to be so careful with\this chick.)
+[Siria] This.
+I look at the paper
+[Kojiroh] (There's something written...in English.)
+[Kojiroh] "The moon will be full, the oasis will\flourish, and green shall return to the desert."
+[Siria] ...
+[Kojiroh] What the hell is this?
+[Siria] It's a piece of paper with a note written\on it.
+[Kojiroh] You're getting more interesting as time\goes by.
+[Siria] Thanks.
+[Kojiroh] Now, back to my question... What does\that note mean?
+[Siria] I was just supposed to get it to her. I\don't know what it means.
+[Kojiroh] So you think Purin will know what it\means?
+[Siria] She might.
+[Kojiroh] ...
+[Siria] Give it to her when you see her. There'll\be big trouble if you don't.
+[Kojiroh] Big...trouble?
+[Siria] That's what they told me.
+[Kojiroh] Who told you...
+[Siria] Stoleman.
+[Kojiroh] Stoleman?
+[Kojiroh] (I've heard that name somewhere before.)
+[Siria] ...
+[Kojiroh] That Stoleman character...
+[Kojiroh] First of all, I need to clear something\up.
+[Siria] Go ahead.
+[Kojiroh] Are those tits real?
+[Siria] ...
+[Kojiroh] Well?
+[Siria] You're asking about my breasts...?
+[Kojiroh] Is there something wrong with that?
+[Siria] Well, obviously!
+[Kojiroh] ...
+[Siria] Everywhere I go, men give me those horribly\perverse stares...
+[Kojiroh] ...
+[Siria] They're always in the way! Not only with\fighting, but whenever I move... And my bra digs\into my shoulders!
+[Kojiroh] Hey, I think they look perfectly good on\you. Just don't wear a bra!
+[Siria] Please...
+[Kojiroh] Come on, lighten up... Men only look at\you because you're attractive. We can't help it.
+[Siria] Well, I don't like it.
+[Kojiroh] I mean, shit... Looking at T N' A is in\our DNA. Give us some slack.
+[Siria] ...
+[Kojiroh] I know you like us staring at you...\Admit it.
+[Siria] Well, I guess...
+[Kojiroh] 'Atta girl.
+[Siria] ...
+[Kojiroh] (This isn't what I intended to ask\her...)
+[Siria] And you are...
+[Kojiroh] Kojiroh.
+[Siria] So you just happen to start off every\relationship with a comment like that?
+[Kojiroh] I can't explain it, but attractive women\just do something to me.
+[Siria] ...
+[Kojiroh] (We've strayed from the subject a bit...)
+[Siria] Is that true?
+[Kojiroh] Yeah. So what?
+[Siria] Interesting...
+[Kojiroh] Well, it's true.
+[Siria] Is it really?
+[Kojiroh] Just shut the hell up, already!
+[Siria] Well, wasn't there something you wanted to\ask me?
+[Kojiroh] Uhh... (Here goes nothing...)
+[Kojiroh] It's about...that.
+[Siria] The knife?
+[Kojiroh] Is it your knife?
+[Siria] Yes.
+[Kojiroh] ...
+[Siria] You're making an awfully strange face,\there...
+[Kojiroh] Well, I've been dealing with people who\like to kill others with knives.
+[Siria] ...This is about "Terror," isn't it?
+[Kojiroh] (Terror...?)
+[Siria] I hate to break the news to you, but I'm\not an assassin.
+[Kojiroh] Who'll believe you?
+[Siria] I answered your question, didn't I?
+[Kojiroh] What's "Terror"??
+[Siria] The name of your little assassin.
+[Kojiroh] So, you're not "Terror"?
+[Siria] I'm might as well be the girl next door...
+[Kojiroh] Who the hell are you, really?
+[Siria] I'm a girl, but I don't live next door.
+[Kojiroh] ...
+[Siria] You don't have a good sense of humor, do\you...
+[Kojiroh] Answer me seriously. I know you're not\the amateur you say you are.
+[Siria] Neither are you.
+[Kojiroh] I'm a genuine amateur.
+[Siria] That's not what I hear...
+[Kojiroh] And who tells you this?
+[Siria] A real nasty person...
+[Kojiroh] ...?
+[Siria] Don't I look like an average gal?
+[Kojiroh] Sorry, but not a bit... Are you with the\army?
+[Siria] Pretty sharp... But I'm not with them\anymore.
+[Kojiroh] What unit?
+[Siria] Well, I wish I belonged somewhere... I was\relieved several years ago.
+[Kojiroh] ...
+[Kojiroh] (The way she carries herself, her\fighting style, her knowledge on weapons...)
+[Kojiroh] (She's probably telling the truth.)
+　Siria
+　Tits
+　Ass
+　Thighs
+[Siria] All bets are off.
+[Siria] You want to do it again?
+[Kojiroh] You wouldn't mind?
+[Siria] Ah, never mind.
+[Kojiroh] (Shit, don't even bother asking next\time.)
+[Kojiroh] Her cheeks are still blushing.
+[Kojiroh] I must've been good.
+[Kojiroh] I guess I'm not getting anymore.
+[Siria] You can look at them all day, but you're\not gonna get any.
+[Kojiroh] Not even a little?
+[Siria] Now that I think about it? I forgot to\squeeze your thing with it, huh?
+[Kojiroh] !?
+[Siria] But the bets are off.
+[Kojiroh] Oh...
+[Kojiroh] Don't stare like that.
+[Kojiroh] Hey, why not listen to what Siria has to\say?
+[Kojiroh] ...
+[Siria] Don't look at it like you want it.
+[Kojiroh] Oh, okay.
+[Kojiroh] Your ass...
+[Siria] I'll never give it to you...
+[Kojiroh] Your ass...
+[Siria] It still hurts...
+[Kojiroh] Does it still hurt?
+[Siria] A little...
+[Kojiroh] That's because you put in some good\physical exercise.
+[Siria] Speak for yourself... You're the one who\attacked.
+[Kojiroh] Oh. ...Right.
+[Siria] The treatment isn't bad... There's no\inflammation.
+[Kojiroh] You owe me one.
+[Siria] I know... I'll get back to you.
+　Above Siria
+[Kojiroh] Let's listen to Siria some more...
+[Kojiroh] I said no, didn't I?
+[Siria] Don't push me down when you say that.
+[Kojiroh] Stop it, please.
+[Kojiroh] Dammit.
+[Kojiroh] Now you just wait a minute, you little...
+[Kojiroh] Hey...

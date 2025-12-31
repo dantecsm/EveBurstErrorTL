@@ -1,0 +1,1018 @@
+001
+[Kojiroh] I'm back in my office...
+I feel a twinge.0
+\ 
+eve_41
+[Kojiroh] Shit. It's starting already.
+[Kojiroh] Dang... Never any time to relax.
+b26
+[Akane] Kojiroh...
+[Kojiroh] Did you bring them?
+[Akane] Well... Yeah, but...
+[Kojiroh] Hurry up and hand 'em over.
+[Akane] But what do you need handcuffs for?
+[Kojiroh] Because I need 'em.
+[Akane] But...
+[Kojiroh] I explained on the way over, didn't I?
+[Akane] Yeah...
+[Kojiroh] We can't underestimate the power of\drugs. There's no telling what I might do after\withdrawal symptoms set in.
+[Akane] ...Okay.
+She gives me the cuffs.
+[Kojiroh] So, which of these beams looks the\sturdiest...?
+[Akane] What should I do?
+[Kojiroh] Just relax. Take a hot shower, and rest.
+[Akane] Yeah, right! Who's gonna look after you?
+[Kojiroh] This is my problem. You've done enough.\Now it's my turn.
+[Akane] ...
+[Kojiroh] Okay, this beam is probably the\strongest...
+[Kojiroh] Seeing as how I just reinforced the area\around the gate...
+[Kojiroh] Yeah. It's hard and fat and tough as my\cock... right?
+[Akane] Can you forget your damn penis, for now at\least?
+I attach the handcuffs to the beam and lock myself in.
+[Akane] Are you sure there's nothing I can do?
+[Kojiroh] Don't you dare do anything.
+[Akane] ...
+I try to break free of the beam.0
+0560
+0560b
+\ 
+[Kojiroh] Feels pretty secure...
+I try to pull away as frantically as I can.
+[Kojiroh] I can't budge. Even a gorilla couldn't\get out of this.
+[Akane] Kou... Kojiroh... I...
+[Kojiroh] Just shut up and listen for a second,\okay?
+[Akane] Sure...
+[Kojiroh] Starting now... I'm gonna be pretty crazy\all night long.
+[Akane] ...
+[Kojiroh] I might be in a lot of pain, screaming\and shouting, asking for your help, but don't pay\any attention to me. Alright?
+[Akane] What do you mean 'Alright?' It's not\alright at all.
+[Kojiroh] Everything depends on this process of\ridding the drug completely from my system. If\everything goes okay, it will be chased away by the\morning sun...
+[Akane] But...
+[Kojiroh] No buts.
+[Akane] ...
+[Kojiroh] Go to bed. You're tired, right?
+[Akane] Well, yeah, but...
+[Kojiroh] And don't forget to wear earplugs.
+[Akane] Alright, already, I got it! I'll leave you\alone!
+0560
+[Kojiroh] Thank you.
+[Kojiroh] This will be a true test.
+[Kojiroh] It's been about an hour since I got shot\with the antidote.
+[Kojiroh] Pretty soon I'll go into withdrawal...
+[Kojiroh] ...
+[Kojiroh] That bastard...
+I start coughing
+[Voice] Are you okay?
+[Kojiroh] Okay? Of course I'm not okay...
+[Voice] What an incredible experience... Most\people never experience anything like this.
+[Kojiroh] Can't you talk about anything else.
+[Voice] Just trying to be cheerful.
+[Kojiroh] God, you're a handful.
+[Voice] That girl saved your ass.
+[Kojiroh] That's right. Akane helped me.
+[Voice] She's not a half bad dame... Kojiroh, is\she your woman?
+[Kojiroh] Shut up!
+[Voice] Just kidding.
+[Kojiroh] ...
+[Voice] Shit... My cigar got a little wet.
+[Kojiroh] Who the hell are you, anyway?
+[Voice] Why don't you come over here and see?
+[Kojiroh] Aaahh...
+0565
+eve_08
+[Man] The water's nice. It washes away the pain in\my troubled soul.
+[Kojiroh] Huh?
+[Man] How about it? You want to smoke one?
+[Kojiroh] No...
+[Man] I see you're still a baby...
+[Kojiroh] Did you see Yayoi?
+[Man] No.
+[Kojiroh] Why not?
+[Man] There's no need to.
+[Kojiroh] ...
+[Man] She has a life of her own.
+[Kojiroh] Mr. Katsuragi! You're her father, aren't\you?
+[Katsuragi] I used to be...
+[Kojiroh] Do you have any idea how Yayoi felt?!
+[Katsuragi] ...
+[Kojiroh] ...
+0560
+[Kojiroh] Huh...?
+[Kojiroh] Oh, I fell asleep.
+[Kojiroh] ...
+[Kojiroh] My body aches...
+[Kojiroh] My mind can't focus...
+[Kojiroh] My eyes hurt...
+[Kojiroh] My joints hurt...
+[Kojiroh] Dang, it's driving me crazy...
+[Kojiroh] ...
+[Kojiroh] Shit...
+[Kojiroh] Pretty soon...
+[Kojiroh] ...
+[Kojiroh] What's going on?
+[Kojiroh] The, the lamp looks normal...
+[Kojiroh] Where the hell...
+[Kojiroh] This, this...
+[Kojiroh] It's not because of the lamp...?!
+eve_26
+024-2
+b05
+[Kojiroh] Oh... Now I'm in...
+[Yayoi] Good morning, Kojiroh...
+[Kojiroh] Yayoi... Is that you, Yayoi?
+[Yayoi] What's wrong with you? You're acting weird\today.
+[Kojiroh] No, it's just...
+[Yayoi] Of course, you always act weird, don't\you...?
+[Kojiroh] Thanks, bitch.
+[Yayoi] Right now I'm preparing some home-made soup\for you.
+[Kojiroh] That sounds nice.
+[Yayoi] I hope you like it.
+024-2
+[Kojiroh] ...
+[Kojiroh] I must've stayed the night in Yayoi's\apartment...
+[Kojiroh] Her father couldn't possibly be alive...
+[Kojiroh] Shit, that's funny. I can't stop\laughing.
+[Yayoi] What's gotten into you?
+b05
+wh
+025
+025b
+025c
+[Kojiroh] I just had a crazy dream that some dead\prick was alive...
+[Yayoi] I have dreams like that all the time.
+[Kojiroh] Oh, yeah?
+[Yayoi] He's one of those dead pricks, too, right?
+[Kojiroh] ...'He'?
+[Voice] I'm over here...
+eve_14
+024-2
+b06
+[Kojiroh] Nikaido... I thought you were dead...
+[Nikaido] Oh I'm alive alright. I live with Yayoi.
+[Kojiroh] What the heck?
+b05
+wh
+0135
+[Yayoi] Sorry, Kojiroh...
+[Kojiroh] Yayoi...
+[Yayoi] Nikaido and I are already...
+[Kojiroh] How can you be with that bastard\Nikaido?!
+[Nikaido] Calm down a little, Kojiroh.
+[Yayoi] Tee-hee-hee...
+[Nikaido] A-ha-ha-ha-ha-ha!
+[Kojiroh] !?
+eve_21
+010
+[Kojiroh] What's this? I'm at Kou's house...
+[Kojiroh] Why the heck would I be here?
+[Kyoko] Please, Kojiroh!
+b08
+[Kojiroh] Is that Kyoko? What are you doing here?
+[Kyoko] That's my line. Hurry up, the Director is\waiting.
+[Kojiroh] Where?
+[Kyoko] This is his house...
+[Kojiroh] Oh yeah. That's right. Ha-ha-ha..
+[Kyoko] Can't you ever be serious?
+011
+[Kojiroh] (But why?...)
+[Kojiroh] (Why on earth would I come to Kou's\house?)
+[Kyoko] Hurry up, Kojiroh!
+[Kojiroh] I'm coming, I'm coming!...
+[Kojiroh] ...
+[Kojiroh] He isn't even here...
+[Kojiroh] Son of a bitch... Playing games with us\when I don't feel so well.
+b08
+[Kyoko] Be a man and quit complaining.
+[Kojiroh] Kyoko, where is Kou?
+[Kyoko] I'll go call for him. Just wait for now.
+011
+[Kojiroh] ...
+[Kojiroh] But why would Kou want to see me\anyway...?
+[Kou] Sorry to keep you waiting...
+0150b
+eve_20
+[Kojiroh] Shit!3
+[Kojiroh] Kyoko! Kyoko! Get over here! Kyoko!
+[Kou] Unfortunately we weren't able to meet when I\was alive...
+[Kojiroh] Yeah, what a shame.
+[Kou] You know I did call your office? Once.
+[Kojiroh] So it was you.
+[Kou] It was unlucky how I was captured by Pat's\former Intelligence Sector.
+[Kojiroh] ...
+[Kou] They removed my fingernails, drilled holes in\my teeth, and broke my fingers, but I didn't tell\them where the National Seal is hidden.
+[Kojiroh] What! What are you saying?
+[Kou] I'm saying that the National Seal was stolen\by rebels. That I don't have it anymore. I tried my\hardest to make Pat believe me. But...
+[Kojiroh] ...
+[Kou] But you found it. What do you plan on doing\with the scenario I slaved over to create?!
+[Kojiroh] I... All I did was my job...
+[Kou] Heh-heh-heh... I know. You were just doing\your job for the money. Just like "Terror"...
+[Kojiroh] "Terror"...?!
+[Kou] I was murdered by "Terror"... Although,\there's also another way to say it...
+[Kojiroh] What do you mean?...
+0150
+He says nothing.
+[Kojiroh] Hey! What do you mean?
+[Kojiroh] What do you mean you can say it another\way?!
+[Kojiroh] Answer me!
+0150b
+[Kojiroh] Answer me!
+[Kou] I forgot to tell you...
+[Kojiroh] ...
+[Kou] Please take care of Queen-in-waiting\Prisia... She's quite a fine woman.
+[Kou] Please look out for the Prime Minister and\the remnants of the former Intelligence Sector.
+[Kou] Also watch out for Ambassador Mido... and\Mayako Mido...
+0150
+wh
+1225
+He's gone...
+[Kojiroh] Hey! Hey!
+[Kojiroh] What do you mean?! Hey!
+[Kojiroh] Kou! Answer me!
+eve_24
+025
+025b
+[Kojiroh] ...
+[Kojiroh] Where am I?...
+b16
+b16b
+wh
+0450
+[Akane] This... is the room where he and I met.
+[Kojiroh] Is that Akane? How'd you get here?...
+[Akane] He was killed at the Princess...
+[Kojiroh] Who? Who's 'he'?...
+[Akane] I was serious about getting the story, and\I just got more and more stuck on Nikaido.
+[Kojiroh] What are you saying, Akane...?
+[Akane] Nikaido was hired by Ambassador Mido...\He's trying to get the National Seal, too.
+[Kojiroh] Mido... wants the National Seal?
+025
+025b
+[Kojiroh] Wait a minute... Akane!
+[Voice] Heh-heh-heh... What an idiot you are,\Kojiroh...
+[Kojiroh] Nikaido... Where are you?!
+[Voice] I'm in bed.
+[Kojiroh] What the heck are you doing there?
+[Voice] Oh, I think it's better if we leave the\sheets on.
+[Kojiroh] ...
+[Voice] That's it, baby. Keep doing me like that.
+[Kojiroh] Nikaido. Tell me what the heck you're\doing!
+[Voice] I took you for a ride man. Both you and\Akane.
+[Kojiroh] ...
+[Voice] Kojiroh, you truly performed marvelously.\Of course you did get hung up on the double tricks\at Kou's place.
+[Kojiroh] So you're the one who two-timed us.
+[Voice] That's right. For twice the usual salary,\Mido willingly bought the National Seal from me.\The original that was together with the painting.
+[Kojiroh] ...
+[Voice] Then I financed Katsuragi Detective\Offices, with the plan to actually become the owner\of the office.
+[Kojiroh] But your plan got messed up.
+[Voice] Exactly. It was a miscalculation when you\beat me through the double trickery, and...
+[Kojiroh] Then what happened?
+[Voice] Let's see...I guess getting murdered by\"Terror"...
+025c
+eve_52
+[Kojiroh] Holy shit!5
+eve_45
+[Nikaido] Come now. Don't act so surprised. It\didn't even hurt. It was over in a blink.
+[Kojiroh] ...
+[Nikaido] I was murdered by "Terror", but you can\also say it a different way...
+[Kojiroh] What does that mean?...
+[Nikaido] Avenge my death, Kojiroh... The one who\killed me came unexpectedly...
+[Kojiroh] Unexpectedly...
+[Nikaido] Yes... No, perhaps not so unexpectedly.
+[Kojiroh] What are you trying to say?...
+[Nikaido] You feel that he's near when he isn't,\when you think he will kill he doesn't. Close but\not really... It may be someone like that.
+[Kojiroh] Nikaido...?
+[Nikaido] Not to mention that it may not be just\one person... No. It may be just one person, or\maybe none.
+[Nikaido] If you think that the same person is\doing the killing, the carpet may be swept from\under your feet. I wonder if you can solve it,\Kojiroh...
+[Kojiroh] What's that supposed to mean...?
+[Nikaido] I look pretty strange, don't I. My neck\was dislocated, ruined my handsome looks.
+025
+025b
+wh
+b18
+[Nikaido] Goodbye, Kojiroh... Let's meet again in\the afterworld.
+[Kojiroh] Nikaido?...
+[Nikaido] Ha-ha-ha-ha...
+[Kojiroh] ...
+eve_25
+001
+[Kojiroh] ...
+[Kojiroh] Was it all a dream?...
+[Kojiroh] ...
+[Voice] Kojiroh...
+b03
+[Kojiroh] Prisia?
+[Prisia] Kojiroh... Come to me...
+[Kojiroh] What?... What are you saying...?
+001
+[Kojiroh] H-Hey! Wait! Purin!
+[Kojiroh] Where do you think you're going?!
+002
+[Kojiroh] Purin...
+[Kojiroh] Where are you going...?!
+[Kojiroh] Hey, Purin!
+[Voice] I'm here, Kojiroh...
+b03
+[Kojiroh] Good. I thought you went off some\place...
+[Prisia] Please follow me...
+[Kojiroh] Wait! Where to?
+[Prisia] To The Tristan...
+[Kojiroh] Huh...?
+002
+[Kojiroh] Hey!... Wait a minute!
+036
+[Kojiroh] This, this place...
+[Kojiroh] Is this, Tristan?...
+[Kojiroh] Purin... Hey! Purin...?
+b03
+[Prisia] Kojiroh...
+[Kojiroh] Is this place Tristan?
+[Prisia] Kojiroh, I'm waiting for you...
+[Kojiroh] Waiting?
+[Prisia] The passenger ship will leave this\morning. The commemoration ceremony will be held at\sea.
+[Kojiroh] This... morning...
+[Prisia] I am waiting... All sorts of people will\gather here.
+[Kojiroh] All sorts of... people?
+[Prisia] Yes. All sorts of people will show\themselves. Help me...
+[Kojiroh] What do you mean?... What the hell do you\mean?!
+[Prisia] Bring the National Seal...and help me,\please.
+[Kojiroh] Purin...
+[Prisia] Kojiroh, I, I love...
+036
+wh
+0150b
+[Kojiroh] Purin... Purin?!
+[Kojiroh] Wait a minute. How am I supposed to get\on the ship?
+[Kojiroh] Tell me how!
+eve_26
+009
+[Kojiroh] How did I get to this cocktail lounge?
+[Voice] Thanks so much for coming.
+b10
+[Kojiroh] Mido!?
+[Mido] Long time no see, Mr. Amagi.
+[Kojiroh] ...
+[Mido] I see you've met with Mr. Katsuragi... How\was his health?
+[Kojiroh] Just fine. He said he'll come nail your\ass.
+[Mido] That's a slight misunderstanding...
+[Kojiroh] Huh?
+[Mido] You know better than anyone what a dirty\bastard he is.
+[Kojiroh] ...
+[Mido] He didn't tell you everything, you know?...
+[Kojiroh] What does that mean?
+[Mido] Think about it... Heh-heh-heh.
+009
+[Kojiroh] Hey! Wait a minute!
+[Voice] Kojiroh...
+b18
+[Kojiroh] Aqua...
+[Aqua] What he's saying is true...
+[Kojiroh] Which one... you mean Mido? And what the\hell do you have to do with him?
+[Aqua] Don't ask private questions...
+[Kojiroh] ...
+[Aqua] I'm going now... I have to.
+[Kojiroh] Aqua... I'm confused...
+[Aqua] Perhaps we shall meet again...
+[Kojiroh] Where?
+[Aqua] That I do not know... Ask the black\gentleman there.
+[Kojiroh] Huh...?
+[Aqua] Maslama!
+009
+[Kojiroh] What black gentleman? where?
+009b
+[Glen] She's talking about me...
+[Kojiroh] Glen?...
+[Glen] Forgive me, Kojiroh.
+[Kojiroh] ...
+[Glen] It seems, I lost sight of honesty and\honor...
+[Kojiroh] Don't worry about it. You've already paid\for your sins...
+[Glen] I did. Didn't I... Death is a cold and\lonely place...
+[Kojiroh] I'll be there too, someday. Maybe\tomorrow, maybe fifty years from now. But I'll be\there.
+[Glen] That's right. You'll come here too... May I\do you a favor?
+[Kojiroh] Is there a fee?
+[Glen] I'll help you out for free, this time... hee\hee...
+0490
+0490b
+wh
+036
+[Kojiroh] I'm all ears.
+[Glen] I don't think you should let Miss Prisia get\close to you...
+[Kojiroh] What?
+[Glen] She knows something. She knows something you\don't...
+[Kojiroh] What does she know?
+[Glen] I can't tell you that...
+[Kojiroh] Tell me, Glen!
+[Glen] If I do you'll regret it...
+[Kojiroh] Regret what?...
+0490b
+0490c
+eve_20
+[Kojiroh] Noooooo!2
+[Glen] It's too late to regret when you're like\this.
+[Kojiroh] Glen...
+[Glen] Kojiroh... It's cold and lonely on the other\side...
+[Kojiroh] Stay away from me!
+[Glen] Don't be so cold, Kojiroh...
+[Kojiroh] AAAAHHHH!...
+[Glen] Heh-heh-heh. It's like my own body...
+[Kojiroh] Stop it... Stop!
+[Glen] Want to join me?
+[Kojiroh] Stay the hell away from me!
+[Glen] It's better than you think in my world. Once\you get used to the cold...
+[Kojiroh] Stop it! AAAAHHHH!
+001
+[Kojiroh] AAAAAHHHHHH! Goddamnit!
+b26
+[Akane] Kojiroh... Are you okay?!
+[Kojiroh] Get away from me, Glen!
+[Akane] Kojiroh! Snap out of it! Kojiroh!
+[Kojiroh] Shut up! The keys! Give me the keys!
+[Akane] No way... You said it yourself.
+[Kojiroh] I'd rather die than be stuck here!
+I fight to break free.
+[Akane] Cut it out, Kojiroh!... My god! Your wrists\are bleeding!
+[Kojiroh] Give me the keys!
+[Akane] Stop it, Kojiroh... Stop it please... Calm\down!
+[Kojiroh] AAAHHH! The keys!
+I fight to break free.
+[Kojiroh] I'm in hell! Get me outta here!
+[Akane] Kojiroh...
+[Kojiroh] They're... They're after me. Those dead\bastards!
+[Akane] ...
+[Kojiroh] Kou... Nikaido... They're laughing at me!\Glen's trying to suck me into hell! Please Akane!\Get me out of here!
+[Akane] No... I can't!
+[Kojiroh] God damnit! AAAAHHHHH!
+[Akane] Kojiroh... Snap out of it! WAKE UP!
+[Kojiroh] Someone... Help me!
+001
+[Kojiroh] ...
+[Akane] Kojiroh...?
+b26
+[Kojiroh] Is that Akane?...
+[Akane] Are you okay?...
+[Kojiroh] Been better...
+[Akane] Have some water.
+[Kojiroh] Never tasted so good...
+[Akane] Don't drink so fast... You'll choke.
+[Kojiroh] Gulp! Gulp!...
+[Akane] ...
+[Kojiroh] Get these cuffs off of me.
+[Akane] What...
+[Kojiroh] I'm okay now... Except for my wrists.
+[Akane] My god... You're covered in blood.
+[Kojiroh] Forget the drugs. If we don't do\something I'll die from blood loss.
+[Akane] Let me have a look... Shit!
+[Kojiroh] I screwed myself up pretty bad, huh...
+[Akane] I'll unlock the cuffs now...
+She takes the cuffs off.
+[Kojiroh] Much better...
+[Akane] Okay, come here...
+001
+[Akane] Where do you keep your first aid kit?
+[Kojiroh] Akane...
+[Akane] Yeah?
+b26
+eve_42
+[Kojiroh] You weren't very nice to me just now...
+[Akane] What are you talking about?
+[Kojiroh] If only you knew how much pain I was in.\I wanted to kill all those bastards!
+[Akane] Kojiroh... Don't tell me you're still\hallucinating!
+[Kojiroh] I'll start by killing you!
+[Akane] No! Help! AAAAAHHHHHH!
+I slap Akane.0
+0570
+\ 
+[Akane] Kojiroh... Come back!
+[Kojiroh] Shut up! You were enjoying watching me\suffer!
+[Akane] Listen to yourself...!
+I try to grab her.0
+\ 
+[Akane] Ah!
+[Kojiroh] First I'll slice you up good... real\good. So good that you'll never come back to this\world!
+[Akane] Kojiroh... Wake up!
+I try to grab her again.0
+\ 
+yˆ©zƒLƒƒƒbI
+y¬Ÿ˜Yz‚Ö‚Ö‚ÁA‚¢‚¢g‘Ì‚¶‚á‚Ë[‚©B€‚Ê‘O‚É”Æ‚µ‚Ü‚­‚Á‚Ä‚â‚é‚ÁI
+yˆ©z‚±A¬Ÿ˜Ydd‚â‚ß‚Ädd‚¨Šè‚¢I
+y¬Ÿ˜Yz‚¤‚é‚¹[‚ÁI@ˆÈ‘O‚©‚çˆ©A‚¨‘O‚Ì‚±‚Æ‚ğ‰´‚Í‘_‚Á‚Ä‚¢‚½‚ñ‚¾‚ÁI
+yˆ©z‚±A¬Ÿ˜Ydd‚¤‚»ddB
+y¬Ÿ˜Yz’j‚İ‚½‚¢‚È‚­‚¹‚µ‚â‚ª‚Á‚ÄA‹¹‚âK‚Í‚¸‚¢‚Ô‚ñ‚â‚í‚ç‚©‚»[‚¶‚á‚Ë[‚©B‚¦‚ÁH
+yˆ©z‚â‚Ádd¬Ÿ˜Yddƒ_ƒ‚¾ƒˆddB
+y¬Ÿ˜Yz‚¯‚ÁA”Æ‚µ‚Ü‚­‚Á‚Ä‚â‚éA”Æ‚µ‚È‚ª‚çñ‚ğ‚µ‚ß‚ÄE‚µ‚Ä‚â‚éI@‰´‚ğŒü‚±‚¤‘¤‚É—U‚¨‚¤‚Æ‚·‚é‚â‚Â‚ÍA‚İ‚ñ‚ÈE‚·II
+ƒrƒŠƒrƒŠƒrƒŠII
+0570b
+yˆ©z¬Ÿ˜YddB
+y¬Ÿ˜YzIIHH
+yˆ©zdd¬Ÿ˜YA‚µ‚Á‚©‚è‚µ‚ÄƒˆddB
+y¬Ÿ˜Yz‚ÈA‚È‚ñ‚¾‚»‚Ìg‘Ì‚ÌÕ‚ÍddB
+yˆ©zUX‚ ‚¢‚Â‚ç‚ÉA‰£‚ç‚ê‚½‚è”Æ‚³‚ê‚½‚è‚µ‚½‚©‚ç‚ËddB
+y¬Ÿ˜YzddddB
+yˆ©zdd‚¢‚¢ƒˆddddB
+y¬Ÿ˜Yz‚¢‚¢H
+yˆ©z¬Ÿ˜Y‚ªƒ{ƒN‚ğ”Æ‚µ‚Ädd‚»‚ê‚ÅŠy‚É‚È‚é‚È‚çA‚µ‚Ä‚¢‚¢ƒˆddB
+y¬Ÿ˜Yz‚ÈA‚È‚ÉddIH
+yˆ©zÅŒã‚Ìl‚ªA¬Ÿ˜Y‚È‚çdd•Ê‚É\‚í‚È‚¢B
+y¬Ÿ˜Yz‚ Aˆ©ddB
+yˆ©z‚»‚ê‚Å¬Ÿ˜Y‚ªŠy‚É‚È‚é‚È‚çdd”Æ‚µ‚Ä‚à‰£‚Á‚Ä‚àdd¬Ÿ˜Y‚È‚ç”Ş‚ç‚Æ“¯‚¶–‚ğ‚µ‚Ä‚àAƒ{ƒN‰ä–‚Å‚«‚éddB
+y¬Ÿ˜YzddddB
+yˆ©z‚³‚Á‚«Œ¾‚Á‚½‚ë‚¤H@ƒ{ƒN‚Ì‚±‚Æ‚ğˆÈ‘O‚©‚ç‘_‚Á‚Ä‚½‚Á‚ÄB
+y¬Ÿ˜Yz‚ A‚ ‚ ddB
+yˆ©zƒGƒwƒwA‚¿‚å‚Á‚Ò‚èŠğ‚µ‚©‚Á‚½‚ñ‚¾ddB
+y¬Ÿ˜Yzˆ©ddB
+yˆ©z¬Ÿ˜Y‚ªŠy‚É‚È‚é‚È‚çAƒ{ƒNddŠì‚ñ‚ÅddB
+y¬Ÿ˜Yz‚â‚ß‚ëdd‚â‚ß‚ë‚§‚§‚§‚§‚§‚ÁI
+yˆ©z‚ÜA‘Ò‚Á‚Ädd¬Ÿ˜YII
+eve_17
+0580
+y¬Ÿ˜Yzˆ©ddB
+yˆ©z‘åä•v‚¾ƒˆdd¬Ÿ˜Y‚Í‰½‚à‚µ‚È‚­‚Ä‚¢‚¢ddB
+y¬Ÿ˜Yz‚¤‚ÁddB
+yˆ©z¬Ÿ˜Ydd‚»‚Ì‚Ü‚Üddƒ{ƒN‚ğddƒ{ƒN‚ğŠ´‚¶‚ÄI
+y¬Ÿ˜Yz‚ ‚ŸddŠ´‚¶‚éddS‚ªdd‹x‚Ü‚é‚ñ‚¾ddB
+yˆ©z‚»‚¤‚¾ƒˆAƒ{ƒN‚ÌŒû‚Ì‰œ‚ÉA‚à‚Á‚Æ‰Ÿ‚µ‚ñ‚Ådd‚»‚¤‚·‚ê‚Î‚à‚Á‚ÆddB
+y¬Ÿ˜Yzˆ©ddB
+yˆ©z‹¹‚ğG‚Á‚Äddƒ{ƒN‚ÌƒIƒbƒpƒCA‚½‚­‚³‚ñˆ¬‚Á‚ÄI
+ƒMƒ…ƒbddB
+yˆ©z‚ñ‚ ‚Ádd¬Ÿ˜YAŠğ‚µ‚¢dd‚à‚Á‚Æ‹­‚­ˆ¬‚Á‚Ä‚àA‚¢‚¢‚ñ‚¾ƒˆB
+y¬Ÿ˜Yz‚â‚í‚ç‚©‚¢‚ædd‚·‚²‚­ddB
+yˆ©zƒEƒ“A¬Ÿ˜YddB
+y¬Ÿ˜Yzˆ©dd‚à‚Á‚ÆA‰œ‚Ü‚Å‚ÁI
+yˆ©zA‚Ì‰œ‚Ü‚ÅA“ü‚ê‚Ä‚ ‚°‚é‚ÁI
+y¬Ÿ˜Yz‚­‚ÁddB
+yˆ©z‚ñ‚®‚Ádd‚ñ‚®‚®‚®‚ÁddddB
+y¬Ÿ˜YzA‚Ì‰œ‚Ådd’÷‚ß•t‚¯‚Ä‚­‚éI
+yˆ©z¬Ÿ˜YA‚à‚Á‚Æ‚à‚Á‚ÆAŠ´‚¶‚ÄI@‚»‚µ‚ÄŠy‚É‚È‚Á‚ÄII
+y¬Ÿ˜Yz‚ ‚ AŠ´‚¶‚éddƒC‚«‚»‚¤‚¾I
+yˆ©z‚ ‚Ÿ‚Ÿdd‚»‚¤‚¾ƒˆddA‚Ì‰œ‚Ü‚Å¬Ÿ˜Y‚Ì‚ğA—¬‚µ‚ñ‚Å‚ÁI@‚½‚­‚³‚ñII
+y¬Ÿ˜Yz‚ ‚©‚Ë‚ÁII
+0590
+yˆ©z‚ñ‚Ádd‚ ‚Ádd‚±‚¶dd‚ ‚ÁddB
+y¬Ÿ˜Yzˆ©dd’g‚©‚¢dd‚¨‘O‚Ì’†dd‚·‚²‚­ddB
+yˆ©zƒEƒ“dd¬Ÿ˜Ydd‚ ‚ÁddB
+y¬Ÿ˜Yz“z“™‚ªdd‰“‚´‚©‚Á‚Ä‚¢‚­‚ñ‚¾ddB
+yˆ©z‚ ‚Ádd‚»‚¤‚¾ƒˆdd¬Ÿ˜Yddƒ{ƒN‚ª‚Â‚¢‚Ä‚éddB
+y¬Ÿ˜Yzˆ©A‰´‚Ì‚»‚Î‚É‚¢‚Ä‚­‚êddB
+yˆ©zƒEƒ“dd‘åä•v‚¾ƒˆA‚¸‚Á‚Æ‘¤‚É‚¢‚éddB
+y¬Ÿ˜Yzˆ©ddB
+yˆ©z‚à‚Á‚Æ‚à‚Á‚Ædd‰œ‚Ü‚Å‰Ÿ‚µ‚ñ‚ÅddB
+y¬Ÿ˜Yz‚ ‚ ddˆ©‚ğŠ´‚¶‚édd’÷‚ß•t‚¯‚Ä‚­‚éddB
+yˆ©zƒCƒL‚½‚­‚È‚Á‚½‚çAƒCƒb‚Ädd‘S•”“Û‚İ‚ñ‚Å‚ ‚°‚ê‚éddB
+y¬Ÿ˜Yzˆ©ddD‚«‚¾dd‚¨‘O‚ªddD‚«‚¾‚ÁI
+yˆ©zƒEƒ“dd¡‚¾‚¯‚Å‚àddŠğ‚µ‚¢ƒˆdd–{“–‚ÉddB
+y¬Ÿ˜Yz‚Ç‚±‚É‚às‚©‚È‚¢‚Å‚­‚êdd‰´‚Ì‚»‚Î‚Édd‚¸‚Á‚ÆB
+yˆ©z‚¸‚Á‚Æ‚¢‚éƒˆI@¬Ÿ˜Y‚Ì‚»‚Î‚Édd‚¸‚Á‚ÆII
+y¬Ÿ˜Yz‚±‚ê‚Ídd–²‚È‚Ì‚©ddŒ¶‰e‚È‚Ì‚©ddB
+yˆ©z¬Ÿ˜Ydd•‰‚¯‚È‚¢‚Åddƒ{ƒN‚Ì‚ğ‚¢‚Á‚Ï‚¢Š´‚¶‚ÄI
+ƒLƒ…ƒbddB
+y¬Ÿ˜YzŠ´‚¶‚é‚ºdd–{“–‚ÉA¦‚¢dd‚±‚ê‚Í–²‚¶‚á‚È‚¢‚Ì‚©I
+yˆ©zƒ{ƒN‚Í‚¸‚Á‚Æ‚ ‚È‚½‚Ì‚»‚Î‚Édd¬Ÿ˜Y‚Ì‚»‚Î‚É‚¢‚é‚©‚çddB
+y¬Ÿ˜Yzˆ©ddB
+yˆ©z•ø‚«‚µ‚ß‚Ädd‹­‚­dd‹­‚­I
+ƒMƒ…ƒbddddB
+yˆ©z‚à‚Á‚Ædd‚à‚Á‚Æ‚¾ƒˆI
+ƒMƒ…ƒDƒDƒbII
+yˆ©z‚ñ‚­‚ÁddŠğ‚µ‚¢ddg‘Ì‚ªÜ‚ê‚é‚­‚ç‚¢A‹­‚­dd‹­‚­II
+y¬Ÿ˜Yzˆ©ddƒCƒN‚ºdd‰´‚à‚¤A‰ä–‚ª‚Å‚«‚È‚¢I
+yˆ©z‘åä•v‚¾‚æA‘S•”ƒ{ƒN‚ªó‚¯‚Æ‚ß‚Ä‚ ‚°‚éddB
+y¬Ÿ˜Yzˆ©ddƒCƒN‚ºI@ƒCƒNII
+yˆ©z¬Ÿ˜Ydd‚«‚Ä‚Ádd‚«‚Ä‚ÁII
+yˆ©z‚ ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Ÿ‚Á‚ÁIII
+a002_2
+@Look/Investigate
+@Move
+@Speak
+@Hit
+@Save/Load
+@Save
+@Load
+@Hit Katsuragi
+[Kojiroh] (I'll forgive him this once...)
+[Kojiroh] Son of a bitch!
+I swing and miss.
+[Katsuragi] You seem a little slow.
+[Kojiroh] (Shit... I'm not feeling so hot.)
+[Kojiroh] (I guess I'll have to let it slide this\time...)
+I stumble.
+[Kojiroh] Huh...?
+[Katsuragi] So far so good. When you move it helps\the drug circulate faster.
+[Kojiroh] ...
+@Katsuragi
+[Katsuragi] ...God, this is a terrific cigar.
+[Kojiroh] ...
+[Katsuragi] I have something to give you.
+[Kojiroh] ...?
+0565b
+[Kojiroh] This...?!
+[Katsuragi] That's right. It's a piece of the\painting. I found it in Stoleman's office. It was\entrusted to him.
+[Kojiroh] In the Director's room...
+[Katsuragi] Exactly.
+[Kojiroh] So this is the National Seal... And the\other half is with the fatass.
+[Katsuragi] You catch on quick. Give this to the\Queen for me.
+0565
+[Kojiroh] ...
+[Katsuragi] ...
+[Kojiroh] What do you plan on doing?
+[Katsuragi] I don't think we'll see each other\again.
+[Kojiroh] What are you going to do with Yayoi!
+[Katsuragi] You take care of her.
+[Kojiroh] Hey! Act like a father!
+[Katsuragi] Kojiroh...
+[Kojiroh] What?
+[Katsuragi] There are things I need to do... and\these things aren't always safe.
+[Kojiroh] So what? You think that's a good enough\reason to abandon Yayoi?
+[Katsuragi] What can I do at this point? She's\dependent as much as her independent will.
+[Kojiroh] I know that...
+[Katsuragi] I'm sure she's probably given me up for\dead by now.
+[Kojiroh] Probably.
+[Katsuragi] So what am I supposed to say now? 'Here\I am, darling. Your dead dad. Don't be surprised if\I die again soon.'
+[Kojiroh] ...Okay, I get it. Do as you please.
+[Katsuragi] Call it my ego. Please take care of\her.
+[Kojiroh] Do you want to die?
+[Katsuragi] I have no suicidal tendencies.
+[Kojiroh] What would you do if you came back alive?
+[Katsuragi] I'll relocate to a foreign land and\live a quiet life.
+[Kojiroh] Spreading your seed again?
+[Katsuragi] That sounds quite nice...
+[Kojiroh] I'll come visit you with Yayoi.
+[Katsuragi] Be my guest.
+[Kojiroh] I'll bring a kid. I'll make you feel old\all over again.
+[Katsuragi] Sounds terrific.
+[Kojiroh] You're a piece of shit.
+[Katsuragi] Takes one to know one.
+[Kojiroh] ...
+[Kojiroh] (Dang! There's nothing I can do about\it.)
+[Kojiroh] (Yayoi...)
+[Katsuragi] Well, should we get going?
+[Kojiroh] Where?
+[Katsuragi] To my lover's place...
+[Kojiroh] ...
+[Katsuragi] Just kidding. Then we'll go to the\ship.
+[Kojiroh] To the ship?!
+[Katsuragi] Where else is there? The only other\place I can go to is my lovers'.
+[Kojiroh] ...
+[Katsuragi] Don't be a fool, Kojiroh. If you cause\Yayoi any pain I won't even forgive you.
+[Kojiroh] Look who's talking.
+[Katsuragi] You're right... Look what time it is.\Hell is right around the corner for you.
+[Kojiroh] I guess so... I'm already starting to\sweat.
+[Katsuragi] Kojiroh.
+[Kojiroh] What?
+[Katsuragi] Later, I'll give you the payback for\Yayoi's tears.
+[Kojiroh] What?
+[Katsuragi] I do love my daughter, you know. I hope\we meet again.
+[Kojiroh] What do you mean?
+[Katsuragi] I hear you met with Siria...
+[Kojiroh] What do you know about that?
+[Katsuragi] She's my daughter.
+[Kojiroh] What?!
+[Katsuragi] I made a mistake back in Eldia...
+[Kojiroh] What a confession to make...
+[Katsuragi] I trained her myself. She's top of the\line, even amidst the Intelligence Sector.
+[Kojiroh] You bastard, what about Yayoi...?
+[Katsuragi] That was another seed I planted in a\different hole. That one died after labor.
+[Kojiroh] Hey, don't look so disgusted.
+[Katsuragi] But every girl I've been, I literally\loved her to death. Just like you.
+[Kojiroh] Don't you say we're alike. I don't just\go around like you, shooting off my nuts into\anything that moves.
+[Katsuragi] Siria... She's a true patriot...
+[Kojiroh] (The bastard changed the subject...)
+[Katsuragi] Siria... She hates my guts, you know?
+[Kojiroh] Why?
+[Katsuragi] Because I abandoned my country and ran\away...
+[Kojiroh] I see. It's like when you left her\mother, a deadbeat pervert...
+[Katsuragi] Is that what Siria said?
+[Kojiroh] Her exact words.
+[Katsuragi] And you slept with her?
+[Kojiroh] (Yikes) What makes you think that?
+[Katsuragi] Call it intuition, and my intuition is\always right.
+[Kojiroh] ...You got me. Unfortunately Yayoi walked\in on us when we were balling!
+[Katsuragi] Hmm, did she cry?
+[Kojiroh] She'd never cry in front of me.
+[Katsuragi] She's probably sobbing in her office...
+[Kojiroh] Probably.
+[Katsuragi] Do me a favor and take care of them\both.
+[Kojiroh] What are you thinking?!
+[Katsuragi] I couldn't do anything as a parent for\Siria. All she learned from me is combat and\survival skills.
+[Kojiroh] ...
+[Katsuragi] That's why she hates me so much. If she\meets Yayoi, she'd probably hate her too.
+[Kojiroh] Does Siria know about... Yayoi?
+[Katsuragi] Of course not. And I'm not going to\tell her. I don't want to see any sibling rivalry.
+[Kojiroh] ...
+[Katsuragi] ...What a delicious cigar.
+[Kojiroh] So Siria was spying at the fatass' place.
+[Katsuragi] She seems to be working for the\Queen-in-waiting.
+[Kojiroh] ...Prisia?
+[Katsuragi] Precisely. I'm the one who picked the\meeting place for Stoleman and the\Queen-in-waiting.
+[Kojiroh] Stoleman...?
+[Katsuragi] He asked me for advice.
+[Kojiroh] Close to my office...
+[Katsuragi] I figured it would be best to do it in\front of your barracks. Then if it comes to it, he\could call on the hobo detective living there.
+[Kojiroh] Are you referring to me when you say\'hobo detective'?
+[Katsuragi] Who else?
+[Kojiroh] Son of a bitch...
+[Katsuragi] God, I love cigars...
+[Kojiroh] So Kou was killed by "Terror" then?
+[Katsuragi] Could be...
+[Kojiroh] Yes or no?
+[Katsuragi] Could be...
+[Kojiroh] ...
+[Katsuragi] The Queen-in-waiting is a fine human\being...
+[Kojiroh] Yeah, Purin's the best.
+[Katsuragi] But...
+[Kojiroh] But what?
+[Katsuragi] ...This cigar is delicious.
+[Kojiroh] But what?!
+[Katsuragi] Did you mess around with her?
+[Kojiroh] Fool, She's only 18, right?
+[Katsuragi] Yeah, I can get with that.
+[Kojiroh] ...
+[Kojiroh] Old timer.
+[Katsuragi] What?
+[Kojiroh] Why are you doing all this?
+[Katsuragi] I told you 3 months ago.
+[Kojiroh] ...
+[Katsuragi] To tie up loose ends...
+[Kojiroh] Loose ends...?
+[Katsuragi] When I found out everything about the\project, I ran off. I got scared. I ran away like a\puppy with my tail between my legs.
+[Kojiroh] ...
+[Katsuragi] That was about 2 years ago...
+[Kojiroh] The same time you became the head of\Katsuragi Detective Offices...
+[Katsuragi] I wanted to forget the past and start\anew... What wishful thinking.
+[Kojiroh] ...
+[Katsuragi] But Mido and Pat wouldn't let me slip\away. Then exactly 3 months ago I was contacted by\Doleman's son.
+[Kojiroh] You mean Stoleman Kou?
+[Katsuragi] That name has been associated with the\royal family for generations. We were so close.\Doleman Sr. was strictly professional, through and\through.
+[Kojiroh] Strictly... what?
+[Katsuragi] To put it bluntly, he was a\professional maniac. As long as there was money he\kept moving, like a damn hamster in a wheel.
+[Kojiroh] ...
+[Katsuragi] I hear that Stoleman murdered his\father.
+[Kojiroh] The son killed his father...?!
+[Katsuragi] In order to stop the project...
+[Kojiroh] But Doleman was head of the Ministry of\Science.
+[Katsuragi] That's right. The sponsor stopped\funding him.
+[Kojiroh] Sounds nasty.
+[Katsuragi] But it was too late.
+[Kojiroh] Huh?
+[Katsuragi] It was already complete.
+[Kojiroh] What was?
+[Katsuragi] The fruit of Doleman's labors.
+[Kojiroh] ...!?
+[Katsuragi] In order to cover it up, the Prime\Minister instigated massive reform.
+[Kojiroh] Reform... That's what's going on right\now?
+[Katsuragi]The plan is to dissolve the Intelligence\Sector, dissolve the Ministry of Science, and put\an end to everything.
+[Kojiroh] Finish... everything?
+[Katsuragi] No. I suppose the true intent is to\start all over.
+[Kojiroh] ...
+[Katsuragi] But the Prime Minister...
+[Kojiroh] The Prime Minister...
+[Katsuragi] Forget it... There's no use talking\about it now.
+[Kojiroh] ...Did it have something to do with the\King's death?
+[Katsuragi] ...
+[Kojiroh] Didn't "Terror" assasinate the King?
+[Katsuragi] "Terror"? Don't be ridiculous...
+[Kojiroh] What's so funny about that?
+[Katsuragi] Well, perhaps you could say he did...
+[Kojiroh] Perhaps?
+[Katsuragi] "Terror" is truly terrifying... You\will never reveal everything about it. Ever.
+[Kojiroh] Who is it?
+[Katsuragi] I don't know anymore.
+[Kojiroh] ...
+[Katsuragi] Nikaido was so pitiful... He went\without knowing the truth about "Terror".
+[Kojiroh] But he must have learned when he died.
+[Katsuragi] I wonder...
+[Kojiroh] ...
+[Katsuragi] Perhaps you see the connection?
+[Kojiroh] Connection?
+[Katsuragi] Yes.
+[Kojiroh] Are you trying to test me? You've taught\me well.
+[Katsuragi] Guess the connection.
+[Kojiroh] "Terror" started activity exactly 2 years\ago.
+[Katsuragi] Right.
+[Kojiroh] 2 years ago... The same time you returned\to Japan.
+[Katsuragi] Exactly.
+[Kojiroh] 2 years ago "Terror" appears, and you\come running to Japan with your tail between your\legs.
+[Katsuragi] You can leave that 'tail between the\legs' out, actually.
+[Kojiroh] Which means the advent of "Terror" and\the project were interfering with each other.
+[Katsuragi] Precisely. There's a connection.
+[Kojiroh] Is there?
+[Katsuragi] I'm not sure,... but yes, there must\be.
+[Kojiroh] ...
+[Katsuragi] Then I shall ruin their plan.
+[Kojiroh] What?...
+[Kojiroh] (Katsuragi will...)
+[Kojiroh] ...
+[Katsuragi] This cigar is delicious to smoke by the\ocean wind.
+[Kojiroh] ...But why?
+[Katsuragi] Why what?
+[Kojiroh] Why are you being chased by the Eldian\Intelligence Sector.
+[Katsuragi] Do you remember where I was before?
+[Kojiroh] Before...?
+[Katsuragi] I was overseas for a long time... on\the pretext of business.
+[Kojiroh] Oh, yeah. Once you were vacationing with\Yayoi, but...
+[Katsuragi] At that time I was working for the\Eldian Secret Service...
+[Kojiroh] !...
+[Katsuragi] There was a time when the three Asians,\Mido, Pat, and I, controlled Eldia.
+[Kojiroh] So you were the third Asian... the\leader.
+[Katsuragi] That's right. Mido devised the\strategy, Pat thought up the illegal yet effective\tactics, and I executed.
+[Kojiroh] ...
+[Katsuragi] Eldia was a young nation... She opened\her doors to anyone. It became a melting pot.
+[Kojiroh] ...
+[Katsuragi] It was a young blooming country filled\with vigor. I felt like I had found a second home.
+[Kojiroh] ...
+[Katsuragi] It didn't take long for me to want to\work for the sake of the nation.
+[Kojiroh] You wanted to work for sake of the\nation... That doesn't seem like you.
+[Katsuragi] For young Eldia to gain a voice in the\Middle East took a lot more than the Prime\Minister's diplomatic charm.
+[Kojiroh] ...
+[Katsuragi] Because the Prime Minister is who she\is, it seems like she really worked to build the\country. But there was another factor that helped.
+[Kojiroh] The Secret Service...
+[Katsuragi] Exactly. We did quite a bit of nasty\work...
+[Kojiroh] ...
+[Katsuragi] The Secret Service was a lot of fun...\for me at least.
+[Kojiroh] Fun...?
+[Katsuragi] Fun. I gladly did things too terrible\for you to even imagine.
+[Kojiroh] ...
+[Katsuragi] But the Secret Service basically\thrives on deceit, cheat, espionage, theft, and\manipulation of people.
+[Kojiroh] Sounds perfect for you.
+[Katsuragi] But once I accidentally saw the results\of my actions.
+[Kojiroh] Did something happen?
+[Katsuragi] We tried to trespass into God's\territory... Anything for the sake of the country.
+[Kojiroh] ...
+[Katsuragi] For the sake of the country... When\people follow this motto they can break all laws.\They become numb.
+[Kojiroh] Like criminals.
+[Katsuragi] Then I realized what was happening.
+[Kojiroh] What?
+[Katsuragi] A private project had been advanced in\Eldia, using gigantic funding from advanced\countries.
+[Kojiroh] You don't mean the Project C, do you?
+[Katsuragi] So you know more than I thought. Pretty\impressive...
+[Kojiroh] Not really. I still don't know what the\hell it is. Tell me.
+[Katsuragi] Well...
+[Kojiroh] Keep your smoke out of my face.
+[Katsuragi] Actually the instigator of the project\was none other than myself.
+[Kojiroh] What?!
+[Katsuragi] I confess.
+[Kojiroh] And that's what Doleman developed?
+[Katsuragi] You're getting good at this.
+[Kojiroh] That new drug...?
+yŒj–Øz‚Ó‚£`ddB
+[Kojiroh] Hey! Quit making me cough!
+[Katsuragi] What a great cigar...
+[Kojiroh] ...
+[Kojiroh] (This old man was the head of the former\Eldian Intelligence Sector...)
+[Kojiroh] (It's too hard to believe...)
+[Kojiroh] Are you gonna let me hear it?
+[Katsuragi] Sure, my favorite tune, 'My Way'!
+[Kojiroh] ...
+[Katsuragi] ...
+[Kojiroh] Thanks for not singing it.
+[Katsuragi] I forgot the lyrics.
+[Kojiroh] ...
+[Katsuragi] ...
+[Kojiroh] And?
+[Katsuragi] Oh, yeah. Where were we?
+[Kojiroh] Why did you bother to show up? Why help\me?
+[Katsuragi] By chance.
+[Kojiroh] By chance?
+[Katsuragi] I was investigating myself when Mr.\Shithead detective came along. I didn't have the\heart to leave him out of it.
+[Kojiroh] You're the shithead...
+[Katsuragi] Whatever you say. Here, take this pill.
+[Kojiroh] What does it do?
+[Katsuragi] It will counteract the drug.
+[Kojiroh] ...
+[Katsuragi] There are, however, some considerable\side effects.
+[Kojiroh] Like what?
+[Katsuragi] It looks like you were given 10 or 20\times the normal dosage... I can't accurately\measure what you'll experience.
+[Kojiroh] ...
+[Katsuragi] But it will be even worse if you don't\take this pill.
+[Kojiroh] I still feel a little dizzy...
+[Katsuragi] Hurry up and take the pill.
+[Kojiroh] ...
+I take the pill.
+[Kojiroh] Tastes great, less filling.
+[Katsuragi] It will begin in an hour.
+[Kojiroh] What will?
+[Katsuragi] You'll know in an hour. Just make sure\to secure yourself to someplace you can't move.
+[Kojiroh] ...I think I'm getting the idea of what\you mean by 'side effects'.
+[Katsuragi] But after you get through that, your\body will be completely free of the drug. It will\probably take a few hours.
+[Kojiroh] ...Is it any different from typical\withdrawal symptoms?
+[Katsuragi] Not even... You'll go mad.
+[Kojiroh] Don't be so calm when you say shit like\that!
+[Katsuragi] I know you can handle it.
+[Kojiroh] (Is that a compliment?...)
+[Katsuragi] Anyway, there's still some time before\that happens.
+[Kojiroh] Yeah... Back to where we were?
+[Katsuragi] Yes.
+[Kojiroh] So you're the one who started all this\shit?
+[Katsuragi] No. There was this radical female. A\gorgeous woman.
+[Kojiroh] ...
+[Katsuragi] For some reason I end up doing a lot of\things with her.
+[Kojiroh] She a pro?
+[Katsuragi] That's what they say. She's got quite a\head on her.
+[Kojiroh] Marina Hojo...
+[Katsuragi] Oh, you know her?
+[Kojiroh] She's an acquaintance of your daughters'.
+[Katsuragi] Whoa. What if she ended up being\Yayoi's mother.
+[Kojiroh] Keep your bullshit in your pants.
+[Katsuragi] I'm not kidding.
+[Kojiroh] Now you're starting to scare me...
+[Katsuragi] So, what do you want to know next?
+[Kojiroh] (Don't change the subject...)
+[Kojiroh] Finish telling me about what happened 3\months ago.
+[Katsuragi] Okay.
+[Kojiroh] I had no idea what was going on. Why did\you have me make the arrest?
+[Katsuragi] I needed to get away from the public\eye. In order to hide myself from their eyes.
+[Kojiroh] Whose eyes? Hide from what?
+[Katsuragi] From the Eldian Department of\Intelligence.
+[Kojiroh] What?!
+[Kojiroh] (The Eldian Intelligence Sector was after\Katsuragi...?)
+[Kojiroh] (Whatever could it mean?...)
+[Kojiroh] I'm shocked.
+[Katsuragi] I know. My good looks cause a lot of\problems for me.
+[Kojiroh] It's a miracle I don't kick your ass. Why\are you alive!?
+[Katsuragi] When did I say I was dead?
+[Kojiroh] Dead people don't say they're dead,\shithead.
+[Katsuragi] Which means I must not be dead.
+[Kojiroh] ...
+[Katsuragi] Don't think about it too deep.
+[Kojiroh] Anyway... Yayoi's really worried. You\should show up and tell her you're alive.
+[Katsuragi] That's none of your business.
+[Kojiroh] What do you mean, none of my business?
+Katsuragi blows smoke in my face.
+[Kojiroh] You're gonna give me freakin cancer...
+[Katsuragi] Delicious! This cigar is heavenly. It's\wetness is first-class.
+[Kojiroh] ...Why did you fake death?
+[Katsuragi] I would really die otherwise.
+[Kojiroh] Were you under heat?
+[Katsuragi] Sure...
+[Kojiroh] The police are still after you though?
+[Katsuragi] I'm dead. You won't find anybody by my\name in the books.
+[Kojiroh] ...
+[Katsuragi] So I can't show myself to Yayoi.
+[Kojiroh] Damn...
+[Katsuragi] Now I go by Suzuki. I'm an agent at\SunPlus Insurance Company.
+[Kojiroh] You're still using that phony company?
+[Katsuragi] Yep. I've even registered the company.\They won't bother to check it up.
+[Kojiroh] But if you go to the address, you'll find\a vacant lot. It can't be the real thing.
+[Katsuragi] It's real on paper.
+[Kojiroh] Do me a favor and face the other\direction when you blow it out.
+[Katsuragi] No.
+[Kojiroh] ...
+[Kojiroh] (Selfish son of a bitch...)
+[Kojiroh] (I'm remembering more and more...)
+@Surroundings
+@Katsuragi
+@Cigar
+@Mustache
+[Kojiroh] All I hear is the sound of the waves...
+[Kojiroh] It's a quiet beach...
+[Kojiroh] I can hear the gentle sound of the\waves...
+[Kojiroh] Until just now I was faltering between\life and death in that ocean...
+[Katsuragi] Without my help you would have drowned.\You owe me big.
+[Kojiroh] Don't wait around for me to pay you back.
+[Kojiroh] This beach is close to a ship dock...
+[Kojiroh] It's already passed midnight... There's\no one around. Just me and Katsuragi.
+[Katsuragi] It's been awhile since I came here...
+[Kojiroh] ...
+[Kojiroh] (It's my ex-boss, Katsuragi...)
+[Kojiroh] (I'll see what he has to say...)
+[Kojiroh] You're quite a handful...
+[Katsuragi] A man should be cool, like me.
+[Kojiroh] Yeah, right...
+[Kojiroh] The ex-head of Katsuragi Detective\Offices...
+[Kojiroh] The guy whom I arrested and handed over\to the police...
+[Katsuragi] I'm an ex-con, thanks to you.
+[Kojiroh] ...
+[Kojiroh] (He's smoking a cigar... The brand\Katsuragi likes.)
+[Kojiroh] Looks like the smoke is delicious...
+[Kojiroh] I don't smoke that shit myself... Can't\figure out what's so good about it.
+[Katsuragi] It feels good. You'll understand after\you grow up.
+[Kojiroh] Don't make me sick.
+[Kojiroh] That cigar's become a sort of trademark.
+[Katsuragi] Want one?
+[Kojiroh] No thanks.
+[Katsuragi] Are you sure?
+[Kojiroh] Actually I do want one.
+[Katsuragi] Well you can't have one.
+[Kojiroh] ...
+[Katsuragi] If you want one, you have to grow one\of these first.
+[Kojiroh] Forget it. It hardly looks real.
+[Katsuragi] Don't pull on it...
+[Kojiroh] Sorry.
+[Kojiroh] When did you start growing it?
+[Katsuragi] 3 months ago...
+[Kojiroh] When I arrested you...
+[Katsuragi] I figured I could use a little\camouflage.
+[Kojiroh] (It looks terrible...)
+@In the ocean
+@Go home
+[Kojiroh] (That's stupid. Forget it.)
+[Kojiroh] (First I need to talk to this prick.)
+[Katsuragi] What's with it? You like swimming in\ice cold water?
+[Kojiroh] Of course not!
+[Katsuragi] I just gave you another life... Be more\careful with it this time.
+[Kojiroh] You didn't give me shit...
+[Katsuragi] Anyway, listen to what I have to say.
+[Kojiroh] You're sounding like some old man...
+[Katsuragi] Are you leaving?
+[Kojiroh] No, not yet.
+[Katsuragi] Why did you decide to stay?
+[Kojiroh] I don't understand what you're talking\about?
+[Katsuragi] Me neither.
+[Kojiroh] ...

@@ -1,0 +1,1336 @@
+009
+eve_09
+[Kojiroh] This is the cocktail lounge, but hardly\anyone's here...
+009
+009b
+eve_09
+[Glen] So, you've come...
+[Kojiroh] ...You're always early.
+[Glen] I thought you'd come. I've been expecting\you...
+[Kojiroh] Yeah, here I am.
+[Glen] Please sit down.
+[Kojiroh] Sure...
+I sit down.
+b20
+[Waitress] Can I take your order?
+[Kojiroh] I'll just have a glass of water.
+[Waitress] ...
+[Kojiroh] Water. I said water. Got it?
+009
+009b
+[Kojiroh] ...
+[Glen] Someone woke up on the wrong side of the\bed...
+[Kojiroh] Shut up... Now, what do you got for me?
+[Glen] Well, this is the latest information...
+[Kojiroh] Spit it out.
+009
+eve_09
+[Kojiroh] I'm at the cocktail lounge. Where's that\damn waitress...
+[Kojiroh] Shit. She's here.
+009
+b20
+eve_09
+[Waitress] What'll it be.
+[Kojiroh] Hey, toots.
+[Waitress] Hi...
+[Kojiroh] I thought you quit.
+[Waitress] I just work during the day now. If you\need something, give me a call honey.
+009
+[Kojiroh] I'll make sure to come here at night next\time.
+009
+eve_09
+[Kojiroh] This is the cocktail lounge, but there\aren't many customers here.
+009
+eve_09
+[Kojiroh] It's the cocktail lounge...
+[Kojiroh] Glen's not here... Where is he?
+[Glen] Well, well, well... Kojiroh.
+009b
+[Kojiroh] Oh, you're here.
+[Glen] I was just having a drink. Have a seat.
+[Kojiroh] Thanks.
+009
+eve_09
+[Kojiroh] This is the cocktail lounge.
+[Kojiroh] I had a drink with Aqua here last night.
+[Kojiroh] Hey, I guess that waitress isn't here\now.
+009
+eve_09
+[Kojiroh] It's the cocktail lounge... There're only\a few people here.
+009
+eve_09
+[Kojiroh] There are just a few people scattered\throughout the place.
+[Kojiroh] I don't think that girl's around.
+[Kojiroh] ...
+[Kojiroh] Uh-oh... Someone's over there... It is...
+[Kojiroh] Hey, Akane.
+b16
+b16b
+[Akane] Hey, Kojiroh! What are you doing here?
+[Kojiroh] Ditto.
+[Akane] Unlike you, I'm here to gather information.\I'm very busy, you know.
+[Kojiroh] Yeah, yeah. Damn, you gonna eat all that?
+[Akane] Yeah... You gotta problem with that?
+[Kojiroh] Don't you ever eat anything besides\vegetables?
+[Akane] No. You have a problem with that?
+[Kojiroh] You're in a cocktail lounge. Drink\something.
+[Akane] Yeah, yeah.
+[Kojiroh] There's something I've been meaning to\ask you.
+[Akane] What would that be?
+[Kojiroh] Do you only eat the things that cows eat?
+[Akane] Haven't you ever heard of a vegetarian?
+[Kojiroh] Listen, babe... I'll give you a real\tasty slab of meat.
+[Akane] Oh yeah?
+[Kojiroh] Yeah. You could use some prime prick in\your diet.
+[Akane] I may vomit, you know.
+[Kojiroh] Don't worry, it shouldn't taste that bad.\Maybe just a little salty. And then bitter.
+[Akane] I've been doing just fine on a diet\consisting of greens. It's healthy.
+[Kojiroh] Just think of my meat as a carrot, or an\eggplant.
+[Akane] I'll think about it.
+[Kojiroh] Meat is what makes the world go round...\You'll love it.
+[Akane] Does your meat have any bones?
+[Kojiroh] It's only got one. One big, fat,\succulent bone.
+[Akane] Well, I'm afraid I might choke on such a\bone.
+[Kojiroh] I'll make sure you don't.
+[Akane] How is the meat cooked?
+[Kojiroh] Uhh, let's just say it'll be well done.\And trust me, you will do it well.
+[Akane] ...
+[Kojiroh] Come on, let's have a drink.
+[Akane] I'm not a big drinker.
+[Kojiroh] Don't worry. Shot glasses are small.
+[Akane] Hmm...
+[Kojiroh] Unfortunately, there aren't many women in\this place.
+[Akane] Yeah. Too bad.
+[Kojiroh] But check her out... She's got a nice\ass.
+[Akane] ...
+[Kojiroh] We should curse God for not creating all\women equal... Eh?
+*splash!*
+[Kojiroh] Wow... She just threw her drink at him.
+[Akane] Go girl...
+[Kojiroh] She looks scary... Maybe she's dumping\him, or something.
+[Akane] ...
+[Kojiroh] The man got up from his seat... He's\coming this way.
+Bam.
+009
+b10
+[Man] Oh, excuse me...
+009
+[Kojiroh] ...
+[Kojiroh] (He looked like a businessman.)
+[Kojiroh] (Trying to pick up on younger women,\huh?)
+b16
+b16b
+[Akane] I just remembered that I have to do\something... Bye.
+[Kojiroh] Hey, wait a minute...
+009
+[Kojiroh] What's gotten into her?
+[Kojiroh] She just took off like a bat out of hell.
+[Kojiroh] ...
+[Woman's voice] Sorry.
+b18
+[Kojiroh] Hi... (Hey that's the girl who just threw\her drink.)
+[Kojiroh] (She's a... foreigner.)
+[Kojiroh] (But that's not so rare in this country\anymore.)
+[Kojiroh] (And besides... This is the Princess\Hotel.)
+[Woman] I like to apologize on behalf of my...\Acquaintance bumping into you.
+[Kojiroh] Oh, don't worry about it.
+[Woman] I guess you saw it, huh?
+[Kojiroh] Hey, we all have times when we want to\throw drinks at people.
+[Woman] I was a little upset.
+[Kojiroh] (She's pretty drunk...)
+[Kojiroh] (Her pretty little face is red... But\she's still quite beautiful.)
+[Kojiroh] (...)
+[Kojiroh] (Even I feel a little irritated.)
+[Kojiroh] (I lost my target... There're no leads...\Everything's going wrong.)
+[Woman] Sorry, I've got plans to attend to.
+[Kojiroh] Plans?
+[Woman] I have to go wash my hands.
+[Kojiroh] You can do it over at the counter.
+[Woman] And then I'd like to take a hot shower and\relax.
+[Kojiroh] Try to stay here and relax a little\while.
+[Woman] ...
+[Kojiroh] Come on, don't look so angry.
+[Woman] How do you just expect me to relax so\easily... Ah...
+She staggers.
+009
+\ 
+[Kojiroh] Hey, are you alright?
+[Woman] I'm just tired, that's all...
+b18
+[Woman] Thank you... My, what strong arms you have.
+[Kojiroh] I've got another thing I can show you\too.
+[Woman] It's a shame I won't get to watch it\slither...
+[Kojiroh] Why not? Come on, babe... Watch it\slither right up your leg.
+[Woman] ...
+[Kojiroh] Oh, come on. You've gotta such beautiful\face... Don't ruin it like that.
+[Woman] You are a funny guy... funny and impolite.
+[Kojiroh] I get that a lot, thanks.
+[Woman] I don't think you're helping me relax any.
+[Kojiroh] You haven't really tried yet.
+[Woman] ...
+[Kojiroh] Your smile is shinier than a sunny\stream.
+[Woman] Please... Enough of your attempts at\seduction.
+[Kojiroh] I'm not doing well, am I...?
+[Woman] Let's just say you'll be beating off\tonight.
+[Kojiroh] I see...
+[Woman] I was planning on relaxing after a nice hot\shower...
+[Kojiroh] Well?
+[Woman] But drinking here has proven quite\interesting.
+[Kojiroh] I'm honored.
+[Woman] You won't persist with the perverse\comments, will you?
+[Kojiroh] Not at all.
+[Woman] How do I know I can trust you?
+[Kojiroh] All I can do is promise. Will you at\least trust me with your name?
+[Woman] Okay... I'm Aqua.
+[Kojiroh] Aqua?
+[Aqua] That's right.
+[Kojiroh] I like that name. Three "A's" in one\name.
+[Aqua] Thanks.
+[Kojiroh] I'm Kojiroh. Kojiroh Amagi.
+[Aqua] Kojiroh... That's a nice name... Here, have\a seat.
+[Kojiroh] (Hey, I'm getting farther than I thought\I would.)
+[Kojiroh] (Just when I thought everything was going\wrong...)
+009
+009c
+009
+eve_09
+[Kojiroh] As always, this place is nearly empty.
+009
+eve_09
+[Kojiroh] This is the cocktail lounge... Everyone's\favorite meeting place.
+[Kojiroh] Glen isn't here yet.
+[Kojiroh] But then, I'm five minutes early.
+　Look/Investigate
+　Move
+　Speak
+　Glen
+[Glen] Call me if you need anything, Kojiroh.
+[Kojiroh] Sure thing.
+[Glen] Okay, so you already knew about the girl...\So I'll only charge you one information fee. Heh,\heh, heh...
+[Kojiroh] What?
+[Glen] You've got those eyes again.
+[Kojiroh] ...Eyes?
+[Glen] It's nothing.
+[Kojiroh] Glen.
+[Glen] Yeah?
+[Kojiroh] Let me know if the girl is found.
+[Glen] If the girl is found?
+[Kojiroh] Yeah.
+[Glen] If someone else finds her, then there's no\more reward though.
+[Kojiroh] Even so, come to me right away with the\info.
+[Glen] Oh, you gonna take the girl, huh?
+[Kojiroh] I'll give you the reward.
+[Glen] Well, in that case...
+009
+[Kojiroh] ...
+[Kojiroh] Glen's gone.
+[Kojiroh] An assassins who uses a knife...
+[Kojiroh] Where are you, Purin...? And what are you\doing...?
+[Kojiroh] ...
+eve_09
+[Glen] Heh, heh, heh...
+[Kojiroh] What's so funny?
+[Glen] Maybe I should let you in on some\information...
+[Kojiroh] Will it help?
+[Glen] It's safe work and easy money.
+[Kojiroh] Well I work for the fun of it. Not just\to make a quick buck.
+[Glen] Do you want it or not?
+[Kojiroh] I'll decide after I hear about it.
+[Glen] Very well, then.
+[Kojiroh] What's the information about?
+[Glen] It's about a reward.
+[Kojiroh] Reward?
+[Glen] Yeah. I just got this info from one of my\contacts yesterday.
+[Kojiroh] Is this about that assassin...?
+[Glen] That's a little too dangerous to handle.
+[Kojiroh] ...
+[Glen] Although there's a reward out for the\assassin too, but...
+[Kojiroh] So it's another guy. But it's not easy,\right?
+[Glen] Well, it doesn't sound bad for the money\they're willing to dish out...
+[Kojiroh] Just tell me how much the reward is and\on who?
+[Glen] The reward is $50,000.
+[Kojiroh] That ain't bad.
+[Glen] The only problem is, I don't know the\target's name.
+[Kojiroh] ...
+[Glen] But I do know the physical characteristics.
+[Kojiroh] Don't just sit there, man! Tell me what\they are.
+[Glen] Hold on, it's written on my note\somewhere... Here it is.
+[Kojiroh] And?
+[Glen] Here goes... The subject has blonde hair,\big eyes, and tan skin. The age is estimated to be\late teens.
+[Kojiroh] ...
+[Glen] What's the matter? You look sick...
+[Kojiroh] Uh, no... It's just... There are girls\like that everywhere you look. It'll be hard to\find her.
+[Glen] Hey... I never mentioned whether the target\was male or female.
+[Kojiroh] (Oops...)
+[Glen] But you guessed right. The target is female.\Do you know her?
+[Kojiroh] I don't know any girls that fit that\description. It'll be hard work.
+[Glen] There's one more physical feature...
+[Kojiroh] What's that...?
+[Glen] It should narrow down the odds a bit, too...
+[Kojiroh] It's not about the eyes, is it?
+[Glen] You're on a roll today... Her left eye is\blue, and her right is gold.
+[Kojiroh] ...
+[Glen] You should've told me if you already heard\about it... Kojiroh?
+[Kojiroh] ...What?
+[Glen] What's gotten into you? You look as if\you've seen a ghost.
+[Kojiroh] I was just wondering... Who the hell\wants to put a price out on a girl like that?
+[Glen] I don't know...
+[Kojiroh] Well, then how the hell did you find out?\How in the hell do I get the money if I find her?
+[Glen] The newspaper.
+[Kojiroh] You've gotta be kidding...
+[Glen] There's a contact address in the newspaper\for anyone who finds the target.
+[Kojiroh] I see... So once I find her, I'd contact\the address in the paper for the fifty grand.
+[Glen] That's right. When I got to work this\morning, our info lines were clogged with people\looking for that blonde.
+[Kojiroh] So everyone knows this information?
+[Glen] Yeah. They've all turned into bloodthirsty\hounds.
+[Kojiroh] ...
+[Glen] Is something wrong? You seem nervous.
+[Kojiroh] No, nothing...
+[Glen] Well, does this sound like something you'd\be willing to work on?
+[Kojiroh] ...
+[Kojiroh] I still don't get it... Why is Nikaido on\the most wanted list if they already know who\killed Kou?
+[Glen] That's the way cops are handling it.
+[Kojiroh] So you're saying some other organization,\other than the cops, are moving?
+[Glen] It's just a rumor I heard... But let me warn\you...
+[Kojiroh] What?
+[Glen] This one's really dangerous.
+[Kojiroh] How so?
+[Glen] This is all unconfirmed, so I don't know how\much of this I can say...
+[Kojiroh] I'm listening...
+[Glen] I'll let you in on something...
+[Kojiroh] Spill the beans.
+[Glen] There are others working on it... Not just\the cops in Japan, but another organization.
+[Kojiroh] Wow...
+[Glen] A group even scarier than the cops.
+[Kojiroh] So you want me to pull out?
+[Glen] No, no...
+[Kojiroh] Then what are you trying to say?
+[Glen] It's just that, if something happens to you,\then I'll be losing a valuable customer.
+[Kojiroh] Thanks.
+[Glen] Let's just call it "Give and Take".
+[Kojiroh] Whatever you say.
+[Glen] ...
+[Kojiroh] Well, don't worry about it. I don't plan\on sticking my head where it doesn't belong.
+[Glen] ...
+[Kojiroh] The only reason why I wanted the\information was because there was something bugging\me. That's all. But now, I'm pulling out.
+[Glen] Heh, heh, heh... I'm relieved to hear that.
+[Kojiroh] Is that all the information you have?
+[Glen] Yes, that's all.
+[Kojiroh] That's all you got for me?
+[Glen] Oh, come on...
+[Kojiroh] Yeah, never mind.
+[Kojiroh] (Man...)
+[Kojiroh] (If what Glen said is true, I'm seriously\in deep shit.)
+[Kojiroh] (But then...)
+[Kojiroh] ...
+[Glen] Our information lines are jammed with this\news...
+[Kojiroh] So who is this guy?
+[Glen] Some guy who's been messing around in the\Middle East.
+[Kojiroh] ...
+[Glen] They say this assassin never uses a gun.
+[Kojiroh] How does he kill people without a gun?
+[Glen] He uses a knife.
+[Kojiroh] A knife!?!
+[Glen] Heh, heh, heh... That seems to interest\you...
+[Kojiroh] Nah, the word just brings back memories\of my circumcision, that's all.
+[Glen] Unfortunately, there isn't nearly enough\information about this killer.
+[Kojiroh] Why not.
+[Glen] Actually, most of us are too scared to get\close enough to know anything. Some of us aren't\circumcised.
+[Kojiroh] Well, what do you know?
+[Glen] He kills with the same type of knife every\time, and always leaves the knife next to his\victim.
+[Kojiroh] The guy likes to show off, eh?
+[Glen] Uh, I guess you could say that.
+[Kojiroh] Does his knife have a black handle.
+[Glen] Yes... It's the knife distributed in the\Eldian military.
+[Kojiroh] So I guess I can't get one on my own.
+[Glen] I don't suppose so.
+[Kojiroh] How are the assassin and the military\connected? Is there some sort of military plot?
+[Glen] That's been ruled out.
+[Kojiroh] Why?
+[Glen] Because the assassin murdered someone in the\Eldian Republic.
+[Kojiroh] Who did he kill?
+[Glen] The King.
+[Kojiroh] Oh my God...
+[Glen] He's wanted by the government.
+[Kojiroh] So why the hell did the bastard come to\Japan?
+[Glen] The answer, my friend, is blowing in the\wind. No one knows.
+[Kojiroh] And he killed Kou?
+[Glen] That's what the Japanese National\Investigation Team thinks.
+[Kojiroh] (An assassin who kills with a knife...\I've never heard of such a thing.)
+[Kojiroh] (A knife...)
+[Kojiroh] ...
+[Kojiroh] Do you know who killed Kou?
+[Glen] I can't verify it... But I have it narrowed\down.
+[Kojiroh] What the hell does that shit mean?
+[Glen] Well, are you interested in buying the\information?
+[Kojiroh] Sure, why not.
+[Glen] Heh, heh, heh... You're wise to be so quick\with your decisions.
+[Kojiroh] Hey, any info is good info. I'll pay if I\have to, to get it.
+[Glen] This issue involves a Middle Eastern\assassin.
+[Kojiroh] Did I ever tell you how much I like the\word assassin? There are two asses in it.
+[Glen] Uh, well, yes... There are.
+[Kojiroh] The word fits the person, doesn't it? A\killer is most definitely an ass.
+[Glen] You have a point there.
+[Kojiroh] Is this assassin a professional?
+[Glen] Of the highest degree.
+[Kojiroh] ...
+[Kojiroh] (Why would a professional assassin go\after Kou?)
+[Kojiroh] (This doesn't make sense.)
+[Glen] But now I finally understood why you asked\me that question.
+[Kojiroh] What do you mean?
+[Glen] Oh, please... You asked me about a man named\Kou before.
+[Kojiroh] Oh, yeah.
+[Glen] And now everyone knows that name. You're on\a big case, aren't you?
+[Kojiroh] It's just a coincidence.
+[Glen] Your rival is Katsuragi Private Detective\Offices, isn't it...?
+[Kojiroh] ...
+[Glen] They've just been dealt a blow... Your rival\shouldn't be so tough now.
+[Kojiroh] Stick to the subject. I'm not paying for\your extra observations.
+[Glen] Heh, heh, heh... You're not in a very good\mood today, are you...?
+[Kojiroh] ...
+[Glen] Well then, let me begin with the\information.
+[Kojiroh] By all means, get on with it.
+[Glen] I shouldn't be telling anyone this, not even\for a price... But it's important.
+[Kojiroh] Is it about Kou?
+[Glen] Guess again... It's about the killer.
+[Kojiroh] ...?!
+eve_52
+[Kojiroh] (What?! About the guy who killed Kou?)
+eve_13
+　Surroundings
+　Glen
+　Sunglasses
+　Booze
+[Glen] What's wrong? Don't you want to hear what I\have to say?
+[Glen] You're careful today... Is anyone checking\up on us?
+[Glen] There sure are fewer people here than usual.
+[Glen] And that's very fortunate for people in our\line of business.
+[Glen] Do me a favor... Don't look at me so much.
+[Glen] I'm a very insecure person, you know.
+[Glen] Please, don't make eye contact.
+[Glen] Heh, heh, heh... You've always been\different than the others.
+[Glen] You look at people with such intensity,\always looking at every detail in every situation.
+[Glen] Even if you've known the person for a long\time.
+[Glen] Do you find the sunglasses of interest...?
+[Glen] I can't give you these, even if you asked\me.
+[Glen] You can't have these...
+[Glen] In this line of business, we don't advise\making eye contact with the client.
+[Glen] The rich and the poor drink wine, but only\the dirty bums drink whiskey.
+[Glen] You oughtta know by now that I only drink\bourbon.
+[Glen] No drink beats a good glass of bourbon.
+[Glen] Heh, heh, heh... I only drink bourbon.
+[Glen] Would you like some?
+　On Glen's lap
+[Kojiroh] For Christ's sake, man... Get real.
+[Kojiroh] Sorry.
+[Glen] Me too.
+[Kojiroh] I never thought I'd hear that out of your\mouth.
+[Glen] Well, sorry.
+[Kojiroh] Sit on his lap? My bony booty may give\him the jollies.
+[Kojiroh] I want to sit on a girl's lap!
+[Kojiroh] I don't give a shit about Glen's lap.
+[Glen] Please don't sit down as you say that.
+[Kojiroh] Here goes.
+[Glen] ...
+[Kojiroh] Hey.
+[Glen] What?
+[Kojiroh] Why the hell do I have to sit on your\lap?
+[Glen] Kojiroh, you must be really tired...
+　Look/Investigate
+　Move
+　Order
+　Bourbon
+　Whiskey
+　Wine
+　Beef
+[Kojiroh] I already ordered... I don't need to be\so repetitive.
+[Kojiroh] Bourbon, please.
+b20
+[Waitress] Gosh...
+[Kojiroh] No crap out of you! Bring me my bourbon,\dammit!
+[Waitress] I think we're out of bourbon at the\moment.
+She places a glass on my table...
+[Kojiroh] What the hell is this?
+[Waitress] Water.
+009
+[Kojiroh] What's this world coming to...?
+[Kojiroh] I don't need to order anything...
+[Kojiroh] I wonder if they have any whiskey.
+b20
+[Kojiroh] Hey, I didn't order anything yet.
+[Waitress] Here's your water.
+[Kojiroh] To hell with the water. Bring me whiskey.
+[Waitress] I already told you, we don't have any\whiskey.
+[Waitress] Jeez...
+009
+[Kojiroh] ...
+[Kojiroh] The only thing nice about that bitch is\her tits.
+[Kojiroh] I don't need to order anything...
+[Kojiroh] Oh yeah, I wanted wine.
+[Kojiroh] I'll drink something made in the year\2001!
+[Kojiroh] ...
+[Kojiroh] Don't ignore me, you little...
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+[Kojiroh] Beef!
+[Kojiroh] And that trollop will probably bring me\her mother's ass!
+[Kojiroh] So...
+[Kojiroh] Pizza!
+b20
+[Waitress] Jeez...
+009
+[Kojiroh] Doesn't this chick say anything else?
+　Surroundings
+　Booze
+　Ceiling fan
+　Lights
+[Kojiroh] This is my favorite cocktail lounge...
+[Kojiroh] If only that waitress wasn't here...
+[Kojiroh] I didn't see Aqua yesterday...
+[Kojiroh] I wonder if she'll come again tonight.
+[Kojiroh] I'm through trying to order anything\here.
+[Kojiroh] You know why, don't you?
+[Kojiroh] This place has so many different\drinks...
+[Kojiroh] But it doesn't look like they have my\favorite brand of tequila.
+[Kojiroh] That stuff cures the common cold in a\jiffy. You have to go to Mexico to get it, but then\you end up with diarrhea.
+[Kojiroh] It's just for decorations... The fans\aren't moving right now.
+[Kojiroh] That's good... The drunker people get,\the less they want to see anything spin.
+[Kojiroh] Overall, I kinda like this atmosphere...
+[Kojiroh] Not too bright, not too dim... It's just\right.
+[Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
+[Kojiroh] This is the way every cocktail lounge\should be.
+　Go outside
+　Hotel lobby
+[Kojiroh] Okay, let's get out of here.
+a007
+[Kojiroh] I don't have anything important to do\there at the time being.
+[Kojiroh] Oh, well... Let's go...
+a008
+　Look/Investigate
+　Move
+　Speak
+　Glen
+[Glen] Heh, heh, heh... Well, that should about do\it.
+[Kojiroh] I'm expecting good info.
+[Glen] Sure thing...
+009
+[Kojiroh] ...
+[Kojiroh] Yayoi's office is... Damn that idiot.
+[Kojiroh] ...
+[Kojiroh] Maybe I need to see a shrink... I'm too\damned frustrated these days.
+[Glen] Well? Are we through talking about the\painting...?
+[Kojiroh] Let me see...
+[Glen] Hey, it's up to you.
+[Kojiroh] Alright. Keep talking.
+[Glen] You got it.
+[Kojiroh] I'm not sure what it is, but there's\something grabbing my attention. Call it an\intuition.
+[Glen] You're wise... You've been such a generous\customer, I'll give you a free bit of information.
+[Kojiroh] What is it?
+[Glen] It's about your rival detective agency.
+[Kojiroh] My rival?
+[Glen] Katsuragi Private Detective Offices.
+[Kojiroh] ...
+[Glen] I've heard that they screwed up big time.
+[Kojiroh] So?
+[Glen] It's an ugly situation over there...
+[Kojiroh] What do you mean, ugly? I've seen a few\pieces of ass working there.
+[Glen] I'm speaking in terms of management. Not\ass.
+[Kojiroh] How bad is it?
+[Glen] Well, they're in a worse situation since you\beat them on the case.
+[Kojiroh] ...
+[Glen] So how about it? Will it help you to destroy\your rivals?
+[Kojiroh] Destroy my rivals...?
+[Glen] Oh yeah... That's your former place of\business.
+[Kojiroh] Hey... None of those crap. I'll buy your\information.
+[Glen] Heh, heh, heh... Good choice.
+[Kojiroh] But don't you dare sell this info to\anyone else.
+[Glen] Unfortunately, this will get out sooner or\later.
+[Kojiroh] Just keep it to yourself. Got it?
+[Glen] Got it.
+[Glen] Congratulations on getting the case.
+[Kojiroh] I was just lucky.
+[Glen] How modest of you.
+[Kojiroh] So what have you got for me?
+[Glen] You only have to pay me if you like what you\hear.
+[Kojiroh] Fine.
+[Glen] There's an amusing anecdote about that\painting...
+[Kojiroh] An amusing anecdote?
+[Glen] You heard correct.
+[Kojiroh] It's not a curse, is it?
+[Glen] How'd you know?
+[Kojiroh] I did some research at the library. I\learned that anyone carrying that painting is bound\to die.
+[Glen] You always did keep up on your homework.
+[Kojiroh] You weren't too helpful with that\so-called "info." I already knew it.
+[Glen] Well, you're a smart cookie.
+[Kojiroh] Eat me.
+[Glen] Heh, heh, heh...
+[Kojiroh] What's the matter with you? You keep\laughing like a complete imbecile.
+[Glen] Never mind that. By the way... Did you\notice something odd...?
+[Kojiroh] Besides your ridiculous laugh? No. What\could it be?
+[Glen] It's about that waitress you hate so much.
+[Kojiroh] I'd rather not hear about it, if you\don't mind. She makes my balls shrivel.
+[Glen] Well, she seems to be taking a break at the\moment.
+[Kojiroh] That's the best news you've told me all\day.
+[Glen] I personally found her quite amusing.
+[Kojiroh] I'll never get to where you're at, pal.
+[Glen] Heh, heh, heh...
+　Surroundings
+　Glen
+　Booze
+　Hat
+[Kojiroh] Who knows what the hell you're hiding in\that thing.
+[Glen] I'm not hiding anything.
+[Glen] I'm not hiding anything at all.
+[Kojiroh] As always, this place is nearly empty.
+[Kojiroh] I like it that way.
+[Kojiroh] It's comfortable and quiet here.
+[Glen] And thank God there aren't any children\here.
+[Kojiroh] This guy's a bit overly cautious.
+[Kojiroh] I don't know his real name or his\address. I don't know anything about him.
+[Kojiroh] Whenever we plan to meet somewhere, he's\sure to get there first.
+[Kojiroh] But I understand where he's coming from.
+[Glen] And thanks to that, I'm always in perfect\health...
+[Kojiroh] It's booze... Bourbon, perhaps?
+[Glen] Why not have a drink, Kojiroh?
+[Kojiroh] Hey, what do you usually drink?
+[Glen] Heh, heh, heh... Bourbon. Always.
+[Kojiroh] I see...
+[Glen] I love drinking alcohol that smells like the\fields.
+　Go outside
+　Hotel lobby
+[Glen] Come on, listen first.
+[Glen] Hey, you're leaving without hearing the\information?
+　Look/Investigate
+　Move
+　Order
+　Bourbon
+　Whiskey
+　Wine
+　Beef
+[Kojiroh] I already ordered... I don't need to be\repetitive.
+[Kojiroh] Bourbon, please.
+She puts a glass on my table.
+[Kojiroh] This waitress is very polite... Much\better than that other one.
+[Kojiroh] There doesn't appear to be a waitress\around.
+[Kojiroh] To hell with it. I don't need to order\anything.
+[Kojiroh] How about the whiskey...
+She puts a glass on the table.
+[Kojiroh] Hey, she served me a glass in no time.
+[Kojiroh] She's a damn good bartender.
+[Kojiroh] But that rude cow told me they didn't\have any whiskey.
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+[Kojiroh] Wine, does a darn good job of stimulating\my romantic side.
+[Kojiroh] That's right, I wanted wine.
+[Kojiroh] I'd like some of that wine that goes down\red and comes out yellow.
+She puts a glass on my table.
+[Kojiroh] Wow. The service here ain't so bad.
+I swallow the whole glass.
+[Kojiroh] Is this really the stuff I ordered?
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+[Kojiroh] Beef!
+She puts the bowl on my table.
+[Kojiroh] Hey, not bad... She actually served me a\bowl of beef.
+[Kojiroh] I don't know if it's elegant, or just\filled.
+　Surroundings
+　Booze
+　Ceiling fan
+　Lights
+[Kojiroh] This is one of my favorite bars.
+[Kojiroh] Here I can drink long and slow... It's so\relaxing.
+[Kojiroh] They've got every drink in the book, and\the interior design is cool.
+[Kojiroh] Shall I order?
+[Kojiroh] I love looking at all those bottles lined\up over there... Ah, the possibilities.
+[Kojiroh] The bartender has to memorize where each\one is.
+[Kojiroh] I just might be able to steal one for\myself.
+[Kojiroh] Nice interior... The ceiling fans aren't\moving right now.
+[Kojiroh] They look like propellers... They're not\propelling shit right now, though.
+[Kojiroh] Overall, I kinda like this atmosphere...
+[Kojiroh] Not too bright, not too dim... It's just\right.
+[Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
+[Kojiroh] This is the way every cocktail lounge\should be.
+　Go outside
+　Hotel Lobby
+[Kojiroh] Okay, let's get out of here.
+a007
+[Kojiroh] I don't have anything important to do at\the time being.
+[Kojiroh] Oh, well... Let's hit the road.
+a008
+　Look/Investigate
+　Move
+　Surroundings
+　Booze
+　Ceiling fan
+　Lights
+[Kojiroh] There aren't any customers here...
+[Kojiroh] Uh-oh... I'm the only one here.
+[Kojiroh] I didn't even notice myself getting so\enthralled, talking to Aqua.
+[Kojiroh] Oh well... This place is open 24 hours a\day... Some one will come.
+[Kojiroh] Enough of this... It's time to drink.
+[Kojiroh] I love looking at all those bottles lined\up over there... Ah, the possibilities.
+[Kojiroh] The bartender has to memorize where each\one is.
+[Kojiroh] I just might be able to steal one for\myself.
+[Kojiroh] Nice interior... The ceiling fans aren't\moving right now.
+[Kojiroh] They look like propellers... They're not\propelling shit right now, though.
+[Kojiroh] Overall, I kinda like this atmosphere...
+[Kojiroh] Not too bright, not too dim... It's just\right.
+[Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
+[Kojiroh] This is the way every cocktail lounge\should be.
+　Go outside
+　Hotel lobby
+[Kojiroh] If I go outside, I'll be right on Central\Avenue.
+[Kojiroh] What? You already know that...? I was\just trying to make sure...
+a007
+[Kojiroh] I don't have anything important to do at\the time being.
+[Kojiroh] Oh, well... Let's hit the road.
+a008
+　Look/Investigate
+　Move
+　Speak
+　Order
+　Aqua
+Aqua] Okay, then let's go to the next one. How about the fourth one?
+[Kojiroh] You look like your having fun.
+[Aqua] Oh, believe me. I am.
+[Kojiroh] Well, the fourth one is... The kid's the\result of having an affair with a married man?
+[Aqua] ...
+[Kojiroh] ...
+[Kojiroh] (Oh, shit!)
+[Kojiroh] (That incident back there...)
+[Kojiroh] (Oh, man... After that, anything's\possible.)
+[Aqua] ...
+[Kojiroh] Please excuse me for being so\inconsiderate.
+[Aqua] Don't worry... I never pay much attention to\things like that.
+[Kojiroh] Oh.
+[Aqua] But any more and I'll never forgive you.
+[Kojiroh] You have my word on it.
+[Aqua] By the way, Kojiroh...
+[Kojiroh] Yeah?
+[Aqua] It was fun... I haven't laughed this much in\ages.
+[Kojiroh] Really...?
+[Aqua] Well, it's time to go to bed. Oh, waitress,\could you clean the table for us... Thank you.
+009
+b18
+[Kojiroh] You okay? You're staggering a little.
+[Aqua] I may seem drunk, but I'm fine. I'm pretty\strong when it comes to alcohol.
+[Kojiroh] That's good.
+[Aqua] What's wrong? You don't look too happy to\hear that.
+[Kojiroh] I just hope we'll run into each other\again. Here, maybe?
+[Aqua] Who knows...
+[Kojiroh] Don't push yourself...
+[Aqua] Well, I do come here when I want to drink.
+[Kojiroh] Good. Maybe I'll see you again.
+[Aqua] I hope so... Maslama.
+009
+[Kojiroh] ...Maslama?
+[Kojiroh] ...
+[Kojiroh] This is a good diversion, don't you\think?
+[Kojiroh] I mean, drinking like this...
+[Kojiroh] But who was that guy you were with?
+[Kojiroh] No one special.
+[Kojiroh] Someone from work?
+[Kojiroh] I'm only curious, that's all.
+[Aqua] Did I ever tell you how much I enjoy\children?
+[Kojiroh] No, but why?
+[Aqua] They're both cute and annoying...
+[Kojiroh] Ohh... (She didn't seem like she enjoyed\anything just a minute ago.)
+[Aqua] I like people who are pure and honest.
+[Kojiroh] Oh, then you might not like me at all.
+[Aqua] Is that so?
+[Kojiroh] Yeah. I'm a vulgar, perverted, selfish\idiot.
+[Aqua] Well, you do give off that impression. But\I'm sure there's a good person underneath all of\that.
+[Kojiroh] I wish there was a good person underneath\me, too. One with a good ass.
+[Aqua] Did you know that I have a child?
+[Kojiroh] What?!
+[Aqua] Aren't you overreacting just a bit?
+[Kojiroh] I'm so sorry... I thought you were some\kind of a debutante.
+[Aqua] Oh, really?
+[Kojiroh] Well, no... That's not what I mean...\(Good going...)
+[Aqua] Are you disappointed?
+[Kojiroh] Hell no! Love sees no status.
+[Aqua] *chuckle*
+[Kojiroh] But...
+[Aqua] But what?
+[Kojiroh] But shouldn't you be married?
+[Aqua] I don't have to be married...
+[Kojiroh] ...
+[Aqua] I hate to break the news to you, but the\sperm and egg aren't too concerned about whether or\not there's a ring on my finger.
+[Kojiroh] You're right. Biology doesn't have any\morals.
+[Aqua] You could put it that way.
+[Kojiroh] Alright, then let me list up... Say four\possibilities.
+[Aqua] Trying to show off your detective side, huh?
+[Kojiroh] Something like that.
+[Aqua] Alright, go ahead.
+[Kojiroh] First possibility... You untied the knot.
+[Aqua] Untied the knot?
+[Kojiroh] Yeah... Like a divorce.
+[Aqua] Oh, okay... How about possibility two?
+[Kojiroh] Hey, I didn't get to hear if my first\guess was right or not.
+[Aqua] I'll tell you after you tell me all of them.
+[Kojiroh] Okay. The second possibility is adoption.
+[Aqua] Even though the parents aren't married?
+[Kojiroh] Wake up! It's the nineties, you know.
+[Aqua] Oh yeah... Well, how about the third\possibility?
+[Kojiroh] This one's more common... A single\mother.
+[Aqua] Oh yes.
+[Kojiroh] She miscalculates her ovulation and ends\up pregnant. That could happen, right?
+[Aqua] It happens all too often... Do you know this\from experience?
+[Kojiroh] Do I look like I do?
+[Aqua] You'd better not ask. You might not hear the\answer you want.
+[Kojiroh] Virtually everything women tell me is\something I'd rather not hear.
+[Aqua] *chuckle*
+[Kojiroh] Anyway...
+[Aqua] But I don't think I'm far off.
+[Kojiroh] Let's change the subject.
+[Aqua] Yeah, there are some things no one wants to\be asked.
+[Kojiroh] (Those are my favorite questions to ask!)
+[Aqua] ...You're not going to ask me, are you?
+[Kojiroh] About what?
+[Aqua] You know...
+[Kojiroh] If you're in trouble with the guy wearing\glasses?
+[Aqua] Yes.
+[Kojiroh] If I ask you, are you going to answer me?
+[Aqua] ...
+[Kojiroh] This conversation is raining all over our\picnic, isn't it...
+[Aqua] I'm still happy you tried cheering me up,\though.
+[Kojiroh] Let's talk about something else.
+[Aqua] Like what?
+[Kojiroh] Well, I want to ask you something.
+[Aqua] Make sure it's something I won't mind\answering.
+[Kojiroh] Are you single?
+[Aqua] Are you criticizing my morals? I should've\known.
+[Kojiroh] Believe me, I'm not one to talk when it\comes to morals... I'm just trying to ask you on a\date, that's all.
+[Aqua] Really?
+[Kojiroh] Yes. I think you're beautiful.
+[Aqua] You're not the first one to tell me that,\you know...
+[Kojiroh] And I'm sure I won't be the last...
+[Aqua] Ha ha... You're an interesting fellow.
+[Kojiroh] Well, what's your answer?
+[Aqua] Well... I usually just tell guys that I'm\already married.
+[Kojiroh] How about to me?
+[Aqua] To you... It's a secret.
+[Kojiroh] Ah, come on...
+[Aqua] You're an investigator, right? Figure it out\on your own.
+[Kojiroh] Maybe you are married, and you have a\kid... Is that it?
+[Aqua] ...
+[Kojiroh] ...
+[Kojiroh] (Uh-oh... Did I say something wrong?)
+[Kojiroh] (Or, was it true?)
+[Aqua] You know, Kojiroh...
+[Kojiroh] Yes?
+[Aqua] You seem like a very busy person as well.
+[Kojiroh] I do get enough time to speak to\beautiful women.
+[Aqua] What do you do?
+[Kojiroh] You mean, my job?
+[Aqua] Yes.
+[Kojiroh] I just go around people's homes and look\at their stuff.
+[Aqua] You're not a cop, are you?
+[Kojiroh] Are you kidding? I hate cops more than I\hate broccoli.
+[Aqua] Is that so...
+[Kojiroh] But that doesn't necessarily make me a\criminal, either.
+[Aqua] I wonder.
+[Kojiroh] Come on, you know I'd never do anything\illegal.
+[Aqua] I see, you're from a detective agency,\right?
+[Kojiroh] Well... Not quite.
+[Aqua] Tell me what you do.
+[Kojiroh] I'm a private detective.
+[Aqua] A private...detective?
+[Kojiroh] I bet I can even guess the color of your\underwear.
+[Aqua] Don't bother.
+[Kojiroh] Listen, I'm not here to investigate\anything.
+[Aqua] How do I know?
+[Kojiroh] My license has been revoked.
+[Aqua] So you're just screwing around?
+[Kojiroh] That's right. In the figurative sense, of\course.
+[Aqua] At least you're honest.
+[Kojiroh] Even detectives need their own time. It's\not like in the movies, where all they do is\investigate crimes.
+[Kojiroh] Aqua... I like that name.
+[Aqua] Me too.
+[Kojiroh] What ever happened to thanking people who\compliment you?
+[Aqua] Thanks. Thanks a million.
+[Kojiroh] (I think I'm blowing it.)
+[Kojiroh] You're a foreigner, aren't you?
+[Aqua] Yes, but I do have the proper visa to be\here. I'm perfectly legal.
+[Kojiroh] I didn't mean to ask so rudely... I\wasn't accusing you of being illegal.
+[Aqua] I know... I just wanted to tease you.
+[Kojiroh] You're sharp.
+[Aqua] Are you giving me some sort of a test?
+[Kojiroh] No... I'm just surprised. You don't seem\very foreign at all.
+[Aqua] Your definition of a foreigner is anyone not\Japanese, right?
+[Kojiroh] ...Yeah, that's my definition.
+[Aqua] Well, I'm a foreigner. I was born and raised\overseas.
+[Kojiroh] Are you here as a tourist?
+[Aqua] What do you think?
+[Kojiroh] Listen, I'm just nervous about asking\where you're from.
+[Aqua] From a land far, far away.
+[Kojiroh] Where no man has gone before?
+[Aqua] Well, you probably haven't been there.
+[Kojiroh] Probably not.
+[Aqua] But maybe you'll get over there someday.
+[Kojiroh] I expect you to show me around if I do.
+[Aqua] I'd be happy to.
+[Kojiroh] (Although your eyes say no...)
+[Aqua] Is something the matter...?
+[Aqua] Perhaps we should order something.
+[Aqua] Shouldn't we order something first?
+[Kojiroh] Why?
+[Aqua] That cute waitress is looking over this way.
+[Kojiroh] Uh-oh...
+[Kojiroh] You're a tough woman, Aqua.
+[Aqua] I don't know about that... That was the\first time I've ever done that.
+[Kojiroh] Wow...
+[Kojiroh] (So she must've been really pissed off.)
+[Aqua] But if you do it once, it's easy to do it a\second time.
+[Kojiroh] Is that a warning?
+[Aqua] That's for me to know and you to find out.
+[Kojiroh] I'll try to keep that in mind.
+[Aqua] Thanks... I wouldn't want to get that nice\jacket dirty.
+[Kojiroh] (She's putting her guard up.)
+　Booze
+　Beer nuts
+[Kojiroh] I don't want to get all drunk and make an\ass out of myself.
+[Kojiroh] No beer tonight.
+[Kojiroh] Booze...?
+[Kojiroh] I don't want to get drunk right now.
+[Aqua] Do you have a low alcohol tolerance? I never\would've guessed.
+[Kojiroh] My tolerance is fine... But I find your\looks so much more intoxicating than a glass of\liquor.
+[Aqua] I'm flattered.
+[Kojiroh] ...Really?
+[Aqua] It takes a lot of talent to say an old\cliche so genuinely.
+[Kojiroh] Oh. (This woman's hard to please.)
+[Aqua] Anyway, I like men who are straight forward.
+[Kojiroh] I already ordered.
+[Kojiroh] I don't want to order again.
+[Kojiroh] Beer nuts? Nah, I don't want to order\anything at the moment.
+[Aqua] If you order something, get me one too.
+[Kojiroh] I think you've had enough.
+[Aqua] ...Excuse me?
+[Kojiroh] You're right. We can't just sit here\without ordering anything.
+[Kojiroh] Hey, waitress!
+She comes over to the table.
+[Kojiroh] (Here goes nothing.)
+b20
+[Waitress] May I take your order?
+[Kojiroh] Give us a couple bowls of beer nuts.
+[Waitress] Deer nuts?
+[Kojiroh] Beer nuts, dammit!
+I pinch her ass.
+[Waitress] You pervert!
+Smack!0
+\ 
+[Kojiroh] ...
+[Waitress] Two bowls of beer nuts, coming right up.
+009
+009c
+She dashes off.
+[Aqua] You're having fun, aren't you...
+[Kojiroh] It's no computer game, but it's fun\enough.
+　Surroundings
+　Aqua
+　Booze
+　Tits
+[Kojiroh] No way, man... She's already giving me\bad looks.
+[Kojiroh] C-cup...? Maybe even a D?
+[Kojiroh] She's rather thin... Maybe those tits are\implants.
+[Kojiroh] Uh-oh... She's giving me dirty looks.\Let's stop.
+[Kojiroh] It's a quiet cocktail lounge... There\aren't many people here besides us.
+[Kojiroh] This cocktail lounge is an empty place...\There are only a few people here.
+[Kojiroh] Well, it's about that time.
+[Aqua] We might be the last customers in this\place...
+[Kojiroh] It's a quiet place where I can come to\relax.
+[Kojiroh] It's hard to believe there was a fight\here...
+[Aqua] Please forget about that. It's embarrassing.
+[Kojiroh] Aqua's holding her drink and smiling.
+[Kojiroh] You're one foxy mama in that sweater.
+[Aqua] Thank you. I always wear the best designs.
+[Kojiroh] Those eyes are deep brown... Different\from most women I know.
+[Kojiroh] She's so cool and sophisticated.
+[Kojiroh] She smells like a beautiful maiden out of\a children's fairytale.
+[Aqua] What are you thinking about? You're staring\at me in a daze...
+[Kojiroh] I don't feel like drinking now.
+[Kojiroh] I turn into a complete fool when I drink.
+[Kojiroh] The glass is full of green liquid, with a\slice of lemon... It looks delicious.
+[Aqua] I won't give you any.
+[Kojiroh] ...
+　Go outside
+　Hotel lobby
+[Kojiroh] I can go to the lobby anytime. It's open\24 hours a day.
+[Kojiroh] This may be my only chance to talk to\her.
+[Kojiroh] I'd like to stick around here a little\longer.
+[Kojiroh] And don't think I have any ulterior\motives in mind, either.
+[Kojiroh] Come on, let's hang out here for a while.
+[Kojiroh] Hey, I spent all this time getting to\know her. I can't just leave now!
+[Kojiroh] Let's stay here a little longer.
+　Look/Investigate
+　Move
+　Order
+　Bourbon
+　Whiskey
+　Wine
+　Beef
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+[Kojiroh] Hey, toots... Give me a bourbon.
+b20
+[Waitress] Sorry, we're closed until 11.
+[Kojiroh] I never asked for a schedule. I asked for\a bourbon. Now, fetch!
+[Waitress] Jeez...
+009
+[Kojiroh] ...
+b20
+[Waitress] Jeez...
+She spills a little on me.
+[Kojiroh] Hey watch it!
+009
+[Kojiroh] That damned waitress...
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+[Kojiroh] Should I get whiskey?
+b20
+[Kojiroh] Hey, I haven't ordered yet.
+[Waitress] Here's your water.
+[Kojiroh] To hell with water. Bring me some\whiskey.
+[Waitress] We don't have whisky...
+[Kojiroh] Oh, bugger off then.
+[Waitress] Gosh...
+009
+[Kojiroh] ...
+[Kojiroh] I don't think this joint has any whiskey.
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+[Kojiroh] Wine gives me the greatest sensations...\It's the ultimate drink.
+[Kojiroh] That's right, I wanted wine.
+[Kojiroh] I'd like some of that wine that goes down\red and comes out yellow.
+[Kojiroh] ...
+[Kojiroh] How dare she ignore me.
+[Kojiroh] Ah, to hell with it. I don't need to\order anything.
+b20
+[Kojiroh] Wow... She brought tons!
+[Waitress] There isn't any meat here.
+[Kojiroh] Oh yeah? Take a look at your chubby\tubby, babe. I see plenty of meat.
+[Waitress] The nerve of you...
+009
+[Kojiroh] Never mind my nerves... Let's think about\those tits.
+[Kojiroh] In other words, I won't be eating any\beef tonight.
+　Surroundings
+　Booze
+　Ceiling fan
+　Lights
+[Kojiroh] This is one of my favorite bars.
+[Kojiroh] Here I can drink long and slow... It's so\relaxing.
+[Kojiroh] They've got every drink in the book, and\the interior design is cool.
+[Kojiroh] Maybe I should get something.
+[Kojiroh] I love looking at all those bottles lined\up over there... Ah, the possibilities.
+[Kojiroh] The bartender has to memorize where each\one is.
+[Kojiroh] I just might be able to steal one for\myself.
+[Kojiroh] Nice interior... The ceiling fans aren't\moving right now.
+[Kojiroh] They look like propellers... They're not\propelling shit right now, though.
+[Kojiroh] Overall, I kinda like this atmosphere...
+[Kojiroh] Not too bright, not too dim... It's just\right.
+[Kojiroh] A gloomy dimness is ideal for a place\filled with depressed drunks.
+[Kojiroh] This is the way every cocktail lounge\should be.
+　Go outside
+　Hotel lobby
+[Kojiroh] If I go outside, I'll be right on Central\Avenue.
+[Kojiroh] What? You already know? I was checking...
+a007
+[Kojiroh] I don't have anything important to do at\the time being.
+[Kojiroh] Oh, well... Let's hit the road.
+a008
+　Look/Investigate
+　Move
+　Speak
+　Ask
+　Missing painting
+　Kou
+[Glen] I think I'll be able to give you some good\information tonight.
+[Kojiroh] According to Kou, it was his wife's\keepsake.
+[Glen] Which means I'll get some information as\soon as it hits the black market.
+[Kojiroh] And if the painting never hits the black\market.
+[Glen] That means this Kou character's looking for\something worthless.
+[Kojiroh] That's too bad.
+[Glen] Shit happens. A lot of people get tricked\into buying something worthless.
+[Kojiroh] Yeah...
+[Glen] I try to keep my opinions out of the art\world. The only thing I can trust is the quality of\information.
+[Kojiroh] When do you expect the latest info to\leak?
+[Glen] Maybe tonight.
+[Kojiroh] That would be a big help.
+[Glen] Then we'll talk business...
+[Kojiroh] ...
+[Kojiroh] (This case is more interesting to me than\O.J. was to Ito.)
+[Kojiroh] (My instincts are always right on the bad\things.)
+[Kojiroh] (Hopefully, it doesn't turn out bad.)
+[Kojiroh] Is there a movement within the brokers\who handle stolen arts?
+[Glen] They're always on the move.
+[Kojiroh] No, no. Like if there was anything\especially valuable in their market.
+[Glen] Could you be more specific?
+[Kojiroh] Take a look at this.
+s10
+[Glen] ...
+[Kojiroh] I want to know if they've seen this.
+[Glen] A painting of a pattern would mean...\Islamic art.
+[Kojiroh] ...You know your art.
+[Glen] I know just a little bit about everything.
+[Kojiroh] I see.
+[Glen] Is that some sperm on the right there?
+[Kojiroh] It's a match.
+[Glen] I was about to say... I've never seen the\little suckers get so big!
+009
+009b
+[Kojiroh] Well, can you do it?
+[Glen] You got it. I'll find as much information as\I can. Someday.
+[Kojiroh] Shit...
+[Glen] Can I have this picture?
+[Kojiroh] Sorry, this is the only one I have. I can\fax you a copy if you want.
+[Glen] That would be nice.
+[Kojiroh] He doesn't seem to know a thing about it.
+[Kojiroh] Hey, Glen...
+[Glen] Yeah?
+[Kojiroh] Does the name "Kou" ring a bell?
+[Glen] Kou...? Is that a first name? Last name? Is\that a nickname?
+[Kojiroh] What am I, an encyclopedia? I have no\idea.
+[Glen] Well, that's not enough to go on.
+[Kojiroh] That name isn't floating around the black\market at all?
+[Glen] Not as far as I know.
+[Kojiroh] Any criminals with that name?
+[Glen] Not that I know of.
+[Kojiroh] How about the transvestites rounded up\last Monday?
+[Glen] Nope. No Kou.
+[Kojiroh] Is there a Kou who was blacklisted for\failure to pay rent?
+[Glen] As far as I remember, no.
+[Kojiroh] Is the name in the phone book?
+[Glen] Look it up yourself.
+[Kojiroh] Basically, you've never heard of the guy.
+[Glen] Basically, yes.
+　Glen
+[Glen] Okay, Kojiroh. That'll do it.
+[Kojiroh] I'm expecting some useful information...
+009
+[Kojiroh] Glen just took off, holding a bottle of\booze.
+[Kojiroh] Whew...
+[Kojiroh] For now, all I can do is wait for him to\follow through with the information.
+[Kojiroh] But there was something else for me to\do... What was it...
+[Glen] Keep listening.
+[Glen] Please, keep listening.
+[Glen] Okay, tell me what you know.
+[Glen] The truth is...
+[Kojiroh] Yeah?
+[Glen] ...I've been getting busier and busier each\day.
+[Kojiroh] That's more than I can say for myself...
+[Glen] I've run into a big client. A real big one.
+[Kojiroh] Well...?
+[Glen] I'm willing to adjust my schedule as much as\possible. How about you?
+[Kojiroh] ...
+[Glen] But I don't know how much I can help you\with your case.
+[Kojiroh] Hey, just do what you can. I won't\pressure you.
+[Glen] Thanks. I'll do whatever I can.
+[Kojiroh] (A big client, eh?)
+[Kojiroh] (Could it be someone in the Mafia? A\Manager from the black market?)
+[Kojiroh] (Nah, I can't just ask him who it is.)
+[Kojiroh] (That's not part of this business...)
+[Glen] Heh, heh, heh...
+[Kojiroh] What is it?
+[Glen] I admire a man who doesn't ask questions\even when he really wants to.
+[Kojiroh] Oh, thanks.
+[Glen] Anyway...
+[Kojiroh] Now, could you hear me out?
+[Glen] Shoot.
+[Glen] But first, let me give you something.
+[Kojiroh] Oh yeah... Hey! Hey!!
+s07
+He puts it out.
+[Glen] I fixed the chamber...
+[Kojiroh] Idiot... Don't leave it out in the open\like that.
+[Glen] No one's around at the moment.
+[Kojiroh] The waitress is right there.
+[Glen] Even if someone did see it, they wouldn't\say anything. Would you, if you saw a guy like me\with a gun?
+[Kojiroh] Uhh, no.
+[Glen] Anyway, it's a Customized Glock 22. It's\illegal, but all the professionals carry one.
+[Kojiroh] That's a relief.
+mI hold it in my hand.
+[Kojiroh] It sure is light. I can blast a cat to\smithereens during one of my bouts with\schizophrenia.
+[Glen] Please, don't aim it at me.
+[Kojiroh] I recognize this... This gun is handed\out to the Austrian military.
+[Glen] Your eyes are gleaming with excitement.
+[Kojiroh] What bullets do I use?
+[Glen] Bullets? I'll give you plenty. I'll give you\40 S&W bullets. They'll rip through human bone and\eat all the meat off it as well.
+[Kojiroh] You're a generous man.
+[Glen] Don't mention it.
+009
+009b
+[Kojiroh] Well?
+[Glen] Well, what?
+[Kojiroh] What do you want from me...
+[Glen] Heh, heh, heh. You're always suspecting\greed in others, Kojiroh...
+[Kojiroh] That's because I'm usually right.
+[Glen] It seems that big-boobied waitress has the\hots for you.
+[Kojiroh] Quit your joking, man. That waitress\hates me more than you hate tardiness.
+[Glen] Why?
+[Kojiroh] She served me water and I told her off.
+[Glen] You've got to learn to control your mouth\around women, Kojiroh.
+[Kojiroh] I know... But they drive me so crazy!! I\love them to death.
+[Glen] You'd better be careful or your death will\come sooner than you wish.
+[Kojiroh] I love money and women. If it kills me,\it kills me.
+[Glen] Speak of the devil...
+[Kojiroh] Here she comes.
+b20
+[Waitress] Can I take your order?
+[Glen] I'll have one more bottle of the same...
+[Waitress] And how about you?
+[Kojiroh] I'd like a chunk of your ass.
+[Waitress] Oh, my, God...
+[Kojiroh] ...
+[Waitress] Well, it's not on the menu.
+She slaps me HARD.
+\　
+[Kojiroh] ...
+[Waitress] This place closes at 11.
+009
+009b
+She walks away.
+[Glen] You okay? Kojiroh...
+[Kojiroh] Jesus... I thought there was an\earthquake!
+[Glen] No, there was no earthquake.
+[Kojiroh] Damn, she put her weight on it.
+　Surroundings
+　Booze
+　Ceiling fan
+　Lights
+　Glen
+[Kojiroh] Although he's a low life... His\information can be trusted.
+[Glen] Th... Thanks.
+[Kojiroh] He's bald under the hat, and his\bloodshot eyes are under those sunglasses.
+[Kojiroh] He's got bigger muscles than me and he\knows more than I do.
+[Glen] Pardon me, Kojiroh.
+[Kojiroh] It's Glen, the informant.
+[Kojiroh] He knows everything about everyone. He\knew about the stain before Monica even wore the\dress.
+[Kojiroh] I can trust what this guy tells me.
+[Glen] Heh, heh... You know, trust is the most\important business factor.
+[Kojiroh] This is one of my favorite bars.
+[Kojiroh] Here I can drink long and slow... It's so\relaxing.
+[Kojiroh] They've got every drink in the book, and\the interior design is cool.
+[Glen] We can talk about anything in a place like\this.
+[Kojiroh] I have to discuss work from now on... I'd\better not drink.
+[Glen] Let me just have a little bit.
+[Kojiroh] You seem to have already begun.
+[Kojiroh] And as always, you're drinking bourbon.
+[Glen] Well, I appreciate alcohol that comes from\the fields...
+[Kojiroh] Nice interior... The ceiling fans aren't\moving right now.
+[Kojiroh] They look like propellers... They're not\propelling shit right now, though.
+[Kojiroh] Overall, I kinda like this atmosphere...
+[Glen] It brings back feelings of the old days...
+[Kojiroh] Yeah. Back when presidents didn't go to\court over domestic affairs.
+[Kojiroh] Not too bright, not too dim... It's just\right.
+[Kojiroh] This light is dim enough to make me look\relatively attractive.
+[Kojiroh] This is the way every cocktail lounge\should be.
+[Glen] I like this place, too.
+　Go outside
+　Hotel lobby
+[Kojiroh] I'll go outside after while.
+[Kojiroh] I'll talk to Glen first. Wait until I\finish.
+[Glen] Let's relax, Kojiroh. Let's just both take\it easy.
+[Kojiroh] I think it's best I stick around here for\a while.
+[Kojiroh] There's nothing to do in the lobby.
+[Glen] You haven't even heard what I have to say\yet.
+　Look/Investigate
+　Move
+　Wait
+　Sit
+　Glen
+[Kojiroh] Damn, where is he?
+[Kojiroh] ...
+[Waitress] Ready to order yet?
+b20
+[Kojiroh] Excuse me...
+[Waitress] What do you want to order?
+[Kojiroh] Listen, I'm not ready yet. Come on by\when my friend gets here. Is that too hard to ask?
+[Waitress] Jesus...
+[Kojiroh] (What the hell's happening to this\world!?!)
+[Waitress] Ahem...
+009
+[Kojiroh] For Christ sake...
+[Kojiroh] Shit! I wish Glen would hurry his ass up!
+[Kojiroh] Thirty more seconds...
+[Glen] Heh, heh, heh... Mind if I sit there,\Kojiroh?
+[Kojiroh] Huh?
+009b
+[Kojiroh] Glen! Where the hell have you been...?
+[Glen] I was just drinking in the booth beside you.
+[Kojiroh] ...
+[Glen] I make it a priority to get here before the\person I'm meeting.
+[Kojiroh] The least you could do is tell me you're\here!
+[Glen] I'm free to do what I want until it's our\meeting time. I enjoy relaxing.
+[Kojiroh] Whatever, man...
+[Glen] What's the matter?
+[Kojiroh] You may enjoy making people wait for you,\but it ain't one of my hobbies. Get it through your\head.
+[Kojiroh] Maybe I wouldn't have minded so much if\that waitress didn't bug me all the time.
+[Kojiroh] You know, it wouldn't be bad if I could\wait on a hot chick once in a while.
+[Kojiroh] He's late... And the bastard always nags\me about what time to meet.
+[Waitress] Are you ready to order yet, or what?
+b20
+[Kojiroh] Me? Uhh... Could you just wait a little\while longer?
+[Waitress] Figures...
+[Kojiroh] My friend's just a tad late.
+[Waitress] Jeez...
+009
+She goes off in a huff.
+[Kojiroh] ...
+[Kojiroh] That bitch... She must have a martini\shaker up her ass.
+[Kojiroh] Damn, she pisses me off.
+[Kojiroh] He's usually early... But it's almost\time.
+[Kojiroh] There's 2 minutes left, to be accurate.
+[Kojiroh] Glen's a nice guy, but he's so anal about\what time he arrives.
+[Kojiroh] I'll sit down first.
+[Kojiroh] Why not have a seat first?
+[Kojiroh] My posture isn't good enough to stand and\wait for him. I'd feel self-conscious.
+　Chair
+　Counter
+　Ceiling
+[Kojiroh] I'm already seated.
+[Kojiroh] Yeah, there's still some time left until\he gets here.
+[Kojiroh] I'll take a seat and wait for him.
+I sit down.
+[Kojiroh] Hmm...
+[Woman's voice] Can I take your order?
+b20
+[Kojiroh] ...
+[Waitress] What'll it be.
+[Kojiroh] My buddy will be here in a second. Wait\just a little more.
+[Waitress] Jeez...
+009
+[Kojiroh] Hey! I haven't seen her before... Could\she be a new waitress?
+[Kojiroh] Doesn't she know how to treat a customer.\The water overflowed a little.
+I wipe the spill off the table.
+[Kojiroh] Damn, I'm a customer. I pay them. Why am\I wiping the damn table.
+[Kojiroh] It'd be alright if I was drinking alone,\but I have to talk to Glen about work.
+[Kojiroh] It's better in these situations.
+[Kojiroh] It's better to sit down in a chair...\Don't you think?
+[Kojiroh] The counter...?
+[Kojiroh] It'd be alright if I was drinking alone,\but I have to talk to Glen about work.
+[Kojiroh] It's normal to sit at a table.
+[Kojiroh] If I could sit on the ceiling, I'd be\able to see down all the girls' blouses.
+[Kojiroh] Okay. I'll sit on the ceiling.
+[Kojiroh] Whoa...!
+[Kojiroh] Come on, I can do it...
+[Kojiroh] Nope... No can do.
+[Kojiroh] It would've been nice to see all those\tits, but there are only so many things a man can\do.
+　Surroundings
+　Booze
+　Ceiling fan
+　Lights
+[Kojiroh] This is one of my favorite bars.
+[Kojiroh] Here I can drink long and slow... It's so\relaxing.
+[Kojiroh] They've got every drink in the book, and\the interior design is cool.
+[Kojiroh] I have to discuss work from now on... I'd\better not drink.
+[Kojiroh] I love looking at all those bottles lined\up over there... Ah, the possibilities.
+[Kojiroh] The bartender has to memorize where each\one is.
+[Kojiroh] I just might be able to steal one for\myself.
+[Kojiroh] Nice interior... The ceiling fans aren't\moving right now.
+[Kojiroh] They look like propellers... They're not\propelling shit right now, though.
+[Kojiroh] Overall, I kinda like this atmosphere...
+[Kojiroh] Not too bright, not too dim... It's just\right.
+[Kojiroh] This light is dim enough to make me look\relatively attractive.
+[Kojiroh] This is the way every cocktail lounge\should be.
+　Go outside
+　Hotel lobby
+[Kojiroh] I haven't met Glen yet.
+[Kojiroh] Whoa, horsey! I just got here.
+[Kojiroh] I didn't talk to Glen yet... Where do you\expect to go?
+[Kojiroh] There's nothing to do in the lobby.
+[Kojiroh] I'd be bored off my ass in the lobby.
+[Kojiroh] I'm supposed to meet Glen here.

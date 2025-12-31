@@ -1,0 +1,694 @@
+003
+eve_06
+[Kojiroh] It's safer not to go right now.
+[Kojiroh] But at least I've got some energy...
+003
+eve_06
+[Kojiroh] I'm in front of Yayoi's office.
+[Kojiroh] I don't really wanna be here.
+[Kojiroh] You know why, don't you?
+003
+eve_06
+[Kojiroh] I'm in front of Yayoi's office.
+[Kojiroh] She's probaby here...
+003
+eve_08
+[Kojiroh] I'm in front of Yayoi's office.
+003
+eve_06
+[Kojiroh] I'm in front of Yayoi's office.
+[Kojiroh] Maybe she's not back yet.
+003
+eve_06
+[Kojiroh] But where could all the staff have gone?\And where's Yayoi?
+[Kojiroh] This office is just as unsafe as mine is.
+003
+eve_06
+[Kojiroh] I'm in front of Katsuragi Private\Detective Offices.
+003
+eve_06
+[Kojiroh] ...I sense something strange around here.
+[Kojiroh] Maybe I'm tired.
+003
+eve_06
+[Kojiroh] I'm in front of Katsuragi Private\Detective Offices.
+[Kojiroh] Lots of shit must be going down around\this time...
+003
+eve_06
+[Kojiroh] But...
+[Kojiroh] That fat guy, he wasn't Kou...
+[Kojiroh] No wonder I thought this case was\strange... There's more than meets the eye.
+[Kojiroh] ...
+[Kojiroh] Yayoi will be in for some hard work from\now on.
+[Kojiroh] Shit... I have no idea what I'm to do\next...
+[Kojiroh] ...
+003
+eve_06
+[Kojiroh] I'm in front of Katsuragi Private\Detective Offices.
+[Kojiroh] I have a feeling my timing might not be\so good...
+003
+eve_08
+[Kojiroh] I'm in front of Yayoi's office...
+[Kojiroh] I wonder if she's still inside, working.
+003
+eve_08
+[Kojiroh] Hmm...
+[Kojiroh] But I'm sure saw some pretty serious\stuff...
+[Kojiroh] That episode with her and Nikaido...
+[Kojiroh] ...
+[Kojiroh] Ah, well... Maybe they need each other...
+[Kojiroh] Come on, let's go. I'm sick of thinking\about all this.
+003
+eve_08
+[Kojiroh] I'm in front of Yayoi's office.
+[Kojiroh] It's getting dark around here.
+003
+eve_06
+[Kojiroh] I'm in front of Yayoi's office...
+[Kojiroh] According to Glen, Yayoi's office is in\trouble...
+003
+eve_06
+[Kojiroh] I'm in front of Yayoi's office.
+003
+eve_08
+[Kojiroh] It's cold outside.
+003
+eve_08
+[Kojiroh] I'm here again... But there's nothing for\me to do.
+003
+eve_08
+[Kojiroh] ...
+[Kojiroh] Why do I feel so miserable!
+[Kojiroh] I should be over Yayoi by now.
+[Kojiroh] ...
+[Kojiroh] Tonight is cold and dreary...
+003
+eve_08
+[Kojiroh] Boy, is it cold outside...
+003
+eve_08
+[Kojiroh] Hey, the sounds are suddenly quieter...
+[Kojiroh] The financial district is fast asleep.
+003
+eve_06
+[Kojiroh] I'm back on the street... What'll I do\now?
+003
+eve_06
+[Kojiroh] Why the hell did I even bother coming\here!
+[Kojiroh] I don't really want to be here...
+003
+[Kojiroh] ...
+[Kojiroh] My heart isn't exactly thrilled to be\here...
+[Kojiroh] It serves me right... I shouldn't have\come here in the first place.
+[Woman's voice] Kojiroh! Wait up!
+b05
+eve_41
+[Kojiroh] It's Yayoi...
+[Yayoi] I have to talk to you...
+[Kojiroh] Yeah...?
+003
+eve_06
+[Kojiroh] I'm back where I used to work...
+[Kojiroh] This place depresses me...
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] No way. I'm too tired for that.
+[Kojiroh] Every time I come here, I find myself\wanting to climb the building.
+[Kojiroh] Maybe I'm really a mountain climber at\heart.
+[Kojiroh] Either that, or a complete idiot.
+[Kojiroh] What the hell am I good for, anyway!
+[Kojiroh] I'd better think before I act...
+[Kojiroh] Maybe I can sneak into Yayoi's office and\apologize.
+[Kojiroh] She'd probably give a nice punch, right\in the kisser.
+[Kojiroh] So let's not do that...
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] There aren't many people walking the\streets.
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] It's pretty quiet for a financial\district...
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] Yayoi's office is on the third floor of\this building.
+[Kojiroh] I bet she's up there working alone.
+[Kojiroh] Nothing's on the sixth floor.
+[Kojiroh] This building's only five stories high.
+[Kojiroh] A warehouse is on the fifth floor.
+[Kojiroh] It doesn't make sense to me.
+[Kojiroh] Norton Crime Watch is on the fourth\floor.
+[Kojiroh] It's a group that fights against\organized crime.
+[Kojiroh] Katsuragi Private Detective Offices,\third floor.
+[Kojiroh] Well, that's the only place I need to\care about.
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor...
+[Kojiroh] Damn freaks...
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] An office is on the first floor.
+[Kojiroh] Those are the same plants I see\everywhere else.
+[Kojiroh] They aren't anything special to look at.
+[Kojiroh] But these plants are everywhere I go...
+[Kojiroh] I'm getting tired of seeing these damn\things.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] Yayoi's office...? I'm not so excited\about being here...
+a004_2
+[Kojiroh] You wanna go to Yayoi's office?
+[Kojiroh] Yeah, I guess that looked bad. I should\go apologize.
+[Kojiroh] I should be ready for two, three blows...
+a004_2
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] Perhaps a stairway or elevator would make\more sense.
+[Kojiroh] Some guys get their kicks by trying wacky\shit, like climbing buildings.
+[Kojiroh] But I don't do those stunt.
+[Kojiroh] You won't even catch me climbing a tree,\much less a building.
+[Kojiroh] So forget about the whole idea.
+[Kojiroh] But hey, maybe I could look through\Yayoi's office window if I climbed a tree.
+[Kojiroh] Ha ha ha... I'd surprise her, alright.
+[Kojiroh] But so what...?
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] There aren't many people walking the\streets.
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] It's pretty quiet for a financial\district...
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] I don't know why, but no one's here\now...
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] This place sure is different than my\office.
+[Kojiroh] What a beautiful building... Everyone\wears a suit to come here.
+[Kojiroh] Nothing's on the sixth floor.
+[Kojiroh] This building's only five stories high.
+[Kojiroh] There's a warehouse on the fifth floor.
+[Kojiroh] It doesn't make sense to me.
+[Kojiroh] Norton Crime Watch is on the fourth\floor.
+[Kojiroh] It's a group that fights against\organized crime.
+[Kojiroh] Katsuragi Private Detective Offices,\third floor.
+[Kojiroh] This is the only place I have to worry\about.
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor...
+[Kojiroh] Damn freaks...
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] An office is on the first floor.
+[Kojiroh] It's the same plants I see everywhere\else.
+[Kojiroh] They aren't anything special to look at.
+[Kojiroh] But these plants are everywhere I go...
+[Kojiroh] I'm getting tired of seeing these damn\things.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] I can go to Yayoi's office, but no one\will be there.
+a004_2
+[Kojiroh] Oh yeah... Did I lock it?
+[Kojiroh] She seemed in a hurry when I took her\home.
+a004_2
+[Kojiroh] Yayoi's office...? Okay, let's go.
+a004_2
+[Kojiroh] Yayoi's office, eh? I hope someone's\there.
+a004
+[Kojiroh] You wanna go to Yayoi's office?
+[Kojiroh] I sense something strange in the air...
+a004
+[Kojiroh] I can go there, but I'll just be in the\way.
+a004
+[Kojiroh] You wanna go to Yayoi's office?
+[Kojiroh] I'm never too thrilled with that idea...\Especially now.
+a004
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] Um, I don't think that will be possible.
+[Kojiroh] But there is one sure fire way of\climbing it...
+[Kojiroh] You just go in the building and take the\elevator.
+[Kojiroh] Trust me. Climbing it is out of the\question.
+[Kojiroh] Back in the old days I might've tried.\They called me, "Kojiroh the hero."
+[Kojiroh] But now they call me, "Kojiroh the zero."\I don't climb shit.
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] There aren't many people walking the\streets.
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] This place is quiet for a financial\district.
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] This place sure is different than my\office.
+[Kojiroh] The night sky fills the window glass...\Night envelops the city.
+[Kojiroh] I wonder if there's anything in this\building other than Yayoi's office...
+[Kojiroh] There's nothing on the sixth floor...
+[Kojiroh] And that's because this building is only\five stories high...
+[Kojiroh] On the fifth floor is... "Warehouse"??
+[Kojiroh] ...
+[Kojiroh] But is it normal to write "warehouse" on\a directory?
+[Kojiroh] But perhaps "warehouse" is the name of a\company.
+[Kojiroh] But... So what?
+[Kojiroh] Well, well... What's on the fourth\floor...
+[Kojiroh] "Stop Organized Crime! Sponsored by\Norton Crime Watch."
+[Kojiroh] ...
+[Kojiroh] We need more groups like that around.
+[Kojiroh] What's on the first floor? Just boring\old offices...
+[Kojiroh] What else is there...
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor... I think I'll stay away from\that one.
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] According to this, Katsuragi's detective\office is on the third floor.
+[Kojiroh] But I know which floor it's on... No need\to look at this thing.
+[Kojiroh] These damn bushes won't change no matter\how long I stare at them... Okay?
+[Kojiroh] There sure is lots of green plants around\this place.
+[Kojiroh] But I'm not a big fan of artificial\plants...
+[Kojiroh] There's something wrong when plants are\artificial...
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] You wanna go to Yayoi's office?
+[Kojiroh] I'm never too thrilled with that idea...
+a004
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] Um, I don't think that will be possible.
+[Kojiroh] But there is one sure fire way of\climbing it...
+[Kojiroh] You just go in the building and take the\elevator.
+[Kojiroh] Trust me. Climbing it is out of the\question.
+[Kojiroh] Back in the old days I might've tried.\They called me, "Kojiroh the hero."
+[Kojiroh] But now they call me, "Kojiroh the zero."\I don't climb shit.
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] There aren't many people walking the\streets.
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] It's a quiet business district.
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] This place sure is different than my\office.
+[Kojiroh] The reflection on these windows is too\bright...
+[Kojiroh] The birds used to strike these windows...
+[Kojiroh] I wonder if they still do.
+[Kojiroh] There's nothing on the sixth floor...
+[Kojiroh] And that's because this building is only\five stories high...
+[Kojiroh] On the fifth floor is... "Warehouse"??
+[Kojiroh] ...
+[Kojiroh] But is it normal to write "Warehouse" on\a directory?
+[Kojiroh] But perhaps "Warehouse" is the name of a\company.
+[Kojiroh] But... So what?
+[Kojiroh] Well, well... What's on the fourth\floor...
+[Kojiroh] "Stop Organized Crime! Sponsored by\Norton Crime Watch."
+[Kojiroh] ...
+[Kojiroh] We need more groups like that around.
+[Kojiroh] What's on the first floor? Just boring\old offices...
+[Kojiroh] What else is there...
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor... I think I'll stay away from\that one.
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] According to this, Katsuragi's detective\office is on the third floor.
+[Kojiroh] But I know which floor it's on... No need\to look at this thing.
+[Kojiroh] These damn bushes won't change no matter\how long I stare at them... Okay?
+[Kojiroh] There sure is lots of green plants around\this place.
+[Kojiroh] But I'm not a big fan of artificial\plants...
+[Kojiroh] There's something wrong when plants are\artificial.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] You wanna go to Yayoi's office?
+a004
+[Kojiroh] You wanna go to Yayoi's office?
+[Kojiroh] I'm not too thrilled about the idea...\Especially now.
+[Kojiroh] Hmm... Fine. Let's move.
+a004
+[Kojiroh] Yayoi's office...?
+I jiggle the door.
+[Kojiroh] The damn thing won't open.
+003
+[Kojiroh] Business must not be open yet.
+[Kojiroh] You wanna go to Yayoi's office?
+I push on the door.
+[Kojiroh] Damn... It must be locked.
+I jiggle the door...
+[Kojiroh] It won't budge.
+003
+[Kojiroh] I can't get inside... Well, it's still\early.
+[Kojiroh] Why do I feel a little relief.
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] I can't possibly stand on the wall, man.
+[Kojiroh] I might be able to, after taking a\hallucinogenic... But I doubt it.
+[Kojiroh] No matter how high I get, I'll never get\up there.
+[Kojiroh] I'd love to just run up the side of a\building like Spiderman, but I was\institutionalized for that twice already.
+[Kojiroh] Okay! Let's walk up the wall like\Spiderman!
+[Kojiroh] ...
+[Kojiroh] There's no point in lying down.
+[Kojiroh] Forget about this madness... I have my\limits, you know?
+[Kojiroh] Back in the old days, they called me\"Kojiroh the tree climber."
+[Kojiroh] I hope I still got it.
+[Kojiroh] ...
+[Kojiroh] My hand hurts too much for that.
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] It's a quiet business district... It's\like a ghost town.
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] It's a quiet place so it's kinda spooky\at night.
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] I don't really want to be here...
+[Kojiroh] I get the feeling no one lives here...
+[Kojiroh] I think the employees may be working\overtime.
+[Kojiroh] There's nothing on the sixth floor...
+[Kojiroh] And that's because this building is only\five stories high...
+[Kojiroh] On the fifth floor is... "Warehouse"??
+[Kojiroh] ...
+[Kojiroh] But is it normal to write "Warehouse" on\a directory?
+[Kojiroh] But perhaps "Warehouse" is the name of a\company.
+[Kojiroh] But... So what?
+[Kojiroh] Well, well... What's on the fourth\floor...
+[Kojiroh] "Stop Organized Crime! Sponsored by\Norton Crime Watch."
+[Kojiroh] ...
+[Kojiroh] We need more groups like that around.
+[Kojiroh] What's on the first floor? Just boring\old offices...
+[Kojiroh] What else is there...
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor... I think I'll stay away from\that one.
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] According to this, Katsuragi's detective\office is on the third floor.
+[Kojiroh] But I know which floor it's on... No need\to look at this thing.
+[Kojiroh] These damn bushes won't change no matter\how long I stare at them... Okay?
+[Kojiroh] In the dark, these plants look like weird\monster dwarfs.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] I think I've had enough of this for\today...
+[Kojiroh] You wanna go to Yayoi's office?
+[Kojiroh] I'm not too thrilled about the idea...
+a004
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] I can't possibly stand on the wall, man.
+[Kojiroh] I might be able to, after taking a\hallucinogenic... But I doubt it.
+[Kojiroh] Wow... I'm getting smarter...
+[Kojiroh] I'd love to just run up the side of a\building like Spiderman, but I was\institutionalized for that twice already.
+[Kojiroh] Okay! Let's walk up the wall like\Spiderman!
+[Kojiroh] ...
+[Kojiroh] There's no point in lying down.
+[Kojiroh] Forget about this madness... I have my\limits, you know?
+[Kojiroh] Back in the old days, they called me\"Kojiroh the tree climber."
+[Kojiroh] I hope I still got it.
+[Kojiroh] ...
+[Kojiroh] My hand hurts too much for that.
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] This financial district is very quiet...
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] It's pretty quiet for a financial\district...
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] I didn't really want to come here, you\know...
+[Kojiroh] The building's windows are large,\designed to take in lots of light.
+[Kojiroh] But all the offices have blinds pulled\down to block the light out. Why is humanity full\of these contradictions?
+[Kojiroh] Well, I guess it's all for looks... We\need windows, even if we don't need to see through\them.
+[Kojiroh] I have to admit... Even on the hottest\summer night, I need a blanket covering me.
+[Kojiroh] There's nothing on the sixth floor...
+[Kojiroh] And that's because this building is only\five stories high...
+[Kojiroh] On the fifth floor is... "Warehouse"??
+[Kojiroh] ...
+[Kojiroh] But is it normal to write "Warehouse" on\a directory?
+[Kojiroh] But perhaps "Warehouse" is the name of a\company.
+[Kojiroh] But... So what?
+[Kojiroh] Well, well... What's on the fourth\floor...
+[Kojiroh] "Stop Organized Crime! Sponsored by\Norton Crime Watch."
+[Kojiroh] ...
+[Kojiroh] We need more groups like that around.
+[Kojiroh] What's on the first floor? Just boring\old offices...
+[Kojiroh] What else is there...
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor... I think I'll stay away from\that one.
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] According to this, Katsuragi's detective\office is on the third floor.
+[Kojiroh] But I know which floor it's on... No need\to look at this thing.
+[Kojiroh] They're just bushes... Green is supposed\to relax the eye.
+[Kojiroh] And nothing relaxes me more than a pile\of green cash in the palm of my hand.
+[Kojiroh] But then, maybe it excites me, too.\Viagra is green.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] I pray that Nikaido isn't here...
+a004
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] I'm the only one standing on the\sidewalk...
+[Kojiroh] Yayoi's already gone...
+[Kojiroh] Hardly anyone's around here... I'm the\only one standing on the sidewalk.
+[Kojiroh] Damn, I knew I shouldn't have come here.
+[Kojiroh] Yayoi already went inside the building.
+[Kojiroh] Her office is on the third floor.
+[Kojiroh] There's nothing on the sixth floor...
+[Kojiroh] And that's because this building is only\five stories high...
+[Kojiroh] On the fifth floor is... "Warehouse"??
+[Kojiroh] ...
+[Kojiroh] But is it normal to write "Warehouse" on\a directory?
+[Kojiroh] But perhaps "Warehouse" is the name of a\company.
+[Kojiroh] But... So what?
+[Kojiroh] Well, well... What's on the fourth\floor...
+[Kojiroh] "Stop Organized Crime! Sponsored by\Norton Crime Watch."
+[Kojiroh] ...
+[Kojiroh] We need more groups like that around.
+[Kojiroh] What's on the first floor? Just boring\old offices...
+[Kojiroh] What else is there...
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor... I think I'll stay away from\that one.
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] According to this, Katsuragi's detective\office is on the third floor.
+[Kojiroh] But I know which floor it's on... No need\to look at this thing.
+[Kojiroh] They're just bushes... Green is supposed\to relax the eye.
+[Kojiroh] And nothing relaxes me more than a pile\of green cash in the palm of my hand.
+[Kojiroh] But then, maybe it excites me, too.\Viagra is green.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] I don't want to go there...
+[Kojiroh] Hey, I just got out of there!
+[Kojiroh] And I don't want to go there...
+[Kojiroh] Yeah, let's get back to Central Avenue...
+a007
+　Look/Investigate
+　Move
+　Speak
+　Yayoi
+[Yayoi] I've got things to do... See you later.
+[Kojiroh] Whatever.
+[Yayoi] I'd like to do work we both agree on.
+[Kojiroh] Sure, sure...
+003
+[Kojiroh] ...
+[Kojiroh] Yayoi's gone...
+eve_06
+[Kojiroh] Oh, by the way...
+[Yayoi] Yeah?
+[Kojiroh] Are you still living on Central?
+[Yayoi] Yeah, I'm still in that apartment. I like\it there...
+[Kojiroh] Yeah, it's a nice place.
+[Yayoi] After you left, I've been enjoying my\freedom.
+[Kojiroh] ...
+[Yayoi] Plus, I work all day so I don't have any\time for relationships.
+[Kojiroh] Hey, I'm sure you could get another\boyfriend if you really wanted.
+[Yayoi] To be perfectly honest, I'm not the least\bit interested in that sort of thing.
+[Kojiroh] I see...
+[Yayoi] I don't need a man... Always bitching for a\little sex, always whining.
+[Kojiroh] ...
+[Yayoi] I'm much happier alone... I'm glad you\noticed and left when you did.
+[Kojiroh] Don't mention it...
+[Yayoi] Now I don't have to put up with love's\bullshit.
+[Kojiroh] ...
+[Yayoi] How are you coming along with the women?
+[Kojiroh] Who, me?
+[Yayoi] You've always been crazy for poontang. You\never could stay away from it very long.
+[Kojiroh] You're a bit harsh, don't you think?
+[Yayoi] I'm only being honest.
+[Kojiroh] I'm doing alright.
+[Kojiroh] (...I don't think this is exactly what I\wanted to discuss.)
+Yayoi giggles...
+[Kojiroh] What's so funny?
+[Yayoi] Oh, I was just reminiscing over the past...
+[Kojiroh] ...
+[Yayoi] We always end up speaking this way to each\other.
+[Kojiroh] Yeah...
+[Yayoi] You got that far in a day... You're still\good.
+[Kojiroh] ...
+[Yayoi] Why did you tell me so much? I mean, you're\my main competition...
+[Kojiroh] I hardly said anything at all.
+[Yayoi] ...
+[Kojiroh] I don't know where the painting is, and I\don't know how it looks like a theft. Basically, I\don't know a goddamn thing about anything!
+[Yayoi] That appears to be the case with everyone\working the case...
+[Kojiroh] So... The case has begun. I'll solve it\first.
+[Yayoi] We don't intend to lose, either...
+[Kojiroh] Yeah, yeah...
+[Yayoi] You think he's after the insurance money?\Maybe...
+[Kojiroh] I don't know... The clues were so...\Obvious.
+[Yayoi] Obvious?
+[Kojiroh] Yeah... It's like they were left there to\be found.
+[Yayoi] ...
+[Kojiroh] And I have a feeling that Kou really\wants that painting back.
+[Yayoi] But didn't you just say that sounded too\contrived?
+[Kojiroh] Yeah, so that's the problem. He wants the\painting back, but he's trying to make it look like\a robbery.
+[Yayoi] ...
+[Kojiroh] I think if you can find out why he wants\the painting back, you have the case solved.
+[Yayoi] Can you be sure?
+[Kojiroh] No, I'm not so sure, but I do have a\pretty good hunch. I just don't think we should\label this a theft.
+[Yayoi] ...
+[Yayoi] I listened to both you and Nikaido... And I\thought of something.
+[Kojiroh] What?
+[Yayoi] You're still good.
+[Kojiroh] That's an overstatement.
+[Yayoi] You already found something, didn't you?
+[Kojiroh] Not at all.
+[Yayoi] So, a company secret, eh?
+[Kojiroh] No. I'm being totally honest with you.
+[Yayoi] I wonder...
+[Kojiroh] I just got the case today, didn't I?
+[Yayoi] I'm just surprised. For once, Kojiroh\doesn't know what's going on...
+[Kojiroh] But there are a few things I find very\interesting.
+[Yayoi] Like what?
+[Kojiroh] I think you know what they are.
+[Yayoi] ...
+[Kojiroh] The dirt on the window sill.
+[Yayoi] ...
+[Kojiroh] But it's not the same kind of theft\Nikaido's thinking of.
+[Yayoi] I see...
+[Kojiroh] It's just an intuition... But it might\have been a professional job.
+[Yayoi] That's what Nikaido thinks.
+[Kojiroh] Was a burglar alarm installed in the\house?
+[Yayoi] There should've been... According to the\police, alarms are installed in every house\throughout the neighborhood.
+[Kojiroh] Then Nikaido might be right.
+[Yayoi] ...
+[Kojiroh] They entered the house, took the item\they wanted, and left everything else untouched.
+[Yayoi] When you put it that way, it seems\consistent...
+[Kojiroh] But then...
+[Yayoi] But they left behind too many clues.
+[Kojiroh] That's right. It's like they want to make\it look like a robbery.
+[Yayoi] I see... So perhaps Kou is trying to trick\everyone.
+[Kojiroh] Well, only if he had lots of insurance on\the painting...
+[Yayoi] Oh, insurance...
+[Kojiroh] The reason why I just walked out wasn't\because I was pissed.
+[Yayoi] Really?
+[Kojiroh] Of course. By going there, the\investigation would never get anywhere, anyway.
+[Yayoi] ...
+[Kojiroh] You know how I am, don't you? I don't\like wasting my time.
+[Yayoi] Fine. If that's what you say, I believe\you.
+[Kojiroh] Got it?
+[Yayoi] But I want to make it up.
+[Kojiroh] Don't worry about it.
+[Yayoi] No, I have to... Because it's you.
+[Kojiroh] ...
+[Yayoi] I want to apologize as the head of the\Katsuragi Private Detective Offices. My workers'\mistakes are my mistakes.
+[Kojiroh] Alright, alright. But don't worry about\it... You don't need to aplogize.
+[Yayoi] That helps a lot.
+[Kojiroh] (I just want to settle this once and for\all...)
+[Kojiroh] (Huh? Why the hell am I so\frustrated...?)
+[Yayoi] Well, sorry I shouted at you to get your\attention...
+[Kojiroh] I couldn't care less. What's your\business?
+[Yayoi] It's about your conversation with\Nikaido...
+[Kojiroh] What about it?
+[Yayoi] I heard almost everything that was said.
+[Kojiroh] Yeah? So what?
+[Yayoi] He said some pretty bad things to you...
+[Kojiroh] Oh, that... Like I give a shit.
+[Yayoi] ...
+　Surroundings
+　Yayoi
+　Cigarettes
+[Kojiroh] I'm in front of the Katsuragi Private\Detective Offices.
+[Kojiroh] Let's have a word with Yayoi.
+[Kojiroh] Katsuragi Private Detective Offices...\Yayoi's right in front of me.
+[Yayoi] Sorry for getting your attention like\this...
+[Kojiroh] (Yayoi seems restless... I wonder what's\getting at her.)
+[Kojiroh] (She just called out to me... What could\she want?)
+[Kojiroh] (Forget about the cigarettes, man! Let's\listen to what she has to say.)
+[Kojiroh] (She smokes a lot more now...)
+[Kojiroh] (It's her habit... And there must be\something really important.)
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] I probably shouldn't go there today.
+[Kojiroh] Again? I just came out from there.
+[Kojiroh] And that Nikaido might charge at me\again.
+[Kojiroh] I'll talk to Yayoi a bit more.
+[Kojiroh] I'd like to return to Central Avenue,\but...
+[Kojiroh] Yayoi's right in front of me.
+[Kojiroh] And I can't just leave her here.
+　Look/Investigate
+　Move
+　Climb
+　Building
+　Shrubbery
+[Kojiroh] I can't possibly stand on the wall, man.
+[Kojiroh] I might be able to, after taking a\hallucinogenic... But I doubt it.
+[Kojiroh] Wow... I must be getting smarter.
+[Kojiroh] I'd love to just run up the side of a\building like Spiderman, but I was\institutionalized for that twice already.
+[Kojiroh] Okay! Let's walk up the wall like\Spiderman!
+[Kojiroh] ...
+[Kojiroh] There's no point in lying down.
+[Kojiroh] Forget about this madness... I have my\limits, you know?
+[Kojiroh] Back in the old days, they called me\"Kojiroh the tree climber."
+[Kojiroh] I hope I still got it.
+[Kojiroh] ...
+[Kojiroh] My hand hurts too much for that.
+　Surroundings
+　Building
+　Directory
+　Shrubbery
+[Kojiroh] This financial district is very quiet...
+[Kojiroh] I'm on a side-street off Central\Avenue...
+[Kojiroh] It's pretty quiet for a financial\district...
+[Kojiroh] The Katsuragi Private Detective Offices\are in this building.
+[Kojiroh] I didn't really want to come here, you\know...
+[Kojiroh] The building's windows are large,\designed to take in lots of light.
+[Kojiroh] But all the offices have blinds pulled\down to block the light out. Why is humanity full\of these contradictions?
+[Kojiroh] Well, I guess it's all for looks... We\need windows, even if we don't need to see through\them.
+[Kojiroh] I have to admit... Even on the hottest\summer night, I need a blanket covering me.
+[Kojiroh] There's nothing on the sixth floor...
+[Kojiroh] And that's because this building is only\five stories high...
+[Kojiroh] On the fifth floor is... "Warehouse"??
+[Kojiroh] ...
+[Kojiroh] But is it normal to write "Warehouse" on\a directory?
+[Kojiroh] But perhaps "Warehouse" is the name of a\company.
+[Kojiroh] But... So what?
+[Kojiroh] Well, well... What's on the fourth\floor...
+[Kojiroh] "Stop Organized Crime! Sponsored by\Norton Crime Watch."
+[Kojiroh] ...
+[Kojiroh] We need more groups like that around.
+[Kojiroh] What's on the first floor? Just boring\old offices...
+[Kojiroh] What else is there...
+[Kojiroh] "The Shimmering Light Religious Group" is\on the second floor... I think I'll stay away from\that one.
+[Kojiroh] The directory tells me which office is on\which floor.
+[Kojiroh] According to this, Katsuragi's detective\office is on the third floor.
+[Kojiroh] But I know which floor it's on... No need\to look at this thing.
+[Kojiroh] They're just bushes... Green is supposed\to relax the eye.
+[Kojiroh] And nothing relaxes me more than a pile\of green cash in the palm of my hand.
+[Kojiroh] But then, maybe it excites me, too.\Viagra is green.
+　Katsuragi Offices
+　Central Avenue
+[Kojiroh] You wanna go to Katsuragi Private\Detective Offices?
+[Kojiroh] I'm not too enthused about the idea...
+a004
+[Kojiroh] Sure, let's get back to Central Avenue...
+a007

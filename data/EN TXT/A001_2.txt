@@ -1,0 +1,1276 @@
+001
+eve_03
+[Kojiroh] This is my office...
+001
+eve_03
+[Kojiroh] Whew...
+[Kojiroh] Well, that was... Easy...
+[Kojiroh] And I didn't even try that hard...
+[Kojiroh] ...
+[Kojiroh] I hope I'm not being too pretentious.
+[Kojiroh] But I did satisfy my client...
+[Kojiroh] And that's all that matters...
+[Kojiroh] But... Man...
+[Kojiroh] Boy, am I good...
+[Kojiroh] I don't have to be that modest, right?
+[Kojiroh] I showed that Nikaido...
+[Kojiroh] I should go to the bank and deposit this\money.
+[Kojiroh] I'm so... Reliable...
+[Kojiroh] Hey, I can even pay Purin this time.
+[Kojiroh] Hey Purin!
+[Kojiroh] ...
+[Kojiroh] I guess she isn't here.
+[Kojiroh] ...
+[Kojiroh] I guess she finally left.
+[Kojiroh] She could've at least said a good-bye...\Wait...
+[Kojiroh] What's this...? A memo...
+[Kojiroh] "SHOPPING"...
+[Kojiroh] I guess she didn't leave...
+[Kojiroh] Didn't even know she had money...
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Kojiroh] Purins washing dishes.
+001
+eve_03
+[Kojiroh] I'm back in my office.
+b03
+[Purin] Hey Kojiroh. Do you wanna eat first, or\take a bath?
+[Kojiroh] ...What is she up to?
+[Purin] I'm doing laundry right now. Is there\anything else I can do?
+[Kojiroh] Purin, you're not my maid. You don't have\to do all that.
+[Purin] But...
+[Kojiroh] Did you call your guardian?
+[Purin] Yep.
+[Kojiroh] And?
+[Purin] I got permission.
+[Kojiroh] Serious?
+[Purin] Oh shoot, I forgot about the laundry...
+001
+Purin trots away.
+I shake my head sideways...
+[Kojiroh] I need to see a shrink...
+[Kojiroh] Back to business...
+I take a deep breath.
+[Kojiroh] ...
+[Kojiroh] I like to think through all the materials\from the library...
+001
+eve_03
+[Kojiroh] I'm back in my office.
+[Kojiroh] Purin washing dishes.
+eve_29
+Ｄｅｃｅｍｂｅｒ　４\  - 9* / 12 / 04 -0
+waku
+_...
+Chop, chop, chop.
+...
+[Kojiroh] What the...?
+...
+Chop, chop, chop.
+[Kojiroh] (What the hell is that?)
+[Kojiroh] (What was that noise?)
+[Kojiroh] ...
+[Kojiroh] (Chop, chop?)
+[Kojiroh] ...
+Sizzle...
+[Kojiroh] (Wow... What was THAT?)
+[Kojiroh] (Maybe I'm starting to go nuts...)
+[Kojiroh] (Note: Nuts as in go crazy... Not those\things squirrels eat.)
+[Kojiroh] (What the hell am I explaining myself\for...?)
+[Kojiroh] (It's a strange noise...)
+Someone screams.
+[Kojiroh] (Did someone kill a cat or something?)
+[Kojiroh] (Alright, make a hypothesis.)
+[Kojiroh] (Chop, chop... Then a scream...)
+[Kojiroh] (Someone got chopped up, and screamed?)
+[Kojiroh] (No... Then that wouldn't explain the\sizzling sound...)
+[Kojiroh] (Someone got chopped up, cooked, and then\screamed?)
+[Kojiroh] (Nah...)
+Something drops with a loud banging noise.
+[Kojiroh] Wow!
+And I fall...
+Off of my bed.
+[Kojiroh] What the hell!
+[Voice] Oh good. You're finally up.
+0050
+[Kojiroh] !?
+eve_23
+[Girl] I'm so sorry, I dropped a frying pan.
+[Kojiroh] ...
+[Girl] You'd feel much better if you go wash your\face.
+[Kojiroh] ...
+[Girl] Breakfast is almost ready.
+[Kojiroh] Excuse me?
+[Girl] I couldn't find much in the refrigerator so\I just put together whatever was left. I hope you\don't mind.
+[Kojiroh] ...
+[Girl] Scrambled eggs, toast, and I found some\cabbage so I made cabbage rolls.
+[Kojiroh] Um, excuse me...
+[Girl] It'll be done in a few minutes.
+[Kojiroh] EXCUSE ME!
+[Girl] Yes?
+[Kojiroh] What the hell do you think you're doing?
+[Girl] What do you mean?
+[Kojiroh] I'm asking what you're doing?
+[Girl] I'm cooking.
+[Kojiroh] I know that!
+[Girl] ...?
+[Kojiroh] Oh man...
+[Girl] Mmm, this is pretty tasty...
+[Kojiroh] Hey...
+[Girl] Yes?
+[Kojiroh] Why are you cooking?
+[Girl] Yes?
+[Kojiroh] ...
+[Girl] I'm sorry, I can't hear you very well right\now... The dish is very oily.
+Sizzle...
+[Kojiroh] ...
+[Girl] It'll only take a couple more minutes.
+Sizzle...
+[Girl] There... Now, what did you want?
+[Kojiroh] Why are you cooking?
+[Girl] Why am I cooking?
+[Kojiroh] Right, why are you cooking?
+[Girl] Because... I'm hungry.
+[Kojiroh] ...
+[Girl] It's ready!
+[Kojiroh] What is?
+[Girl] Breakfast.
+[Kojiroh] Oh...
+[Girl] Now... Go wash your face before it gets\cold...
+[Kojiroh] Oh... Yeah...
+[Girl] I'll get the table ready then.
+[Kojiroh] ...Wait a minute!
+[Girl] Yes?
+[Kojiroh] Put some pants on.
+[Girl] Oops... I'm sorry. I forgot.
+[Kojiroh] ...
+[Girl] (Chuckles) You pervert.
+[Kojiroh] Per...pervert...
+[Kojiroh] ...
+[Kojiroh] I must be having a nightmare...
+[Kojiroh] That's it... It's only a nightmare...
+001
+b03
+[Girl] Is this okay?
+[Kojiroh] Those are my jacket and pants.
+[Girl] I had to roll up the sleeves... But it's\okay.
+[Kojiroh] How did you know where to find them?
+[Girl] I remembered where they are when I put them\away.
+[Kojiroh] ...
+[Girl] Come on... The breakfast is getting colder.
+[Kojiroh] Just hold on a minute.
+[Girl] What is it?
+[Kojiroh] We need to talk.
+[Girl] What is it?
+[Kojiroh] Who the hell are you?
+[Girl] Excuse me?
+[Kojiroh] I'm asking who you are.
+[Girl] You rescued me from those bad guys last\night.
+[Kojiroh] I know that...
+[Girl] ...
+[Kojiroh] (Maybe I'm not getting through to her...)
+[Kojiroh] (Or maybe she's just playing dumb...)
+[Kojiroh] What's your name?
+[Girl] You can call me Purin.
+[Kojiroh] Purin?
+[Purin] Yes?
+[Kojiroh] Purins your name?
+[Purin] Is there something wrong with my name?
+[Kojiroh] ...
+[Kojiroh] I should go to sleep soon...
+[Kojiroh] I'm so tired...
+[Kojiroh] Okay, let's sleep. It only takes me 3\secs to fall asleep.
+[Kojiroh] ...
+I feel something soft.
+[Kojiroh] What the...?
+It's... Soft and firm...
+[Kojiroh] What the hell is this?
+[Kojiroh] ...
+[Kojiroh] No, it couldn't be...
+A soft moan is heard.
+It's really soft.
+[Kojiroh] No way!?
+[Kojiroh] Where's the light!
+I turn on the light.
+0040
+[Kojiroh] !
+eve_16
+My jaw drops.
+[Girl] ...
+[Kojiroh] Wha... What the hell are you doing?
+[Girl] Huh?
+[Kojiroh] Don't gimme that "huh" crap!
+[Girl] Heh?
+[Kojiroh] You are not suppose to sleep HERE.
+She snores.
+[Kojiroh] Do you hear me? Go sleep over there!
+She snores.
+[Kojiroh] ...
+[Kojiroh] Why me? Why me...? What the hell did I\ever do?
+[Kojiroh] I'm not taking any responsibility if I do\something kinky when I'm asleep.
+[Girl] Heh?
+[Kojiroh] Don't blame me if you're pregnant by\morning!
+Zzz...
+[Kojiroh] ...
+Nice boobs...
+[Kojiroh] ...
+[Kojiroh] Soft and firm... Just the way I like 'em.
+[Kojiroh] Nice body too.
+I regain my senses.
+[Kojiroh] ...
+[Kojiroh] I'm not THAT desperate! I like 'em my\age.
+[Kojiroh] But she has a nice tan and... She's\BLOND...
+[Kojiroh] I get it, she's one of those Californian\surfers.
+[Kojiroh] Nah...
+[Kojiroh] Who the hell is she?
+[Kojiroh] I'll have to have a little chat with her\in the morning.
+I sneeze.
+[Kojiroh] Damn, it's cold.
+[Girl] Heh?
+[Kojiroh] I'll let you sleep here tonight... But\just tonight, got that!?
+I turn off the light.
+[Kojiroh] ...
+[Kojiroh] She's like a big pussy cat...
+[Kojiroh] She's... Warm...
+[Kojiroh] She can be my personal heater...
+[Kojiroh] ...
+[Kojiroh] What a day...
+[Kojiroh] I end up babysitting a girl, I get a\bizarre case from a client, and it seems like I'm\competing against Katsuragi Offices.
+[Kojiroh] I'm sorry guys, but this case is mine.
+[Kojiroh] Nikaido might have something up his\sleeves, but if I can solve the case, fame is all\mine.
+[Kojiroh] I need to beat Katsuragi Offices to make\a name for my office.
+[Kojiroh] Yayoi seems to have problems too, right\now.
+[Kojiroh] ...
+[Kojiroh] No, no. I'm not gonna go soft. I need to\beat them on this case.
+[Kojiroh] If I don't win, then that means I'm the\one who's gonna hit the wall first.
+[Kojiroh] And there'll be nothing for me to do.
+[Kojiroh] I'm doing this at any cost...
+eve_22
+eve
+[Kojiroh] I guess Purin went shopping.
+[Kojiroh] Now, what should I do?
+　Look/Investigate
+　Move
+　Equipment
+　Save/Load
+　Save
+　Load
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Ticket
+[Kojiroh] We can use the pool facility at the\international school.
+[Kojiroh] Hey, we can use the pool facility at the\international school.
+[Kojiroh] I really don't need that right now.
+s10
+[Kojiroh] It's one of those abstract Paintings.
+[Kojiroh] I already found their hideout.
+001
+s10
+[Kojiroh] I managed to find it but...
+[Kojiroh] Let's not contemplate on it too much.
+001
+s07
+[Kojiroh] It's a Glock 22 Customized.
+[Kojiroh] It's my partner.
+001
+s07
+[Kojiroh] Glock 22 Customized... It's such a\beauty... Just the way I want it.
+[Kojiroh] It's got a laser sight for pin point\targeting.
+[Kojiroh] It's a dangerous world out there, and\with a job like this... It comes in very handy in\messy situations.
+[Kojiroh] Of course, I only have it as an\insurance... It's for self-defense only.
+[Kojiroh] I'd aim for the legs if I'm going to\shoot.
+001
+[Kojiroh] Don't check my cash over and over again.
+[Kojiroh] I'm ready for the rich life.
+I imagine myself rich and give out a bellow.
+[Kojiroh] There's a lot of cash here... Hold on,\let me count.
+[Kojiroh] One dollar, two dollar, three...
+[Kojiroh] ...
+[Kojiroh] Who cares... All that matters is that I\got enough.
+[Kojiroh] But it does feel great to have all this\cash... I give a big smile.
+[Kojiroh] What if my client comes over...
+[Kojiroh] Let's do it!
+This is Chopper One reporting in...
+I twirl my pee-pee as fast as I can.
+[Kojiroh] Let's... Let's stop...
+　Surroundings
+　Lights
+　Table
+　Work Desk
+[Kojiroh] This is my office.
+[Kojiroh] Purin seems to be out shopping.
+[Kojiroh] Is it just me, or does the office look\cleaner than it use to?
+[Kojiroh] It must be the Purin girl.
+[Kojiroh] She must be out shopping.
+[Kojiroh] Man... If she gets attached here...\There's gonna be trouble...
+[Kojiroh] Nothing wrong with it.
+[Kojiroh] I wonder what happened to the utility\bill?
+[Kojiroh] It's always on, day and night.
+[Kojiroh] I wonder how much it's costing me.
+[Kojiroh] Let's try to forget about that for now.
+[Kojiroh] It's a table. There're empty cans and\magazines on it.
+[Kojiroh] I mess it up and Purin cleans it up after\me.
+[Kojiroh] I use it for a lot of things.
+[Kojiroh] It's the desk with the terminal.
+[Kojiroh] The terminal's on that desk.
+[Kojiroh] I don't need to use it right now.
+　Go outside
+[Kojiroh] Yeah, let's step outside.
+a002
+[Kojiroh] Yeah, let's use the terminal.
+　Look/Investigate
+　Move
+　Think
+　Save/Load
+　Save
+　Load
+　Painting
+　Kou
+　Author's name looks hard to pronounce
+[Kojiroh] He committed suicide and left a curse.
+[Kojiroh] The author committed suicide... That was\a story...
+[Kojiroh] He decapitated himself...
+[Kojiroh] I guess he wanted make a statement for\his painting...
+[Kojiroh] Damn artists... What the hell are they\thinking...
+[Kojiroh] ...
+[Kojiroh] I know... It bugs me too...
+[Kojiroh] I'll ask Kou when I see him next time.
+I sit in front of the terminal and starting working.
+[Kojiroh] This should be good enough.
+[Kojiroh] The data's all in the terminal now.
+[Kojiroh] Like I really believe in a curse...
+[Kojiroh] You always hear these stories about\people that die in strange ways.
+[Kojiroh] ...
+[Kojiroh] Oh wait, there was that strange comment\made by the author...
+[Kojiroh] I jotted it down on the memo pad\somewhere...
+I flip through the pages.
+[Kojiroh] There it is... Let's see...
+[Kojiroh] It says, "To those who lay hands on me,\their punishment will be severe and thou shall\suffer in the fires of hell by God's blade..."
+[Kojiroh] ...?
+[Kojiroh] What the hell does that mean?
+[Kojiroh] Well, the "To those who lay hands..."\part...
+[Kojiroh] Those who lay hands on what? His\painting? Himself?
+[Kojiroh] "...lay hands..." Maybe it means to get\involved...
+[Kojiroh] To get involved with the painting?
+[Kojiroh] What...?
+[Kojiroh] "...the punishment will be severe..."
+[Kojiroh] Well, that's easy. It's pretty literal,\if you ask me.
+[Kojiroh] It means that there'll be severe\consequences for someone who messes with the\painting.
+[Kojiroh] But I wonder what kind of punishment...?
+[Kojiroh] Moving on... Yeah, talk about Greek.
+[Kojiroh] "...thou shall suffer in the fire of hell\by God's blade." What the heck?
+[Kojiroh] "Thou shall suffer in the fire of\hell..."
+[Kojiroh] I don't know what it exactly means but it\doesn't sound pleasant.
+[Kojiroh] "By God's blade." Thats a tricky one.
+[Kojiroh] God's blade?
+[Kojiroh] God has a sword? Maybe a kitchen knife?
+[Kojiroh] Shit... I know I should've studied poetry\more.
+[Kojiroh] I haven't gotta clue.
+[Kojiroh] Shit...
+[Kojiroh] Oh yeah, it's that author with that\messed up name.
+[Kojiroh] I looked up his work at the library, and\his name was found in a occult dictionary.
+[Kojiroh] People who have been involved with the\painting have either died, or vanished.
+[Kojiroh] There are at least a couple dozen people\already dead or missing.
+[Kojiroh] People say that the painting is cursed,\but that's just bullshit. Someone is behind all\this.
+[Kojiroh] It's all part of the game.
+[Kojiroh] And someone's gonna go down...
+[Kojiroh] I didn't know Kou was into occult stuff.
+[Kojiroh] ...
+[Kojiroh] Maybe Purin knows something... She's\Islamic.
+[Kojiroh] That's kinda stupid.
+[Kojiroh] It's like saying all Americans know who\Monica Lewinsky is.
+[Kojiroh] Then again, bad example.
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+[Kojiroh] Do you know anything about Islamic art?
+[Purin] Islamic art?
+[Kojiroh] Right.
+[Purin] Nope... Not a thing.
+[Kojiroh] That's what I thought.
+[Kojiroh] He's such an ass.
+[Kojiroh] He's the Principal at an international\school. No wonder he's loaded.
+[Kojiroh] Kou's looking for that painting. It seems\like that's all he's been doing, lately.
+[Kojiroh] I don't get him... What's he really\thinking?
+[Kojiroh] He didn't mention a thing about the\author I looked up at the library.
+[Kojiroh] Maybe he just didn't know...
+[Kojiroh] Was it stolen? Or is there something more\to it?
+[Kojiroh] Maybe it really wasn't stolen...
+[Kojiroh] Or maybe it really was stolen.
+[Kojiroh] It just bugs me that it's so obvious.
+[Kojiroh] Dirt left by the window sill, a lock\that's been picked, and a trail of foot prints\leading to it...
+[Kojiroh] And the security system that somehow\never went off.
+[Kojiroh] Something's wrong... Everything just\falls into its place too easily.
+[Kojiroh] It's either the work of a professional or\an idiot.
+[Kojiroh] But if it was a professional job, would\they leave dirt on the window sill?
+[Kojiroh] It could be a trap to mislead me\though...
+[Kojiroh] ...
+[Kojiroh] Okay, let's look at it from another\point-of-view. If it was made to look like a\burglary, then who... And for what reason?
+[Kojiroh] Kou...?
+[Kojiroh] Nah...
+[Kojiroh] Then he wouldn't be spending all this\money hiring investigators.
+[Kojiroh] I guess I need to go back to the scene of\the crime again.
+[Kojiroh] Let's think this through from the\beginning.
+[Kojiroh] I was hired to look for that weird ass\painting.
+[Kojiroh] The painting was kept by Kou's\acquaintance. It was used as an item to mourn the\dead.
+[Kojiroh] But when Kou came back for it, the\painting wasn't there...
+[Kojiroh] Burglary is just one of the\possibilities.
+[Kojiroh] I got two days to find that painting.
+[Kojiroh] My job is to find where the painting\is... So I just have to find it and report... I\don't need to bring it back.
+[Kojiroh] I wonder if there's a reason why he\doesn't want me to bring it back...?
+[Kojiroh] He just doubled my fee and told me not to\ask any more questions...
+　Surroundings
+　Terminal
+[Kojiroh] Until yesterday this was a place where I\could be at peace.
+[Kojiroh] This is my space...
+[Kojiroh] Used to be a place for myself...
+There's a crashing sound coming from the kitchen.
+[Purin] Oh shoot... I just dropped a plate!
+I shake my head in silence.
+[Kojiroh] This is my terminal.
+[Kojiroh] All the data is punched in.
+[Kojiroh] That's my terminal.
+[Kojiroh] This is my terminal.
+[Kojiroh] I use it to input my data.
+[Kojiroh] I use it to think as I input my\materials.
+　Leave the terminal
+[Kojiroh] Yeah, I'm done punching in all the\materials.
+[Kojiroh] I guess I can leave the terminal now.
+001
+eve_03
+[Kojiroh] I still need to think about what I just\typed in...
+[Kojiroh] I still need to think about what I just\typed in...
+[Kojiroh] Oh man...
+[Kojiroh] Now what should I do.
+　Look/Investigate
+　Move
+　Speak
+　Equipment
+　Use
+　Save/Load
+　Terminal
+[Kojiroh] Yeah, let's input the material from the\library.
+[Kojiroh] I use it as a database, but I also use it\to think about all the materials as I input them.
+[Kojiroh] Hey Purin!
+b03
+[Purin] Yes?
+[Kojiroh] I'm gonna get some Z's. Don't bother me\if anyone comes, and you don't need to pick up the\phone.
+[Purin] Okay. I'll just be cleaning up, okay?
+001
+Purin leaves.
+[Kojiroh] Finally... Time for some peace.
+0290
+eve_13
+　Save
+　Load
+　Purin
+[Kojiroh] Let's not.
+[Kojiroh] I'm not that mean.
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+b03
+[Purin] What is it?
+[Kojiroh] Nothing.
+[Purin] Oh, okay.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] Purin again?
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+b03
+[Purin] What is it?
+[Kojiroh] I just wanted to call you over.
+[Purin] Oh, okay.
+[Kojiroh] ...
+[Purin] Did you want something?
+[Kojiroh] No...
+[Purin] Oh, okay.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] Hey, Purin!
+[Purin] Yes?
+b03
+[Purin] Yes?
+[Kojiroh] Did someone visit or phone me while I was\away?
+[Purin] Nope.
+[Kojiroh] Oh...
+[Kojiroh] (Nobody wants me...)
+[Kojiroh] (And I thought someone might want to hire\me...)
+[Purin] What would you like for dinner tonight?
+[Kojiroh] Just put something together...
+[Purin] Oh, okay.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] She's so... Casual...
+　Photograph
+　Glock
+　Cash
+　Viagra
+　Ticket
+[Kojiroh] I can use the pool facility at the\international school.
+[Kojiroh] I can use the pool facility at the\international school.
+[Kojiroh] But, I don't need to use the pool right\now...
+s10
+[Kojiroh] It's a weird painting.
+001
+s10
+[Kojiroh] My job is to find this painting.
+[Kojiroh] I looked it up at the library. The\painting is an occult.
+[Kojiroh] It said something about burning in hell\for those who lay hands...
+001
+s07
+[Kojiroh] It's a Customized Glock 22.
+[Kojiroh] It's my protector.
+001
+s07
+[Kojiroh] A Customized Glock 22... It's my favorite\gun.
+[Kojiroh] It comes with a laser sight for better\accuracy.
+[Kojiroh] In this line of business... You never\know what kind of people you come across.
+[Kojiroh] Of course, I use it mostly to scare them\away.
+[Kojiroh] And if I have to shoot, I aim for the\legs.
+001
+[Kojiroh] You have to check my wallet again?
+[Kojiroh] Let's not check until I solve this case.
+[Kojiroh] Let's not.
+[Kojiroh] There's a girl here, you know?
+[Kojiroh] What the hell are you gonna do with it?
+　Surroundings
+　Lights
+　Table
+　Work desk
+[Kojiroh] This is my office.
+[Kojiroh] It's starting to look clean, thanks to\Purin.
+[Kojiroh] The office does look cleaner than it did\yesterday.
+[Kojiroh] And it's all thanks to Purin.
+[Kojiroh] She seems like a good person...
+[Kojiroh] The lights are on all the time...
+[Kojiroh] I wonder what's happened to the utility\bill.
+[Kojiroh] It's always on, days and nights.
+[Kojiroh] I wonder how much the utility bill is.
+[Kojiroh] God, I don't even wanna think about\that...
+[Kojiroh] It's a table. It's got empty cans and\magazines stashed on top.
+[Kojiroh] Purin cleans it up, and it's my job to\mess it up again.
+[Kojiroh] It can be used for many things...
+[Kojiroh] It's the desk with the terminal.
+[Kojiroh] The terminal is on that desk.
+[Kojiroh] I don't need to use it right now.
+　Go outside
+[Kojiroh] Yeah, let's step out.
+a002
+[Kojiroh] I should do some research at the library.
+[Kojiroh] I'd like to organize my research in a\database...
+[Kojiroh] To input my research, I need to use\that...
+[Kojiroh] There...
+[Kojiroh] Now what should I do.
+　Look/Investigate
+　Move
+　Speak
+　Equipment
+　Save/Load
+　Save
+　Load
+　Purin
+[Kojiroh] Let's not.
+[Kojiroh] I'm not that mean...
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+b03
+[Purin] What is it?
+[Kojiroh] Nothing.
+[Purin] Oh, okay.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] You wanna call Purin again?
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+b03
+[Purin] What is it?
+[Kojiroh] I just want to call you over.
+[Purin] Oh, okay.
+[Kojiroh] ...
+[Purin] Did you want something?
+[Kojiroh] Nope.
+[Purin] Oh, okay.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+b03
+[Purin] What is it?
+[Kojiroh] Did anyone visit or phone me while I was\away?
+[Purin] Nope.
+[Kojiroh] Oh, okay.
+[Kojiroh] (Oh, well...)
+[Kojiroh] (Nobody wants to hire me...)
+[Purin] What would you like for dinner tonight?
+[Kojiroh] Just throw something together...
+[Purin] Oh, okay.
+001
+Purin leaves.
+[Kojiroh] ...
+[Kojiroh] She seems so... Casual.
+[Kojiroh] There's nothing more I need to say.
+[Kojiroh] Hey Purin!
+[Purin] Yes?
+b03
+[Purin] What is it?
+[Kojiroh] I need to tell you something.
+[Purin] Yes?
+[Kojiroh] You can clean the room while I'm away,\but don't touch that desk, okay?
+[Purin] Okay.
+[Kojiroh] The terminal too, okay?
+[Purin] Okay.
+001
+Purin leaves.
+[Kojiroh] Well, that's done.
+[Kojiroh] I can't believe I'm trusting my office to\a girl I just met yesterday.
+[Kojiroh] ...
+　Picture
+　Glock
+　Cash
+　Viagra
+s10
+[Kojiroh] It's a weird painting...
+[Kojiroh] According to Glen, it's worthless.
+001
+s10
+[Kojiroh] My job is to find this painting.
+[Kojiroh] And there's hardly any clues.
+I laugh a little.
+001
+s07
+[Kojiroh] This is a Customized Glock 22.
+[Kojiroh] It's my protector.
+001
+s07
+[Kojiroh] A Customized Glock 22... It's my favorite\gun.
+[Kojiroh] It's got a laser sight for better\accuracy.
+[Kojiroh] In this line of business, you never know\who you come across.
+[Kojiroh] Of course, I use it mostly to scare them.
+[Kojiroh] When I have to shoot, I aim for the legs.
+001
+[Kojiroh] Stop checking my cash...
+[Kojiroh] I don't want to check until this case is\solved.
+[Kojiroh] Let's not.
+[Kojiroh] There's a girl here.
+[Kojiroh] What are you gonna do with it?
+　Surroundings
+　Lights
+　Table
+　Work Desk
+[Kojiroh] This is my office.
+[Kojiroh] It's fairly clean, thanks to Purin.
+[Kojiroh] The office does look cleaner than it did\yesterday.
+[Kojiroh] And it's all thanks to Purin.
+[Kojiroh] She seems like a good girl.
+[Kojiroh] The lights are always on.
+[Kojiroh] I wonder what happened to the utility\bill?
+[Kojiroh] It's always on, days and nights.
+[Kojiroh] I wonder how much the utility bill is?
+[Kojiroh] Let's not think about that anymore.
+[Kojiroh] It's a table. It's got empty cans and\magazines stashed on top.
+[Kojiroh] Purin cleans it up, and it's my job to\get it messy.
+[Kojiroh] It can be used for a lot of things.
+[Kojiroh] It's the desk with the terminal.
+[Kojiroh] The terminal is on the desk.
+[Kojiroh] I don't need to use it right now.
+　Go outside
+[Kojiroh] Yeah, let's step outside.
+a002
+[Kojiroh] I should warn Purin.
+[Kojiroh] Yeah...
+[Kojiroh] I need to warn Purin.
+[Kojiroh] I don't mind you cleaning the room but...
+　Look/Investigate
+　Move
+　Speak
+　Akane
+[Akane] Hey Kojiroh.
+[Kojiroh] ...
+[Akane] Hey Kojiroh!
+[Kojiroh] Yeah...?
+[Akane] Were you daydreaming again?
+[Kojiroh] Oh...
+[Akane] What about Kou?
+[Kojiroh] No, nothing... Oh yeah...
+[Akane] What?
+[Kojiroh] How do you know Kou?
+[Akane] Oh, I met him at an interview once.
+[Kojiroh] Oh, really...
+[Kojiroh] (She's lying...)
+[Kojiroh] (But why? Why does she need to lie?)
+[Akane] So what do you think about this case?
+[Kojiroh] Why do you wanna know?
+[Kojiroh] Well, I just thought that I might be able\to help. I mean... There's that 50 you know...
+[Kojiroh] Yeah, yeah...
+[Akane] By the way, I need to use your phone.\Thanks.
+[Kojiroh] Hey, wait...
+001
+[Kojiroh] ...
+[Kojiroh] (Something's not right...)
+[Kojiroh] (There's something not right... I just\don't know what it is...)
+[Kojiroh] (But I know that something's not right.)
+[Akane] What the...!
+[Purin] I can't believe you!
+[Akane] Ouch! Hold on a sec!
+[Purin] I can't believe you!
+[Kojiroh] What's wrong?
+b16
+[Akane] What the hell's her problem?
+[Kojiroh] What happened?
+[Akane] I went to make a phone call and all of a\sudden, this girl starts hitting me.
+[Purin] How dare you!
+[Akane] I'm gonna take off... Okay?
+[Kojiroh] Wait...
+001
+[Kojiroh] What the hell's going on...?
+b03
+b03b
+[Kojiroh] What happened?
+[Purin] Oh Kojiroh...
+[Kojiroh] Could you explain what just happened...?
+[Purin] I'm so sorry...
+[Kojiroh] You don't need to apologize...
+[Purin] ...
+[Kojiroh] Could you just tell me what happened?
+[Purin] Okay... But I'm so sorry...
+[Kojiroh] I told you, you don't need to\apologize... What happened?
+[Purin] She walked over the holy ground.
+[Kojiroh] The holy ground?
+[Purin] She walked over toward Mecca.
+[Kojiroh] Oh, I see... Mecca...
+[Purin] Yes...
+[Kojiroh] You're Muslim... That's why?
+[Purin] Yes...
+[Kojiroh] I thought you're not supposed to show any\part of your body.
+[Purin] That's the old way. Muslims have\advanced...
+[Kojiroh] Oh... Okay...
+[Purin] I'm so sorry... I just got upset...
+[Kojiroh] Don't worry about it.
+[Purin] I shouldn't have acted the way I did... She\didn't know...
+[Kojiroh] I'll just tell her about it later...
+b03
+[Purin] Thank you.
+[Kojiroh] By the way.
+[Purin] Yes?
+[Kojiroh] Which way is Mecca directed?
+[Purin] Well...
+[Kojiroh] You know, I don't want to be yelled at...
+[Purin] It's the left corner.
+[Kojiroh] Okay.
+[Kojiroh] (Whew...)
+[Kojiroh] (Muslims are Islamic followers...)
+[Kojiroh] (Islam...)
+[Kojiroh] (Wait a minute...)
+[Purin] I'm going to finish the laundry, okay?
+[Kojiroh] Wha... What?
+[Purin] They were piled up...
+001
+Purin leaves.
+[Akane] Anything else?
+[Kojiroh] You still want a present?
+[Akane] No, your investigation.
+[Kojiroh] Well... I need to check out the scene of\the crime.
+[Akane] Oh...
+[Kojiroh] Every investigation starts from the scene\of the crime, I say.
+[Akane] Yeah, yeah.
+[Kojiroh] Well... I don't have proof that the\painting was stolen from that house...
+[Akane] You mean, Kou?
+[Kojiroh] Yeah.
+[Kojiroh] (Yeah, that would make sense...)
+[Kojiroh] (I can't be sure that the painting was\stolen from that house...)
+[Kojiroh] (I really need to check out that house\once more.)
+[Akane] So anything else?
+[Kojiroh] Nope.
+[Akane] Nothing?
+[Kojiroh] Do you understand English? I said, "No."
+[Akane] You know, you need to get with it.
+[Kojiroh] I am.
+[Akane] And so far, you have nothing?
+[Kojiroh] That's right.
+[Akane] Come on... You must have SOMETHING?
+[Kojiroh] Well... It's only a hunch, but I don't\think the painting was stolen.
+[Akane] So you don't think it was a burglary?
+[Kojiroh] But someone's trying to make it look that\way...
+[Akane] Who?
+[Kojiroh] I don't know.
+[Akane] Katsuragi Offices have a different opinion.
+[Kojiroh] Yayoi and I agreed on this... It's just\Fido who has a different opinion.
+[Akane] Fido?
+[Kojiroh] Yeah, Dildo. Nikaido. Fido. Whatever...
+[Akane] Oh, him.
+[Kojiroh] Yeah, he's working on the scene... And\he's stubborn.
+[Akane] So if Yayoi and you have the same\thoughts... Then that's probably most likely,\right?
+[Kojiroh] You're jotting this down?
+[Akane] Yeah... It's the small things like this\that make the front page.
+[Kojiroh] Oh...
+[Akane] Well... That's about it for now... Let's\say 50 plus present then...
+[Kojiroh] And what's that 50 plus present?
+[Akane] It's a 50 plus present.
+[Kojiroh] Isn't it your birthday today?
+[Akane] Wow... I'm impressed.
+[Kojiroh] How about a toothbrush?
+[Akane] You know... I won't ask for a pricey\present... But there needs to be love.
+[Kojiroh] (What does she know about love...)
+[Akane] Did you say something?
+[Kojiroh] No, nothing.
+[Akane] Well, I don't want to get between you and\that girl so...
+[Kojiroh] What are you talking about?
+[Akane] Oh, don't worry. I can keep a secret.
+[Kojiroh] First of all, she's already 18. Second,\there's nothing between us.
+[Akane] Right. You guys just take baths together.
+[Kojiroh] ...
+[Akane] And he doesn't even feel guilty...
+[Kojiroh] Did you say something?
+[Akane] No, nothing.
+[Kojiroh] And?
+[Akane] And?
+[Kojiroh] What did you want?
+[Akane] How's that case turning out?
+[Kojiroh] There's nothing much going on.
+[Akane] You're lying...
+[Kojiroh] Why should I tell you anything in the\first place?
+[Akane] Oh, come on. You wouldn't have this client\if it wasn't for me.
+[Kojiroh] So what?
+[Akane] Yayoi seemed interested in you... She\wanted to know more about you...
+[Kojiroh] So what would you like to know.
+[Akane] That's the spirit!
+[Kojiroh] ...
+[Akane] So?
+[Kojiroh] So what?
+[Akane] Explain.
+[Kojiroh] None.
+[Akane] Well then, I guess tomorrow's headline's\set.
+[Kojiroh] ...
+[Akane] "Private Investigator Kojiroh's Affair with\a Young Girl"
+[Kojiroh] I told you... There's nothing between us!
+[Akane] Yeah right.
+[Kojiroh] Listen, I really haven't done anything. I\haven't even laid my fingers on her yet.
+[Purin] Kojiroh, where did you put your clothes\when we took a bath last night?
+[Kojiroh] That's right, we only took a bath\together.
+[Akane] ...
+[Kojiroh] It's just a misunderstanding!
+[Akane] You did take a bath together, right?
+[Kojiroh] It was an accident.
+[Akane] Like anyone's gonna buy that.
+[Kojiroh] It's not what you think.
+[Akane] I thought you'd be more interested in older\women.
+[Kojiroh] It's true!
+[Akane] Oh, really!?
+[Kojiroh] No, no. The part about me liking older\women is true! Oh, never mind...
+[Akane] So you admit it.
+[Kojiroh] NO!
+　Surroundings
+　Akane
+　Camera
+[Kojiroh] I really don't have time for this...
+[Akane] But you do have the time for that girl...
+[Kojiroh] ...
+[Kojiroh] What are you, a bloodhound?
+[Kojiroh] You sure do come at the right time.
+[Akane] Oh, don't call me a bloodhound... I'm so\much cuter!
+[Kojiroh] ...
+[Kojiroh] Did you say something, Ms. Bloodhound?
+[Akane] Oh, come on...
+[Kojiroh] You're like a hungry dog, you know that?
+[Kojiroh] You always come at a bad time.
+[Akane] Well, it's a good time for me.
+[Akane] You can't have it.
+[Kojiroh] I don't want it.
+[Kojiroh] It will be a mess if you take a picture\of Purin and I... And take it to Yayoi...
+[Akane] Hey, there's an idea.
+[Kojiroh] That's invasion of privacy!
+[Akane] Yeah, yeah...
+　Go outside
+[Kojiroh] Fine, what do you want?
+[Akane] Hold on a sec. I'm not done talking.
+[Kojiroh] Don't worry, I am.
+[Akane] Well, I'm not. Okay!?
+[Kojiroh] Okay, then let's just say that we have a\little to talk about.
+[Akane] Huh?
+　Look/Investigate
+　Move
+　Speak
+　Eat
+　Food
+[Kojiroh] I ate already.
+[Kojiroh] Isn't there something you wanna tell her?
+[Kojiroh] But man... I didn't know we had all this\food.
+[Purin] I wanted a variety...
+[Kojiroh] When did you go shopping?
+[Purin] Some of them weren't that fresh, but they\were still edible. Others, I just threw away.
+I dig in.
+[Kojiroh] Yeah, I guess the pork was still edible,\huh?
+0060d
+eve_52
+Ah!
+[Purin] ...What did you just say?
+[Kojiroh] I said, "...Still edible, huh?"
+[Purin] No, before that.
+[Kojiroh] Pork?
+eve_52
+Yech!
+eve_23
+[Purin] Spit it out!
+[Kojiroh] What? What?
+[Purin] That dish is poisoned!
+[Kojiroh] Poisoned!?
+I spit everything out.
+[Purin] Hurry!
+[Kojiroh] What!?
+[Purin] Spit it out!
+[Kojiroh] DAMMIT! (Don't stick your finger in my\mouth!)
+[Purin] I don't care if you have to throw up on\these clothes, just spit it out!
+[Kojiroh] (Those are my clothes!)
+[Purin] You need to spit it out... Or the poison...
+[Kojiroh] (What poison!?)
+[Purin] I'm sorry but...!
+[Kojiroh] Wait...!?
+Purin throws a clean hit in my abdominal area.
+[Kojiroh] OHHHH!
+[Purin] Come on... Throw it all up!
+[Kojiroh] What are you doing!?
+[Purin] Here, let me...
+[Kojiroh] NO, wait!
+Purin throws another nice punch to the body.
+[Kojiroh] @$#*#@!@!
+[Purin] Now you're okay...
+[Kojiroh] I... I don't... Think so...
+001
+[Kojiroh] ...
+[Kojiroh] Man... What the hell happened?
+[Purin] Don't worry... I took care of everything.
+b03
+[Kojiroh] Do you have something against me, or\what!?
+[Purin] No, it's not that... I was just trying to\help you...
+[Kojiroh] ...
+[Purin] From evil...
+[Kojiroh] Evil...?
+[Purin] Yes...
+[Kojiroh] ...
+[Kojiroh] (Maybe she's not feeling well...)
+[Purin] Pigs are evil. If you eat pigs, you'll die.
+[Kojiroh] Pigs?
+[Purin] Yes... They are evil...
+[Kojiroh] (Okay, maybe she's REALLY not feeling\well...)
+[Purin] I'm so... Sorry...
+[Kojiroh] It's okay... I guess it's not my problem\if you're a wacko...
+[Purin] Thank you.
+[Kojiroh] ...
+[Purin] Would you like more?
+[Kojiroh] ...
+[Kojiroh] It's pretty good...
+[Purin] Thank you. But I'm still in the process of\learning.
+[Kojiroh] Learning?
+[Purin] Yes. This is what I do.
+[Kojiroh] ...
+[Kojiroh] (I guess she's an assistant chef, or\something.)
+I dig in.
+Purin smiles as she sees me diggin' in.
+[Kojiroh] Hey, you know... Your eyes...
+[Purin] Yes?
+[Kojiroh] Your eyes are different colors.
+[Purin] Yes.
+[Kojiroh] The left one's blue, but the right one is\gold.
+[Purin] Yes... People sometimes stare at me...
+[Kojiroh] ...
+[Purin] Is it so unusual to have different colored\eyes in this country?
+[Kojiroh] Not really.... I don't think so.
+[Kojiroh] ...
+[Kojiroh] (Oops... I guess it is rude to stare at\someone...)
+[Kojiroh] (Maybe she has some kind of a inferiority\complex or something.)
+[Purin] Well... Come on... You need to eat more.
+[Kojiroh] ... Oh yeah...
+[Purin] Come to the table, let's eat.
+[Kojiroh] Alright.
+0060
+0060b
+[Kojiroh] Wow... That's a lot for breakfast...
+[Purin] Go ahead, dig in.
+[Kojiroh] Thanks, I will.
+I dig into the food.
+[Purin] How is it?
+[Kojiroh] It's pretty good.
+Purin blushes...
+[Kojiroh] Did you really make this?
+[Purin] Yes.
+I stuff my mouth with more food.
+[Purin] I think Mr. Vegetables and Mr. Cow are\happy knowing that someone is enjoying them.
+[Kojiroh] ...
+[Kojiroh] (I'm starting to lose my appetite...)
+　Purin
+[Kojiroh] Oh man...
+[Purin] I'm really good at housekeeping.
+[Kojiroh] Housekeeping, huh?
+[Purin] Then won't you consider this?
+[Kojiroh] What?
+[Purin] You can hire me.
+[Kojiroh] Hire you?
+[Purin] I don't feel good knowing that I'm staying\here for free... But if I can do your housekeeping\then...
+[Kojiroh] I see...
+[Purin] I can keep your place neat and tight.
+[Kojiroh] Hmm...
+[Purin] Please?
+[Kojiroh] Well...
+[Purin] I'll do anything.
+[Kojiroh] Okay, but first...
+[Purin] Yes?
+[Kojiroh] Check with your guardian first, okay?
+[Purin] Okay.
+[Kojiroh] Only then, you can stay. Understand?
+[Purin] Perfectly.
+[Kojiroh] And this is only temporary.
+b03
+eve_16
+[Purin] Thank you... I'll work really hard!
+[Kojiroh] Now that we got that settled...
+[Purin] Wash the dishes, right? I'm on my way!
+001
+[Purin] You won't regret this.
+[Kojiroh] (I hope not...)
+[Kojiroh] ...
+[Kojiroh] Well, what the hell was I supposed to do?
+[Kojiroh] She doesn't have parents and she's got\nowhere to go... I can't just kick her out into the\streets.
+[Kojiroh] And she seems to be in some kind of\trouble...
+[Kojiroh] Oh well...
+[Kojiroh] It's only for a few days...
+[Kojiroh] Maybe that'll be enough time for her to\think and move on.
+[Kojiroh] Man...
+Ding, dong.
+[Kojiroh] I got a bad feeling about this.
+[Voice] Hey you! You don't look so hot... What's\wrong?
+b16
+[Kojiroh] Oh, it's you... Didn't I tell you to wait\until someone opens the door?
+[Akane] Yeah, but the door was open.
+[Kojiroh] Oh, so I guess if the boys' bathroom door\was open, you'd walk straight in, eh?
+[Akane] That's a bit different, don't you think?
+[Kojiroh] Yeah, yeah.
+[Akane] There you go again, that face.
+[Kojiroh] Oh, shut up...
+[Akane] Come on, brighten up a little.
+[Purin] Kojiroh...
+001
+b03
+[Akane] ...
+[Purin] Where should I put the recyclable trash?
+[Kojiroh] Just toss it in with the other trash.
+[Purin] No... You should separate them.
+[Kojiroh] Fine... You take care of it,\smarty-pants.
+[Purin] Okay.
+[Akane] Hey, Kojiroh.
+[Kojiroh] What?
+[Akane] Who is this girl?
+[Purin] My name is Purin. I'm a housekeeper here\and I just started today.
+[Akane] A housekeeper?
+[Kojiroh] Never mind... Just go separate the\trash...
+[Purin] Okay.
+001
+b16
+[Kojiroh] ...
+[Akane] Kojiroh!
+[Kojiroh] I know what you're going to say... Just\don't say it.
+[Akane] How can I not!?
+[Kojiroh] Just keep your trap shut.
+[Akane] No way.
+[Kojiroh] ...Now you listen to me, vermin.
+[Akane] Who the hell is she? Why does she have your\clothes on... And a housekeeper? I think you'd\better explain.
+[Kojiroh] There's nothing to explain.
+[Akane] Excuse me?
+eve_03
+[Kojiroh] So you do have a guardian?
+[Purin] Yes.
+[Kojiroh] Anyway, your clothes are in the laundry\basket...
+[Purin] Oh, please. I'll do anything.
+[Kojiroh] I said no. You want me to break the law?
+[Purin] No, but...
+[Kojiroh] You're just...
+Purin starts sobbing...
+b03b
+eve_17
+[Kojiroh] Oh, stop your whining. That's not gonna\work on me...
+[Purin] But... I have nowhere to go...
+[Kojiroh] ...
+[Purin] Really... I have nowhere to go...
+[Kojiroh] (Oh, man...)
+[Purin] I was so scared when those people\surrounded me in the dark...
+[Kojiroh] (Ah, for cryin' out loud...)
+[Purin] I was so relieved when you rescued me...\And you also saw me naked...
+[Kojiroh] THAT was an accident.
+[Purin] Where do I go from here...?
+[Kojiroh] ...
+[Purin] ...
+[Kojiroh] Where did you live until now?
+[Purin] I... Can't go back...
+[Kojiroh] No, no. I don't want any trouble\whatsoever.
+[Purin] Oh, please... I'll do anything.
+[Kojiroh] ...
+[Kojiroh] (Man... What the hell am I supposed to\do...)
+[Kojiroh] (She seems to be in some kind of trouble,\but...)
+[Purin] ...
+[Kojiroh] Where are your parents?
+[Purin] They... Passed away...
+[Kojiroh] Oh... I'm sorry.
+[Purin] It's okay.
+[Kojiroh] ...
+[Purin] ...
+[Kojiroh] So, do you have a guardian?
+[Purin] Yes.
+[Kojiroh] (Oh...)
+[Kojiroh] Then let's continue...
+[Purin] ...
+[Kojiroh] I'm stuffed.
+[Purin] ...
+[Kojiroh] I'm not gonna ask for your nationality,\where you came from, or what your personal\situation is... But...
+[Kojiroh] You look about eighteen.
+[Purin] Yes...
+[Kojiroh] So go home to your parents.
+[Purin] ...
+[Purin] Um...
+[Kojiroh] Nope.
+[Purin] I can't stay?
+[Kojiroh] No, no, no.
+[Purin] ...
+[Kojiroh] I can't just let you stay here...
+[Purin] ...
+[Kojiroh] That would be like... Kidnapping.
+[Purin] Kidnapping?
+[Kojiroh] Yeah, I can't just take in some kid\without the parent's permission.
+[Purin] ...
+[Kojiroh] I can get my business license revoked.
+[Purin] But... I'm eighteen...
+[Kojiroh] Eighteen!?
+[Purin] Yes.
+[Kojiroh] ...
+[Kojiroh] (Damn, she looks really young...)
+[Kojiroh] (Now that I think about it... She did\look pretty developed...)
+[Kojiroh] See, I'm eating.
+[Purin] You can have as much as you want.
+[Kojiroh] So... Purin, may I call you Purin...?
+[Purin] Yes, but I'm not made of gellatin...
+[Kojiroh] ... Okay.
+[Purin] Thank you.
+[Kojiroh] When you finish eating, go home, okay?
+0060c
+[Purin] ...
+[Kojiroh] ...
+[Purin] ...
+[Kojiroh] Okay?
+[Purin] After I finish eating, right?
+[Kojiroh] Right...
+[Purin] ...
+[Kojiroh] (Damn, her eyes...)
+[Kojiroh] (They're so... Intoxicating.)
+[Kojiroh] Well, okay. Let's put it off until we\finish eating.
+I gobble down my food.
+[Kojiroh] This is great!
+0060
+0060b
+[Purin] Thank you.
+[Kojiroh] ...
+[Kojiroh] (This is so bizarre...)
+[Purin] Come on. The food's getting cold.
+[Kojiroh] Okay.
+[Purin] Your food is getting cold...
+[Kojiroh] I don't care.
+b03b
+[Purin] But...
+[Kojiroh] ...
+[Purin] But I tried really hard...
+[Kojiroh] I know...
+[Purin] The poor cows and vegetables...
+[Kojiroh] Excuse me...?
+[Purin] If you don't eat them while they're good...\Then their deaths were in vain.
+[Kojiroh] ...
+[Purin] You have to eat them while they're good and\hot, or their deaths would be in vain.
+[Kojiroh] (What the hell is this girl talking\about...?)
+[Purin] I... I...
+[Kojiroh] ... Let's just eat first.
+b03
+[Purin] Okay.. Then have a seat.
+[Kojiroh] ...
+[Kojiroh] (And I thought she was going to cry on\me...)
+[Kojiroh] (What the hell am I supposed to do with\her?)
+[Kojiroh] So...
+[Purin] ...
+[Kojiroh] (This is good... What a conversation...)
+Purin is just sitting there, waiting for me to say something.
+[Kojiroh] How are you?
+[Purin] Fine, thank you.
+[Kojiroh] It's a great day... Don't you think?
+[Purin] Yes... It is.
+[Kojiroh] Never mind...
+[Kojiroh] You said your name is Purin, right?
+[Purin] Right.
+[Kojiroh] Is that your real name?
+[Purin] Yes.
+[Kojiroh] Then your mother's name must be Ice\Cream...
+[Purin] I like your sense of humor.
+[Kojiroh] You like it?
+[Purin] Yes.
+[Kojiroh] I'm a pretty funny guy, you know.
+[Purin] Yes.
+[Kojiroh] ...
+[Purin] What is it?
+[Kojiroh] Is Purin really your name?
+[Purin] Yes.
+[Kojiroh] Oh, okay.
+[Purin] I... Like you.
+[Kojiroh] ...
+　Surroundings
+　Purin
+　Eyes
+　Hair
+　Food
+[Kojiroh] The food's pretty good.
+[Kojiroh] It's not gourmet, but it ain't half bad.
+[Kojiroh] And I thought there was hardly anything\in the fridge... How resourceful!
+[Kojiroh] You're showing some potential.
+[Purin] Thank you very much!
+[Kojiroh] And now, thanks to you, my place smells\as sweet as this food.
+[Kojiroh] This hardboiled world of mine...
+[Kojiroh] Thanks to your cooking, this place smells\a lot nicer...
+[Kojiroh] Uh-oh... I can feel my stomach going to\work...
+[Purin] Please help yourself to as much as you\like.
+[Kojiroh] (When I look at her, I sense something\very...unsettling.)
+[Kojiroh] (Hmm...)
+[Kojiroh] (There's just this...indecency about\her...)
+[Kojiroh] (It's no surprise she was wandering\around this wharf alone at night.)
+[Kojiroh] (She claims she has nowhere to stay... I\wonder.)
+[Kojiroh] ...
+[Kojiroh] (Perhaps she's one of those illegal\immigrant workers...)
+[Kojiroh] (I wonder if she got in trouble with her\boss...)
+[Kojiroh] (She's young and doesn't appear to be\very strong...)
+[Kojiroh] (I don't even want to think about what\kind of work she was doing.)
+[Kojiroh] (She's an 18 year old fox.)
+[Kojiroh] (I never imagined I'd run into a\situation like this.)
+[Kojiroh] (I shouldn't get involved with this...)
+[Kojiroh] ...
+[Kojiroh] You're not an average teen-ager.
+[Kojiroh] I know she's a foreigner, but why did she\cook here?
+[Kojiroh] But even so, her skin is so...
+[Kojiroh] It's the color of wheat...
+[Purin] This isn't a tan, you know.
+[Kojiroh] ...
+[Kojiroh] Blonde hair and skin the color of\wheat... Just like a surfer girl.
+[Kojiroh] You're definitely a foreigner, right? An\American?
+[Purin] Just what do you mean by "surfer girl" ???
+[Kojiroh] What rare eyes you have... Each one a\different color.
+[Kojiroh] I've never seen anyone with different\colored eyes.
+[Kojiroh] The left is blue, the right is gold.
+[Purin] Is there something wrong with my face?
+[Kojiroh] You have such soft hair...
+[Kojiroh] It rustles like silk when it moves...
+[Kojiroh] Such soft hair...
+[Kojiroh] I've never met a woman with hair of gold\and skin of wheat. How rare...
+[Purin] Please don't stare at me like that...\You're making me nervous.
+[Kojiroh] ...
+　Go outside
+[Kojiroh] I'll do it later.
+[Kojiroh] I'm having fun looking at this girl,\Jelly.
+[Purin] It's Purin.

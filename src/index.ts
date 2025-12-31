@@ -7,6 +7,7 @@
 import { decompressDirectory } from "./decompress.ts";
 import { compressDirectory } from "./compress.ts";
 import { extractDirectory } from "./extract.ts";
+import { injectDirectory } from "./inject.ts";
 import { loadConfig, getDirectories } from "./config.ts";
 
 const COMMANDS = {
@@ -123,8 +124,13 @@ async function main() {
     }
 
     case COMMANDS.INJECT: {
-      console.log("\n⚠️  inject 命令尚未实现");
-      console.log(`  将从 ${dirs.enTXT} 注入文本到 ${dirs.decompressENCC}`);
+      try {
+        injectDirectory(dirs.decompressJPCC, dirs.enTXT, dirs.decompressENCC);
+        console.log("\n✓ 文本注入完成");
+      } catch (error: any) {
+        console.error(`\n✗ 文本注入失败: ${error.message}`);
+        process.exit(1);
+      }
       break;
     }
 

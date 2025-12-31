@@ -30,8 +30,8 @@ export async function decompressCC(inputPath: string, outputPath: string): Promi
     throw new Error(`文件太小 (${inputBuffer.length} 字节)，无法解压`);
   }
 
-  // 提取前0x14字节头部
-  const header = inputBuffer.subarray(0, 0x14);
+  // 提取前0x18字节头部(包含4字节解压大小)
+  const header = inputBuffer.subarray(0, 0x18);
   
   // 提取压缩数据部分（跳过前0x14字节）
   const compressedData = inputBuffer.subarray(0x14);

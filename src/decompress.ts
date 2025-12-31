@@ -26,7 +26,7 @@ export async function decompressCC(inputPath: string, outputPath: string): Promi
   // 读取输入文件
   const inputBuffer = readFileSync(inputPath);
 
-  if (inputBuffer.length < 0x14) {
+  if (inputBuffer.length < 0x18) {
     throw new Error(`文件太小 (${inputBuffer.length} 字节)，无法解压`);
   }
 

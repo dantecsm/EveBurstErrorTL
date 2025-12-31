@@ -6,7 +6,6 @@
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import iconv from "iconv-lite";
-import { getDirectories } from "./config.ts";
 
 const HEADER_SIZE = 0x14;
 const TEXT_MARKER = 0xFD;
@@ -76,20 +75,16 @@ function validateTextStructure(buffer: Buffer, startPos: number): boolean {
 /**
  * 批量提取目录中的所有 CC 文件
  */
-export function extractDirectory(): void {
-  const directories = getDirectories();
-  const INPUT_DIR = directories.decompressJPCC;
-  const OUTPUT_DIR = directories.jpTXT;
-
-  console.log(`\n批量提取目录: ${INPUT_DIR} -> ${OUTPUT_DIR}`);
+export function extractDirectory(inputDir: string, outputDir: string): void {
+  console.log(`提取日语: ${inputDir} -> ${outputDir}`);
 
   // 确保输出目录存在
-  if (!existsSync(OUTPUT_DIR)) {
-    mkdirSync(OUTPUT_DIR, { recursive: true });
+  if (!existsSync(outputDir)) {
+    mkdirSync(outputDir, { recursive: true });
   }
 
   // 读取输入目录中的所有 .CC 文件
-  const files = readdirSync(INPUT_DIR).filter((f) => f.endsWith(".CC"));
+  const files = readdirSync(inputDir).filter((f) => f.endsWith(".CC"));
 
   if (files.length === 0) {
     console.log("  没有找到 .CC 文件");
@@ -102,8 +97,8 @@ export function extractDirectory(): void {
   let failCount = 0;
 
   for (const fileName of files) {
-    const inputPath = join(INPUT_DIR, fileName);
-    const outputPath = join(OUTPUT_DIR, fileName.replace(".CC", ".txt"));
+    const inputPath = join(inputDir, fileName);
+    const outputPath = join(outputDir, fileName.replace(".CC", ".txt"));
 
     try {
       console.log(`提取: ${inputPath} -> ${outputPath}`);
@@ -180,9 +175,4 @@ export function extractDirectory(): void {
   }
 
   console.log(`\n完成: ${successCount} 成功, ${failCount} 失败`);
-}
-
-// 如果直接运行此文件
-if (import.meta.main) {
-  extractDirectory();
 }

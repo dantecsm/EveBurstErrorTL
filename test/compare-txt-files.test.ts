@@ -6,7 +6,7 @@
 
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
-import * as iconv from "iconv-lite";
+import iconv from "iconv-lite";
 
 interface CompareResult {
   match: boolean;

@@ -113,7 +113,7 @@ async function main() {
 
     case COMMANDS.EXTRACT: {
       try {
-        extractDirectory();
+        extractDirectory(dirs.decompressJPCC, dirs.jpTXT);
         console.log("\n✓ 文本提取完成");
       } catch (error: any) {
         console.error(`\n✗ 文本提取失败: ${error.message}`);

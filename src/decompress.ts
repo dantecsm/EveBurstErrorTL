@@ -3,17 +3,10 @@
  * CC 文件格式：前0x14字节是头部，剩余部分是 LZSS 压缩数据
  */
 
-import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
 
 const LZSS_TOOL = "./src/utils/lzss-tool.exe";
-
-const inputDir = process.argv[2];
-const outputDir = process.argv[3];
-if (inputDir && outputDir) {
-    decompressDirectory(inputDir, outputDir);
-} else {
-    console.log("请输入输入目录和输出目录");
-}
+const HEADER_SIZE = 0x18;
 
 /**
  * 解压单个CC文件
@@ -26,15 +19,15 @@ export async function decompressCC(inputPath: string, outputPath: string): Promi
   // 读取输入文件
   const inputBuffer = readFileSync(inputPath);
 
-  if (inputBuffer.length < 0x18) {
+  if (inputBuffer.length < HEADER_SIZE) {
     throw new Error(`文件太小 (${inputBuffer.length} 字节)，无法解压`);
   }
 
   // 提取前0x18字节头部(包含4字节解压大小)
-  const header = inputBuffer.subarray(0, 0x18);
-  
+  const header = inputBuffer.subarray(0, HEADER_SIZE);
+
   // 提取压缩数据部分（跳过前0x14字节）
-  const compressedData = inputBuffer.subarray(0x14);
+  const compressedData = inputBuffer.subarray(HEADER_SIZE - 4);
 
   // 创建临时文件存储压缩数据
   const tempCompressed = `${outputPath}.temp.compressed`;

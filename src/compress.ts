@@ -1,19 +1,12 @@
 /**
  * 压缩 CC 文件
- * CC 文件格式：前14字节是头部，剩余部分需要用 LZSS 压缩
+ * CC 文件格式：前0x14字节是头部，剩余部分需要用 LZSS 压缩
  */
 
 import { readFileSync, writeFileSync } from "node:fs";
 
 const LZSS_TOOL = "./src/utils/lzss-tool.exe";
-
-const inputDir = process.argv[2];
-const outputDir = process.argv[3];
-if (inputDir && outputDir) {
-    compressDirectory(inputDir, outputDir);
-} else {
-    console.log("请输入输入目录和输出目录");
-}
+const HEADER_SIZE = 0x18;
 
 /**
  * 压缩单个CC文件
@@ -26,15 +19,15 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
   // 读取输入文件
   const inputBuffer = readFileSync(inputPath);
 
-  if (inputBuffer.length < 0x18) {
+  if (inputBuffer.length < HEADER_SIZE) {
     throw new Error(`文件太小 (${inputBuffer.length} 字节)，无法压缩`);
   }
 
   // 提取前0x18字节头部
-  const header = inputBuffer.subarray(0, 0x18);
-  
+  const header = inputBuffer.subarray(0, HEADER_SIZE);
+
   // 提取需要压缩的数据部分（跳过前0x18字节）
-  const uncompressedData = inputBuffer.subarray(0x18);
+  const uncompressedData = inputBuffer.subarray(HEADER_SIZE);
 
   // 创建临时文件
   const tempUncompressed = `${outputPath}.temp.uncompressed`;

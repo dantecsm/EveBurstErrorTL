@@ -1,0 +1,10 @@
+{
+  "directories": {
+    "jpCC": "data/JP CC",
+    "enCC": "data/EN CC",
+    "decompressJPCC": "data/decompress JP CC",
+    "decompressENCC": "data/decompress EN CC",
+    "jpTXT": "data/JP TXT",
+    "enTXT": "data/EN TXT"
+  }
+}

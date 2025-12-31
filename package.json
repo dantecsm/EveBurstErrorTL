@@ -10,7 +10,9 @@
     "typescript": "^5"
   },
   "scripts": {
-    "decompress": "bun run src/decompress.ts \"data/JP CC\" \"data/decompress JP CC\"",
-    "compress": "bun run src/compress.ts \"data/decompress EN CC\" \"data/EN CC\""
+    "start": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.7.1"
   }
 }

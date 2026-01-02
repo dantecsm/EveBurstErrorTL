@@ -346,9 +346,9 @@ module.exports = FatImage;
 
 // Usage examples:
 // 1. Auto-detect partition offset (recommended)
-// node replaceHdiFile.js "True Love_EN.hdi" "//TLOVE00.TXB" "./newFiles/TLOVE00.TXB"
+// node replaceHdiFile.js "Game.hdi" "//OriginalScript.TXB" "./newFiles/script.TXB"
 // 2. Manually specify partition offset
-// node replaceHdiFile.js "True Love_EN.hdi" "//TLOVE00.TXB" "./newFiles/TLOVE00.TXB" 0x9400
+// node replaceHdiFile.js "Game.hdi" "//OriginalScript.TXB" "./newFiles/script.TXB" 0x9400
 // 3. Module usage (auto-detect)
 // const FatImage = require('./replaceHdiFile');
 // const img = new FatImage(hdiFile); // Auto-detect partition offset

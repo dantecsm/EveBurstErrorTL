@@ -29,6 +29,6 @@ To modify directory paths, simply edit the `config.json` file.
     "jpTXT": "texts/jp",
     "enTXT": "texts/en"
   },
-  "hdiFile": "H:/Games/PC98/TL/Eve Burst Errors.hdi"
+  "hdiFile": "H:/Games/PC98/TL/Eve Burst Error(EN).hdi"
 }
 ```

@@ -3,19 +3,19 @@ import iconv from "iconv-lite";
 const HEADER_SIZE = 0x14;
 
 /**
- * 文本块接口
+ * Text block interface
  */
 export interface TextBlock {
-    position: number;      // 0xFD 标记的位置
-    length: number;        // 文本长度（不包括 0xFD 和长度字节和终止符）
-    jpText: string;        // 解码后的文本
-    enText: string;        // 要替换的英语文本（如果有）
-    jpBuffer: Buffer;      // 原始字节（0xFD + len + Shift_JIS 编码 + 00）
-    enBuffer: Buffer;      // 替换后的字节（0xFD + newLen + Shift_JIS 编码 + 00）
+    position: number;      // Position of 0xFD marker
+    length: number;        // Text length (excluding 0xFD, length byte, and terminator)
+    jpText: string;        // Decoded text
+    enText: string;        // English text to replace with (if any)
+    jpBuffer: Buffer;      // Original bytes (0xFD + len + Shift JIS encoding + 00)
+    enBuffer: Buffer;      // Replacement bytes (0xFD + newLen + Shift JIS encoding + 00)
 }
 
 /**
- * 从 CC 文件中提取所有文本块
+ * Extract all text blocks from CC file
  */
 export function extractTextBlocks(buffer: Buffer): TextBlock[] {
     const blocks: TextBlock[] = [];
@@ -30,7 +30,7 @@ export function extractTextBlocks(buffer: Buffer): TextBlock[] {
         if (cmd === 0xFD) {
             if (ccPos >= ccLen) break;
 
-            // 验证文本结构
+            // Validate text structure
             const isValid = validateTextStructure(buffer, curCmdPos);
 
             if (!isValid) {
@@ -38,7 +38,7 @@ export function extractTextBlocks(buffer: Buffer): TextBlock[] {
                 continue;
             }
 
-            // 提取文本块信息
+            // Extract text block information
             const lineLen = buffer[ccPos] as any;
             ccPos++;
             const textStart = ccPos;
@@ -62,7 +62,7 @@ export function extractTextBlocks(buffer: Buffer): TextBlock[] {
                 enBuffer: Buffer.from(jpBuffer)
             });
 
-            ccPos = textEnd + 1; // 跳过文本和终止符
+            ccPos = textEnd + 1; // Skip text and terminator
         }
     }
 
@@ -70,22 +70,22 @@ export function extractTextBlocks(buffer: Buffer): TextBlock[] {
 }
 
 /**
- * 验证 0xFD 块是否是有效的文本结构
- * 
- * @param buffer 文件缓冲区
- * @param startPos 0xFD 字节的位置
- * @returns 是否是有效文本
+ * Validate if 0xFD block is a valid text structure
+ *
+ * @param buffer File buffer
+ * @param startPos Position of 0xFD byte
+ * @returns Whether it's valid text
  */
 export function validateTextStructure(buffer: Buffer, startPos: number): boolean {
-    // 读取长度字节（0xFD 后的第一个字节）
+    // Read length byte (first byte after 0xFD)
     const lineLen = buffer[startPos + 1] || 0;
 
-    // 检查 1: 长度字节不为 0
+    // Check 1: Length byte is not 0
     if (lineLen === 0) {
         return false;
     }
 
-    // 检查 2: 验证 lineLen 字节后是 0x00
+    // Check 2: Verify that lineLen bytes are followed by 0x00
     const terminatorPos = startPos + 2 + lineLen;
     if (terminatorPos >= buffer.length) {
         return false;
@@ -94,7 +94,7 @@ export function validateTextStructure(buffer: Buffer, startPos: number): boolean
         return false;
     }
 
-    // 检查 3: 验证 lineLen 字节中不包含 0x00
+    // Check 3: Verify that lineLen bytes do not contain 0x00
     const textStart = startPos + 2;
     const textEnd = textStart + lineLen;
     for (let i = textStart; i < textEnd; i++) {
@@ -103,8 +103,8 @@ export function validateTextStructure(buffer: Buffer, startPos: number): boolean
         }
     }
 
-    // 检查 4: 验证添加 0x0A 不会被解释为双字节字符的一部分
-    // 根据 CP932，0x81-0x9F 和 0xE0-0xFC 是前导字节
+    // Check 4: Verify that adding 0x0A won't be interpreted as part of a double-byte character
+    // According to CP932, 0x81-0x9F and 0xE0-0xFC are lead bytes
     let i = 0;
     while (i < lineLen) {
         const byte = buffer[textStart + i] as any;
@@ -112,21 +112,21 @@ export function validateTextStructure(buffer: Buffer, startPos: number): boolean
 
         if ((unsignedByte >= 0x81 && unsignedByte <= 0x9F) ||
             (unsignedByte >= 0xE0 && unsignedByte <= 0xFC)) {
-            // 双字节字符，跳过两个字节
+            // Double-byte character, skip two bytes
             i += 2;
         } else {
-            // 单字节字符
+            // Single-byte character
             i += 1;
         }
     }
-    // 如果 i == lineLen，说明完全消耗了所有字节
-    // 如果 i == lineLen + 1，说明最后一个字节是前导字节，会吸收 0x0A
+    // If i == lineLen, all bytes are fully consumed
+    // If i == lineLen + 1, the last byte is a lead byte and will absorb 0x0A
     const is0AAbsorbed = i === lineLen + 1;
     if (is0AAbsorbed) {
         return false;
     }
 
-    // 检查 5: 排除特定文本序列 (12 FB 01)
+    // Check 5: Exclude specific text sequence (12 FB 01)
     if (lineLen === 3 &&
         buffer[textStart] === 0x12 &&
         buffer[textStart + 1] === 0xFB &&

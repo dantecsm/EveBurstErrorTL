@@ -53,10 +53,10 @@ async function importFileToHdi(
 }
 
 /**
- * 批量导入目录中的所有 CC 文件到 HDI 镜像
- * @param ccDir CC 文件目录
- * @param hdiPath HDI 镜像文件路径
- * @param targetDir 目标目录（在 HDI 镜像中，默认为 /EVE/）
+ * Batch import all CC files from a directory to HDI image
+ * @param ccDir CC file directory
+ * @param hdiPath HDI image file path
+ * @param targetDir Target directory (in HDI image, defaults to /EVE/)
  */
 export async function importDirectoryToHdi(
     ccDir?: string,

@@ -6,7 +6,7 @@ A tool for translating Eve Burst Error game scripts from Japanese to English.
 
 ### 1. Install Requirements
 
-Download and install [Bun](https://bun.sh/docs/installation#windows) (required to run this tool).
+Download and install [Bun](https://bun.sh/docs/installation#windows).
 
 ### 2. Install Dependencies
 
@@ -17,7 +17,7 @@ bun install
 
 ### 3. Run the Tool
 
-**Double-click `Workflow.bat`** to launch the interactive menu.
+Double-click `Workflow.bat`.
 
 ## File Structure
 
@@ -29,20 +29,13 @@ data/
 ├── decompress EN CC/         # Decompressed English scripts
 ├── JP TXT/                   # Extracted Japanese text (translate these!)
 └── EN TXT/                   # English translations
+Eve Burst Error(EN).hdi       # Game HDI file
 ```
+If you want to change directories or file paths above, remember to update the corresponding settings in `config.json`.
 
-## Using Workflow.bat
+## Workflow
 
-The Workflow.bat provides an easy-to-use menu with the following options:
-
-- **[d] Decompress** - Unpack Japanese game scripts
-- **[c] Compress** - Pack English scripts back into game format
-- **[e] Extract** - Pull Japanese text from unpacked scripts for translation
-- **[i] Inject** - Insert translated English text back into scripts
-- **[h] Hdi** - Put translated scripts into the game HDI file
-- **[a] All** - Do the complete workflow (= Inject → Compress → Import to Hdi)
-
-### Typical Translation Workflow
+Double-click `Workflow.bat` to launch the interactive menu.
 
 **Step 1: Prepare for Translation**
 

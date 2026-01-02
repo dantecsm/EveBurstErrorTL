@@ -68,8 +68,8 @@ function injectFile(
             block.enText = block.jpText;
             block.enBuffer = Buffer.from(block.jpBuffer);
             result.halfSuccess = true;
-            // if (!result.warnings) result.warnings = [];
-            // result.warnings.push(`  warning: 第 ${i} 行英语未注入，保留日语`);
+            if (!result.warnings) result.warnings = [];
+            result.warnings.push(`    ❗ Line ${i} English not inserted due to file size limit`);
             const overLen = newLen + diffLen - 0xFFFF;
             totalOverLen += overLen;
             lostLines++;
@@ -154,7 +154,6 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
         } else if (result.halfSuccess) {
             for (const warning of (result.warnings || [])) {
                 console.log(warning);
-                // console.log(`    ❗  ${txtPath} 共超出 ${result.totalDiff} 个字节，有 ${result.warnings.length} 行英语未注入`);
             }
             halfSuccessCount++;
         } else if (result.fail) {

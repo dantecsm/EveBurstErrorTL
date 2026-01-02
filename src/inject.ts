@@ -172,8 +172,8 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
 }
 
 function processEnText(enText: string): string {
-    // 每 59 个字符，若未有 \n 符，则在这 59 个字符里最后一次出现空格的位置后面加一个 \n 符
-    const maxWidth = 59;
+    // 每 53 个字符，若未有 \n 符，则在这 53 个字符里最后一次出现空格的位置后面加一个 \n 符
+    const maxWidth = 53;
     let width = 0;
     let lastSpacePos = -1;
     const chars = Array.from(enText);

@@ -17,7 +17,7 @@ echo   [c] Compress English CC files
 echo   [e] Extract Japanese text
 echo   [i] Inject English text
 echo   [h] Import CC files to HDI image
-echo   [a] Run all (Inject + Compress + Import to HDI)
+echo   [a] Run all (=i+c+h, Inject,then Compress,then Import to HDI)
 echo   [q] Quit
 echo.
 set /p choice="Enter your choice (d/c/e/i/h/a/q): "

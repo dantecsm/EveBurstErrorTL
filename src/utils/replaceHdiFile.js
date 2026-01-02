@@ -8,7 +8,7 @@ class FatImage {
         // Auto-detect partition offset if not provided
         if (partitionOffset === null) {
             this.partitionOffset = this._detectPartitionOffset();
-            console.log(`Auto-detected partition offset: 0x${this.partitionOffset.toString(16)}`);
+            // console.log(`Auto-detected partition offset: 0x${this.partitionOffset.toString(16)}`);
         } else {
             this.partitionOffset = partitionOffset;
         }
@@ -304,7 +304,7 @@ class FatImage {
 
     replaceFile(filepath, newFileData) {
         const [entryAbsoluteOffset, entryIndex, entry] = this._findPath(filepath);
-        console.log(`Found file: ${filepath} start cluster ${entry.start_cluster}, size ${entry.file_size}`);
+        // console.log(`Found file: ${filepath} start cluster ${entry.start_cluster}, size ${entry.file_size}`);
         const oldChain = this._readClusterChain(entry.start_cluster);
         this._freeClusterChain(oldChain);
         const neededClusters = Math.ceil(newFileData.length / this.BytesPerCluster);
@@ -316,7 +316,7 @@ class FatImage {
         newEntry.writeUInt32LE(newFileData.length, 28);
         this._write(entryAbsoluteOffset, newEntry);
 
-        console.log(`Replacement completed, new size ${newFileData.length}, start cluster ${newChain[0]}`);
+        // console.log(`Replacement completed, new size ${newFileData.length}, start cluster ${newChain[0]}`);
     }
 
     close() {

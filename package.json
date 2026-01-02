@@ -10,7 +10,8 @@
     "typescript": "^5"
   },
   "scripts": {
-    "start": "bun run src/index.ts"
+    "start": "bun run src/index.ts",
+    "all": "bun start inject && bun start compress && bun start hdi"
   },
   "dependencies": {
     "iconv-lite": "^0.7.1"

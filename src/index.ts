@@ -8,13 +8,15 @@ import { decompressDirectory } from "./decompress.ts";
 import { compressDirectory } from "./compress.ts";
 import { extractDirectory } from "./extract.ts";
 import { injectDirectory } from "./inject.ts";
-import { loadConfig, getDirectories } from "./config.ts";
+import { importDirectoryToHdi } from "./hdi.ts";
+import { loadConfig, getDirectories, getHdiFile } from "./config.ts";
 
 const COMMANDS = {
   DECOMPRESS: "decompress",
   COMPRESS: "compress",
   EXTRACT: "extract",
   INJECT: "inject",
+  HDI: "hdi",
   HELP: "help",
 };
 
@@ -24,11 +26,13 @@ const COMMAND_ALIASES: Record<string, string> = {
   "c": "compress",
   "e": "extract",
   "i": "inject",
-  "h": "help",
+  "h": "hdi",
+  "help": "help",
 };
 
 function printHelp() {
   const dirs = getDirectories();
+  const hdiFile = getHdiFile();
   console.log(`
 Eve Burst Error 翻译工具
 
@@ -39,8 +43,9 @@ Eve Burst Error 翻译工具
   d/decompress    解压日语 CC 文件（${dirs.jpCC} ==> ${dirs.decompressJPCC}）
   c/compress      压缩英语 CC 文件（${dirs.decompressENCC} ==> ${dirs.enCC}）
   e/extract       提取日语文本    （${dirs.decompressJPCC} ==> ${dirs.jpTXT}）
-  i/inject        注入英语文本TODO（${dirs.enTXT} ==> ${dirs.decompressENCC}）
-  h/help          显示此帮助信息
+  i/inject        注入英语文本    （${dirs.enTXT} ==> ${dirs.decompressENCC}）
+  h/hdi           导入 CC 文件到 HDI 镜像（${dirs.enCC} ==> ${hdiFile}:/EVE/）
+  help            显示此帮助信息
 
 配置目录 (从 config.json 读取):
   日语脚本: ${dirs.jpCC}
@@ -49,6 +54,7 @@ Eve Burst Error 翻译工具
   解压英语脚本: ${dirs.decompressENCC}
   日语文本: ${dirs.jpTXT}
   英语文本: ${dirs.enTXT}
+  HDI 镜像: ${hdiFile}
 
 示例:
   # 解压日语脚本
@@ -62,6 +68,9 @@ Eve Burst Error 翻译工具
 
   # 注入英语文本
   bun start i (or inject)
+
+  # 导入 CC 文件到 HDI 镜像
+  bun start h (or hdi)
 `);
 }
 
@@ -129,6 +138,17 @@ async function main() {
         console.log("\n✓ 文本注入完成");
       } catch (error: any) {
         console.error(`\n✗ 文本注入失败: ${error.message}`);
+        process.exit(1);
+      }
+      break;
+    }
+
+    case COMMANDS.HDI: {
+      try {
+        await importDirectoryToHdi(dirs.enCC);
+        console.log("\n✓ HDI 镜像导入完成");
+      } catch (error: any) {
+        console.error(`\n✗ HDI 镜像导入失败: ${error.message}`);
         process.exit(1);
       }
       break;

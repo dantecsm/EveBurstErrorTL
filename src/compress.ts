@@ -14,7 +14,7 @@ const HEADER_SIZE = 0x18;
  * @param outputPath 输出文件路径（压缩后的文件）
  */
 export async function compressCC(inputPath: string, outputPath: string): Promise<void> {
-  console.log(`压缩: ${inputPath} -> ${outputPath}`);
+  console.log(`Compressing: ${inputPath} -> ${outputPath}`);
 
   // 读取输入文件
   const inputBuffer = readFileSync(inputPath);
@@ -57,10 +57,6 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
 
     // 写入最终输出文件
     writeFileSync(outputPath, resultBuffer);
-
-    console.log(`  原始大小: ${inputBuffer.length} 字节`);
-    console.log(`  压缩后大小: ${resultBuffer.length} 字节`);
-    console.log(`  压缩率: ${((1 - resultBuffer.length / inputBuffer.length) * 100).toFixed(2)}%`);
   } finally {
     // 清理临时文件
     const tempFiles = [tempUncompressed, tempCompressed];

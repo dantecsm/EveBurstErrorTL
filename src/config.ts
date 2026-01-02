@@ -17,6 +17,7 @@ export interface DirectoriesConfig {
 
 export interface Config {
   directories: DirectoriesConfig;
+  hdiFile: string;
 }
 
 let configCache: Config | null = null;
@@ -71,4 +72,12 @@ export function getDirectories(): DirectoriesConfig {
  */
 export function resetConfigCache(): void {
   configCache = null;
+}
+
+/*
+ * 获取 hdi 文件
+ * @returns hdi 文件路径
+ */
+export function getHdiFile(): string {
+  return getConfig().hdiFile;
 }

@@ -135,7 +135,8 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
 
     for (const fileName of ccFiles) {
         const ccPath = path.join(inputDir, fileName);
-        const txtPath = path.join(txtDir, fileName.replace(".CC", ".txt"));
+        const txtFileName = fileName.replace(".CC", ".txt");
+        const txtPath = path.join(txtDir, txtFileName);
         const outputPath = path.join(outputDir, fileName);
 
         // 检查对应的文本文件是否存在
@@ -144,7 +145,7 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
             continue;
         }
 
-        console.log(`注入: ${fileName}`);
+        console.log(`Injecting: ${txtFileName} -> ${fileName}`);
 
         const result = injectFile(ccPath, txtPath, outputPath);
 

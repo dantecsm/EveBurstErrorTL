@@ -6,5 +6,6 @@
     "decompressENCC": "data/decompress EN CC",
     "jpTXT": "data/JP TXT",
     "enTXT": "data/EN TXT"
-  }
+  },
+  "hdiFile": "./Eve Burst Error.hdi"
 }

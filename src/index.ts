@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
- * Eve Burst Error 翻译工具
- * 用于解压和压缩游戏脚本文件
+ * Eve Burst Error Translation Tool
+ * For decompressing and compressing game script files
  */
 
 import { decompressDirectory } from "./decompress.ts";
@@ -20,7 +20,7 @@ const COMMANDS = {
   HELP: "help",
 };
 
-// 命令快捷键映射
+// Command shortcut mapping
 const COMMAND_ALIASES: Record<string, string> = {
   "d": "decompress",
   "c": "compress",
@@ -34,52 +34,52 @@ function printHelp() {
   const dirs = getDirectories();
   const hdiFile = getHdiFile();
   console.log(`
-Eve Burst Error 翻译工具
+Eve Burst Error Translation Tool
 
-用法:
-  bun start <命令>
+Usage:
+  bun start <command>
 
-命令:
-  d/decompress    解压日语 CC 文件（${dirs.jpCC} ==> ${dirs.decompressJPCC}）
-  c/compress      压缩英语 CC 文件（${dirs.decompressENCC} ==> ${dirs.enCC}）
-  e/extract       提取日语文本    （${dirs.decompressJPCC} ==> ${dirs.jpTXT}）
-  i/inject        注入英语文本    （${dirs.enTXT} ==> ${dirs.decompressENCC}）
-  h/hdi           导入 CC 文件到 HDI 镜像（${dirs.enCC} ==> ${hdiFile}:/EVE/）
-  help            显示此帮助信息
+Commands:
+  d/decompress    Decompress Japanese CC files (${dirs.jpCC} ==> ${dirs.decompressJPCC})
+  c/compress      Compress English CC files (${dirs.decompressENCC} ==> ${dirs.enCC})
+  e/extract       Extract Japanese text (${dirs.decompressJPCC} ==> ${dirs.jpTXT})
+  i/inject        Inject English text (${dirs.enTXT} ==> ${dirs.decompressENCC})
+  h/hdi           Import CC files to HDI image (${dirs.enCC} ==> ${hdiFile}:/EVE/)
+  help            Show this help message
 
-配置目录 (从 config.json 读取):
-  日语脚本: ${dirs.jpCC}
-  英语脚本: ${dirs.enCC}
-  解压日语脚本: ${dirs.decompressJPCC}
-  解压英语脚本: ${dirs.decompressENCC}
-  日语文本: ${dirs.jpTXT}
-  英语文本: ${dirs.enTXT}
-  HDI 镜像: ${hdiFile}
+Configuration directories (from config.json):
+  Japanese scripts: ${dirs.jpCC}
+  English scripts: ${dirs.enCC}
+  Decompressed Japanese scripts: ${dirs.decompressJPCC}
+  Decompressed English scripts: ${dirs.decompressENCC}
+  Japanese text: ${dirs.jpTXT}
+  English text: ${dirs.enTXT}
+  HDI image: ${hdiFile}
 
-示例:
-  # 解压日语脚本
+Examples:
+  # Decompress Japanese scripts
   bun start d (or decompress)
 
-  # 压缩英语脚本
+  # Compress English scripts
   bun start c (or compress)
 
-  # 提取日语文本
+  # Extract Japanese text
   bun start e (or extract)
 
-  # 注入英语文本
+  # Inject English text
   bun start i (or inject)
 
-  # 导入 CC 文件到 HDI 镜像
+  # Import CC files to HDI image
   bun start h (or hdi)
 `);
 }
 
 async function main() {
-  // 加载配置
+  // Load configuration
   try {
     loadConfig();
   } catch (error: any) {
-    console.error(`错误: ${error.message}`);
+    console.error(`Error: ${error.message}`);
     process.exit(1);
   }
 
@@ -87,12 +87,12 @@ async function main() {
 
   if (args.length === 0) {
     printHelp();
-    return; // 正常退出，不返回错误码
+    return; // Normal exit, no error code
   }
 
   const dirs = getDirectories();
 
-  // 解析命令（支持快捷键）
+  // Parse command (support shortcuts)
   let command = args[0];
   if (command && COMMAND_ALIASES[command]) {
     command = COMMAND_ALIASES[command];
@@ -102,9 +102,9 @@ async function main() {
     case COMMANDS.DECOMPRESS: {
       try {
         decompressDirectory(dirs.jpCC, dirs.decompressJPCC);
-        console.log("\n✓ 批量解压完成");
+        console.log("\n✓ Batch decompression completed");
       } catch (error: any) {
-        console.error(`\n✗ 批量解压失败: ${error.message}`);
+        console.error(`\n✗ Batch decompression failed: ${error.message}`);
         process.exit(1);
       }
       break;
@@ -113,9 +113,9 @@ async function main() {
     case COMMANDS.COMPRESS: {
       try {
         compressDirectory(dirs.decompressENCC, dirs.enCC);
-        console.log("\n✓ 批量压缩完成");
+        console.log("\n✓ Batch compression completed");
       } catch (error: any) {
-        console.error(`\n✗ 批量压缩失败: ${error.message}`);
+        console.error(`\n✗ Batch compression failed: ${error.message}`);
         process.exit(1);
       }
       break;
@@ -124,9 +124,9 @@ async function main() {
     case COMMANDS.EXTRACT: {
       try {
         extractDirectory(dirs.decompressJPCC, dirs.jpTXT);
-        console.log("\n✓ 文本提取完成");
+        console.log("\n✓ Text extraction completed");
       } catch (error: any) {
-        console.error(`\n✗ 文本提取失败: ${error.message}`);
+        console.error(`\n✗ Text extraction failed: ${error.message}`);
         process.exit(1);
       }
       break;
@@ -135,9 +135,9 @@ async function main() {
     case COMMANDS.INJECT: {
       try {
         injectDirectory(dirs.decompressJPCC, dirs.enTXT, dirs.decompressENCC);
-        console.log("\n✓ 文本注入完成");
+        console.log("\n✓ Text injection completed");
       } catch (error: any) {
-        console.error(`\n✗ 文本注入失败: ${error.message}`);
+        console.error(`\n✗ Text injection failed: ${error.message}`);
         process.exit(1);
       }
       break;
@@ -146,9 +146,9 @@ async function main() {
     case COMMANDS.HDI: {
       try {
         await importDirectoryToHdi(dirs.enCC);
-        console.log("\n✓ HDI 镜像导入完成");
+        console.log("\n✓ HDI image import completed");
       } catch (error: any) {
-        console.error(`\n✗ HDI 镜像导入失败: ${error.message}`);
+        console.error(`\n✗ HDI image import failed: ${error.message}`);
         process.exit(1);
       }
       break;
@@ -162,16 +162,16 @@ async function main() {
     }
 
     default: {
-      console.error(`错误: 未知命令 "${command}"`);
-      console.error('运行 "bun index help" 查看帮助信息');
+      console.error(`Error: Unknown command "${command}"`);
+      console.error('Run "bun index help" to see help information');
       process.exit(1);
     }
   }
 }
 
-// 运行主程序
+// Run main program
 main().catch((error) => {
-  console.error(`发生错误: ${error.message}`);
+  console.error(`An error occurred: ${error.message}`);
   console.error(error.stack);
   process.exit(1);
 });

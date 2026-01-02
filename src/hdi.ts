@@ -1,18 +1,18 @@
 /**
- * HDI 镜像文件处理模块
- * 将翻译后的 CC 文件导入到 HDI 镜像中
+ * HDI image file processing module
+ * Import translated CC files into HDI image
  */
 
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import path from "path";
 import { getDirectories, getHdiFile } from "./config.js";
 
-// 导入 replaceHdiFile.js 模块
-// 注意：这是一个 CommonJS 模块，需要动态导入
+// Import replaceHdiFile.js module
+// Note: This is a CommonJS module, requires dynamic import
 let FatImage: any;
 
 /**
- * 初始化 FatImage 模块
+ * Initialize FatImage module
  */
 async function initFatImage() {
     if (!FatImage) {
@@ -23,10 +23,10 @@ async function initFatImage() {
 }
 
 /**
- * 将单个 CC 文件导入到 HDI 镜像
- * @param hdiPath HDI 镜像文件路径
- * @param ccFilePath CC 文件路径
- * @param targetPath 目标路径（在 HDI 镜像中）
+ * Import a single CC file to HDI image
+ * @param hdiPath HDI image file path
+ * @param ccFilePath CC file path
+ * @param targetPath Target path (in HDI image)
  */
 async function importFileToHdi(
     hdiPath: string,
@@ -35,19 +35,19 @@ async function importFileToHdi(
 ): Promise<void> {
     const FatImageClass = await initFatImage();
     
-    console.log(`Importing: ${path.basename(ccFilePath)} -> ${targetPath}`);
+    console.log(`  Importing: ${path.basename(ccFilePath)} -> ${targetPath}`);
     
-    // 读取 CC 文件数据
+    // Read CC file data
     const ccData = readFileSync(ccFilePath);
     
-    // 打开 HDI 镜像
+    // Open HDI image
     const img = new FatImageClass(hdiPath);
     
     try {
-        // 替换文件
+        // Replace file
         img.replaceFile(targetPath, ccData);
     } finally {
-        // 关闭 HDI 镜像
+        // Close HDI image
         img.close();
     }
 }
@@ -63,40 +63,40 @@ export async function importDirectoryToHdi(
     hdiPath?: string,
     targetDir: string = "/EVE/"
 ): Promise<void> {
-    // 从配置文件获取路径
+    // Get paths from configuration file
     const dirs = getDirectories();
     const sourceDir = ccDir || dirs.enCC;
     const hdiFile = hdiPath || getHdiFile();
     
-    console.log(`导入 CC 文件到 HDI 镜像:`);
-    console.log(`  源目录: ${sourceDir}`);
-    console.log(`  HDI 文件: ${hdiFile}`);
-    console.log(`  目标目录: ${targetDir}`);
+    console.log(`Importing CC files to HDI image:`);
+    console.log(`  Source directory: ${sourceDir}`);
+    console.log(`  HDI file: ${hdiFile}`);
+    console.log(`  Target directory: ${targetDir}`);
     
-    // 检查源目录是否存在
+    // Check if source directory exists
     if (!existsSync(sourceDir)) {
-        throw new Error(`源目录不存在: ${sourceDir}`);
+        throw new Error(`Source directory does not exist: ${sourceDir}`);
     }
     
-    // 检查 HDI 文件是否存在
+    // Check if HDI file exists
     if (!existsSync(hdiFile)) {
-        throw new Error(`HDI 文件不存在: ${hdiFile}`);
+        throw new Error(`HDI file does not exist: ${hdiFile}`);
     }
     
-    // 读取目录中的所有 .CC 文件
+    // Read all .CC files in directory
     const ccFiles = readdirSync(sourceDir).filter((f) => f.endsWith(".CC"));
     
     if (ccFiles.length === 0) {
-        console.log("  没有找到 .CC 文件");
+        console.log("  No .CC files found");
         return;
     }
     
-    console.log(`  找到 ${ccFiles.length} 个文件`);
+    console.log(`  Found ${ccFiles.length} files`);
     
     let successCount = 0;
     let failCount = 0;
     
-    // 逐个导入文件
+    // Import files one by one
     for (const fileName of ccFiles) {
         const ccFilePath = path.join(sourceDir, fileName);
         const targetPath = path.posix.join(targetDir, fileName);
@@ -105,24 +105,24 @@ export async function importDirectoryToHdi(
             await importFileToHdi(hdiFile, ccFilePath, targetPath);
             successCount++;
         } catch (error: any) {
-            console.error(`  ✗ ${fileName}: 导入失败 - ${error.message}`);
+            console.error(`  ✗ ${fileName}: Import failed - ${error.message}`);
             failCount++;
         }
     }
     
-    console.log(`\n完成: ${successCount} 成功, ${failCount} 失败`);
+    console.log(`\nCompleted: ${successCount} successful, ${failCount} failed`);
     
     if (failCount > 0) {
-        throw new Error(`${failCount} 个文件导入失败`);
+        throw new Error(`${failCount} files failed to import`);
     }
 }
 
 /**
- * 导入单个 CC 文件到 HDI 镜像
- * @param fileName CC 文件名
- * @param ccDir CC 文件目录（可选，默认从配置读取）
- * @param hdiPath HDI 镜像文件路径（可选，默认从配置读取）
- * @param targetDir 目标目录（在 HDI 镜像中，默认为 /EVE/）
+ * Import a single CC file to HDI image
+ * @param fileName CC file name
+ * @param ccDir CC file directory (optional, defaults to config)
+ * @param hdiPath HDI image file path (optional, defaults to config)
+ * @param targetDir Target directory (in HDI image, defaults to /EVE/)
  */
 export async function importSingleFileToHdi(
     fileName: string,
@@ -137,22 +137,22 @@ export async function importSingleFileToHdi(
     const ccFilePath = path.join(sourceDir, fileName);
     const targetPath = path.posix.join(targetDir, fileName);
     
-    // 检查文件是否存在
+    // Check if file exists
     if (!existsSync(ccFilePath)) {
-        throw new Error(`CC 文件不存在: ${ccFilePath}`);
+        throw new Error(`CC file does not exist: ${ccFilePath}`);
     }
     
-    // 检查 HDI 文件是否存在
+    // Check if HDI file exists
     if (!existsSync(hdiFile)) {
-        throw new Error(`HDI 文件不存在: ${hdiFile}`);
+        throw new Error(`HDI file does not exist: ${hdiFile}`);
     }
     
-    console.log(`导入单个 CC 文件到 HDI 镜像:`);
-    console.log(`  源文件: ${ccFilePath}`);
-    console.log(`  HDI 文件: ${hdiFile}`);
-    console.log(`  目标路径: ${targetPath}`);
+    console.log(`Importing single CC file to HDI image:`);
+    console.log(`  Source file: ${ccFilePath}`);
+    console.log(`  HDI file: ${hdiFile}`);
+    console.log(`  Target path: ${targetPath}`);
     
     await importFileToHdi(hdiFile, ccFilePath, targetPath);
     
-    console.log(`✓ 导入完成`);
+    console.log(`✓ Import completed`);
 }

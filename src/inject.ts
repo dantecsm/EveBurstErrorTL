@@ -1,6 +1,6 @@
 /**
- * 将翻译文本注入到解压的 CC 文件中
- * 参考 retract_s.cpp 的实现
+ * Inject translated text into decompressed CC files
+ * Reference implementation from retract_s.cpp
  */
 
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
@@ -17,7 +17,7 @@ interface Result {
 }
 
 /**
- * 注入单个文件
+ * Inject a single file
  */
 function injectFile(
     ccPath: string,
@@ -30,7 +30,7 @@ function injectFile(
     const enTxtContent = readFileSync(txtPath, "utf-8");
     const enLines = enTxtContent.split("\n").filter(line => line !== "").map(line => line.replaceAll('\\', '\n'));
     if (textBlocks.length !== enLines.length) {
-        const error = `${txtPath} 行数与 ${ccPath} 抽离的文本数不匹配, ${enLines.length} !== ${textBlocks.length}`;
+        const error = `${txtPath} line count does not match extracted text count in ${ccPath}, ${enLines.length} !== ${textBlocks.length}`;
         if (!result.errors) result.errors = [];
         result.errors.push(error);
         result.fail = true;
@@ -45,17 +45,17 @@ function injectFile(
         const enLen = enBytes.length;
         if (enLen > 0xFF) {
             if (!result.warnings) result.warnings = [];
-            result.warnings.push(`    ❗ ${txtPath} 第 ${i + 1} 行英语超出 255 字节（长度: ${enLen}），无法插入`);
+            result.warnings.push(`    ❗ ${txtPath} line ${i + 1} English exceeds 255 bytes (length: ${enLen}), cannot insert`);
             result.halfSuccess = true;
             lostLines++;
             return;
         }
-        // 生成 enBuffer 为 0xFD enLen enBytes 00 的字节流
+        // Generate enBuffer as byte stream: 0xFD enLen enBytes 00
         const enBuffer = Buffer.from([0xFD, enLen, ...enBytes, 0x00]);
         block.enBuffer = enBuffer;
     });
 
-    // 修改 buffer 文件头长度
+    // Modify buffer file header length
     const oldLen = buffer.readUInt16LE(0x14);
     let newLen = oldLen;
     let totalOverLen = 0;
@@ -78,7 +78,7 @@ function injectFile(
     if (lostLines > 0) {
         result.halfSuccess = true;
         if (!result.warnings) result.warnings = [];
-        result.warnings?.push(`    ❗ ${txtPath} 共超出 ${totalOverLen} 个字节，有 ${lostLines} 行英语未注入`);
+        result.warnings?.push(`    ❗ ${txtPath} Total exceeded ${totalOverLen} bytes, ${lostLines} lines of English not injected`);
     }
 
     let newBuffer = Buffer.from(buffer) as Buffer;
@@ -108,26 +108,26 @@ function injectFile(
 }
 
 /**
- * 批量注入目录中的所有文件
+ * Batch inject all files in a directory
  */
 export function injectDirectory(inputDir: string, txtDir: string, outputDir: string): void {
-    console.log(`注入英语: ${inputDir} + ${txtDir} -> ${outputDir}`);
+    console.log(`Injecting English: ${inputDir} + ${txtDir} -> ${outputDir}`);
 
-    // 确保输出目录存在
+    // Ensure output directory exists
     if (!existsSync(outputDir)) {
         mkdirSync(outputDir, { recursive: true });
     }
 
-    // 读取输入目录中的所有 .CC 文件
+    // Read all .CC files in input directory
     const ccFiles = readdirSync(inputDir).filter((f) => f.endsWith(".CC"));
     // while (ccFiles.length > 1) ccFiles.pop();
 
     if (ccFiles.length === 0) {
-        console.log("  没有找到 .CC 文件");
+        console.log("  No .CC files found");
         return;
     }
 
-    console.log(`  找到 ${ccFiles.length} 个文件`);
+    console.log(`  Found ${ccFiles.length} files`);
 
     let successCount = 0;
     let halfSuccessCount = 0;
@@ -139,9 +139,9 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
         const txtPath = path.join(txtDir, txtFileName);
         const outputPath = path.join(outputDir, fileName);
 
-        // 检查对应的文本文件是否存在
+        // Check if corresponding text file exists
         if (!existsSync(txtPath)) {
-            console.log(`    ❗  ${fileName}: 没有对应的文本文件，跳过`);
+            console.log(`    ❗  ${fileName}: No corresponding text file, skipping`);
             continue;
         }
 
@@ -161,18 +161,18 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
             for (const errors of result.errors || []) {
                 console.error(errors);
             }
-            console.error(`  ✗ ${fileName}: 注入失败`);
+            console.error(`  ✗ ${fileName}: Injection failed`);
             failCount++;
         } else {
-            throw new Error("未知的注入结果");
+            throw new Error("Unknown injection result");
         }
     }
 
-    console.log(`\n完成: ${successCount} 成功, ${halfSuccessCount} 部分成功， ${failCount} 失败`);
+    console.log(`\nCompleted: ${successCount} successful, ${halfSuccessCount} partially successful, ${failCount} failed`);
 }
 
 function processEnText(enText: string): string {
-    // 每 53 个字符，若未有 \n 符，则在这 53 个字符里最后一次出现空格的位置后面加一个 \n 符
+    // Every 53 characters, if no \n symbol, add \n after the last space position within these 53 characters
     const maxWidth = 53;
     let width = 0;
     let lastSpacePos = -1;
@@ -196,7 +196,7 @@ function processEnText(enText: string): string {
             width = 0;
             if (lastSpacePos !== -1) {
                 chars[lastSpacePos] = '\n';
-                // 重置宽度为当前行自换行点起已有的字符数
+                // Reset width to the number of characters already in the current line since the break point
                 width = i - lastSpacePos;
                 lastSpacePos = -1;
             }
@@ -209,7 +209,7 @@ function processEnText(enText: string): string {
 function replaceBuffer(buffer: Buffer, subArrayToReplace: Buffer, replacementSubArray: Buffer, basePos: number = 0): { buffer: Buffer, pos: number} {
     const startPos = buffer.indexOf(subArrayToReplace, basePos);
     if (startPos === -1) {
-        throw `原文件找不到待替换区: ${Array.from(subArrayToReplace).map(n => n.toString(16).padStart(2, '0').toUpperCase())}`;
+        throw `Cannot find replacement area in original file: ${Array.from(subArrayToReplace).map(n => n.toString(16).padStart(2, '0').toUpperCase())}`;
     }
 
     const endPos = startPos + subArrayToReplace.length;

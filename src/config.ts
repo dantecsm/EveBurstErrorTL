@@ -1,6 +1,6 @@
 /**
- * 配置管理模块
- * 加载和管理项目配置
+ * Configuration management module
+ * Loads and manages project configuration
  */
 
 import { readFileSync, existsSync } from "node:fs";
@@ -23,9 +23,9 @@ export interface Config {
 let configCache: Config | null = null;
 
 /**
- * 加载配置文件
- * @param configPath 配置文件路径（可选，默认为项目根目录的 config.json）
- * @returns 配置对象
+ * Load configuration file
+ * @param configPath Configuration file path (optional, defaults to config.json in project root)
+ * @returns Configuration object
  */
 export function loadConfig(configPath?: string): Config {
   if (configCache) {
@@ -36,7 +36,7 @@ export function loadConfig(configPath?: string): Config {
   const path = configPath || defaultPath;
 
   if (!existsSync(path)) {
-    throw new Error(`配置文件不存在: ${path}`);
+    throw new Error(`Configuration file not found: ${path}`);
   }
 
   try {
@@ -44,13 +44,13 @@ export function loadConfig(configPath?: string): Config {
     configCache = JSON.parse(configContent) as Config;
     return configCache;
   } catch (error: any) {
-    throw new Error(`加载配置文件失败: ${error.message}`);
+    throw new Error(`Failed to load configuration file: ${error.message}`);
   }
 }
 
 /**
- * 获取配置对象
- * @returns 配置对象
+ * Get configuration object
+ * @returns Configuration object
  */
 export function getConfig(): Config {
   if (!configCache) {
@@ -60,23 +60,23 @@ export function getConfig(): Config {
 }
 
 /**
- * 获取目录配置
- * @returns 目录配置
+ * Get directory configuration
+ * @returns Directory configuration
  */
 export function getDirectories(): DirectoriesConfig {
   return getConfig().directories;
 }
 
 /**
- * 重置配置缓存（用于测试）
+ * Reset configuration cache (for testing)
  */
 export function resetConfigCache(): void {
   configCache = null;
 }
 
 /*
- * 获取 hdi 文件
- * @returns hdi 文件路径
+ * Get HDI file path
+ * @returns HDI file path
  */
 export function getHdiFile(): string {
   return getConfig().hdiFile;

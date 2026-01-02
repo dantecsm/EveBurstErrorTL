@@ -1,6 +1,6 @@
 /**
- * 解压 CC 文件
- * CC 文件格式：前0x14字节是头部，剩余部分是 LZSS 压缩数据
+ * Decompress CC files
+ * CC file format: First 0x18 bytes are header, remaining part is LZSS compressed data
  */
 
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
@@ -11,53 +11,53 @@ const LZSS_TOOL = "./src/utils/lzss-tool.exe";
 const HEADER_SIZE = 0x18;
 
 /**
- * 解压单个CC文件
- * @param inputPath 输入文件路径
- * @param outputPath 输出文件路径
+ * Decompress a single CC file
+ * @param inputPath Input file path
+ * @param outputPath Output file path
  */
 export function decompressCC(inputPath: string, outputPath: string): void {
   console.log(`Decompressing: ${inputPath} -> ${outputPath}`);
 
-  // 读取输入文件
+  // Read input file
   const inputBuffer = readFileSync(inputPath);
 
   if (inputBuffer.length < HEADER_SIZE) {
-    throw new Error(`文件太小 (${inputBuffer.length} 字节)，无法解压`);
+    throw new Error(`File too small (${inputBuffer.length} bytes), cannot decompress`);
   }
 
-  // 提取前0x18字节头部(包含4字节解压大小)
+  // Extract first 0x18 bytes header (contains 4 bytes decompressed size)
   const header = inputBuffer.subarray(0, HEADER_SIZE);
 
-  // 提取压缩数据部分（跳过前0x14字节）
+  // Extract compressed data part (skip first 0x14 bytes)
   const compressedData = inputBuffer.subarray(HEADER_SIZE - 4);
 
-  // 创建临时文件存储压缩数据
+  // Create temporary files to store compressed data
   const tempCompressed = `${outputPath}.temp.compressed`;
   const tempDecompressed = `${outputPath}.temp.decompressed`;
 
   try {
-    // 写入临时压缩文件
+    // Write temporary compressed file
     writeFileSync(tempCompressed, compressedData);
 
-    // 调用 lzss-tool 解压
+    // Call lzss-tool to decompress
     try {
       execSync(`"${LZSS_TOOL}" -d -a o4 -n 0x00 -R 0x01 "${tempCompressed}" "${tempDecompressed}"`, {
         stdio: "inherit",
       });
     } catch (error: any) {
-      throw new Error(`lzss-tool 解压失败: ${error.message}`);
+      throw new Error(`lzss-tool decompression failed: ${error.message}`);
     }
 
-    // 读取解压后的数据
+    // Read decompressed data
     const decompressedBuffer = readFileSync(tempDecompressed);
 
-    // 合并头部和解压后的数据
+    // Merge header and decompressed data
     const resultBuffer = Buffer.concat([header, decompressedBuffer]);
 
-    // 写入最终输出文件
+    // Write final output file
     writeFileSync(outputPath, resultBuffer);
   } finally {
-    // 清理临时文件
+    // Clean up temporary files
     const tempFiles = [tempCompressed, tempDecompressed];
     for (const file of tempFiles) {
       try {
@@ -67,35 +67,35 @@ export function decompressCC(inputPath: string, outputPath: string): void {
           execSync(`rm -f "${file}"`, { stdio: "ignore" });
         }
       } catch {
-        // 忽略删除失败
+        // Ignore deletion failures
       }
     }
   }
 }
 
 /**
- * 批量解压目录中的所有 CC 文件
- * @param inputDir 输入目录
- * @param outputDir 输出目录
+ * Batch decompress all CC files in a directory
+ * @param inputDir Input directory
+ * @param outputDir Output directory
  */
 export function decompressDirectory(inputDir: string, outputDir: string): void {
-  console.log(`\n批量解压目录: ${inputDir} -> ${outputDir}`);
+  console.log(`\nBatch decompressing directory: ${inputDir} -> ${outputDir}`);
 
-  // 确保输出目录存在
+  // Ensure output directory exists
   if (!existsSync(outputDir)) {
     mkdirSync(outputDir, { recursive: true });
   }
 
-  // 读取输入目录中的所有 .CC 文件
+  // Read all .CC files in input directory
   const allFiles = readdirSync(inputDir);
   const files = allFiles.filter(f => f.endsWith('.CC'));
 
   if (files.length === 0) {
-    console.log("  没有找到 .CC 文件");
+    console.log("  No .CC files found");
     return;
   }
 
-  console.log(`  找到 ${files.length} 个文件`);
+  console.log(`  Found ${files.length} files`);
 
   let successCount = 0;
   let failCount = 0;
@@ -113,5 +113,5 @@ export function decompressDirectory(inputDir: string, outputDir: string): void {
     }
   }
 
-  console.log(`\n完成: ${successCount} 成功, ${failCount} 失败`);
+  console.log(`\nCompleted: ${successCount} successful, ${failCount} failed`);
 }

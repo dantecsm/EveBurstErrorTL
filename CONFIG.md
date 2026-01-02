@@ -1,25 +1,23 @@
-# 配置文件说明
+# Configuration File Guide
 
-项目使用 `config.json` 文件来管理目录路径配置。
+The project uses the `config.json` file to manage directory path configurations.
 
-## 配置项说明
-定义项目中使用的各个目录路径：
+## Configuration Items
+Defines various directory paths used in the project:
 
-- `jpCC`: 日语游戏脚本目录（压缩）
-- `enCC`: 英语游戏脚本目录（压缩）
-- `decompressJPCC`: 解压的日语游戏脚本目录
-- `decompressENCC`: 解压的英语游戏脚本目录
-- `jpTXT`: 从日语脚本提取的文本目录
-- `enTXT`: 英语翻译文本目录
-- `hdiFile`: HDI 文件路径
+- `jpCC`: Japanese game script directory (compressed)
+- `enCC`: English game script directory (compressed)
+- `decompressJPCC`: Decompressed Japanese game script directory
+- `decompressENCC`: Decompressed English game script directory
+- `jpTXT`: Text directory extracted from Japanese scripts
+- `enTXT`: English translation text directory
+- `hdiFile`: HDI file path
 
-## 修改配置
+## Modifying Configuration
 
-如果需要修改目录路径，只需编辑 `config.json` 文件即可。
+To modify directory paths, simply edit the `config.json` file.
 
-### 示例：修改目录结构
-
-如果想要使用不同的目录结构：
+### Example: Modifying Directory Structure
 
 ```json
 {

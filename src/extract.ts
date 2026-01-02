@@ -1,6 +1,6 @@
 /**
- * 从解压的 CC 文件中提取文本
- * 参考 retract_s.cpp 的实现
+ * Extract text from decompressed CC files
+ * Reference implementation from retract_s.cpp
  */
 
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
@@ -8,25 +8,25 @@ import path from "path";
 import { extractTextBlocks } from "./utils/extractTextBlocks.js";
 
 /**
- * 批量提取目录中的所有 CC 文件
+ * Batch extract all CC files in a directory
  */
 export function extractDirectory(inputDir: string, outputDir: string): void {
-    console.log(`提取日语: ${inputDir} -> ${outputDir}`);
+    console.log(`Extracting Japanese: ${inputDir} -> ${outputDir}`);
 
-    // 确保输出目录存在
+    // Ensure output directory exists
     if (!existsSync(outputDir)) {
         mkdirSync(outputDir, { recursive: true });
     }
 
-    // 读取输入目录中的所有 .CC 文件
+    // Read all .CC files in input directory
     const files = readdirSync(inputDir).filter((f) => f.endsWith(".CC"));
 
     if (files.length === 0) {
-        console.log("  没有找到 .CC 文件");
+        console.log("  No .CC files found");
         return;
     }
 
-    console.log(`  找到 ${files.length} 个文件`);
+    console.log(`  Found ${files.length} files`);
 
     let successCount = 0;
     let failCount = 0;
@@ -36,7 +36,7 @@ export function extractDirectory(inputDir: string, outputDir: string): void {
         const outputPath = path.join(outputDir, fileName.replace(".CC", ".txt"));
 
         try {
-            console.log(`提取: ${inputPath} -> ${outputPath}`);
+            console.log(`Extracting: ${inputPath} -> ${outputPath}`);
 
             const buffer = readFileSync(inputPath);
             const textBlocks = extractTextBlocks(buffer);
@@ -45,7 +45,7 @@ export function extractDirectory(inputDir: string, outputDir: string): void {
             const outputContent = extractedTexts.join("\n") + "\n";
             writeFileSync(outputPath, outputContent, "utf-8");
 
-            console.log(`  提取了 ${extractedTexts.length} 行文本`);
+            console.log(`  Extracted ${extractedTexts.length} lines of text`);
             successCount++;
         } catch (error: any) {
             console.error(`  ✗ ${fileName}: ${error.message}`);
@@ -53,5 +53,5 @@ export function extractDirectory(inputDir: string, outputDir: string): void {
         }
     }
 
-    console.log(`\n完成: ${successCount} 成功, ${failCount} 失败`);
+    console.log(`\nCompleted: ${successCount} successful, ${failCount} failed`);
 }

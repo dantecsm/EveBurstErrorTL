@@ -1,8 +1,6 @@
 import iconv from "iconv-lite";
 
 const HEADER_SIZE = 0x14;
-const TEXT_MARKER = 0xFD;
-const ENCODING = "Shift_JIS";
 
 /**
  * 文本块接口
@@ -10,11 +8,10 @@ const ENCODING = "Shift_JIS";
 export interface TextBlock {
     position: number;      // 0xFD 标记的位置
     length: number;        // 文本长度（不包括 0xFD 和长度字节和终止符）
-    text: string;          // 解码后的文本
-    textBytes: Buffer;     // 原始字节（Shift_JIS 编码）
-    enText?: string;       // 要替换的英语文本（如果有）
-    enBytes?: Buffer;      // 英语文本的 Shift_JIS 编码（如果有）
-    skip?: boolean;        // 是否跳过替换（空间不足或编码失败）
+    jpText: string;        // 解码后的文本
+    enText: string;        // 要替换的英语文本（如果有）
+    jpBuffer: Buffer;      // 原始字节（0xFD + len + Shift_JIS 编码 + 00）
+    enBuffer: Buffer;      // 替换后的字节（0xFD + newLen + Shift_JIS 编码 + 00）
 }
 
 /**
@@ -30,7 +27,7 @@ export function extractTextBlocks(buffer: Buffer): TextBlock[] {
         const curCmdPos = ccPos;
         ccPos++;
 
-        if (cmd === TEXT_MARKER) {
+        if (cmd === 0xFD) {
             if (ccPos >= ccLen) break;
 
             // 验证文本结构
@@ -52,20 +49,17 @@ export function extractTextBlocks(buffer: Buffer): TextBlock[] {
                 continue;
             }
 
-            const textBytes = buffer.subarray(textStart, textEnd);
-            let decodedText: string;
-            try {
-                decodedText = iconv.decode(textBytes, ENCODING);
-            } catch (error) {
-                ccPos = curCmdPos + 1;
-                continue;
-            }
+            const textBuffer = buffer.subarray(textStart, textEnd);
+            const decodedText = iconv.decode(textBuffer, 'sjis');
+            const jpBuffer = buffer.subarray(curCmdPos, textEnd + 1);
 
             blocks.push({
                 position: curCmdPos,
                 length: lineLen,
-                text: decodedText,
-                textBytes: textBytes,
+                jpText: decodedText,
+                enText: decodedText,
+                jpBuffer,
+                enBuffer: Buffer.from(jpBuffer)
             });
 
             ccPos = textEnd + 1; // 跳过文本和终止符

@@ -4,7 +4,7 @@
  */
 
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
-import { join } from "node:path";
+import path from "path";
 import { extractTextBlocks } from "./utils/extractTextBlocks.js";
 
 /**
@@ -32,15 +32,15 @@ export function extractDirectory(inputDir: string, outputDir: string): void {
     let failCount = 0;
 
     for (const fileName of files) {
-        const inputPath = join(inputDir, fileName);
-        const outputPath = join(outputDir, fileName.replace(".CC", ".txt"));
+        const inputPath = path.join(inputDir, fileName);
+        const outputPath = path.join(outputDir, fileName.replace(".CC", ".txt"));
 
         try {
             console.log(`提取: ${inputPath} -> ${outputPath}`);
 
             const buffer = readFileSync(inputPath);
             const textBlocks = extractTextBlocks(buffer);
-            const extractedTexts: string[] = textBlocks.map(block => block.text.replace(/\n/g, "\\"));
+            const extractedTexts: string[] = textBlocks.map(block => block.jpText.replaceAll("\n", "\\"));
 
             const outputContent = extractedTexts.join("\n") + "\n";
             writeFileSync(outputPath, outputContent, "utf-8");

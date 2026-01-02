@@ -101,7 +101,7 @@ async function main() {
   switch (command) {
     case COMMANDS.DECOMPRESS: {
       try {
-        await decompressDirectory(dirs.jpCC, dirs.decompressJPCC);
+        decompressDirectory(dirs.jpCC, dirs.decompressJPCC);
         console.log("\n✓ 批量解压完成");
       } catch (error: any) {
         console.error(`\n✗ 批量解压失败: ${error.message}`);
@@ -112,7 +112,7 @@ async function main() {
 
     case COMMANDS.COMPRESS: {
       try {
-        await compressDirectory(dirs.decompressENCC, dirs.enCC);
+        compressDirectory(dirs.decompressENCC, dirs.enCC);
         console.log("\n✓ 批量压缩完成");
       } catch (error: any) {
         console.error(`\n✗ 批量压缩失败: ${error.message}`);

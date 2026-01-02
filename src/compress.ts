@@ -3,7 +3,9 @@
  * CC 文件格式：前0x14字节是头部，剩余部分需要用 LZSS 压缩
  */
 
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
+import { execSync } from "node:child_process";
+import { join } from "node:path";
 
 const LZSS_TOOL = "./src/utils/lzss-tool.exe";
 const HEADER_SIZE = 0x18;
@@ -13,7 +15,7 @@ const HEADER_SIZE = 0x18;
  * @param inputPath 输入文件路径（解压后的文件）
  * @param outputPath 输出文件路径（压缩后的文件）
  */
-export async function compressCC(inputPath: string, outputPath: string): Promise<void> {
+export function compressCC(inputPath: string, outputPath: string): void {
   console.log(`Compressing: ${inputPath} -> ${outputPath}`);
 
   // 读取输入文件
@@ -38,15 +40,12 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
     writeFileSync(tempUncompressed, uncompressedData);
 
     // 调用 lzss-tool 压缩
-    const compressProcess = Bun.spawn({
-      cmd: [LZSS_TOOL, "-e", "-n", "0x00", "-R", "0x01", tempUncompressed, tempCompressed],
-      stdout: "inherit",
-      stderr: "inherit",
-    });
-
-    const exitCode = await compressProcess.exited;
-    if (exitCode !== 0) {
-      throw new Error(`lzss-tool 压缩失败，退出码: ${exitCode}`);
+    try {
+      execSync(`"${LZSS_TOOL}" -e -n 0x00 -R 0x01 "${tempUncompressed}" "${tempCompressed}"`, {
+        stdio: "inherit",
+      });
+    } catch (error: any) {
+      throw new Error(`lzss-tool 压缩失败: ${error.message}`);
     }
 
     // 读取压缩后的数据
@@ -62,12 +61,11 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
     const tempFiles = [tempUncompressed, tempCompressed];
     for (const file of tempFiles) {
       try {
-        const rmProcess = Bun.spawn({
-          cmd: ["rm", "-f", file],
-          stdout: "inherit",
-          stderr: "inherit",
-        });
-        await rmProcess.exited;
+        if (process.platform === "win32") {
+          execSync(`del /F /Q "${file}"`, { stdio: "ignore" });
+        } else {
+          execSync(`rm -f "${file}"`, { stdio: "ignore" });
+        }
       } catch {
         // 忽略删除失败
       }
@@ -80,27 +78,18 @@ export async function compressCC(inputPath: string, outputPath: string): Promise
  * @param inputDir 输入目录（解压后的文件）
  * @param outputDir 输出目录（压缩后的文件）
  */
-export async function compressDirectory(inputDir: string, outputDir: string): Promise<void> {
+export function compressDirectory(inputDir: string, outputDir: string): void {
   console.log(`\n批量压缩目录: ${inputDir} -> ${outputDir}`);
 
   // 确保输出目录存在
-  await Bun.$`mkdir -p ${outputDir}`.quiet();
-const mkdirProcess = Bun.spawn({
-    cmd: ["mkdir", "-p", outputDir],
-    stdout: "inherit",
-    stderr: "inherit",
-  });
-  await mkdirProcess.exited
+  if (!existsSync(outputDir)) {
+    mkdirSync(outputDir, { recursive: true });
+  }
+
   // 读取输入目录中的所有 .CC 文件
-  const lsProcess = Bun.spawn({
-    cmd: ["ls", "-1", inputDir],
-    stdout: "pipe",
-  });
-  
-  const lsOutput = await new Response(lsProcess.stdout).text();
-  const allFiles = lsOutput.split('\n').filter(f => f.trim().length > 0);
+  const allFiles = readdirSync(inputDir);
   const files = allFiles.filter(f => f.endsWith('.CC'));
-  
+
   if (files.length === 0) {
     console.log("  没有找到 .CC 文件");
     return;
@@ -112,11 +101,11 @@ const mkdirProcess = Bun.spawn({
   let failCount = 0;
 
   for (const fileName of files) {
-    const inputPath = `${inputDir}/${fileName}`;
-    const outputPath = `${outputDir}/${fileName}`;
+    const inputPath = join(inputDir, fileName);
+    const outputPath = join(outputDir, fileName);
 
     try {
-      await compressCC(inputPath, outputPath);
+      compressCC(inputPath, outputPath);
       successCount++;
     } catch (error: any) {
       console.error(`  ✗ ${fileName}: ${error.message}`);

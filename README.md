@@ -58,3 +58,5 @@ Double-click `Workflow.bat` to launch the interactive menu.
 - Backslashes (`\`) in text files represent line breaks in the game
 - When a line exceeds 53 characters, the tool inserts a line break after the **last space** within those 53 characters.
 - If a decompressed CC script exceeds 65,559 bytes (0xFFFF + 24), some lines will remain in Japanese; reduce the total text length in the TXT file (either inserted or non-inserted lines) to stay within the limit.
+- Each line of text must not exceed 255 characters
+- If a line begins with 'GOTO '(uppercase), the following text is treated as a script name, causing the game to jump to that script. For example, `GOTO a001_6` will jump to `A001_6.CC` instead of displaying the dialogue.

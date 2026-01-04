@@ -55,6 +55,18 @@ function injectFile(
         block.enBuffer = enBuffer;
     });
 
+    // if text is a goto command, add 0x07 to the beginning of the buffer
+    textBlocks.forEach((block) => {
+        const isGoto = block.enText.startsWith('GOTO ');
+        const enText = block.enText.slice(5);
+        const enBytes = iconv.encode(enText, "sjis");
+        const enLen = enBytes.length;
+        if (isGoto) {
+            const enBuffer = Buffer.from([0x07, 0xFD, enLen, ...enBytes, 0x00]);
+            block.enBuffer = enBuffer;
+        }
+    })
+
     // Modify buffer file header length
     const oldLen = buffer.readUInt16LE(0x14);
     let newLen = oldLen;
@@ -90,7 +102,7 @@ function injectFile(
             const replaceResult = replaceBuffer(newBuffer, jpBuffer, enBuffer, basePos);
             newBuffer = replaceResult.buffer;
             basePos = replaceResult.pos;
-        } catch(e) {
+        } catch (e) {
             result.fail = true;
             if (!result.errors) result.errors = [];
             result.errors.push(e as any);
@@ -205,7 +217,7 @@ function processEnText(enText: string): string {
     return chars.join('');
 }
 
-function replaceBuffer(buffer: Buffer, subArrayToReplace: Buffer, replacementSubArray: Buffer, basePos: number = 0): { buffer: Buffer, pos: number} {
+function replaceBuffer(buffer: Buffer, subArrayToReplace: Buffer, replacementSubArray: Buffer, basePos: number = 0): { buffer: Buffer, pos: number } {
     const startPos = buffer.indexOf(subArrayToReplace, basePos);
     if (startPos === -1) {
         throw `Cannot find replacement area in original file: ${Array.from(subArrayToReplace).map(n => n.toString(16).padStart(2, '0').toUpperCase())}`;

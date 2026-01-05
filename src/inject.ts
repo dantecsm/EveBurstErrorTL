@@ -40,7 +40,7 @@ function injectFile(
 
     let lostLines = 0;
     textBlocks.forEach((block, i) => {
-        const enText = processEnText(block.enText);
+        const enText = block.enText;
         const enBytes = iconv.encode(enText, "sjis");
         const enLen = enBytes.length;
         if (enLen > 0xFF) {

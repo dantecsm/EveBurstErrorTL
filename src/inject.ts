@@ -183,8 +183,8 @@ export function injectDirectory(inputDir: string, txtDir: string, outputDir: str
 }
 
 function processEnText(enText: string): string {
-    // Every 53 characters, if no \n symbol, add \n after the last space position within these 53 characters
-    const maxWidth = 53;
+    // Every 52 characters, if no \n symbol, add \n after the last space position within these 52 characters
+    const maxWidth = 52;
     let width = 0;
     let lastSpacePos = -1;
     const chars = Array.from(enText);

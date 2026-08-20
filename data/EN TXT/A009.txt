@@ -687,7 +687,7 @@ a008
 　Speak
 　Order
 　Aqua
-Aqua] Okay, then let's go to the next one. How about the fourth one?
+Aqua] Okay, then let's go to the next one. How\about the fourth one?
 [Kojiroh] You look like your having fun.
 [Aqua] Oh, believe me. I am.
 [Kojiroh] Well, the fourth one is... The kid's the\result of having an affair with a married man?

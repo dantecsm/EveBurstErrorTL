@@ -1277,7 +1277,7 @@ eve_03
 I find the answering machine.
 I press the rewind button.
 [Kojiroh] Come on, where is it.
-The answering machine starts playing back the messages.
+The answering machine starts playing back the\messages.
 [Kojiroh] Alright! Here it is...
 [Voice] Hello, Mr. Amagi?
 [Kojiroh] Who is this?

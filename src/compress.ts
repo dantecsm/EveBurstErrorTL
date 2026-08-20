@@ -40,9 +40,10 @@ export function compressCC(inputPath: string, outputPath: string): void {
     writeFileSync(tempUncompressed, uncompressedData);
 
     // Call lzss-tool to compress
+    // (stdio: "ignore" hides the tool's "In/Out/Ratio" lines for compact output)
     try {
       execSync(`"${LZSS_TOOL}" -e -n 0x00 -R 0x01 "${tempUncompressed}" "${tempCompressed}"`, {
-        stdio: "inherit",
+        stdio: "ignore",
       });
     } catch (error: any) {
       throw new Error(`lzss-tool compression failed: ${error.message}`);

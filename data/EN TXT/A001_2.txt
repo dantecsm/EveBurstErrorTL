@@ -337,7 +337,7 @@ a002
 [Kojiroh] ...
 [Kojiroh] I know... It bugs me too...
 [Kojiroh] I'll ask Kou when I see him next time.
-I sit in front of the terminal and starting working.
+I sit in front of the terminal and starting\working.
 [Kojiroh] This should be good enough.
 [Kojiroh] The data's all in the terminal now.
 [Kojiroh] Like I really believe in a curse...
@@ -1199,7 +1199,7 @@ b03
 [Kojiroh] So...
 [Purin] ...
 [Kojiroh] (This is good... What a conversation...)
-Purin is just sitting there, waiting for me to say something.
+Purin is just sitting there, waiting for me to say\something.
 [Kojiroh] How are you?
 [Purin] Fine, thank you.
 [Kojiroh] It's a great day... Don't you think?

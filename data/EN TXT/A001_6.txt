@@ -30,11 +30,11 @@ eve_39
 --> eldi0
 --> eldia0
 Republic of Eldia0
-A developing country located on the southern part of the Arabian peninsula. Adheres very strictly to the commandments of Islam, and continues to oppose the intrusion of Western culture. A republican monarchy until last year when the king died.0
-At the same time, it joined the United Nations and began cultural reform, so, while it continues to remain Islamic, a blending of liberal customs and western culture is attracting much attention. Its major industries are minerals and tourism.0
+A developing country located on the southern part\of the Arabian peninsula. Adheres very strictly to\the commandments of Islam, and continues to oppose\the intrusion of Western culture. A republican\monarchy until last year when the king died.0
+At the same time, it joined the United Nations and\began cultural reform, so, while it continues to\remain Islamic, a blending of liberal customs and\western culture is attracting much attention. Its\major industries are minerals and tourism.0
 ** Warning level.5 **0
-There is question as to whether or not the king was assassinated.0
-This is surmised from information on International ID number B12AJ23...0
+There is question as to whether or not the king was\assassinated.0
+This is surmised from information on International\ID number B12AJ23...0
 ...Code name "Terror"0
 [Kyoko] This has got to be the same guy...
 Search a database\Press number to select0
@@ -51,13 +51,13 @@ Input subject words. (end: enter_key)\-->0
 --> eldi0
 --> eldia0
 Republic of Eldia0
-A developing country located on the southern part of the Arabian peninsula. Adheres very strictly to the commandments of Islam, and continues to oppose the intrusion of Western culture. A republican monarchy until last year when the king died.0
-At the same time, it joined the United Nations and began cultural reform, so, while it continues to remain Islamic, a blending of liberal customs and western culture is attracting much attention. Its major industries are minerals and tourism.
+A developing country located on the southern part\of the Arabian peninsula. Adheres very strictly to\the commandments of Islam, and continues to oppose\the intrusion of Western culture. A republican\monarchy until last year when the king died.0
+At the same time, it joined the United Nations and\began cultural reform, so, while it continues to\remain Islamic, a blending of liberal customs and\western culture is attracting much attention. Its\major industries are minerals and tourism.
 [Kojiroh] It's like a mass communications report.\Not too helpful.
 [Kyoko] What the hell...0
 ** Warning level.5 **0
-There is question as to whether or not the king was assassinated.0
-This is surmised from information regarding International ID number B12AJ23...0
+There is question as to whether or not the king was\assassinated.0
+This is surmised from information regarding\International ID number B12AJ23...0
 ...Code name "Terror"0
 [Kyoko] It's flashing a warning at us!
 [Kojiroh] "Terror"...So this is what Siria was\talking about.
@@ -100,13 +100,13 @@ Input subject words. (end: enter_key)\-->0
 --> eldia and politcal syste0
 --> eldia and politcal system0
 Republic of Eldia and political system0
-Though they call themselves a republic, Eldia is actually a monarchic republic with a king. The king is the one who chooses the prime minister and all others in power, and has the final word in running the government. Congress only has the power to enter into treaties.0
-Last year the king passed away, and real power fell into the hands of the present cabinet. Currently Eldia is undergoing a rapid reform. Reform in the nation's laws and administration of justice are accompanying its transformation into a people's republic.0
+Though they call themselves a republic, Eldia is\actually a monarchic republic with a king. The king\is the one who chooses the prime minister and all\others in power, and has the final word in running\the government. Congress only has the power to\enter into treaties.0
+Last year the king passed away, and real power fell\into the hands of the present cabinet. Currently\Eldia is undergoing a rapid reform. Reform in the\nation's laws and administration of justice are\accompanying its transformation into a people's\republic.0
 ** Warning level.5 **0
-It is suspected that the king may have been assassinated by "Terror."0
-The Eldian Prime minister's abilities are praised in many foreign countries.0
-There has been no internal strife regarding inheritance to the throne.0
-Republic of Eldia, political rating: C+, stability: B0
+It is suspected that the king may have been\assassinated by "Terror."0
+The Eldian Prime minister's abilities are praised\in many foreign countries.0
+There has been no internal strife regarding\inheritance to the throne.0
+Republic of Eldia, political rating: C+, stability:\B0
 [Kojiroh] ...
 [Kyoko] Let's keep going.
 Search a database\Press number to select0
@@ -143,13 +143,13 @@ Input subject words. (end: enter_key)\-->0
 --> eldia and politcal syste0
 --> eldia and politcal system0
 Republic of Eldia and political system0
-Though they call themselves a republic, Eldia is actually a monarchic republic with a king. The king is the one who chooses the prime minister and all others in power, and has the final word in running the government. Congress only has the power to enter into treaties.0
-Last year the king passed away, and real power fell into the hands of the present cabinet. Currently Eldia is undergoing a rapid reform. Reform in the nation's laws and administration of justice are accompanying its transformation into a people's republic.0
+Though they call themselves a republic, Eldia is\actually a monarchic republic with a king. The king\is the one who chooses the prime minister and all\others in power, and has the final word in running\the government. Congress only has the power to\enter into treaties.0
+Last year the king passed away, and real power fell\into the hands of the present cabinet. Currently\Eldia is undergoing a rapid reform. Reform in the\nation's laws and administration of justice are\accompanying its transformation into a people's\republic.0
 ** warning level.5 **0
-It is suspected that the king may have been assassinated by "Terror."0
-The Eldian Prime minister's abilities are praised in many foreign countries.0
-There has been no internal strife regarding inheritance to the throne.0
-Republic of Eldia, political rating: C+, stability: B0
+It is suspected that the king may have been\assassinated by "Terror."0
+The Eldian Prime minister's abilities are praised\in many foreign countries.0
+There has been no internal strife regarding\inheritance to the throne.0
+Republic of Eldia, political rating: C+, stability:\B0
 [Kojiroh] "Terror" assassinated the king...
 [Kyoko] The bureaucrats don't seem to think Eldia's\such a hot place.
 [Kojiroh] Something's up with the timing of the\reform.
@@ -239,12 +239,12 @@ Input subject words. (end: enter_key)\-->0
 --> stoleman k0
 --> stoleman ko0
 Stoleman Kou0
-Height: 6'0"  Weight: 190 lbs.  Nationality: Republic of Eldia  \Birthday: 01/02  Age: 35  Address: (*1)\n(*1) Refer to the abstract on his family register.0
-Yale International School President, Grandfather (deceased) worked as a butler under the Eldian royal family, Father (deceased) was head of the former Eldia Science Ministry, Counsel to the King, he established an endowment for education, Founder of the international school.0
+Height: 6'0"  Weight: 190 lbs.  Nationality:\Republic of Eldia  \Birthday: 01/02  Age: 35  Address: (*1)\n(*1) Refer to the abstract on his family\register.0
+Yale International School President, Grandfather\(deceased) worked as a butler under the Eldian\royal family, Father (deceased) was head of the\former Eldia Science Ministry, Counsel to the King,\he established an endowment for education, Founder\of the international school.0
 ** Warning level.3 **0
-He is suspected for embezzlement. Currently being investigated by Kyoko Himuro of the S.O.B.0
+He is suspected for embezzlement. Currently being\investigated by Kyoko Himuro of the S.O.B.0
 ** Warning level.5 **0
-The investigation is presently suspended by orders from the Investigative Cabinet offices.0
+The investigation is presently suspended by orders\from the Investigative Cabinet offices.0
 [Kyoko] That's the way it goes...
 Search a database\Press number to select0
 1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
@@ -269,17 +269,17 @@ Input subject words. (end: enter_key)\-->0
 --> stoleman k0
 --> stoleman ko0
 Stoleman Kou0
-Height: 6'0"  Weight: 190 lbs.  Nationality: Republic of Eldia  \Birthday: 01/02  Age: 35  Address: (*1)\n(*1) Refer to the abstract on his family register.0
-President of Yale International School, Grandfather (deceased) worked as a butler under the Eldian royal family, Father (deceased) was head of the former Eldia Bureau of Science, Counsel to the king, he established an endowment for education, Founder of the International school.0
+Height: 6'0"  Weight: 190 lbs.  Nationality:\Republic of Eldia  \Birthday: 01/02  Age: 35  Address: (*1)\n(*1) Refer to the abstract on his family\register.0
+President of Yale International School, Grandfather\(deceased) worked as a butler under the Eldian\royal family, Father (deceased) was head of the\former Eldia Bureau of Science, Counsel to the\king, he established an endowment for education,\Founder of the International school.0
 [Kojiroh] His grandfather was a butler, his father\was president of the Bureau of Science, and he's\president of a school.
 [Kyoko] They've been serving Eldia for generations.
 [Kojiroh] The Bureau of Science isn't around\anymore then... Does that mean it was shut down?
 [Kyoko] It could just be that they changed the name\and became a different organization.
 [Kojiroh] ...
 ** Warning level.3 **0
-He is suspected for embezzlement. Currently being investigated by Kyoko Himuro of the S.O.B.0
+He is suspected for embezzlement. Currently being\investigated by Kyoko Himuro of the S.O.B.0
 ** Warning level.5 **0
-The investigation is presently suspended by orders from the Investigative Cabinet offices.0
+The investigation is presently suspended by orders\from the Investigative Cabinet offices.0
 [Kyoko] ...
 [Kojiroh] You're acting cooler than I'd expect.
 [Kyoko] What do you mean?
@@ -296,9 +296,9 @@ Input subject words. (end: enter_key)\-->0
 [Kyoko] No matter how many times we investigate we\come up with the same... Wait a sec!0
 --> mido and ambassador0
 Ross Mido, Ambassador of the Eldian Republic0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 ** Warning level.# **0
 Cannot access... Need higher clearance0
 [Kyoko] Higher clearance?0
@@ -309,9 +309,9 @@ Press number to select\--> 50
 Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 Ross Mido, Ambassador of the Eldian Republic0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 ** Warning level.# **0
 Cannot access... Need higher clearance0
 Search a database\Press number to select0
@@ -367,9 +367,9 @@ Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 --> mido and ambassador0
 Ross Mido, Ambassador of the Eldian Republic0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 [Kojiroh] That's not it...
 [Kyoko] We couldn't have made a mistake, could we?
 [Kojiroh] ...
@@ -402,9 +402,9 @@ Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 --> mido and ambassador0
 Ross Mido, Ambassador of the Eldian Republic0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 [Kojiroh] I thought we'd get more out of this...
 [Kyoko] Yeah, I know...
 ** Warning level.# **0
@@ -442,9 +442,9 @@ Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 --> mido and ambassador0
 Ross Mido, Ambassador of the Eldian Republic0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 [Kojiroh] PRESIDENT of the Department of\Intelligence?!
 [Kyoko] Yeah, but it says "former."
 [Kojiroh] So the president himself dissolved the\Department of Intelligence.
@@ -470,13 +470,13 @@ Input subject words. (end: enter_key)\-->0
 --> terr0
 --> terro0
 --> terror0
-"Terror" \International ID Number: B12AJ23 code name "Terror"0
-An assassin whose weapon of choice is the blade, works in the Middle East. True identity: unknown, sex: unknown, race: unknown, age: unknown, success rate in attempted assassinations: 100%, uses knife officially adopted by the Eldian army.0
-It's not uncommon for "Terror" to kill for political reasons. An extremely dangerous individual.0
+"Terror" \International ID Number: B12AJ23 code name\"Terror"0
+An assassin whose weapon of choice is the blade,\works in the Middle East. True identity: unknown,\sex: unknown, race: unknown, age: unknown, success\rate in attempted assassinations: 100%, uses knife\officially adopted by the Eldian army.0
+It's not uncommon for "Terror" to kill for\political reasons. An extremely dangerous\individual.0
 ** Warning level.5 **0
 Currently in Japan.0
 A public safety unit has been dispatched.0
-The investigative cabinet is currently in the process of a criminal investigation.0
+The investigative cabinet is currently in the\process of a criminal investigation.0
 [Kyoko] Is that good enough?
 [Kojiroh] You bet it is.
 Search a database\Press number to select0
@@ -493,9 +493,9 @@ Input subject words. (end: enter_key)\-->0
 --> terr0
 --> terro0
 --> terror0
-"Terror" \International ID Number: B12AJ23 code name "Terror"0
-An assassin whose weapon of choice is the blade, works in the Middle East. True identity: unknown, sex: unknown, race: unknown, age: unknown, success rate in attempted assassinations: 100%, uses knife officially adopted by the Eldian army.0
-It's not uncommon for "Terror" to kill for political reasons. An extremely dangerous individual. Suspected killer of Stoleman Kou, Nikaido.0
+"Terror" \International ID Number: B12AJ23 code name\"Terror"0
+An assassin whose weapon of choice is the blade,\works in the Middle East. True identity: unknown,\sex: unknown, race: unknown, age: unknown, success\rate in attempted assassinations: 100%, uses knife\officially adopted by the Eldian army.0
+It's not uncommon for "Terror" to kill for\political reasons. An extremely dangerous\individual. Suspected killer of Stoleman Kou,\Nikaido.0
 [Kojiroh] What the heck is this... James Bond or\something?
 [Kyoko] I can't believe there's a killer like this\in this age of internationalization.
 [Kojiroh] That, my dear, is caused by the collapse\of honor in the police force.
@@ -505,7 +505,7 @@ It's not uncommon for "Terror" to kill for political reasons. An extremely dange
 ** Warning level.5 **0
 Currently in Japan.0
 A public safety unit has been dispatched.0
-The investigative cabinet is currently in the process of a criminal investigation.0
+The investigative cabinet is currently in the\process of a criminal investigation.0
 [Kojiroh] Jesus Christ! This guy's sure causing a\hell of a fuss...
 [Kyoko] So the Director must have also been hit by\this "Terror" guy?
 [Kojiroh] Perhaps. Although I can't think what the\motive would be.
@@ -533,12 +533,12 @@ Input subject words. (end: enter_key)\-->0
 --> mido mayak0
 --> mido mayako0
 Mayako Mido0
-Height: 5'5"  Weight: 104 lb.  Nationality: Republic of Eldia  \Birthday: 12/07  Age: 18  Address: Eldian Embassy0
-Eldian Ambassador Mido's daughter. Mother died two years ago from a terrorist bomb. Currently attending Yale International School. (Note: Missing from school since 12/05)0
+Height: 5'5"  Weight: 104 lb.  Nationality:\Republic of Eldia  \Birthday: 12/07  Age: 18  Address: Eldian\Embassy0
+Eldian Ambassador Mido's daughter. Mother died two\years ago from a terrorist bomb. Currently\attending Yale International School. (Note: Missing\from school since 12/05)0
 ** Warning level.5 **0
-Class 1 investigator Marina Hojo is now acting as her bodyguard.0
+Class 1 investigator Marina Hojo is now acting as\her bodyguard.0
 ** Warning level.6 **0
-According to Internal Affairs data, her class 1 status is presently revoked.0
+According to Internal Affairs data, her class 1\status is presently revoked.0
 [Kojiroh] ...
 [Kyoko] How's that, Kojiroh?
 [Kojiroh] Feels good, but can you do it a little\softer?
@@ -568,14 +568,14 @@ Input subject words. (end: enter_key)\-->0
 --> mido mayak0
 --> mido mayako0
 Mayako Mido0
-Height: 5'5"  Weight: 104 lb.  Nationality: Republic of Eldia  \Birthday: 12/07  Age: 18  Address: Eldian Embassy0
-Eldian Ambassador Mido's daughter. Mother died two years ago from a terrorist bomb. Currently attending Yale International School. (Note: Missing from school since 12/05)0
+Height: 5'5"  Weight: 104 lb.  Nationality:\Republic of Eldia  \Birthday: 12/07  Age: 18  Address: Eldian\Embassy0
+Eldian Ambassador Mido's daughter. Mother died two\years ago from a terrorist bomb. Currently\attending Yale International School. (Note: Missing\from school since 12/05)0
 [Kojiroh] Mother killed by terrorists...
 [Kyoko] That's not so surprising in such an\unstable country.
 [Kojiroh] Since when did you become such a\cold-hearted bitch?
 [Kyoko] I... I was stating a general fact.
 ** Warning level.5 **0
-Class 1 investigator Marina Hojo is now acting as her bodyguard.0
+Class 1 investigator Marina Hojo is now acting as\her bodyguard.0
 [Kojiroh] Marina Hojo... That bitch is protecting\Mayako?
 [Kyoko] I had no idea.
 [Kojiroh] What's this "class 1 investigator" shit.
@@ -585,7 +585,7 @@ Class 1 investigator Marina Hojo is now acting as her bodyguard.0
 [Kojiroh] I see...
 ** Warning level.6 **0
 [Kyoko] I don't believe it... We're getting a level\6 warning!
-According to Internal Affairs data, her class 1 status is presently revoked.0
+According to Internal Affairs data, her class 1\status is presently revoked.0
 [Kyoko] Her status has been revoked?... How can\that be!?
 [Kojiroh] That's what I want to know... She must\have done something pretty nasty.
 [Kyoko] Maybe not. Once Internal Affairs gets\involved, your rank gets pulled in a second. She's\probably just suspected of something.
@@ -614,7 +614,7 @@ Input subject words. (end: enter_key)\-->0
 --> pur0
 --> puri0
 Purin (Pudding)0
-A soft, sweet dish. One mixes such things as cream, fruit and eggs with wheat flour, then bakes it. Usually a desert. Also called "Pudding".0
+A soft, sweet dish. One mixes such things as cream,\fruit and eggs with wheat flour, then bakes it.\Usually a desert. Also called "Pudding".0
 [Kojiroh] What the heck?...
 [Kyoko] It's information about "Purin" alright.
 [Kojiroh] For Christ's sake...
@@ -638,11 +638,11 @@ Input subject words. (end: enter_key)\-->0
 --> siri0
 --> siria0
 Siria Flatte0
-Height: 5'8"   Weight: 120lb   Nationality: Republic of Eldia   \Birthday: 07/07  Age: 23  Address: (*1) currently unsettled0
-Professor of Arabic at Yale International School. She took the job one year ago when she was introduced to Stoleman Kou, and continues to work there presently.0
+Height: 5'8"   Weight: 120lb   Nationality:\Republic of Eldia   \Birthday: 07/07  Age: 23  Address: (*1) currently\unsettled0
+Professor of Arabic at Yale International School.\She took the job one year ago when she was\introduced to Stoleman Kou, and continues to work\there presently.0
 ** Warning level.5 **0
-As she is the prime witness in the Stoleman Kou murder case, there is presently a warrant out for her arrest.0
-Originally assigned to Eldian Department of Intelligence, Special Duty Squad 3.0
+As she is the prime witness in the Stoleman Kou\murder case, there is presently a warrant out for\her arrest.0
+Originally assigned to Eldian Department of\Intelligence, Special Duty Squad 3.0
 [Kojiroh] She's got a warrant out on her...
 Search a database\Press number to select0
 1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
@@ -661,11 +661,11 @@ Input subject words. (end: enter_key)\-->0
 --> siri0
 --> siria0
 Siria Flatte0
-Height: 5'8"   Weight: 120lb   Nationality: Republic of Eldia   \Birthday: 07/07  Age: 23  Address: (*1) currently unsettled0
-Professor of Arabic at Yale International School. She took the job one year ago when she was introduced to Stoleman Kou, and continues to work there presently.0
+Height: 5'8"   Weight: 120lb   Nationality:\Republic of Eldia   \Birthday: 07/07  Age: 23  Address: (*1) currently\unsettled0
+Professor of Arabic at Yale International School.\She took the job one year ago when she was\introduced to Stoleman Kou, and continues to work\there presently.0
 ** Warning level.5 **0
-As she is the prime witness in the Stoleman Kou murder case, there is presently a warrant out for her arrest.0
-Originally assigned to Eldian Department of Intelligence, Special Duty Squad 3.0
+As she is the prime witness in the Stoleman Kou\murder case, there is presently a warrant out for\her arrest.0
+Originally assigned to Eldian Department of\Intelligence, Special Duty Squad 3.0
 [Kojiroh] She did say someone was after her...
 [Kyoko]...
 Search a database\Press number to select0
@@ -688,11 +688,11 @@ Input subject words. (end: enter_key)\-->0
 --> hojo marina0
 Marina Hojo0
 Height: 5'6"   Weight: 115lb  Nationality: Japan  \Birthday: 05/05  Age: 24  Address: unsettled(*1)\n(*1), currently at Sun Apartments, room 403.0
-Public Safety Commission Investigative Cabinet. Top class investigator. Number of investigations undertaken: 102, rate of solved cases: 99%, rate of arrests: 99%, number of commendations: 4, promoted last year, currently in Japan.0
+Public Safety Commission Investigative Cabinet. Top\class investigator. Number of investigations\undertaken: 102, rate of solved cases: 99%, rate of\arrests: 99%, number of commendations: 4, promoted\last year, currently in Japan.0
 ** Warning level.5 **0
 Currently acting as bodyguard for Mayako Mido.0
 ** Warning level.6 **0
-She is currently the subject of an internal affairs investigation.0
+She is currently the subject of an internal affairs\investigation.0
 [Kyoko] That confirms what we saw before...
 [Kojiroh] What could Marina have done to mess\up?...
 [Kyoko] Who knows... Is that enough for this?
@@ -719,7 +719,7 @@ Input subject words. (end: enter_key)\-->0
 --> hojo marina0
 Marina Hojo0
 Height: 5'6"   Weight: 115lb  Nationality: Japan  \Birthday: 05/05  Age: 24  Address: unsettled(*1)\n(*1), currently at Sun Apartments, room 403.0
-Public Safety Commission Investigative Cabinet. Top class investigator. Number of investigations undertaken: 102, rate of solved cases: 99%, rate of arrests: 99%, number of commendations: 4, promoted last year, currently in Japan.0
+Public Safety Commission Investigative Cabinet. Top\class investigator. Number of investigations\undertaken: 102, rate of solved cases: 99%, rate of\arrests: 99%, number of commendations: 4, promoted\last year, currently in Japan.0
 [Kyoko] I've heard rumors... but wow! What an\impressive track record!
 [Kojiroh] What's with this "number of\investigations" business?
 [Kyoko] A number is used to show how many missions\one has done.
@@ -727,7 +727,7 @@ Public Safety Commission Investigative Cabinet. Top class investigator. Number o
 ** Warning level.5 **0
 Currently acting as bodyguard for Mayako Mido.0
 ** Warning level.6 **0
-She is currently the subject of an internal affairs investigation.0
+She is currently the subject of an internal affairs\investigation.0
 [Kyoko] That confirms what we saw before...
 [Kojiroh] What could Marina have done to screw up?
 [Kyoko] Who knows... Is that enough for this?
@@ -855,22 +855,22 @@ Press number to select\--> 50
 Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 Ross Mido, Eldian Republic Ambassador0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 ** Warning level.7 **0
-Japanese Government, "Neo Cerebral Project," of the former Eldian0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian0
 [Kyoko] Hey! Here we go!0
-Japanese Government, "Neo Cerebral Project," of the former Eldian■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian In■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Inte■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intell■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intellig■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligen■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Se■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Sect■0
-Japanese Government, "Neo Cerebral Project," of the former Eldian Intelligence Sector■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian In■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Inte■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intell■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intellig■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intelligen■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intelligence■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intelligence Se■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intelligence Sect■0
+Japanese Government, "Neo Cerebral Project," of the\former Eldian Intelligence Sector■0
 Cannot access... Need higher clearance.0
 [Kyoko] No!... Why?
 0380
@@ -942,9 +942,9 @@ Press number to select\--> 50
 Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 Ross Mido, Eldian Republic Ambassador0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 ** Warning level.# **0
 Cannot access... Need higher clearance0
 [Kyoko] Shit! At this rate I'll never finish poking\this stupid keyboard!... Shit!0
@@ -987,9 +987,9 @@ Press number to select\--> 50
 Input subject words. (end: enter_key)\-->0
 --> mido and ambassador0
 Ross Mido, Eldian Republic Ambassador0
-This year took up the post as Ambassador of the Eldian Republic. The man at the center of reform in Eldia.0
-One after another, he has disbanded elements of the former system, such as the Ministry of the Royal Palace, the Science Ministry, and the former Intelligence Sector. Along with the Prime Minister he stands at the head of reform in the Republic of Eldia. Formerly president of the Intelligence Sector.0
-Beginning this year he has taken a position in the Eldian Embassy in Japan to continue his activities.0
+This year took up the post as Ambassador of the\Eldian Republic. The man at the center of reform in\Eldia.0
+One after another, he has disbanded elements of the\former system, such as the Ministry of the Royal\Palace, the Science Ministry, and the former\Intelligence Sector. Along with the Prime Minister\he stands at the head of reform in the Republic of\Eldia. Formerly president of the Intelligence\Sector.0
+Beginning this year he has taken a position in the\Eldian Embassy in Japan to continue his\activities.0
 ** Warning level.# **0
 Cannot access... Need higher clearance0
 Cannot access... Need higher clearance0

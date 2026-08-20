@@ -264,7 +264,7 @@ eve_38
 [Kojiroh] The body's still warm... He was killed\just a while ago.
 [Kojiroh] This ain't the time to be touchy-feely...\Someone's coming.
 [Kojiroh] The jacket is soaked with blood.
-[Kojiroh] There are spots all over, some of them already dry.
+[Kojiroh] There are spots all over, some of them\already dry.
 [Kojiroh] The flesh near the wound is a little\warm.
 [Kojiroh] This ain't the time to be touchy-feely...\Someone's might coming.
 [Kojiroh] It's still slightly warm.
@@ -742,7 +742,7 @@ I keep on searching...
 0005
 0005h
 [Kojiroh] I'll trace the pencil over the grooves...
-I move the fine lead over the miniature crevices in the paper.
+I move the fine lead over the miniature crevices in\the paper.
 0005i
 [Kojiroh] Okay, I think I'm making some letters\out...
 [Kojiroh] It's a little hard to read, but it's not\impossible.

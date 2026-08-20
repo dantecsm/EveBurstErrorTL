@@ -677,12 +677,12 @@ eve_03
 　Kyoko
 　Print log
 [Kojiroh] I've got to read it again?
-The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science and the termination of the project was resolved.
-Furthermore, due to the assassination of Stoleman, the international school's Director, the government recognized the threats of the Middle East and cut off any funds to the former Eldian Ministry of Science. The project was fully discarded.
-The head of the Intelligence Sector, Ross Mido, responded to this action made by the government, and The Intelligence Sector and Ministry of Science were both dissolved. The top-secret Project C was also terminated.
-Intelligence Sector 2 is concentrating all efforts to locate 'A101', and the search for the former Eldian Intelligence Sector member and his accomplices wanted for larceny of the classified material, has been requested to Prime Minister Lloyd.
+The Eldian government responded to the death of\Doleman Kou, the head of the Ministry of Science\and the termination of the project was resolved.
+Furthermore, due to the assassination of Stoleman,\the international school's Director, the government\recognized the threats of the Middle East and cut\off any funds to the former Eldian Ministry of\Science. The project was fully discarded.
+The head of the Intelligence Sector, Ross Mido,\responded to this action made by the government,\and The Intelligence Sector and Ministry of Science\were both dissolved. The top-secret Project C was\also terminated.
+Intelligence Sector 2 is concentrating all efforts\to locate 'A101', and the search for the former\Eldian Intelligence Sector member and his\accomplices wanted for larceny of the classified\material, has been requested to Prime Minister\Lloyd.
 The search for Mido and his two Asian executives...
-'A101': The former Eldian Science Ministry successfully developed this groundbreaking...
+'A101': The former Eldian Science Ministry\successfully developed this groundbreaking...
 [Kojiroh] The log cuts off here. We must have been\found out...
 [Kyoko] Don't you want to read the rest?
 [Kojiroh] Right... 'Intelligence Sector 2 is\concentrating all efforts to locate 'A101'. What\the hell is this 'A101' crap?
@@ -695,7 +695,7 @@ The search for Mido and his two Asian executives...
 [Kyoko] What on earth could they have been\searching for?
 [Kojiroh] Probably that A101.
 [Kyoko] ... I'll read on.
-...and the search for the former Eldian Intelligence Sector member and his accomplices wanted for larceny of the classified material, has been requested to Prime Minister Lloyd.
+...and the search for the former Eldian\Intelligence Sector member and his accomplices\wanted for larceny of the classified material, has\been requested to Prime Minister Lloyd.
 [Kyoko] The former Eldian Intelligence Sector?
 [Kojiroh] There's more.
 [Kyoko] 'The search for Mido's two Asian\executives...' It cuts off mid-sentence.
@@ -715,7 +715,7 @@ The search for Mido and his two Asian executives...
 [Kojiroh] You mean there was more?
 [Kyoko] More than you can handle. Just read it.
 [Kojiroh] ...
-' The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science and the termination of the project was resolved.'
+' The Eldian government responded to the death of\Doleman Kou, the head of the Ministry of Science\and the termination of the project was resolved.'
 [Kyoko] Doleman is Director Stoleman Kou's father.
 [Kojiroh] The head of the Eldian Ministry of\Science.
 [Kyoko] I guess it's obvious that when the Big\Cheese dies his organization can't function.
@@ -788,17 +788,17 @@ Enter Data Unlock Password: _     0
 [Kyoko] What's wrong?!0
 ** Warning level.7 **0
 [ Neo Cerebral Project ]0
-The Eldian government responded to the death of Doleman Kou, the head of the Ministry of Science.0
-... and the termination of the project was resolved.0
-Furthermore, due to the assassination of Stoleman Kou,0
-The international school's Director, the government recognized the threats of the Middle East...0
-and cut off any funds to the former Eldian Ministry of Science. The project was fully discarded.0
-The head of the Intelligence Sector, Ross Mido, responded to this action made by the government...0
-and the Intelligence Sector and Ministry of Science were both dissolved.0
+The Eldian government responded to the death of\Doleman Kou, the head of the Ministry of\Science.0
+... and the termination of the project was\resolved.0
+Furthermore, due to the assassination of Stoleman\Kou,0
+The international school's Director, the government\recognized the threats of the Middle East...0
+and cut off any funds to the former Eldian Ministry\of Science. The project was fully discarded.0
+The head of the Intelligence Sector, Ross Mido,\responded to this action made by the\government...0
+and the Intelligence Sector and Ministry of Science\were both dissolved.0
 The top-secret Project C was also terminated.0
-Intelligence Sector 2 is concentrating all efforts to locate 'A101',0
-And the search for the former Intelligence Sector member and his accomplices0
-wanted for larceny of the classified materials has been...0
+Intelligence Sector 2 is concentrating all efforts\to locate 'A101',0
+And the search for the former Intelligence Sector\member and his accomplices0
+wanted for larceny of the classified materials has\been...0
 requested to Prime Minister Lloyd.0
 0380
 [Kojiroh] Here it comes! It's a big one!
@@ -808,10 +808,10 @@ requested to Prime Minister Lloyd.0
 [Kojiroh] Basically everything that comes up on the\screen is saved.
 [Kyoko] I see... But this is pretty important\information.
 [Kojiroh] Tell me about it. This is pretty hot\shit.
-and the search for the former Intelligence Sector member and his accomplices wanted for larceny of the classified materials has been...0
+and the search for the former Intelligence Sector\member and his accomplices wanted for larceny of\the classified materials has been...0
 requested to Prime Minister Lloyd.0
-The search for Mido and his two Asian executives is...0
-A101: The former Eldian Science Ministry successfully developed this groundbreaking\2a00f1b1cc54652a15bc23570
+The search for Mido and his two Asian executives\is...0
+A101: The former Eldian Science Ministry\successfully developed this groundbreaking\2a00f1b1cc54652a15bc23570
 eve_45
 [Kojiroh] What's this?
 [Kyoko] Strange. It shouldn't just cut off in the\middle... Holy shit!0
